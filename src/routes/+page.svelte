@@ -1,9 +1,10 @@
 <script>
-	import Top from "../../lib/TopSofC.svelte";
+	import Top from "../lib/TopSofC.svelte";
 	//import Map from '../lib/Map.svelte';
 	//import { showHospitals, showCooling, showPool, showAptNoAir } from './stores.js';
-	import "../../assets/global-style.css";
-	import topImage from "../../assets/high-point-top-image.png";
+	import "../assets/global-styles.css";
+	//import Map from "../lib/Map.svelte"
+	import topImage from "../assets/high-point-top-image.png";
 </script>
 
 <svelte:head>
@@ -17,12 +18,12 @@
 
 <main>
 	<div class="top-image">
-		<img src={topImage} alt="Your Image Description" />
+		<img src={topImage} alt="High-Point North Carolina" />
 	</div>
 
 	<div class="title">
-		<h1>Mapping Heat Vulnerability in Toronto</h1>
-		<p>Authors, date, note UCG funding</p>
+		<h1>High Point Story Map</h1>
+		<p>Authors, date</p>
 	</div>
 	<div class="text">
 		<p>
@@ -112,4 +113,5 @@
 		color: #black;
 		font-size: 30px;
 	} */
+
 </style>

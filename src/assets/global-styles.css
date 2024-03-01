@@ -75,13 +75,15 @@ main {
 }
 
 .top-image {
-    padding-top: 100px;
-    max-width: 1200px;
     margin: 0 auto;
+    height: 98vh;
+
 }
 .top-image img {
-    max-width: 100%;
-    height: auto;
+    left:0%;
+    width: 100%;
+    height: 100vh;
+    padding-bottom: 40px;
 }
 
 h1 {
