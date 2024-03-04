@@ -1,10 +1,10 @@
-<script>
-	import Top from "../lib/TopSofC.svelte";
+/*<script>
+	import Top from "../../lib/TopSofC.svelte";
 	//import Map from '../lib/Map.svelte';
 	//import { showHospitals, showCooling, showPool, showAptNoAir } from './stores.js';
-	import "../assets/global-styles.css";
-	//import Map from "../lib/Map.svelte"
-	import topImage from "../assets/high-point-top-image.png";
+	import "../../assets/global-styles.css";
+	import Map from "../../lib/Map.svelte"
+	import topImage from "../../assets/high-point-top-image.png";
 </script>
 
 <svelte:head>
@@ -27,7 +27,6 @@
 	</div>
 
 	<div class="title">
-		<h1>High Point Story Map</h1>
 		<p>Authors, date</p>
 	</div>
 	<div class="text">
@@ -56,6 +55,7 @@
 			amet. Est velit egestas dui id ornare. Urna nunc id cursus metus
 			aliquam eleifend.
 		</p>
+		<Map />
 		<p>
 			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi
 			quis hendrerit dolor magna eget est. Vivamus at augue eget arcu
@@ -86,7 +86,7 @@
 			fringilla urna porttitor rhoncus dolor purus non.
 		</p>
 	</div>
-
+	
 	<!--<Map index = "heatdegree" {showHospitals} {showCooling} {showPool} {showAptNoAir} />-->
 
 	<!--<Map index = "adaptive" {showHospitals} {showCooling} {showPool} {showAptNoAir} />-->
