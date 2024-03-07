@@ -114,9 +114,9 @@
 				],
 			},
 			center: [-80.0029, 35.9598],
-			zoom: 12,
-			maxZoom: 16,
-			minZoom: 10,
+			zoom: 13,
+			maxZoom: 18,
+			minZoom: 12,
 			bearing: 0,
 			//projection: 'globe',
 			scrollZoom: true,
@@ -222,7 +222,7 @@
 	function zoomOut() {
 		map.zoomOut();
 	}
-	
+
 </script>
 
 <div id="map" class="map"
