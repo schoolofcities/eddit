@@ -1,6 +1,5 @@
 <script>
 	import { onMount } from "svelte";
-	//import { showHospitals, showCooling, showPool, showAptNoAir } from '../routes/stores.js';
 	import maplibregl from "maplibre-gl";
 	import * as pmtiles from "pmtiles";
 
@@ -21,15 +20,6 @@
 
 	let pageHeight;
 	let pageWidth;
-
-	let mapHeight = 600;
-	$: if (pageHeight < 800) {
-		mapHeight = pageHeight - 250;
-	} else {
-		mapHeight = 600;
-	}
-
-	let mapWidth = pageWidth;
 
 	// Adding scale bar to the map
 	let scale = new maplibregl.ScaleControl({
@@ -66,6 +56,7 @@
 		// load csv data
 		var highPoints = await processCsv(highPoint_points);
 		console.log(highPoints)
+
 		// convert to geojson
 		highPoints.data.forEach((point) => {
 			console.log(point)
@@ -95,6 +86,7 @@
 			},
 			features: highPoint_features,
 		};
+
 		// load map
 		map = new maplibregl.Map({
 			container: "map",
@@ -113,12 +105,11 @@
 					},
 				],
 			},
-			center: [-80.0029, 35.9598],
-			zoom: 13,
+			center: [-80, 35.9615],
+			zoom: 16,
 			maxZoom: 18,
 			minZoom: 12,
 			bearing: 0,
-			//projection: 'globe',
 			scrollZoom: true,
 			//maxBounds: maxBounds,
 			attributionControl: true,
@@ -197,7 +188,7 @@
 			map.on("click", "high-points-layer", (e) => {
 				console.log(e.features[0])
 				addresses = e.features[0].properties.ADDRESS
-				description = e.efeatures[0].properties.DESCRIPTION
+				description = e.features[0].properties.DESCRIPTION
 				// Calculate offset to position the popup next to the clicked point
 				popup = true;
 			});
@@ -225,10 +216,8 @@
 
 </script>
 
-<div id="map" class="map"
-	style="height: {mapHeight}px; width:{mapWidth}px; margin-top: 50px;"
-> 
-	<div class="map-zoom-wrapper">
+<div id="map" class="map"> 
+	<!-- <div class="map-zoom-wrapper">
 		<div on:click={zoomIn} class="map-zoom">
 			<svg width="24" height="24">
 				<line
@@ -261,14 +250,16 @@
 				/>
 			</svg>
 		</div>
-	</div>
-	<div class = "popup">
-		<div class = "pop-text">
-		<p>{addresses}</p> 
-		<p>{description}</p>
-		</div>
-	</div>
+	</div> -->
+	
 </div>
+
+<!-- <div class = "popup">
+	<div class = "pop-text">
+	<p>{addresses}</p> 
+	<p>{description}</p>
+	</div>
+</div> -->
 
 
 
@@ -279,7 +270,9 @@
 		border-top: 1px solid var(--brandBlack);
 		border-bottom: 1px solid var(--brandBlack);
 		height: auto;
+		height: 300px;
 		position:relative;
+		cursor: hand;
 	}
 
 	.legend {
