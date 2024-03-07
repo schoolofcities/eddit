@@ -3,16 +3,7 @@
 	//import { showHospitals, showCooling, showPool, showAptNoAir } from '../routes/stores.js';
 	import maplibregl from "maplibre-gl";
 	import * as pmtiles from "pmtiles";
-	/*
-	import Wards from "../data/wards.geo.json";
-	import WardPts from "../data/wards-pts.geo.json";
-	import Vulnerdata from "../data/data-reduced-final.geo.json";
-	import Cooling from "../data/indoor-cooling-centres.geo.json";
-	import Pool from "../data/swimming-wading-pools.geo.json";
-	import AptNoAir from "../data/apt-no-aircon.geo.json";
-	import Hospitals from "../data/hospitals.geo.json";
-	import SubwayLines from "../data/subwayLines.geo.json";
-	import SubwayStns from "../data/subwayStations.geo.json";*/
+
 	import BaseLayer from "../data/high-point.json";
 	import cityBoundary from "../data/high-point-boundary.geo.json";
 	import Papa from "papaparse";
@@ -20,7 +11,9 @@
 	let map;
 	let highPoint_features = [];
 	let PMTILES_URL = "/eddit/high-point.pmtiles";
-
+	let addresses;
+	let description; 
+	let popup = false;
 	const highPoint_points =
 		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=494432730&single=true&output=csv";
 
@@ -45,43 +38,6 @@
 	});
 
 	/*
-	// Function to toggle the visibility of Hospitals layer
-	function toggleHospitals() {
-		showHospitals.update((value) => !value);
-		updateLayerVisibility('hospitals', $showHospitals);
-	}
-
-	// Function to toggle the visibility of Cooling Centres layer
-	function toggleCooling() {
-		showCooling.update((value) => !value);
-		updateLayerVisibility('cooling-cnts', $showCooling);
-	}
-
-	// Function to toggle the visibility of Swimming/Wading Pools layer
-	function togglePool() {
-		showPool.update((value) => !value);
-		updateLayerVisibility('pool-locs', $showPool);
-	}
-
-	// Function to toggle the visibility of Apartments without Air Condition layer
-	function toggleAptNoAir() {
-		showAptNoAir.update((value) => !value);
-		updateLayerVisibility('AptNoAir', $showAptNoAir);
-	}
-
-	function updateLayerVisibility(layerID, visibility) {
-		if (map) {
-		map.setPaintProperty(layerID, 'circle-opacity', visibility ? 1 : 0);
-		map.setPaintProperty(layerID, 'circle-stroke-opacity', visibility ? 1 : 0);
-		}
-	}
-
-	$: updateLayerVisibility('hospitals', $showHospitals);
-	$: updateLayerVisibility('cooling-cnts', $showCooling);
-	$: updateLayerVisibility('pool-locs', $showPool);
-	$: updateLayerVisibility('AptNoAir', $showAptNoAir);
-  */
-	/*
 	const maxBounds = [
 		[-79.771200, 43.440000], // SW coords
 		[-78.914763, 43.930740] // NE coords
@@ -100,7 +56,6 @@
 				skipEmptyLines: true,
 			});
 		});
-
 		return result;
 	}
 
@@ -110,20 +65,21 @@
 
 		// load csv data
 		var highPoints = await processCsv(highPoint_points);
-		
+		console.log(highPoints)
 		// convert to geojson
 		highPoints.data.forEach((point) => {
+			console.log(point)
+			console.log(point.Address)
 			highPoint_features.push({
 				type: "Feature",
 				properties: {
-					address: point.ADDRESS,
-					ID: point.ID,
-					STATE: point.STATE,
-					ADD_TYPE: point.ADD_TYPE,
+					ADDRESS: point.Address,
+					NAME: point.Name,
+					DESCRIPTION: point.Description,
 				},
 				geometry: {
 					type: "Point",
-					coordinates: [point.LON, point.LAT],
+					coordinates: [point.X, point.Y],
 				},
 			});
 		});
@@ -138,8 +94,6 @@
 			},
 			features: highPoint_features,
 		};
-		console.log(highPoint_geojson)
-
 		// load map
 		map = new maplibregl.Map({
 			container: "map",
@@ -177,24 +131,16 @@
 
 		// Convert the array into a single string
 		const attributionString = attributions.join(", ");
-		/*
-		map.addControl(scale, 'bottom-left');
-		// map.addControl(new maplibregl.NavigationControl(), 'top-left');
-		
+
+		map.addControl(scale, "bottom-left");
+		map.addControl(new maplibregl.NavigationControl(), "top-left");
+
 		map.touchZoomRotate.disableRotation();
 		map.dragRotate.disable();
 		map.touchZoomRotate.disableRotation();
 		map.scrollZoom.disable();
 
-		*/
 		let protoLayers = BaseLayer;
-		console.log(highPoints.data[0].ID);
-		//for (let i = 0; i < highPoints.data.length; i++) {
-		//console.log(highPoints.data[i].ID);
-		//console.log(highPoints.data[i].ADDRESS)
-		//console.log(highPoints.data[i].LAT)
-		//console.log(highPoints.data[i].LON)
-		//}
 
 		map.on("load", function () {
 			// Add the source with the concatenated attribution string
@@ -233,18 +179,42 @@
 				type: "circle",
 				source: "high-points",
 				paint: {
-					"circle-color": "#a9d6e5",
+					"circle-color": "black",
 					"circle-radius": 5,
-					"circle-stroke-color": "red",
-					"circle-stroke-width": 2,
+					"circle-stroke-color": "white",
+					"circle-stroke-width": 1,
 				},
-				//before: "transit-line-bold-ID",
 			});
-			/*
-			if (pageHeight > 700 && pageWidth > 800) {
-				map.zoomTo(10.5)
-			}
+			map.on("mouseenter", "high-points-layer", () => {
+				map.getCanvas().style.cursor = "pointer";
+			});
 
+			map.on("mouseleave", "high-points-layer", () => {
+				map.getCanvas().style.cursor = "";
+			});
+
+			map.on("click", "high-points-layer", (e) => {
+				const coordinates = e.features[0].geometry.coordinates;
+				console.log(e.features[0])
+				const pointProperties = e.features[0].properties;
+				addresses = e.features[0].properties.ADDRESS
+				description = e.efeatures[0].properties.DESCRIPTIOM
+				// Calculate offset to position the popup next to the clicked point
+				const offset = [10, 0]; // Adjust as needed
+				/*
+				// Create and display the popup
+				new maplibregl.Popup({ offset })
+					.setLngLat(coordinates)
+					.setHTML(
+						`<h3>${pointProperties.address}</h3><p>${pointProperties.STATE}</p>`,
+					)
+					.addTo(map);/*/
+				popup = true;
+			});
+			if (pageHeight > 700 && pageWidth > 800) {
+				map.zoomTo(10.5);
+			}
+			/*
 			updateLayerVisibility('hospitals', $showHospitals);
 			updateLayerVisibility('cooling-cnts', $showCooling);
 			updateLayerVisibility('pool-locs', $showPool);
@@ -264,39 +234,9 @@
 	}
 </script>
 
-<!--
-<div class="legend">
-	
-	<h3>{indexs[index].name}</h3>-->
-
-<!-- <p>Index of </p> -->
-<!--
-	<div style="height: 20px">
-		<div
-			class="legend-bar"
-			style="background-image: linear-gradient(to right,{indexs[index]
-				.colours[0]},{indexs[index].colours[1]})"
-		></div>
-		<div
-			class="legend-bar"
-			style="background-image: linear-gradient(to right,{indexs[index]
-				.colours[1]},{indexs[index].colours[2]})"
-		></div>
-		<div
-			class="legend-bar"
-			style="background-image: linear-gradient(to right,{indexs[index]
-				.colours[2]},{indexs[index].colours[3]})"
-		></div>
-		<p>| Lo<span style="letter-spacing: 177px">w</span>| High</p>
-	</div>
-</div>-->
-
-<div
-	id="map"
-	class="map"
+<div id="map" class="map"
 	style="height: {mapHeight}px; width:{mapWidth}px; margin-top: 50px;"
->
-	<!--
+> 
 	<div class="map-zoom-wrapper">
 		<div on:click={zoomIn} class="map-zoom">
 			<svg width="24" height="24">
@@ -330,43 +270,24 @@
 				/>
 			</svg>
 		</div>
-	</div>-->
+	</div>
+	<div class = "popup">
+		<div class = "pop-text">
+		<p>{addresses}, {description}</p>
+		</div>
+	</div>
 </div>
 
-<!--
-<div class="buttons">
-	<button
-		on:click={togglePool}
-		class:layerOn={$showPool}
-		class:layerOff={!$showPool}>Outdoor Swimming & Wading Pools</button
-	>
-	<button
-		on:click={toggleCooling}
-		class:layerOn={$showCooling}
-		class:layerOff={!$showCooling}>Cooling Centres</button
-	>
-	<br />
-	<button
-		on:click={toggleHospitals}
-		class:layerOn={$showHospitals}
-		class:layerOff={!$showHospitals}
-	>
-		Hospitals</button
-	>
-	<button
-		on:click={toggleAptNoAir}
-		class:layerOn={$showAptNoAir}
-		class:layerOff={!$showAptNoAir}
-	>
-		Apartments Without Air Conditioning</button
-	>
-</div>-->
+
+
 
 <style>
 	.map {
 		width: 100%;
 		border-top: 1px solid var(--brandBlack);
 		border-bottom: 1px solid var(--brandBlack);
+		height: auto;
+		position:relative;
 	}
 
 	.legend {
@@ -426,7 +347,8 @@
 	}
 
 	p {
-		margin-top: -8px;
+		margin-left: 30px;
+		margin-top: 8px;
 		margin-bottom: -2px;
 	}
 
@@ -441,6 +363,7 @@
 		position: absolute;
 		z-index: 2;
 		font-family: TradeGothicBold;
+		margin-left: 20%;
 	}
 
 	.map-zoom {
@@ -462,11 +385,30 @@
 		border-radius: 24px;
 		margin-top: 5px;
 		text-align: center;
+		margin-left: 20%;
 		/* margin: 0 auto; */
 		z-index: 2;
 	}
 	.map-zoom:hover {
 		cursor: pointer;
 		background-color: var(--brandYellow);
+	}
+	.popup{
+		position: absolute;
+		top:0;
+		width: 100%;
+		height: 30%;
+		background-color: "black";
+		opacity: 0.9;
+	}
+	.pop-text{
+		position: absolute;
+        top: 20%;
+        left: 50%;
+		width: 100%;
+        transform: translate(-50%, -50%);
+        padding: 20px;
+        background-color: white;
+        border: 1px solid black;
 	}
 </style>

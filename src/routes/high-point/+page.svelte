@@ -1,13 +1,13 @@
-/*<script>
+<script>
 	import Top from "../../lib/TopSofC.svelte";
 	//import Map from '../lib/Map.svelte';
 	//import { showHospitals, showCooling, showPool, showAptNoAir } from './stores.js';
 	import "../../assets/global-styles.css";
-	import Map from "../../lib/Map.svelte"
+	import Map from "../../lib/Map.svelte";
 	import topImage from "../../assets/high-point-top-image.png";
 </script>
 
-<svelte:head>
+/*<svelte:head>
 	<meta
 		name="viewport"
 		content="width=device-width, initial-scale=1, minimum-scale=1"
@@ -18,11 +18,11 @@
 
 <main>
 	<div class="top-image">
-		<div class  = "centre-box">
-		<div class = box>
-			<h1>High-Point North Carolina <br>Story Map</h1>
+		<div class="centre-box">
+			<div class="box">
+				<h1>High-Point North Carolina <br />Story Map</h1>
+			</div>
 		</div>
-	</div>
 		<img src={topImage} alt="High-Point North Carolina" />
 	</div>
 
@@ -55,7 +55,7 @@
 			amet. Est velit egestas dui id ornare. Urna nunc id cursus metus
 			aliquam eleifend.
 		</p>
-		<Map />
+
 		<p>
 			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi
 			quis hendrerit dolor magna eget est. Vivamus at augue eget arcu
@@ -86,7 +86,9 @@
 			fringilla urna porttitor rhoncus dolor purus non.
 		</p>
 	</div>
-	
+	<div class="map">
+		<Map />
+	</div>
 	<!--<Map index = "heatdegree" {showHospitals} {showCooling} {showPool} {showAptNoAir} />-->
 
 	<!--<Map index = "adaptive" {showHospitals} {showCooling} {showPool} {showAptNoAir} />-->
@@ -118,26 +120,34 @@
 		color: #black;
 		font-size: 30px;
 	} */
-.centre-box{
-	position: absolute;
-
-}
- .top-image .box {
-    width: auto; /* Adjust width as needed */
-	min-width: 30vw;
-    height: auto;; /* Adjust height as needed */
-	min-height: 300px;
-    background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white background */
-    /* Add other styling properties as needed */
-	display: flex;
-	justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
- }
-
-h1{
-	text-align: center;
-	font-size: 50px;
-	padding: 50px;
- }
- 
+	.centre-box {
+		position: absolute;
+	}
+	.top-image .box {
+		width: auto; /* Adjust width as needed */
+		min-width: 30vw;
+		height: auto; /* Adjust height as needed */
+		min-height: 300px;
+		background-color: rgba(
+			255,
+			255,
+			255,
+			0.5
+		); /* Semi-transparent white background */
+		/* Add other styling properties as needed */
+		display: flex;
+		justify-content: center; /* Center horizontally */
+		align-items: center; /* Center vertically */
+	}
+	.map {
+		position: relative;
+		width: auto;
+		height: 30%;
+		overflow: hidden;
+	}
+	h1 {
+		text-align: center;
+		font-size: 50px;
+		padding: 50px;
+	}
 </style>
