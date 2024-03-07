@@ -192,10 +192,10 @@
 				type: "circle",
 				source: "high-points",
 				paint: {
-					"circle-color": "black",
-					"circle-radius": 5,
+					"circle-color": "#012B5C",
+					"circle-radius": 6,
 					"circle-stroke-color": "white",
-					"circle-stroke-width": 1,
+					"circle-stroke-width": 2,
 				},
 			});
 			map.on("mouseenter", "high-points-layer", () => {
@@ -244,7 +244,7 @@
 
 	<div id="map"> 
 		<div class="map-zoom-wrapper">
-			<!-- <div on:click={zoomIn} class="map-zoom">
+			<div on:click={zoomIn} class="map-zoom">
 				<svg width="24" height="24">
 					<line
 						x1="5"
@@ -275,7 +275,7 @@
 						stroke-width="4"
 					/>
 				</svg>
-			</div> -->
+			</div>
 		</div>
 	</div>
 

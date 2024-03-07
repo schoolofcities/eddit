@@ -1,7 +1,6 @@
 <script>
 	import Top from "../../lib/TopSofC.svelte";
-	//import Map from '../lib/Map.svelte';
-	//import { showHospitals, showCooling, showPool, showAptNoAir } from './stores.js';
+	import { CompareImage } from "svelte-compare-image";
 	import "../../assets/global-styles.css";
 	import Map from "../../lib/Map.svelte";
 	import topImage from "../../assets/high-point-top-image.png";
@@ -51,6 +50,46 @@
 	<div class="image-mid-width">
 		<img src="{topImage}" alt="Your Image">
 		<p>Caption and/or source of image --- placeholder for now</p>
+	</div>
+
+	<div class="text">
+
+
+		<h2>
+			Section Heading
+		</h2>
+		<p>
+			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi
+			quis hendrerit dolor magna eget est. Vivamus at augue eget arcu
+			dictum varius. Ac placerat vestibulum lectus mauris ultrices eros in
+			cursus turpis. Fusce ut placerat orci nulla. Et odio pellentesque
+			diam volutpat commodo sed egestas egestas fringilla. Risus sed
+			vulputate odio ut enim blandit volutpat. Enim diam vulputate ut
+			pharetra sit amet aliquam id diam. Ut ornare lectus sit amet est.
+			Tempor commodo ullamcorper a lacus. Diam phasellus vestibulum lorem
+			sed.
+		</p>
+		<p>
+			Quisque id diam vel quam elementum pulvinar etiam non quam. Faucibus
+			pulvinar elementum integer enim neque volutpat. Consequat nisl vel
+			pretium lectus. Eleifend quam adipiscing vitae proin sagittis nisl
+			rhoncus. Tincidunt dui ut ornare lectus sit amet est. Eu augue ut
+			lectus arcu bibendum at varius vel pharetra. Non diam phasellus
+			vestibulum lorem sed risus. Diam sollicitudin tempor id eu nisl.
+			Urna nunc id cursus metus aliquam eleifend mi in nulla.
+		</p>
+	</div>
+
+	<div class="image-mid-width">
+		<CompareImage
+			imageLeftSrc="/eddit/high-point/imagery-1958.png"
+			imageLeftAlt="left"
+			imageRightSrc="/eddit/high-point/imagery-today.png"
+			imageRightAlt="right"
+			--handle-size="3rem"
+			--slider-color="white"
+			--slider-width="0.17rem"
+		/>
 	</div>
 
 	<div class="text">
