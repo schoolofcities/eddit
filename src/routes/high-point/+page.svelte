@@ -119,11 +119,4 @@
 <style>
 
 
-	.map {
-		position: relative;
-		width: 960px;
-		margin: 0 auto;
-		margin-bottom: 30px;
-		overflow: hidden;
-	}
 </style>

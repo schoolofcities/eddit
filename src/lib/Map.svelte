@@ -3,23 +3,21 @@
 	import maplibregl from "maplibre-gl";
 	import * as pmtiles from "pmtiles";
 
-	import BaseLayer from "../data/high-point.json";
+	import BaseLayer from "../data/high-point-green.json";
 	import cityBoundary from "../data/high-point-boundary.geo.json";
 	import Papa from "papaparse";
 
 	let map;
 	let highPoint_features = [];
-	let PMTILES_URL = "/eddit/high-point.pmtiles";
-	let addresses;
-	let description; 
+	let PMTILES_URL = "/eddit/high-point/high-point.pmtiles";
+	let placeName = "meow";
+	let address = "meow";
+	let description = "meow"; 
 	let popup = false;
 	const highPoint_points =
 		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=494432730&single=true&output=csv";
 
 	//export let index;
-
-	let pageHeight;
-	let pageWidth;
 
 	// Adding scale bar to the map
 	let scale = new maplibregl.ScaleControl({
@@ -112,20 +110,14 @@
 			bearing: 0,
 			scrollZoom: true,
 			//maxBounds: maxBounds,
-			attributionControl: true,
+			attributionControl: false,
 		});
 
-		const attributions = [
-			'<a href="https://openstreetmap.org">OpenStreetMap</a>',
-			// '<a href="https://github.com/Moraine729/Toronto_Heat_Vulnerability">Github</a>',
-			'<a href="https://open.toronto.ca/">City of Toronto </a>',
-		];
 
 		// Convert the array into a single string
-		const attributionString = attributions.join(", ");
 
-		map.addControl(scale, "bottom-left");
-		map.addControl(new maplibregl.NavigationControl(), "top-left");
+		// map.addControl(scale, "bottom-left");
+		// map.addControl(new maplibregl.NavigationControl(), "top-left");
 
 		map.touchZoomRotate.disableRotation();
 		map.dragRotate.disable();
@@ -135,17 +127,46 @@
 		let protoLayers = BaseLayer;
 
 		map.on("load", function () {
-			// Add the source with the concatenated attribution string
-			map.addSource("protomaps", {
-				type: "vector",
-				url: "pmtiles://" + PMTILES_URL,
-				//attribution: attributionString,
-				//attributionControl: false,
-			});
 
-			protoLayers.forEach((e) => {
-				map.addLayer(e);
+			map.addSource("esri-sat", {
+				'type': 'raster',
+				'tiles': [
+					'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
+				],
+				'tileSize': 256,
+				// attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 			});
+			map.addLayer(
+				{
+                    'id': 'sat',
+                    'type': 'raster',
+                    'source': 'esri-sat',
+                }
+
+			)
+
+
+			// map.addSource("protomaps", {
+			// 	type: "vector",
+			// 	url: "pmtiles://" + PMTILES_URL,
+			// 	//attribution: attributionString,
+			// 	//attributionControl: false,
+			// });
+
+			// protoLayers.forEach((e) => {
+			// 	map.addLayer(e);
+			// });
+
+			map.addLayer(
+							{
+					"id": "background-s",
+					"type": "background",
+					"paint": {
+						"background-color": "#fff",
+						"background-opacity": 0.4
+					}
+				}
+			)
 
 			map.addSource("cityBoundary", {
 				type: "geojson",
@@ -187,14 +208,12 @@
 
 			map.on("click", "high-points-layer", (e) => {
 				console.log(e.features[0])
-				addresses = e.features[0].properties.ADDRESS
+				placeName = e.features[0].properties.NAME
+				address = e.features[0].properties.ADDRESS
 				description = e.features[0].properties.DESCRIPTION
 				// Calculate offset to position the popup next to the clicked point
 				popup = true;
 			});
-			if (pageHeight > 700 && pageWidth > 800) {
-				map.zoomTo(10.5);
-			}
 			/*
 			updateLayerVisibility('hospitals', $showHospitals);
 			updateLayerVisibility('cooling-cnts', $showCooling);
@@ -216,140 +235,164 @@
 
 </script>
 
-<div id="map" class="map"> 
-	<!-- <div class="map-zoom-wrapper">
-		<div on:click={zoomIn} class="map-zoom">
-			<svg width="24" height="24">
-				<line
-					x1="5"
-					y1="13"
-					x2="19"
-					y2="13"
-					stroke="#4d4d4d"
-					stroke-width="4"
-				/>
-				<line
-					x1="12"
-					y1="6"
-					x2="12"
-					y2="20"
-					stroke="#4d4d4d"
-					stroke-width="4"
-				/>
-			</svg>
+
+<div id="map-wrapper">
+
+	<div id="map-title">
+		<h3>Washington Street</h3>
+	</div>
+
+	<div id="map"> 
+		<div class="map-zoom-wrapper">
+			<!-- <div on:click={zoomIn} class="map-zoom">
+				<svg width="24" height="24">
+					<line
+						x1="5"
+						y1="13"
+						x2="19"
+						y2="13"
+						stroke="#4d4d4d"
+						stroke-width="4"
+					/>
+					<line
+						x1="12"
+						y1="6"
+						x2="12"
+						y2="20"
+						stroke="#4d4d4d"
+						stroke-width="4"
+					/>
+				</svg>
+			</div>
+			<div on:click={zoomOut} class="map-zoom">
+				<svg width="24" height="24">
+					<line
+						x1="5"
+						y1="13"
+						x2="19"
+						y2="13"
+						stroke="#4d4d4d"
+						stroke-width="4"
+					/>
+				</svg>
+			</div> -->
 		</div>
-		<div on:click={zoomOut} class="map-zoom">
-			<svg width="24" height="24">
-				<line
-					x1="5"
-					y1="13"
-					x2="19"
-					y2="13"
-					stroke="#4d4d4d"
-					stroke-width="4"
-				/>
-			</svg>
+	</div>
+
+	<div id="info-wrapper">
+		<div id="switch-place">
+
 		</div>
-	</div> -->
-	
+		<div id="place-text">
+			<h3>{placeName}</h3>
+			<p><i>{address}</i></p> 
+			<p>{description}</p>
+		</div>
+		<div id="place-photo">
+			<img src="/eddit/high-point/place-becky-and-marys.png" alt="Your Image">
+		</div>
+	</div>
 </div>
 
-<!-- <div class = "popup">
-	<div class = "pop-text">
-	<p>{addresses}</p> 
-	<p>{description}</p>
-	</div>
-</div> -->
+
 
 
 
 
 <style>
-	.map {
+
+	#map-wrapper {
+		margin: 0 auto;
+		max-width: 960px;
 		width: 100%;
-		border-top: 1px solid var(--brandBlack);
-		border-bottom: 1px solid var(--brandBlack);
-		height: auto;
-		height: 300px;
-		position:relative;
+		background-color: #01a18967;
+		border-top: solid 1px var(--e-global-color-darkblue);
+		border-bottom: solid 1px var(--e-global-color-darkblue);
+	}
+
+	#map-title {
+		margin: 0 auto;
+		height: 38px;
+		border-bottom: solid 1px var(--e-global-color-darkblue);
+	}
+
+	#map-title h3 {
+		
+		width: 300px;
+		margin: 0 auto;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		font-size: 28px;
+		color: var(--e-global-color-darkblue);
+		text-align: center;
+	}
+
+	#map {
+		width: 100%;
+		/* border-top: 1px solid var(--brandBlack); */
+		/* border-bottom: 1px solid var(--brandBlack); */
+		height: 350px;
+		border-bottom: solid 1px var(--e-global-color-darkblue);
+		position: relative;
 		cursor: hand;
 	}
 
-	.legend {
-		max-width: 615px;
-		height: 40px;
+	#info-wrapper {
 		margin: 0 auto;
-		padding-left: 15px;
-	}
-	.legend-bar {
-		width: 75px;
-		height: 15px;
-		display: inline-block;
-		margin-left: -5px;
+		/* overflow: hidden; */
 	}
 
-	.buttons {
-		max-width: 500px;
+	#switch-place {
 		width: 100%;
-		margin: 0 auto;
-		padding-top: 5px;
-		padding-bottom: 5px;
-	}
-	@media screen and (max-width: 500px) {
-		.buttons {
-			max-width: 250px;
-		}
+		height: 19px;
+		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
-	button {
-		font-family: RobotoBold;
-		text-align: left;
+
+	#place-text {
+		float: left;
+		padding-top: 0px;
+		margin-top: 0px;
+		width: 100%;
+		max-width: 480px;
+		/* background-color: var(--e-global-color-yellow); */
+	}
+	#place-text h3 {
+		font-size: 22px;
+		color: var(--e-global-color-darkblue);
+		border-bottom: solid 1px var(--e-global-color-green);
+		padding-left: 10px;
+		padding-right: 10px;
+		margin-top: 5px;
+	}
+	#place-text p {
+		margin-top: -20px;
+		padding: 10px;
 		font-size: 14px;
-		width: 245px;
-		color: white;
-		border: 1px solid var(--brandGray);
-		padding: 5px;
-		margin-bottom: 5px;
-		cursor: pointer;
+		line-height: 20px;
+		color: var(--e-global-color-black);
 	}
 
-	button:hover {
-		opacity: 1;
-		background-color: var(--brandYellow);
+	#place-photo {
+		overflow: hidden;
+		max-width: 480px; 
+		max-height: 270px;
+		border-left: solid 1px var(--e-global-color-green);
+
+	}
+	#place-photo img {
+		max-width: 480px; 
+		
 	}
 
-	.layerOn {
-		background-color: white;
-		opacity: 1;
-		color: var(--brandDarkBlue);
-		border: 1px solid var(--brandDarkBlue);
-	}
-
-	.layerOff {
-		background-color: white;
-		color: var(--brandDarkBlue);
-		opacity: 0.5;
-	}
-
-	p {
-		margin-left: 30px;
-		margin-top: 8px;
-		margin-bottom: -2px;
-	}
-
-	h3 {
-		margin-bottom: 10px;
-		border-bottom: none;
-	}
 
 	.map-zoom-wrapper {
 		position: absolute;
 		margin-bottom: 2px;
-		top: 85%;
+		top: 5px;
 		left: 5px;
 		z-index: 2;
 		font-family: TradeGothicBold;
-		margin-left: 10%;
 	}
 
 	.map-zoom {

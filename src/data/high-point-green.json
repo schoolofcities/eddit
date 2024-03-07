@@ -3,7 +3,7 @@
         "id": "background-s",
         "type": "background",
         "paint": {
-            "background-color": "white"
+            "background-color": "#01A188"
         }
     },
     {
@@ -12,7 +12,8 @@
         "source": "protomaps",
         "source-layer": "earth",
         "paint": {
-            "fill-color": "white"
+            "fill-color": "white",
+            "fill-opacity": 0.5
         }
     },
     {
@@ -35,7 +36,7 @@
             ]
         ],
         "paint": {
-            "fill-color": "#f0f0f0"
+            "fill-color": "#01A188"
         }
     },
     {
@@ -105,7 +106,7 @@
             ]
         ],
         "paint": {
-            "fill-color": "#f0f0f0"
+            "fill-color": "#01A188"
         }
     },
     {
@@ -122,7 +123,7 @@
             ]
         ],
         "paint": {
-            "fill-color": "#f0f0f0"
+            "fill-color": "#01A188"
         }
     },
     {
@@ -160,7 +161,7 @@
             ]
         ],
         "paint": {
-            "fill-color": "#f0f0f0"
+            "fill-color": "#01A188"
         }
     },
     {
@@ -176,7 +177,7 @@
             "grass"
         ],
         "paint": {
-            "fill-color": "#f0f0f0"
+            "fill-color": "#01A188"
         }
     },
     {
@@ -965,8 +966,17 @@
         "source": "protomaps",
         "source-layer": "buildings",
         "paint": {
-            "fill-color": "#efefef",
-            "fill-opacity": 0.5
+            "fill-color": "#ffffff",
+            "fill-opacity": 0.2
+        }
+    },
+    {
+        "id": "buildings_outline",
+        "type": "line",
+        "source": "protomaps",
+        "source-layer": "buildings",
+        "paint": {
+            "line-color": "#ffffff"
         }
     },
     {
