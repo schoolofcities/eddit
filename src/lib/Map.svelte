@@ -70,6 +70,7 @@
 		highPoints.data.forEach((point) => {
 			console.log(point)
 			console.log(point.Address)
+			console.log(point.Description)
 			highPoint_features.push({
 				type: "Feature",
 				properties: {
@@ -194,21 +195,10 @@
 			});
 
 			map.on("click", "high-points-layer", (e) => {
-				const coordinates = e.features[0].geometry.coordinates;
 				console.log(e.features[0])
-				const pointProperties = e.features[0].properties;
 				addresses = e.features[0].properties.ADDRESS
-				description = e.efeatures[0].properties.DESCRIPTIOM
+				description = e.efeatures[0].properties.DESCRIPTION
 				// Calculate offset to position the popup next to the clicked point
-				const offset = [10, 0]; // Adjust as needed
-				/*
-				// Create and display the popup
-				new maplibregl.Popup({ offset })
-					.setLngLat(coordinates)
-					.setHTML(
-						`<h3>${pointProperties.address}</h3><p>${pointProperties.STATE}</p>`,
-					)
-					.addTo(map);/*/
 				popup = true;
 			});
 			if (pageHeight > 700 && pageWidth > 800) {
@@ -273,7 +263,8 @@
 	</div>
 	<div class = "popup">
 		<div class = "pop-text">
-		<p>{addresses}, {description}</p>
+		<p>{addresses}</p> 
+		<p>{description}</p>
 		</div>
 	</div>
 </div>
@@ -358,12 +349,13 @@
 	}
 
 	.map-zoom-wrapper {
-		margin-top: 2px;
-		left: 5px;
 		position: absolute;
+		margin-bottom: 2px;
+		top: 85%;
+		left: 5px;
 		z-index: 2;
 		font-family: TradeGothicBold;
-		margin-left: 20%;
+		margin-left: 10%;
 	}
 
 	.map-zoom {
@@ -398,8 +390,7 @@
 		top:0;
 		width: 100%;
 		height: 30%;
-		background-color: "black";
-		opacity: 0.9;
+		opacity: 1;
 	}
 	.pop-text{
 		position: absolute;
