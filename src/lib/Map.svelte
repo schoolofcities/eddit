@@ -12,7 +12,9 @@
 	let PMTILES_URL = "/eddit/high-point/high-point.pmtiles";
 	let placeName = "meow";
 	let address = "meow";
-	let description = "meow"; 
+	let description = "meow";
+	let photo_url;
+	let id;
 	let popup = false;
 	const highPoint_points =
 		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=494432730&single=true&output=csv";
@@ -53,19 +55,21 @@
 
 		// load csv data
 		var highPoints = await processCsv(highPoint_points);
-		console.log(highPoints)
+		console.log(highPoints);
 
 		// convert to geojson
 		highPoints.data.forEach((point) => {
-			console.log(point)
-			console.log(point.Address)
-			console.log(point.Description)
+			console.log(point);
+			console.log(point.Address);
+			console.log(point.Description);
 			highPoint_features.push({
 				type: "Feature",
 				properties: {
+					ID: point.ID,
 					ADDRESS: point.Address,
 					NAME: point.Name,
 					DESCRIPTION: point.Description,
+					PHOTO_URL: point["Photo URL"],
 				},
 				geometry: {
 					type: "Point",
@@ -104,7 +108,7 @@
 				],
 			},
 			center: [-80, 35.9615],
-			zoom: 16,
+			zoom: 15,
 			maxZoom: 18,
 			minZoom: 12,
 			bearing: 0,
@@ -112,7 +116,6 @@
 			//maxBounds: maxBounds,
 			attributionControl: false,
 		});
-
 
 		// Convert the array into a single string
 
@@ -127,24 +130,19 @@
 		let protoLayers = BaseLayer;
 
 		map.on("load", function () {
-
 			map.addSource("esri-sat", {
-				'type': 'raster',
-				'tiles': [
-					'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
+				type: "raster",
+				tiles: [
+					"https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
 				],
-				'tileSize': 256,
+				tileSize: 256,
 				// attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
 			});
-			map.addLayer(
-				{
-                    'id': 'sat',
-                    'type': 'raster',
-                    'source': 'esri-sat',
-                }
-
-			)
-
+			map.addLayer({
+				id: "sat",
+				type: "raster",
+				source: "esri-sat",
+			});
 
 			// map.addSource("protomaps", {
 			// 	type: "vector",
@@ -157,16 +155,14 @@
 			// 	map.addLayer(e);
 			// });
 
-			map.addLayer(
-							{
-					"id": "background-s",
-					"type": "background",
-					"paint": {
-						"background-color": "#fff",
-						"background-opacity": 0.4
-					}
-				}
-			)
+			map.addLayer({
+				id: "background-s",
+				type: "background",
+				paint: {
+					"background-color": "#fff",
+					"background-opacity": 0.4,
+				},
+			});
 
 			map.addSource("cityBoundary", {
 				type: "geojson",
@@ -198,6 +194,19 @@
 					"circle-stroke-width": 2,
 				},
 			});
+
+			map.addLayer({
+				id: "high-points-layer-select",
+				type: "circle",
+				source: "high-points",
+				filter: ["==", ["get", "ID"], 8],
+				paint: {
+					"circle-color": "#012B5C",
+					"circle-radius": 6,
+					"circle-stroke-color": "#F1C500",
+					"circle-stroke-width": 4,
+				},
+			});
 			map.on("mouseenter", "high-points-layer", () => {
 				map.getCanvas().style.cursor = "pointer";
 			});
@@ -207,10 +216,18 @@
 			});
 
 			map.on("click", "high-points-layer", (e) => {
-				console.log(e.features[0])
-				placeName = e.features[0].properties.NAME
-				address = e.features[0].properties.ADDRESS
-				description = e.features[0].properties.DESCRIPTION
+				console.log(e.features[0]);
+				id = e.features[0].properties.ID;
+				placeName = e.features[0].properties.NAME;
+				address = e.features[0].properties.ADDRESS;
+				description = e.features[0].properties.DESCRIPTION;
+				photo_url = e.features[0].properties.PHOTO_URL;
+
+				map.setFilter("high-points-layer-select", [
+					"==",
+					["get", "ID"],
+					id,
+				]);
 				// Calculate offset to position the popup next to the clicked point
 				popup = true;
 			});
@@ -232,17 +249,14 @@
 	function zoomOut() {
 		map.zoomOut();
 	}
-
 </script>
 
-
 <div id="map-wrapper">
-
 	<div id="map-title">
 		<h3>Washington Street</h3>
 	</div>
 
-	<div id="map"> 
+	<div id="map">
 		<div class="map-zoom-wrapper">
 			<div on:click={zoomIn} class="map-zoom">
 				<svg width="24" height="24">
@@ -280,27 +294,34 @@
 	</div>
 
 	<div id="info-wrapper">
-		<div id="switch-place">
-
-		</div>
+		<div id="switch-place"></div>
 		<div id="place-text">
-			<h3>{placeName}</h3>
-			<p><i>{address}</i></p> 
-			<p>{description}</p>
+			{#if placeName == "meow"}
+				<h3>Mt. Zion Baptist Church</h3>
+				<p>753 Washington St, High Point, NC 27260</p>
+				<p>
+					Mt. Zion Baptist Church first started meeting on Washington
+					Street in 1982 . This church continues to play an important
+					role in the Washington Street and broader High Point
+					community today.
+				</p>
+			{:else}
+				<h3>{placeName}</h3>
+				<p><i>{address}</i></p>
+				<p>{description}</p>
+			{/if}
 		</div>
 		<div id="place-photo">
-			<img src="/eddit/high-point/place-becky-and-marys.png" alt="Your Image">
+			<img
+				src="/eddit/high-point/place-becky-and-marys.png"
+				alt="Your Image"
+			/>
+			<!--<img src={photo_url} alt={placeName}>-->
 		</div>
 	</div>
 </div>
 
-
-
-
-
-
 <style>
-
 	#map-wrapper {
 		margin: 0 auto;
 		max-width: 960px;
@@ -317,7 +338,6 @@
 	}
 
 	#map-title h3 {
-		
 		width: 300px;
 		margin: 0 auto;
 		margin-top: 5px;
@@ -348,7 +368,6 @@
 		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
-
 	#place-text {
 		float: left;
 		padding-top: 0px;
@@ -375,16 +394,13 @@
 
 	#place-photo {
 		overflow: hidden;
-		max-width: 480px; 
+		max-width: 480px;
 		max-height: 270px;
 		border-left: solid 1px var(--e-global-color-green);
-
 	}
 	#place-photo img {
-		max-width: 480px; 
-		
+		max-width: 480px;
 	}
-
 
 	.map-zoom-wrapper {
 		position: absolute;
@@ -421,22 +437,5 @@
 	.map-zoom:hover {
 		cursor: pointer;
 		background-color: var(--brandYellow);
-	}
-	.popup{
-		position: absolute;
-		top:0;
-		width: 100%;
-		height: 30%;
-		opacity: 1;
-	}
-	.pop-text{
-		position: absolute;
-        top: 20%;
-        left: 50%;
-		width: 100%;
-        transform: translate(-50%, -50%);
-        padding: 20px;
-        background-color: white;
-        border: 1px solid black;
 	}
 </style>
