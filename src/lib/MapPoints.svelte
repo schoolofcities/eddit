@@ -134,6 +134,13 @@
 		let protoLayers = BaseLayer;
 
 		map.on("load", function () {
+			map.addSource("protomaps", {
+			 	type: "vector",
+			 	url: "pmtiles://" + PMTILES_URL,
+			 	//attribution: attributionString,
+			 	//attributionControl: false,
+			});
+
 			map.addSource("esri-sat", {
 				type: "raster",
 				tiles: [
@@ -146,6 +153,14 @@
 				id: "sat",
 				type: "raster",
 				source: "esri-sat",
+				paint: {
+					"raster-saturation": 0,
+					"raster-opacity": 0.5
+				}
+			});
+
+			protoLayers.forEach((e) => {
+			 	map.addLayer(e);
 			});
 
 			// map.addSource("protomaps", {
@@ -159,14 +174,14 @@
 			// 	map.addLayer(e);
 			// });
 
-			map.addLayer({
-				id: "background-s",
-				type: "background",
-				paint: {
-					"background-color": "#fff",
-					"background-opacity": 0.4,
-				},
-			});
+			// map.addLayer({
+			// 	id: "background-s",
+			// 	type: "background",
+			// 	paint: {
+			// 		"background-color": "#fff",
+			// 		"background-opacity": 0.4,
+			// 	},
+			// });
 
 			map.addSource("historicCentre", {
 				type: "geojson",

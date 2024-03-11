@@ -6,7 +6,7 @@
         "source-layer": "earth",
         "paint": {
             "fill-color": "white",
-            "fill-opacity": 0.5
+            "fill-opacity": 0.3
         }
     },
     

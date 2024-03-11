@@ -66,7 +66,7 @@
 
 		map.on("load", function () {
 
-			 map.addSource("protomaps", {
+			map.addSource("protomaps", {
 			 	type: "vector",
 			 	url: "pmtiles://" + PMTILES_URL,
 			 	//attribution: attributionString,
@@ -93,7 +93,7 @@
 
 			protoLayers.forEach((e) => {
 			 	map.addLayer(e);
-			 });
+			});
 
 
 			map.addSource("geohash-grid", {
