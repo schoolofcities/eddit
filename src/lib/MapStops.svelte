@@ -6,6 +6,7 @@
 	import BaseLayer from "../data/high-point-green.json";
 	import historicCentre from "../data/washington-historic-district.geo.json";
 	import geohashGrid from "../data/high-point-geohashes-grid.geo.json";
+	import notHighPoint from "../data/high-point-not-boundary.geo.json";
 
 	let map;
 	let highPoint_features = [];
@@ -144,6 +145,20 @@
 					"line-width": 2,
 				},
 			});
+
+			map.addSource("not-high-point", {
+				type: "geojson",
+				data: notHighPoint,
+			});
+			map.addLayer({
+				id: "not-high-point",
+				type: "line",
+				source: "not-high-point",
+				paint: {
+					"line-color": "#01A188",
+					"line-width": 2
+				},
+			});
 			
 		
 		});
@@ -160,7 +175,7 @@
 
 <div id="map-wrapper">
 	<div id="map-title">
-		<h3>Stops per day</h3>
+		<h3>High Point Visits Per Day</h3>
 		<div id="legend">
 			<svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
 				<rect x="0" y="0" width="75" height="15" fill="#e8f7f4"/>
@@ -224,7 +239,7 @@
 
 	#map-title {
 		margin: 0 auto;
-		height: 75px;
+		height: 72px;
 		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
@@ -249,7 +264,7 @@
 
 	#cellular-map {
 		width: 100%;
-		height: 550px;
+		height: 500px;
 		border-bottom: solid 1px var(--e-global-color-green);
 		position: relative;
 		cursor: hand;

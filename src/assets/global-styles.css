@@ -121,13 +121,34 @@ main {
 	border-top: solid 1px var(--e-global-color-green);
 	border-bottom: solid 1px var(--e-global-color-green);
 }
-.image-mid-width p {
+
+.image-small-width {
+	max-width: 600px; 
+	max-height: auto;
+	height: auto; 
+	margin: 0 auto;
+	opacity: 0.75;
+}
+.image-small-width:hover {
+	opacity: 1;
+}
+.image-small-width img {
+    display: block; 
+    max-width: 600px;
+	width: 100%;
+    height: auto; 
+	border-top: solid 1px var(--e-global-color-green);
+	border-bottom: solid 1px var(--e-global-color-green);
+}
+
+
+
+.caption {
 	font-size: 14px;
 	text-align: center;
 	margin-top: 8px;
 	line-height: 18px;
 }
-
 
 
 
@@ -153,6 +174,7 @@ h3 {
 	text-align: left;
 	font-family: TradeGothicBold;
 	font-size: 24px;
+	margin-bottom: 5px;
 	/* border-bottom: solid 1px var(--brandGray); */
 	color: var(--e-global-color-green);
 }

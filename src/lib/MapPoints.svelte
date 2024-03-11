@@ -163,25 +163,7 @@
 			 	map.addLayer(e);
 			});
 
-			// map.addSource("protomaps", {
-			// 	type: "vector",
-			// 	url: "pmtiles://" + PMTILES_URL,
-			// 	//attribution: attributionString,
-			// 	//attributionControl: false,
-			// });
 
-			// protoLayers.forEach((e) => {
-			// 	map.addLayer(e);
-			// });
-
-			// map.addLayer({
-			// 	id: "background-s",
-			// 	type: "background",
-			// 	paint: {
-			// 		"background-color": "#fff",
-			// 		"background-opacity": 0.4,
-			// 	},
-			// });
 
 			map.addSource("historicCentre", {
 				type: "geojson",
@@ -207,7 +189,7 @@
 				type: "circle",
 				source: "high-points",
 				paint: {
-					"circle-color": "#012B5C",
+					"circle-color": "#01A188",
 					"circle-radius": 6,
 					"circle-stroke-color": "white",
 					"circle-stroke-width": 2,
@@ -220,9 +202,9 @@
 				source: "high-points",
 				filter: ["==", ["get", "ID"], 8],
 				paint: {
-					"circle-color": "#012B5C",
-					"circle-radius": 6,
-					"circle-stroke-color": "#F1C500",
+					"circle-color": "#F4D35E",
+					"circle-radius": 8,
+					"circle-stroke-color": "#012B5C",
 					"circle-stroke-width": 4,
 				},
 			});
@@ -250,14 +232,7 @@
 				// Calculate offset to position the popup next to the clicked point
 				popup = true;
 			});
-			/*
-			updateLayerVisibility('hospitals', $showHospitals);
-			updateLayerVisibility('cooling-cnts', $showCooling);
-			updateLayerVisibility('pool-locs', $showPool);
-			updateLayerVisibility('AptNoAir', $showAptNoAir);
 
-			map.setLayoutProperty('Vulnerdata', 'visibility', 'visible');
-		*/
 		});
 	});
 
@@ -317,7 +292,7 @@
 		<div id="place-text">
 			{#if placeName == "meow"}
 				<h3>Mt. Zion Baptist Church</h3>
-				<p>753 Washington St, High Point, NC 27260</p>
+				<p><i>753 Washington St, High Point, NC 27260</i></p>
 				<p>
 					Mt. Zion Baptist Church first started meeting on Washington
 					Street in 1982 . This church continues to play an important
@@ -408,10 +383,11 @@
 	#place-text h3 {
 		font-size: 22px;
 		color: var(--e-global-color-darkblue);
-		border-bottom: solid 1px var(--e-global-color-green);
+		border-bottom: solid 2px var(--e-global-color-yellow);
 		padding-left: 10px;
 		margin-right: 10px;
 		margin-top: 5px;
+		margin-bottom: 25px;
 	}
 	#place-text p {
 		margin-top: -20px;
@@ -425,7 +401,7 @@
 		overflow: hidden;
 		max-width: 480px;
 		max-height: 270px;
-		/* border-left: solid 1px var(--e-global-color-green); */
+		border: solid 1px var(--e-global-color-green);
 		margin: 0px;
 		margin-bottom: 10px;
 		opacity: 0.8;
@@ -470,4 +446,5 @@
 		cursor: pointer;
 		background-color: var(--brandYellow);
 	}
+
 </style>
