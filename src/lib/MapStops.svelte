@@ -5,21 +5,24 @@
 
 	import BaseLayer from "../data/high-point-green.json";
 	import historicCentre from "../data/washington-historic-district.geo.json";
-	import Papa from "papaparse";
+	import geohashGrid from "../data/high-point-geohashes-grid.geo.json";
 
 	let map;
 	let highPoint_features = [];
 	let PMTILES_URL = "/eddit/high-point/high-point.pmtiles";
 
-
+	geohashGrid.features.forEach(feature => {
+		const stops = feature.properties.stops;
+		const daily_stops = (20 * stops) / 365;
+		feature.properties.daily_stops = daily_stops;
+	});
 
 	/*
 	const maxBounds = [
 		[-79.771200, 43.440000], // SW coords
 		[-78.914763, 43.930740] // NE coords
 	];*/
-	// ============================functions=============================================
-
+	//
 	
 
 	onMount(async () => {
@@ -45,7 +48,7 @@
 				],
 			},
 			center: [-79.997, 35.9615],
-			zoom: 13,
+			zoom: 12.2,
 			maxZoom: 18,
 			minZoom: 11,
 			bearing: 0,
@@ -53,11 +56,6 @@
 			//maxBounds: maxBounds,
 			attributionControl: false,
 		});
-
-		// Convert the array into a single string
-
-		// map.addControl(scale, "bottom-left");
-		// map.addControl(new maplibregl.NavigationControl(), "top-left");
 
 		map.touchZoomRotate.disableRotation();
 		map.dragRotate.disable();
@@ -75,16 +73,68 @@
 			 	//attributionControl: false,
 			});
 
+			map.addSource("esri-sat", {
+				type: "raster",
+				tiles: [
+					"https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+				],
+				tileSize: 256,
+				// attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+			});
+			map.addLayer({
+				id: "sat",
+				type: "raster",
+				source: "esri-sat",
+				paint: {
+					"raster-saturation": 0,
+					"raster-opacity": 0.5
+				}
+			});
+
 			protoLayers.forEach((e) => {
-	
 			 	map.addLayer(e);
 			 });
+
+
+			map.addSource("geohash-grid", {
+				type: "geojson",
+				data: geohashGrid
+			});
+			map.addLayer({
+				id: "geohash-grid",
+				type: "fill",
+				source: "geohash-grid",
+				paint: {
+					'fill-color': [
+						'step',
+						['get', "daily_stops"],
+							"#e8f7f4",
+							500,
+							"#99dacf",
+							2500,
+							"#3bb7a3",
+							5000,
+							"#007663",
+					],
+					"fill-opacity": 0.4
+				},
+			});
+			map.addLayer({
+				id: "geohash-grid-line",
+				type: "line",
+				source: "geohash-grid",
+				paint: {
+					"line-color": "white",
+					"line-opacity": 0.25,
+					"line-width": 1
+				},
+			});
+
 
 			map.addSource("historic-centre", {
 				type: "geojson",
 				data: historicCentre,
 			});
-
 			map.addLayer({
 				id: "historic-centre-lines",
 				type: "line",
@@ -110,7 +160,19 @@
 
 <div id="map-wrapper">
 	<div id="map-title">
-		<h3>High Point Activity Data</h3>
+		<h3>Stops per day</h3>
+		<div id="legend">
+			<svg width="300" height="40" xmlns="http://www.w3.org/2000/svg">
+				<rect x="0" y="0" width="75" height="15" fill="#e8f7f4"/>
+				<rect x="75" y="0" width="75" height="15" fill="#99dacf"/>
+				<rect x="150" y="0" width="75" height="15" fill="#3bb7a3"/>
+				<rect x="225" y="0" width="75" height="15" fill="#007663"/>
+
+				<text class="legend-label" x="75" y="32" text-anchor="middle">500</text>
+				<text class="legend-label" x="150" y="32" text-anchor="middle">2,500</text>
+				<text class="legend-label" x="225" y="32" text-anchor="middle">5,000</text>
+			</svg>
+		</div>
 	</div>
 
 	<div id="cellular-map">
@@ -162,7 +224,7 @@
 
 	#map-title {
 		margin: 0 auto;
-		height: 38px;
+		height: 75px;
 		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
@@ -171,9 +233,18 @@
 		margin: 0 auto;
 		margin-top: 5px;
 		margin-bottom: 5px;
-		font-size: 28px;
+		font-size: 21px;
 		color: var(--e-global-color-darkblue);
 		text-align: center;
+	}
+
+	#legend {
+		margin: 0 auto;
+		width: 300px;
+		border-top: solid 1px var(--e-global-color-green)
+	}
+	.legend-label {
+		fill: var(--e-global-color-darkblue);
 	}
 
 	#cellular-map {
