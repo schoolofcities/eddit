@@ -2,8 +2,8 @@
 	import Top from "../../lib/TopSofC.svelte";
 	import { CompareImage } from "svelte-compare-image";
 	import "../../assets/global-styles.css";
-	import Map from "../../lib/high-points-map.svelte";
-	import Cellular from "../../lib/cellular-data.svelte"
+	import Map from "../../lib/MapPoints.svelte";
+	import Cellular from "../../lib/MapVisits.svelte"
 	import topImage from "../../assets/high-point-top-image.png";
 </script>
 
@@ -19,7 +19,8 @@
 <main>
 	<div class="top-image" style="background-image: url('{topImage}');">
 		<div class="title">
-			<h1>High-Point Story Map</h1>
+			<h1>High-Point Story Map Title</h1>
+			<h3>A Short Subtitle</h3>
 		</div>
 	</div>
 

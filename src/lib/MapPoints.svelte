@@ -5,6 +5,7 @@
 
 	import BaseLayer from "../data/high-point-green.json";
 	import cityBoundary from "../data/high-point-boundary.geo.json";
+	import historicCentre from "../data/washington-historic-district.geo.json";
 	import Papa from "papaparse";
 
 	let map;
@@ -110,7 +111,7 @@
 					},
 				],
 			},
-			center: [-80, 35.9615],
+			center: [-79.997, 35.962],
 			zoom: 15,
 			maxZoom: 18,
 			minZoom: 12,
@@ -167,18 +168,18 @@
 				},
 			});
 
-			map.addSource("cityBoundary", {
+			map.addSource("historicCentre", {
 				type: "geojson",
-				data: cityBoundary,
+				data: historicCentre,
 			});
 
 			map.addLayer({
-				id: "cityBoundary-lines",
+				id: "historicCentre-lines",
 				type: "line",
-				source: "cityBoundary",
+				source: "historicCentre",
 				paint: {
-					"line-color": "#1E3765",
-					"line-width": 1,
+					"line-color": "#012B5C",
+					"line-width": 3,
 				},
 			});
 			map.addSource("high-points", {
@@ -340,9 +341,8 @@
 		margin: 0 auto;
 		max-width: 960px;
 		width: 100%;
-		background-color: #01a18967;
-		border-top: solid 1px var(--e-global-color-darkblue);
-		border-bottom: solid 1px var(--e-global-color-darkblue);
+		background-color: var(--e-global-color-white);
+		border: solid 1px var(--e-global-color-green);
 	}
 
 	#map-title {

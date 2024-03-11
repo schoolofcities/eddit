@@ -111,9 +111,9 @@
 				],
 			},
 			center: [-79.997, 35.9615],
-			zoom: 15.7,
+			zoom: 13,
 			maxZoom: 18,
-			minZoom: 12,
+			minZoom: 11,
 			bearing: 0,
 			scrollZoom: true,
 			//maxBounds: maxBounds,
@@ -235,7 +235,7 @@
 
 <div id="map-wrapper">
 	<div id="map-title">
-		<h3>Washington Street</h3>
+		<h3>High Point Activity Data</h3>
 	</div>
 
 	<div id="cellular-map">
@@ -283,7 +283,7 @@
 		width: 100%;
 		background-color: #01a18967;
 		border-top: solid 1px var(--e-global-color-darkblue);
-		border-bottom: solid 1px var(--e-global-color-darkblue);
+		/* border-bottom: solid 1px var(--e-global-color-darkblue); */
 	}
 
 	#map-title {
