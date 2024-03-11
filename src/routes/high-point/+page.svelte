@@ -3,7 +3,7 @@
 	import { CompareImage } from "svelte-compare-image";
 	import "../../assets/global-styles.css";
 	import Map from "../../lib/MapPoints.svelte";
-	import Cellular from "../../lib/MapStops.svelte"
+	import Cellular from "../../lib/MapVisits.svelte"
 	import topImage from "../../assets/high-point-top-image.png";
 </script>
 
@@ -36,7 +36,7 @@
 
 	<div class="image-mid-width">
 		<img src="/eddit/high-point/high-point-ref-map.png" alt="Your Image" />
-		<p class="caption"><b>Location of Washington Street</p>
+		<p class="caption"><b>Location of Washington Street in High Point, NC.</p>
 	</div>
 
 	
@@ -146,7 +146,7 @@
 	</div>
 
 	<div class="image-mid-width">
-		<img src="/eddit/high-point/img-mural.png" alt="Your Image" />
+		<img src="/eddit/high-point/location-12-and-i-still-rise.png" alt="Your Image" />
 		<p class="caption">Caption and source of image</p>
 	</div>
 

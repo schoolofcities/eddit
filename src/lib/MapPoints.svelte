@@ -11,29 +11,20 @@
 	let map;
 	let highPoint_features = [];
 	let PMTILES_URL = "/eddit/high-point/high-point.pmtiles";
-	let placeName = "meow";
-	let address = "meow";
-	let description = "meow";
+	let placeName = "";
+	let address = "";
+	let description = "";
 	let photo_url;
 	let id;
 	let popup = false;
 	const highPoint_points =
-		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=494432730&single=true&output=csv";
-
-	//export let index;
-
-	// Adding scale bar to the map
-	let scale = new maplibregl.ScaleControl({
-		maxWidth: 100,
-		unit: "metric",
-	});
+		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=0&single=true&output=csv";
 
 	/*
 	const maxBounds = [
 		[-79.771200, 43.440000], // SW coords
 		[-78.914763, 43.930740] // NE coords
 	];*/
-	// ============================functions=============================================
 
 	// load the google sheet csv data
 	async function processCsv(csvLink) {
@@ -73,7 +64,7 @@
 					ADDRESS: point.Address,
 					NAME: point.Name,
 					DESCRIPTION: point.Description,
-					PHOTO_URL: point["Photo URL"],
+					PHOTO_URL: "/eddit/high-point/" + point.ID_Long + ".png"
 				},
 				geometry: {
 					type: "Point",
@@ -92,6 +83,8 @@
 			},
 			features: highPoint_features,
 		};
+
+		console.log(highPoint_geojson);
 
 		// load map
 		map = new maplibregl.Map({
@@ -121,11 +114,6 @@
 			attributionControl: false,
 		});
 
-		// Convert the array into a single string
-
-		// map.addControl(scale, "bottom-left");
-		// map.addControl(new maplibregl.NavigationControl(), "top-left");
-
 		map.touchZoomRotate.disableRotation();
 		map.dragRotate.disable();
 		map.touchZoomRotate.disableRotation();
@@ -134,6 +122,12 @@
 		let protoLayers = BaseLayer;
 
 		map.on("load", function () {
+
+			placeName = highPoint_geojson.features[7].properties.NAME;
+			address = highPoint_geojson.features[7].properties.ADDRESS;
+			description = highPoint_geojson.features[7].properties.DESCRIPTION;
+			photo_url = highPoint_geojson.features[7].properties.PHOTO_URL;
+
 			map.addSource("protomaps", {
 			 	type: "vector",
 			 	url: "pmtiles://" + PMTILES_URL,
@@ -223,14 +217,14 @@
 				address = e.features[0].properties.ADDRESS;
 				description = e.features[0].properties.DESCRIPTION;
 				photo_url = e.features[0].properties.PHOTO_URL;
-				console.log(photo_url)
 				map.setFilter("high-points-layer-select", [
 					"==",
 					["get", "ID"],
 					id,
 				]);
-				// Calculate offset to position the popup next to the clicked point
+
 				popup = true;
+				console.log(photo_url);
 			});
 
 		});
@@ -243,6 +237,9 @@
 	function zoomOut() {
 		map.zoomOut();
 	}
+
+	
+
 </script>
 
 <div id="map-wrapper">
@@ -290,25 +287,14 @@
 	<div id="info-wrapper">
 		<div id="switch-place"></div>
 		<div id="place-text">
-			{#if placeName == "meow"}
-				<h3>Mt. Zion Baptist Church</h3>
-				<p><i>753 Washington St, High Point, NC 27260</i></p>
-				<p>
-					Mt. Zion Baptist Church first started meeting on Washington
-					Street in 1982 . This church continues to play an important
-					role in the Washington Street and broader High Point
-					community today.
-				</p>
-			{:else}
-				<h3>{placeName}</h3>
-				<p><i>{address}</i></p>
-				<p>{description}</p>
-			{/if}
+			<h3>{placeName}</h3>
+			<p><i>{address}</i></p>
+			<p>{description}</p>
 		</div>
 		<div id="place-photo">
 			{#if placeName == "meow"}
 			<img
-			src="https://live.staticflickr.com/4782/40162484924_b7cd1ca809.jpg"
+			src={photo_url}
 			width="500"
 			height="333"
 			alt="DSC_2920"
@@ -318,7 +304,7 @@
 				src= {photo_url}
 				width="500"
 				height="333"
-				alt="Your Image"
+				alt="Photo of {placeName}"
 			/>
 			{/if}
 			<!--<img src={photo_url} alt={placeName}>-->
@@ -365,6 +351,7 @@
 
 	#info-wrapper {
 		margin: 0 auto;
+		min-height: 270px;
 		/* overflow: hidden; */
 	}
 
@@ -383,10 +370,11 @@
 	#place-text h3 {
 		font-size: 22px;
 		color: var(--e-global-color-darkblue);
-		border-bottom: solid 2px var(--e-global-color-yellow);
+		background-color: var(--e-global-color-yellow);
+		border-bottom: solid 1px var(--e-global-color-yellow);
 		padding-left: 10px;
 		margin-right: 10px;
-		margin-top: 5px;
+		margin-top: 0px;
 		margin-bottom: 25px;
 	}
 	#place-text p {
