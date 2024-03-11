@@ -122,9 +122,10 @@ main {
 	border-bottom: solid 1px var(--e-global-color-green);
 }
 .image-mid-width p {
-	font-size: 13px;
+	font-size: 14px;
 	text-align: center;
-	margin-top: 0px;
+	margin-top: 8px;
+	line-height: 18px;
 }
 
 

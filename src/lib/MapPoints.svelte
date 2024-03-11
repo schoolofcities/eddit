@@ -112,7 +112,7 @@
 				],
 			},
 			center: [-79.997, 35.962],
-			zoom: 15,
+			zoom: 15.5,
 			maxZoom: 18,
 			minZoom: 12,
 			bearing: 0,
@@ -257,7 +257,7 @@
 
 <div id="map-wrapper">
 	<div id="map-title">
-		<h3>Washington Street</h3>
+		<h3>Washington Street Map</h3>
 	</div>
 
 	<div id="map">
@@ -342,13 +342,14 @@
 		max-width: 960px;
 		width: 100%;
 		background-color: var(--e-global-color-white);
-		border: solid 1px var(--e-global-color-green);
+		border-top: solid 1px var(--e-global-color-green);
+		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
 	#map-title {
 		margin: 0 auto;
 		height: 38px;
-		border-bottom: solid 1px var(--e-global-color-darkblue);
+		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
 	#map-title h3 {
@@ -367,7 +368,7 @@
 		/* border-top: 1px solid var(--brandBlack); */
 		/* border-bottom: 1px solid var(--brandBlack); */
 		height: 350px;
-		border-bottom: solid 1px var(--e-global-color-darkblue);
+		border-bottom: solid 1px var(--e-global-color-green);
 		position: relative;
 		cursor: hand;
 	}
@@ -380,7 +381,6 @@
 	#switch-place {
 		width: 100%;
 		height: 19px;
-		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
 	#place-text {
@@ -389,14 +389,13 @@
 		margin-top: 0px;
 		width: 100%;
 		max-width: 480px;
-		/* background-color: var(--e-global-color-yellow); */
 	}
 	#place-text h3 {
 		font-size: 22px;
 		color: var(--e-global-color-darkblue);
 		border-bottom: solid 1px var(--e-global-color-green);
 		padding-left: 10px;
-		padding-right: 10px;
+		margin-right: 10px;
 		margin-top: 5px;
 	}
 	#place-text p {
@@ -411,8 +410,10 @@
 		overflow: hidden;
 		max-width: 480px;
 		max-height: 270px;
-		border-left: solid 1px var(--e-global-color-green);
-		margin: 5px;
+		/* border-left: solid 1px var(--e-global-color-green); */
+		margin: 0px;
+		margin-bottom: 10px;
+		opacity: 0.8;
 	}
 	#place-photo img {
 		max-width: 480px;

@@ -10,22 +10,8 @@
 	let map;
 	let highPoint_features = [];
 	let PMTILES_URL = "/eddit/high-point/high-point.pmtiles";
-	let placeName = "meow";
-	let address = "meow";
-	let description = "meow";
-	let photo_url;
-	let id;
-	let popup = false;
-	const highPoint_points =
-		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=494432730&single=true&output=csv";
 
-	//export let index;
 
-	// Adding scale bar to the map
-	let scale = new maplibregl.ScaleControl({
-		maxWidth: 100,
-		unit: "metric",
-	});
 
 	/*
 	const maxBounds = [
@@ -34,63 +20,11 @@
 	];*/
 	// ============================functions=============================================
 
-	// load the google sheet csv data
-	async function processCsv(csvLink) {
-		const response = await fetch(csvLink);
-		const csvData = await response.text();
-		const result = await new Promise((resolve) => {
-			Papa.parse(csvData, {
-				complete: (result) => resolve(result),
-				header: true,
-				dynamicTyping: true,
-				skipEmptyLines: true,
-			});
-		});
-		return result;
-	}
-
-	function getGoogleDrivePhoto(url){
-		var urls = url.split('/')
-		var image_url = `https://drive.google.com/uc?export=view&id=${urls[urls.length -2]}`
-		return image_url
-	}
+	
 
 	onMount(async () => {
 		let protocol = new pmtiles.Protocol();
 		maplibregl.addProtocol("pmtiles", protocol.tile);
-
-		// load csv data
-		var highPoints = await processCsv(highPoint_points);
-
-		// convert to geojson
-		highPoints.data.forEach((point) => {
-
-			highPoint_features.push({
-				type: "Feature",
-				properties: {
-					ID: point.ID,
-					ADDRESS: point.Address,
-					NAME: point.Name,
-					DESCRIPTION: point.Description,
-					PHOTO_URL: point["Photo URL"],
-				},
-				geometry: {
-					type: "Point",
-					coordinates: [point.X, point.Y],
-				},
-			});
-		});
-		// create geojson
-		var highPoint_geojson = {
-			type: "FeatureCollection",
-			crs: {
-				type: "name",
-				properties: {
-					name: "urn:ogc:def:crs:OGC:1.3:CRS84",
-				},
-			},
-			features: highPoint_features,
-		};
 
 		// load map
 		map = new maplibregl.Map({
@@ -157,70 +91,11 @@
 				source: "historic-centre",
 				paint: {
 					"line-color": "#1E3765",
-					"line-width": 6,
+					"line-width": 2,
 				},
 			});
-			map.addSource("high-points", {
-				type: "geojson",
-				data: highPoint_geojson,
-			});
-
-			map.addLayer({
-				id: "high-points-layer",
-				type: "circle",
-				source: "high-points",
-				paint: {
-					"circle-color": "#012B5C",
-					"circle-radius": 6,
-					"circle-stroke-color": "white",
-					"circle-stroke-width": 2,
-				},
-			});
-
-			map.addLayer({
-				id: "high-points-layer-select",
-				type: "circle",
-				source: "high-points",
-				filter: ["==", ["get", "ID"], 8],
-				paint: {
-					"circle-color": "#012B5C",
-					"circle-radius": 6,
-					"circle-stroke-color": "#F1C500",
-					"circle-stroke-width": 4,
-				},
-			});
-			map.on("mouseenter", "high-points-layer", () => {
-				map.getCanvas().style.cursor = "pointer";
-			});
-
-			map.on("mouseleave", "high-points-layer", () => {
-				map.getCanvas().style.cursor = "";
-			});
-
-			map.on("click", "high-points-layer", (e) => {
-				console.log(e.features[0]);
-				id = e.features[0].properties.ID;
-				placeName = e.features[0].properties.NAME;
-				address = e.features[0].properties.ADDRESS;
-				description = e.features[0].properties.DESCRIPTION;
-				photo_url = e.features[0].properties.PHOTO_URL;
-				console.log(photo_url)
-				map.setFilter("high-points-layer-select", [
-					"==",
-					["get", "ID"],
-					id,
-				]);
-				// Calculate offset to position the popup next to the clicked point
-				popup = true;
-			});
-			/*
-			updateLayerVisibility('hospitals', $showHospitals);
-			updateLayerVisibility('cooling-cnts', $showCooling);
-			updateLayerVisibility('pool-locs', $showPool);
-			updateLayerVisibility('AptNoAir', $showAptNoAir);
-
-			map.setLayoutProperty('Vulnerdata', 'visibility', 'visible');
-		*/
+			
+		
 		});
 	});
 
@@ -281,15 +156,14 @@
 		margin: 0 auto;
 		max-width: 960px;
 		width: 100%;
-		background-color: #01a18967;
-		border-top: solid 1px var(--e-global-color-darkblue);
-		/* border-bottom: solid 1px var(--e-global-color-darkblue); */
+		background-color:  var(--e-global-color-white);
+		border-top: solid 1px var(--e-global-color-green);
 	}
 
 	#map-title {
 		margin: 0 auto;
 		height: 38px;
-		border-bottom: solid 1px var(--e-global-color-darkblue);
+		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
 	#map-title h3 {
@@ -305,7 +179,7 @@
 	#cellular-map {
 		width: 100%;
 		height: 550px;
-		border-bottom: solid 1px var(--e-global-color-darkblue);
+		border-bottom: solid 1px var(--e-global-color-green);
 		position: relative;
 		cursor: hand;
 	}
