@@ -49,19 +49,22 @@
 		return result;
 	}
 
+	function getGoogleDrivePhoto(url){
+		var urls = url.split('/')
+		var image_url = `https://drive.google.com/uc?export=view&id=${urls[urls.length -2]}`
+		return image_url
+	}
+
 	onMount(async () => {
 		let protocol = new pmtiles.Protocol();
 		maplibregl.addProtocol("pmtiles", protocol.tile);
 
 		// load csv data
 		var highPoints = await processCsv(highPoint_points);
-		console.log(highPoints);
 
 		// convert to geojson
 		highPoints.data.forEach((point) => {
-			console.log(point);
-			console.log(point.Address);
-			console.log(point.Description);
+
 			highPoint_features.push({
 				type: "Feature",
 				properties: {
@@ -222,7 +225,7 @@
 				address = e.features[0].properties.ADDRESS;
 				description = e.features[0].properties.DESCRIPTION;
 				photo_url = e.features[0].properties.PHOTO_URL;
-
+				console.log(photo_url)
 				map.setFilter("high-points-layer-select", [
 					"==",
 					["get", "ID"],
@@ -312,10 +315,21 @@
 			{/if}
 		</div>
 		<div id="place-photo">
+			{#if placeName == "meow"}
 			<img
-				src="/eddit/high-point/place-becky-and-marys.png"
+			src="https://live.staticflickr.com/4782/40162484924_b7cd1ca809.jpg"
+			width="500"
+			height="333"
+			alt="DSC_2920"
+		/>
+			{:else}
+			<img
+				src= {photo_url}
+				width="500"
+				height="333"
 				alt="Your Image"
 			/>
+			{/if}
 			<!--<img src={photo_url} alt={placeName}>-->
 		</div>
 	</div>
@@ -349,6 +363,7 @@
 
 	#map {
 		width: 100%;
+		top: 0px;
 		/* border-top: 1px solid var(--brandBlack); */
 		/* border-bottom: 1px solid var(--brandBlack); */
 		height: 350px;
@@ -397,6 +412,7 @@
 		max-width: 480px;
 		max-height: 270px;
 		border-left: solid 1px var(--e-global-color-green);
+		margin: 5px;
 	}
 	#place-photo img {
 		max-width: 480px;

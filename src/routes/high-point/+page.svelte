@@ -2,7 +2,8 @@
 	import Top from "../../lib/TopSofC.svelte";
 	import { CompareImage } from "svelte-compare-image";
 	import "../../assets/global-styles.css";
-	import Map from "../../lib/Map.svelte";
+	import Map from "../../lib/high-points-map.svelte";
+	import Cellular from "../../lib/cellular-data.svelte"
 	import topImage from "../../assets/high-point-top-image.png";
 </script>
 
@@ -32,7 +33,6 @@
 			pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 			culpa qui officia deserunt mollit anim id est laborum.
 		</p>
-
 		<p>
 			Sollicitudin aliquam ultrices sagittis orci a scelerisque purus.
 			Vulputate sapien nec sagittis aliquam. Purus semper eget duis at.
@@ -44,20 +44,15 @@
 			amet. Est velit egestas dui id ornare. Urna nunc id cursus metus
 			aliquam eleifend.
 		</p>
-
 	</div>
 
 	<div class="image-mid-width">
-		<img src="{topImage}" alt="Your Image">
+		<img src={topImage} alt="Your Image" />
 		<p>Caption and/or source of image --- placeholder for now</p>
 	</div>
 
 	<div class="text">
-
-
-		<h2>
-			Section Heading
-		</h2>
+		<h2>Section Heading</h2>
 		<p>
 			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi
 			quis hendrerit dolor magna eget est. Vivamus at augue eget arcu
@@ -93,11 +88,7 @@
 	</div>
 
 	<div class="text">
-
-
-		<h2>
-			Section Heading
-		</h2>
+		<h2>Section Heading</h2>
 		<p>
 			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi
 			quis hendrerit dolor magna eget est. Vivamus at augue eget arcu
@@ -125,11 +116,7 @@
 	</div>
 
 	<div class="text">
-
-
-		<h2>
-			Section Heading
-		</h2>
+		<h2>Section Heading</h2>
 		<p>
 			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi
 			quis hendrerit dolor magna eget est. Vivamus at augue eget arcu
@@ -141,6 +128,13 @@
 			Tempor commodo ullamcorper a lacus. Diam phasellus vestibulum lorem
 			sed.
 		</p>
+	</div>
+
+	<div class="map">
+		<Cellular/>
+	</div>
+
+	<div class="text">
 		<p>
 			Quisque id diam vel quam elementum pulvinar etiam non quam. Faucibus
 			pulvinar elementum integer enim neque volutpat. Consequat nisl vel
@@ -151,11 +145,7 @@
 			Urna nunc id cursus metus aliquam eleifend mi in nulla.
 		</p>
 	</div>
-	
-	
 </main>
 
 <style>
-
-
 </style>
