@@ -26,6 +26,9 @@
 
 	<div class="text">
 		<p>
+			<b>Under construction! :) Please do not share without permission</b>
+		</p>
+		<p>
 			High Point is a beacon for other small cities because each of our unique neighborhoods – from downtown to Washington Street – has what they need to succeed. We have diverse economic opportunities, thriving businesses, an abundance of housing, and transportation to support people as they move around the city. For our community to succeed, everyone must succeed. That’s why High Point is redeveloping and reinvesting in Washington Street now as a down payment toward that future. 
 		</p>
 		<p>

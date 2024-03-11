@@ -261,6 +261,9 @@
 	.legend-label {
 		fill: var(--e-global-color-darkblue);
 	}
+	#legend rect {
+		opacity: 0.65
+	}
 
 	#cellular-map {
 		width: 100%;
