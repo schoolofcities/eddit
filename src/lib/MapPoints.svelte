@@ -22,8 +22,8 @@
 
 	
 	const maxBounds = [
-		[-80.09986677882517, 35.91241078847026], // SW coords
-		[-79.92419836642132, 36.089009278223976] // NE coords
+		[-80.1, 35.9], // SW coords
+		[-79.9, 36.1] // NE coords
 	];
 
 	// load the google sheet csv data
@@ -381,8 +381,6 @@
 		margin: 0px;
 		margin-bottom: 10px;
 		opacity: 0.8;
-
-		
 	}
 
 	#place-photo img {
@@ -395,7 +393,7 @@
 	@media screen and (max-width: 960px) {
 		#place-text{
 			margin: 0 auto;
-			max-width: 600px;
+			max-width: 520px;
 		}
 		#info-wrapper{
 			display: flex;
