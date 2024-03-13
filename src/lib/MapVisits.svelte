@@ -18,12 +18,11 @@
 		feature.properties.daily_stops = daily_stops;
 	});
 
-	/*
 	const maxBounds = [
-		[-79.771200, 43.440000], // SW coords
-		[-78.914763, 43.930740] // NE coords
-	];*/
-	//
+		[-80.1, 35.9], // SW coords
+		[-79.9, 36.1] // NE coords
+	];
+
 	
 
 	onMount(async () => {
@@ -54,7 +53,7 @@
 			minZoom: 11,
 			bearing: 0,
 			scrollZoom: true,
-			//maxBounds: maxBounds,
+			maxBounds: maxBounds,
 			attributionControl: false,
 		});
 
@@ -171,6 +170,9 @@
 	function zoomOut() {
 		map.zoomOut();
 	}
+	function handleMouseEnter() {
+		map.getCanvas().style.cursor = "pointer";
+	}
 </script>
 
 <div id="map-wrapper">
@@ -190,7 +192,7 @@
 		</div>
 	</div>
 
-	<div id="cellular-map">
+	<div id="cellular-map" on:mouseenter={handleMouseEnter}>
 		<div class="map-zoom-wrapper">
 			<div on:click={zoomIn} class="map-zoom">
 				<svg width="24" height="24">

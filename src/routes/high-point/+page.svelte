@@ -3,7 +3,7 @@
 	import { CompareImage } from "svelte-compare-image";
 	import "../../assets/global-styles.css";
 	import Map from "../../lib/MapPoints.svelte";
-	import Cellular from "../../lib/MapVisits.svelte"
+	import Cellular from "../../lib/MapVisits.svelte";
 	import topImage from "../../assets/high-point-top-image.png";
 </script>
 
@@ -19,43 +19,45 @@
 <main>
 	<div class="top-image" style="background-image: url('{topImage}');">
 		<div class="title">
-			<h1>High Point Story Map Title</h1>
-			<h3>A Short Subtitle</h3>
+			<h1>Reinvesting in Washington Street</h1>
+			<h3>Honoring High Point's Trailblazing Legacy</h3>
 		</div>
 	</div>
 
 	<div class="text">
 		<p>
 			<b>Under construction! :) Please do not share without permission</b>
+			<br>
+			<i>This story map includes draft placeholder language to give you a sense of how this can be used. Please feel free to personalize or reuse language from the case guide.</i>
+			<br>
+			<br><br>
+			<br>
 		</p>
 		<p>
-			High Point is a beacon for other small cities because each of our unique neighborhoods – from downtown to Washington Street – has what they need to succeed. We have diverse economic opportunities, thriving businesses, an abundance of housing, and transportation to support people as they move around the city. For our community to succeed, everyone must succeed. That’s why High Point is redeveloping and reinvesting in Washington Street now as a down payment toward that future. 
+			Our city of High Point, North Carolina, is a beacon for other small cities because each of our unique neighborhoods is rich in community, history, and economic opportunities. Parts of our city have experienced significant economic growth in the last several years. Yet, for our community to truly succeed, everyone must succeed. That’s why High Point is redeveloping and reinvesting in Washington Street now as a down payment toward that future.
 		</p>
-		<p>
-			We as High Pointers have experienced, and invested in, tremendous growth across our city in the last several years. To ensure that all of our residents can thrive, we need to make sure this growth and  opportunity is equitable across our city. If our Downtown is thriving but other parts of our city are not, we need to ask, why? If we don’t act now to reinvest in Washington Street, we risk creating a larger divide in our community and losing the opportunity to tap into its amazing potential. We want equitable revitalization across the City of High Point. 
-		</p>
-		
 	</div>
 
 	<div class="image-mid-width">
 		<img src="/eddit/high-point/high-point-ref-map.png" alt="Your Image" />
-		<p class="caption"><b>Location of Washington Street in High Point, NC.</p>
-	</div>
-
-	
-
-	<div class="text">
-		<p>
-			Washington Street has a unique and rich history in High Point. 
+		<p class="caption">
+			<b>Location of Washington Street in High Point, NC.</b>
 		</p>
 		
+	</div>
+
+	<div class="text">
+		<p>Washington Street has a unique and rich history in High Point.</p>
+
 		<p>
-			Shortly after High Point was incorporated in the mid 1800s, Washington Street took shape as a cultural and business hub in High Point, a vibrant ‘Main Street’ or ‘Black Wall Street’ of High Point’s African American community. According to Visit High Point, Washington Street boasted 18 black-owned businesses by 1910, and just over 50 by 1940, most of which were concentrated along a few blocks. The amenities of Washington Street included churches, hotels, law and real estate offices, dentists, pharmacists, entertainment venues, and meeting spaces. “Despite the inequalities of the past, Washington Street became a bustling center of African American education, business, worship, entertainment, and community.” 
+			Shortly after the City of High Point was incorporated in the mid 1800s, Washington Street took shape as a cultural and economic hub, and a vibrant Main Street for High Point’s African American community - sometimes referred to as High Point’s “Black Wall Street”. The corridor boasted 18 black-owned businesses by 1910, and just over 50 by 1940, most of which were concentrated along a few blocks. Establishments along Washington Street included hotels, law and real estate offices, dentists, pharmacists, entertainment venues, meeting spaces, as well as several churches. Even in the face of the inequalities of the past, Washington Street was a vibrant center for African American community and business in High Point.
 
 		</p>
 		<p>
-			Although Washington Street has faced hurdles since the 1960s - including disruptive highway construction, the closure of a key nearby educational institution, and broader disinvestment as integration occurred in the late 1960s and 1970s, today, Washington Street remains a deeply valuable place in High Point. 
-
+			Today, Washington Street remains a deeply valuable place in High Point. 
+			Although this corridor and the surrounding area faced various hurdles in the second half of the 20th century, including disruptive highway construction, the closure of a key educational institution, and broader disinvestment that occurred as integration took place in the late 1960s and 1970s, it represents to this day an essential part of High Point’s story. 
+			High Pointers are leading amazing work in this area. Committed organizations and local businesses are working to serve the community through youth programming and education, local food production, entertainment and community spaces, and restaurants. The people of Washington Street continue to anchor this district as an important place of heritage and community in High Point. 
+			Thanks to active efforts by community members, Washington Street was also officially recognized as a National Historic place in 2010. 
 		</p>
 	</div>
 
@@ -69,19 +71,30 @@
 			--slider-color="white"
 			--slider-width="0.17rem"
 		/>
-		<p class="caption"><b>Aerial view of Washington Street in 1958 and 2023</b> / Source: City of High Point, ESRI</p>
+		<p class="caption">
+			<b>Aerial view of Washington Street in 1958 and 2023</b> / Source: City
+			of High Point, ESRI
+		</p>
 	</div>
 
 	<div class="image-mid-width">
-		<img src="/eddit/high-point/img-koonts-mcghee-drug-store.png" alt="Your Image" />
-		<p class="caption"><b>Koonts-McGhee Drug Store Building, 1954 and 2023</b> / Source: ...</p>
+		<img
+			src="/eddit/high-point/img-koonts-mcghee-drug-store.png"
+			alt="Your Image"
+		/>
+		<p class="caption">
+			<b>Koonts-McGhee Drug Store Building, 1954 and 2023</b> / Source: ...
+		</p>
 	</div>
-
-	
 
 	<div class="text">
 		<p>
-			Today, High Pointers are leading amazing work in this area. Committed organizations and businesses are working to serve the community through youth programming and education, local food production, entertainment and community spaces, and restaurants. The people of Washington Street continue to anchor this district as an important place of heritage and community in High Point. 
+			Today, High Pointers are leading amazing work in this area.
+			Committed organizations and businesses are working to serve the
+			community through youth programming and education, local food
+			production, entertainment and community spaces, and restaurants. The
+			people of Washington Street continue to anchor this district as an
+			important place of heritage and community in High Point.
 		</p>
 	</div>
 
@@ -91,97 +104,88 @@
 
 	<div class="text">
 		<p>
-			Washington Street is strategically located between Downtown and High Point University, two areas of the city that have seen new development activity and reinvestment in recent years. Given its strategic location between these areas, Washington Street and its surrounding neighborhood has great potential to also participate in -- and importantly also benefit from -- this revitalization. 
+			Washington Street is located between Downtown and High Point University, two areas of the city that have seen renewed activity, growth, and reinvestment in recent years. 
+			Given this strategic location, there is great potential for Washington Street and its surrounding neighborhood to be part of this ongoing revitalization. 
 		</p>
-		<h2>Investment</h2>
 		<p>
-			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi
-			quis hendrerit dolor magna eget est. Vivamus at augue eget arcu
-			dictum varius. Ac placerat vestibulum lectus mauris ultrices eros in
-			cursus turpis. Fusce ut placerat orci nulla. Et odio pellentesque
-			diam volutpat commodo sed egestas egestas fringilla. Risus sed
-			vulputate odio ut enim blandit volutpat. Enim diam vulputate ut
-			pharetra sit amet aliquam id diam. Ut ornare lectus sit amet est.
-			Tempor commodo ullamcorper a lacus. Diam phasellus vestibulum lorem
-			sed.
+			<b>Downtown:</b>
+		</p>
+		<p>
+			Downtown’s revitalization has been underway thanks to private and public reinvestment, with the City’s goal being to draw both residents and visitors all year round. 
+			Two main projects helped catalyze this transformation: one is the Truist Point Stadium, which opened in 2019 and is home to the Rockers baseball team and the Carolina Core FC soccer team, and the other is Congdon Yards, an adaptive reuse of two former mill buildings that are now home to a an innovative design and business center. Congdon Yards offers a mix of offices, meeting rooms, coworking space, small-scale manufacturing/woodworking space, a café and restaurant, and other event spaces.
+			These projects are the result of a highly collaborative effort between the local city government and multiple business and community leaders. 
+			Other businesses have opened in the area since then, such as Plank Street Tavern and Stock + Grain Food Hall. 
+		</p>
+		<div class="image-small-width">
+			<img
+				src="/eddit/high-point/img-congdon-yards.png"
+				alt="Your Image"
+			/>
+			<p class="caption">
+				Image Source: www.congdonyards.com
+			</p>
+		</div>
+		<p>
+			<b>High Point University:</b>
+		</p>
+		<p>
+			High Point University has grown exponentially since 2005, under the leadership of the current president, Dr. Qubein. The campus has grown from about 90 acres and 1,500 students in the 1990s, to over 400 acres and over 5,000 students today, including new amenities that serve the campus and the community, such as a new arena and conference center.
 		</p>
 	</div>
 
 	<div class="text">
 		<h2>Mobility Data</h2>
 		<p>
-			Cell phone data can be used to track activity in a more granular way that other traditional datasets. By tracking the movement of individuals over time and across neighborhoods, we can pick up on trends, such as hubs of activity, or where people are coming from or going to, or more generally get a sense for how many visitors to other areas of the city could be directed to Washington Street for example.  
+			Cell phone data can be used to track activity in a more granular way that other traditional datasets. By tracking the movement of individuals over time or across neighborhoods, we can pick up on trends, such as hubs of activity, or where people are coming from or going to.
+
 		</p>
 		<p>
-			As a first example, the map below shows activity around Washington Street
+			As an example, the map below shows activity around Washington Street. The concentration of activity around Downtown and High Point University shows the need and potential to attract more residents and visitors to Washington Street, to ensure that we have vibrant economic opportunities in all of our neighborhoods.
 		</p>
 	</div>
 
 	<div class="map">
-		<Cellular/>
+		<Cellular />
 		<p class="caption">Mobility Data Source: Spectus</p>
 	</div>
 
-	<div class="text">
+	<!-- <div class="text">
 		<p>
-			Quisque id diam vel quam elementum pulvinar etiam non quam. Faucibus
-			pulvinar elementum integer enim neque volutpat. Consequat nisl vel
-			pretium lectus. Eleifend quam adipiscing vitae proin sagittis nisl
-			rhoncus. Tincidunt dui ut ornare lectus sit amet est. Eu augue ut
-			lectus arcu bibendum at varius vel pharetra. Non diam phasellus
-			vestibulum lorem sed risus. Diam sollicitudin tempor id eu nisl.
-			Urna nunc id cursus metus aliquam eleifend mi in nulla.
-		</p>
-	</div>
-
-	
-
-	<div class="text">
-		<p>
-			Quisque id diam vel quam elementum pulvinar etiam non quam. Faucibus
-			pulvinar elementum integer enim neque volutpat. Consequat nisl vel
-			pretium lectus. Eleifend quam adipiscing vitae proin sagittis nisl
-			rhoncus. Tincidunt dui ut ornare lectus sit amet est. Eu augue ut
-			lectus arcu bibendum at varius vel pharetra. Non diam phasellus
-			vestibulum lorem sed risus. Diam sollicitudin tempor id eu nisl.
-			Urna nunc id cursus metus aliquam eleifend mi in nulla.
+			Insert example of event activity here :)
 		</p>
 	</div>
 
 	<div class="image-mid-width">
-		<img src="/eddit/high-point/location-12-and-i-still-rise.png" alt="Your Image" />
+		<img
+			src="/eddit/high-point/location-12-and-i-still-rise.png"
+			alt="Your Image"
+		/>
 		<p class="caption">Caption and source of image</p>
-	</div>
-
+	</div> -->
 
 	<div class="text">
-		<h2>TRHIVE</h2>
+		<h2>Thrive High Point</h2>
 		<p>
-			High Point has already invested deeply in local entrepreneurs, innovators, and makers through the Thrive High Point program, which is run by the City’s Chamber of Commerce. Through business coaching, networking, and financial support, a diverse set of local entrepreneurs from across the city have been able to establish businesses in spite of the barriers that women and people of color often face. Many of these businesses are reaching a point where a brick-and-mortar space would allow them to grow and plant roots and build economic opportunity in High Point. These businesses are well poised to contribute their strengths and innovation to the revitalization of Washington Street. 
+			Our community has already invested deeply in local entrepreneurs and innovators through the Thrive High Point program, which began in 2021 and is run by the City’s Chamber of Commerce. 
+			Through business coaching, networking, and financial support, diverse entrepreneurs - including women and entrepreneurs of color from across the city - have been supported in establishing or growing their business. Over 500 entrepreneurs have participated in the Thrive High Point program since 2021. 
+			Some of these businesses are reaching a point where a brick-and-mortar space would allow them to continue growing, planting deeper roots and building greater economic opportunities in High Point. 
+			These businesses are well poised to contribute their strengths to the revitalization of Washington Street. 
 		</p>
-		<h3>
-			What are you hoping to gain by joining THRIVE?
-		</h3>
+		<h3>What are you hoping to gain by joining Thrive?</h3>
 		<div class="image-small-width">
-			<img src="/eddit/high-point/img-thrive-hope-to-gain.png" alt="Your Image" />
+			<img
+				src="/eddit/high-point/img-thrive-hope-to-gain.png"
+				alt="Your Image"
+			/>
 		</div>
-		<h3>
-			How has THRIVE helped your business?
-		</h3>
+		<h3>How has Thrive helped your business?</h3>
 		<div class="image-small-width">
-			<img src="/eddit/high-point/img-thrive-how-has-helped.png" alt="Your Image" />
+			<img
+				src="/eddit/high-point/img-thrive-how-has-helped.png"
+				alt="Your Image"
+			/>
 		</div>
-		<p>
-			Vitae tortor condimentum lacinia quis vel eros donec ac odio. Mi quis hendrerit dolor magna eget est. Vivamus at augue eget arcu dictum varius. Ac placerat vestibulum lectus mauris ultrices eros in cursus turpis. Fusce ut placerat orci nulla. Et odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Risus sed vulputate odio ut enim blandit volutpat. Enim diam vulputate ut pharetra sit amet aliquam id diam. Ut ornare lectus sit amet est. Tempor commodo ullamcorper a lacus. Diam phasellus vestibulum lorem sed.
-		</p>
 	</div>
-
-	
-
-
-
-	
-
 </main>
 
 <style>

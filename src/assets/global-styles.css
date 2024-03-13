@@ -39,7 +39,7 @@
 	--e-global-color-darkblue: #012B5C;
 	--e-global-color-lightblue: #6EC6EA;
 	--e-global-color-black: #252525;
-	--e-global-color-yellow: #F4D35E;
+	--e-global-color-yellow: #f5d45e;
 	--e-global-color-red: #DC4732;
 	--e-global-color-green: #01A188;
 	--e-global-color-lightgrey: #F0F0F0;
@@ -83,17 +83,24 @@ main {
 .title {
 	margin: 0 auto;
 	padding: 10px;
-	max-width: 600px;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	max-width: 940px;
 	color: white;
 	text-align: center;
 	position: relative;
 	top: 40%;
 	border: solid 1px var(--e-global-color-green);
-	border-radius: 0px;
+	border-radius: 100px;
 	background-color: rgba(255, 255, 255, 0.8);
 }
 .title h3 {
 	text-align: center;
+	margin-top: 10px;
+	padding-top: 10px;
+	margin-bottom: 18px;
+	font-size: 28px;
+	border-top: solid 3px var(--e-global-color-yellow);
 }
 
 .text {
@@ -127,7 +134,7 @@ main {
 	max-height: auto;
 	height: auto; 
 	margin: 0 auto;
-	opacity: 0.75;
+	opacity: 0.85;
 }
 .image-small-width:hover {
 	opacity: 1;
@@ -173,7 +180,7 @@ h2 {
 h3 {
 	text-align: left;
 	font-family: TradeGothicBold;
-	font-size: 24px;
+	font-size: 27px;
 	margin-bottom: 5px;
 	/* border-bottom: solid 1px var(--brandGray); */
 	color: var(--e-global-color-green);
@@ -183,8 +190,8 @@ p {
 	font-family: Roboto;
 	color: var(--e-global-color-black);
 	text-align: left;
-	font-size: 16px;
-	line-height: 26px;
+	font-size: 18px;
+	line-height: 28px;
 }
 
 a {

@@ -20,11 +20,11 @@
 	const highPoint_points =
 		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=0&single=true&output=csv";
 
-	/*
+	
 	const maxBounds = [
-		[-79.771200, 43.440000], // SW coords
-		[-78.914763, 43.930740] // NE coords
-	];*/
+		[-80.1, 35.9], // SW coords
+		[-79.9, 36.1] // NE coords
+	];
 
 	// load the google sheet csv data
 	async function processCsv(csvLink) {
@@ -41,10 +41,10 @@
 		return result;
 	}
 
-	function getGoogleDrivePhoto(url){
-		var urls = url.split('/')
-		var image_url = `https://drive.google.com/uc?export=view&id=${urls[urls.length -2]}`
-		return image_url
+	function getGoogleDrivePhoto(url) {
+		var urls = url.split("/");
+		var image_url = `https://drive.google.com/uc?export=view&id=${urls[urls.length - 2]}`;
+		return image_url;
 	}
 
 	onMount(async () => {
@@ -56,7 +56,6 @@
 
 		// convert to geojson
 		highPoints.data.forEach((point) => {
-
 			highPoint_features.push({
 				type: "Feature",
 				properties: {
@@ -64,7 +63,7 @@
 					ADDRESS: point.Address,
 					NAME: point.Name,
 					DESCRIPTION: point.Description,
-					PHOTO_URL: "/eddit/high-point/" + point.ID_Long + ".png"
+					PHOTO_URL: "/eddit/high-point/" + point.ID_Long + ".png",
 				},
 				geometry: {
 					type: "Point",
@@ -107,10 +106,10 @@
 			center: [-79.997, 35.962],
 			zoom: 15.5,
 			maxZoom: 18,
-			minZoom: 12,
+			minZoom: 13,
 			bearing: 0,
 			scrollZoom: true,
-			//maxBounds: maxBounds,
+			maxBounds: maxBounds,
 			attributionControl: false,
 		});
 
@@ -122,17 +121,16 @@
 		let protoLayers = BaseLayer;
 
 		map.on("load", function () {
-
 			placeName = highPoint_geojson.features[7].properties.NAME;
 			address = highPoint_geojson.features[7].properties.ADDRESS;
 			description = highPoint_geojson.features[7].properties.DESCRIPTION;
 			photo_url = highPoint_geojson.features[7].properties.PHOTO_URL;
 
 			map.addSource("protomaps", {
-			 	type: "vector",
-			 	url: "pmtiles://" + PMTILES_URL,
-			 	//attribution: attributionString,
-			 	//attributionControl: false,
+				type: "vector",
+				url: "pmtiles://" + PMTILES_URL,
+				//attribution: attributionString,
+				//attributionControl: false,
 			});
 
 			map.addSource("esri-sat", {
@@ -149,15 +147,13 @@
 				source: "esri-sat",
 				paint: {
 					"raster-saturation": 0,
-					"raster-opacity": 0.5
-				}
+					"raster-opacity": 0.5,
+				},
 			});
 
 			protoLayers.forEach((e) => {
-			 	map.addLayer(e);
+				map.addLayer(e);
 			});
-
-
 
 			map.addSource("historicCentre", {
 				type: "geojson",
@@ -202,7 +198,7 @@
 					"circle-stroke-width": 4,
 				},
 			});
-			map.on("mouseenter", "high-points-layer", () => {
+			map.on("mouseenter", "*", () => {
 				map.getCanvas().style.cursor = "pointer";
 			});
 
@@ -226,7 +222,6 @@
 				popup = true;
 				console.log(photo_url);
 			});
-
 		});
 	});
 
@@ -237,9 +232,9 @@
 	function zoomOut() {
 		map.zoomOut();
 	}
-
-	
-
+	function handleMouseEnter() {
+		map.getCanvas().style.cursor = "pointer";
+	}
 </script>
 
 <div id="map-wrapper">
@@ -247,7 +242,7 @@
 		<h3>Washington Street Map</h3>
 	</div>
 
-	<div id="map">
+	<div id="map" on:mouseenter={handleMouseEnter}>
 		<div class="map-zoom-wrapper">
 			<div on:click={zoomIn} class="map-zoom">
 				<svg width="24" height="24">
@@ -285,28 +280,21 @@
 	</div>
 
 	<div id="info-wrapper">
+		
 		<div id="switch-place"></div>
+
 		<div id="place-text">
 			<h3>{placeName}</h3>
 			<p><i>{address}</i></p>
 			<p>{description}</p>
 		</div>
+
+
 		<div id="place-photo">
-			{#if placeName == "meow"}
 			<img
-			src={photo_url}
-			width="500"
-			height="333"
-			alt="DSC_2920"
-		/>
-			{:else}
-			<img
-				src= {photo_url}
-				width="500"
-				height="333"
-				alt="Photo of {placeName}"
-			/>
-			{/if}
+					src={photo_url}
+					alt="Photo of {placeName}"
+				/>
 			<!--<img src={photo_url} alt={placeName}>-->
 		</div>
 	</div>
@@ -394,9 +382,43 @@
 		margin-bottom: 10px;
 		opacity: 0.8;
 	}
+
 	#place-photo img {
 		max-width: 480px;
+		width: 500px;
+		height: 333px;
+
 	}
+
+	@media screen and (max-width: 960px) {
+		#place-text{
+			margin: 0 auto;
+			max-width: 520px;
+		}
+		#info-wrapper{
+			display: flex;
+			flex-wrap: wrap;
+		}
+		#place-photo {
+		overflow: hidden;
+		max-width: 600px;;
+		border: solid 2px "red";
+		margin: 0 auto;
+		opacity: 0.8;
+		padding-bottom: 60px;
+		margin-bottom: 10px;
+
+		
+	}
+		#place-photo img {
+		max-width: 600px;
+		padding-bottom: 10px;
+
+	}
+}
+	
+
+
 
 	.map-zoom-wrapper {
 		position: absolute;
@@ -434,5 +456,4 @@
 		cursor: pointer;
 		background-color: var(--brandYellow);
 	}
-
 </style>
