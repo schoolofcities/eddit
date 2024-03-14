@@ -105,7 +105,7 @@ main {
 
 .text {
 	background-color: none;
-	max-width: 600px;
+	max-width: 640px;
 	margin: 0 auto;
 	position: relative;
 	padding-left: 15px;
@@ -130,7 +130,7 @@ main {
 }
 
 .image-small-width {
-	max-width: 600px; 
+	max-width: 640px; 
 	max-height: auto;
 	height: auto; 
 	margin: 0 auto;
@@ -141,7 +141,7 @@ main {
 }
 .image-small-width img {
     display: block; 
-    max-width: 600px;
+    max-width: 640px;
 	width: 100%;
     height: auto; 
 	border-top: solid 1px var(--e-global-color-green);
