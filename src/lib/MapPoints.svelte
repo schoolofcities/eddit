@@ -20,10 +20,9 @@
 	const highPoint_points =
 		"https://docs.google.com/spreadsheets/d/e/2PACX-1vTL72VgBythiJPdpp5iL-0KQjdmdw9UsfhJIRAYAqQjSIsh212Fw92HBOZX3JTmdpGgbCErukwYRQ3I/pub?gid=0&single=true&output=csv";
 
-	
 	const maxBounds = [
 		[-80.1, 35.9], // SW coords
-		[-79.9, 36.1] // NE coords
+		[-79.9, 36.1], // NE coords
 	];
 
 	// load the google sheet csv data
@@ -71,6 +70,7 @@
 				},
 			});
 		});
+
 		// create geojson
 		var highPoint_geojson = {
 			type: "FeatureCollection",
@@ -125,7 +125,7 @@
 			address = highPoint_geojson.features[7].properties.ADDRESS;
 			description = highPoint_geojson.features[7].properties.DESCRIPTION;
 			photo_url = highPoint_geojson.features[7].properties.PHOTO_URL;
-
+			id = highPoint_geojson.features[7].properties.ID;
 			map.addSource("protomaps", {
 				type: "vector",
 				url: "pmtiles://" + PMTILES_URL,
@@ -235,6 +235,45 @@
 	function handleMouseEnter() {
 		map.getCanvas().style.cursor = "pointer";
 	}
+	function getNextImage() {
+		if (
+			id < highPoint_features[highPoint_features.length - 1].properties.ID
+		) {
+			id = id + 1;
+
+			// get the info for the new ID
+			var filtered = highPoint_features.filter(function (a) {
+				return +a.properties.ID == id;
+			});
+			placeName = filtered[0].properties.NAME;
+			address = filtered[0].properties.ADDRESS;
+			description = filtered[0].properties.DESCRIPTION;
+			photo_url = filtered[0].properties.PHOTO_URL;
+		} else {
+			id = id;
+		}
+
+		map.setFilter("high-points-layer-select", ["==", ["get", "ID"], id]);
+	}
+	function getPreviousImage() {
+		if (id > 1) {
+			id = id - 1;
+
+			// get the info for the new ID
+			var filtered = highPoint_features.filter(function (a) {
+				return +a.properties.ID == id;
+			});
+			placeName = filtered[0].properties.NAME;
+			address = filtered[0].properties.ADDRESS;
+			description = filtered[0].properties.DESCRIPTION;
+			photo_url = filtered[0].properties.PHOTO_URL;
+		} else {
+			id = id;
+			console.log(id);
+		}
+
+		map.setFilter("high-points-layer-select", ["==", ["get", "ID"], id]);
+	}
 </script>
 
 <div id="map-wrapper">
@@ -280,21 +319,56 @@
 	</div>
 
 	<div id="info-wrapper">
-		
 		<div id="switch-place"></div>
 
 		<div id="place-text">
 			<h3>{placeName}</h3>
 			<p><i>{address}</i></p>
 			<p>{description}</p>
+			<div on:click={getPreviousImage} class="items">
+				<svg width="24" height="24">
+					<line
+						x1="19"
+						y1="6"
+						x2="5"
+						y2="13"
+						stroke="#4d4d4d"
+						stroke-width="4"
+					/>
+					<line
+						x1="5"
+						y1="12"
+						x2="19"
+						y2="20"
+						stroke="#4d4d4d"
+						stroke-width="4"
+					/>
+				</svg>
+			</div>
+			<div on:click={getNextImage} class="items">
+				<svg width="24" height="24">
+					<line
+						x1="5"
+						y1="6"
+						x2="19"
+						y2="13"
+						stroke="#4d4d4d"
+						stroke-width="4"
+					/>
+					<line
+						x1="19"
+						y1="12"
+						x2="5"
+						y2="20"
+						stroke="#4d4d4d"
+						stroke-width="4"
+					/>
+				</svg>
+			</div>
 		</div>
 
-
 		<div id="place-photo">
-			<img
-					src={photo_url}
-					alt="Photo of {placeName}"
-				/>
+			<img src={photo_url} alt="Photo of {placeName}" />
 			<!--<img src={photo_url} alt={placeName}>-->
 		</div>
 	</div>
@@ -387,38 +461,31 @@
 		max-width: 480px;
 		width: 500px;
 		height: 333px;
-
 	}
 
 	@media screen and (max-width: 960px) {
-		#place-text{
+		#place-text {
 			margin: 0 auto;
 			max-width: 520px;
 		}
-		#info-wrapper{
+		#info-wrapper {
 			display: flex;
 			flex-wrap: wrap;
 		}
 		#place-photo {
-		overflow: hidden;
-		max-width: 600px;;
-		border: solid 2px "red";
-		margin: 0 auto;
-		opacity: 0.8;
-		padding-bottom: 60px;
-		margin-bottom: 10px;
-
-		
-	}
+			overflow: hidden;
+			max-width: 600px;
+			border: solid 2px "red";
+			margin: 0 auto;
+			opacity: 0.8;
+			padding-bottom: 60px;
+			margin-bottom: 10px;
+		}
 		#place-photo img {
-		max-width: 600px;
-		padding-bottom: 10px;
-
+			max-width: 600px;
+			padding-bottom: 10px;
+		}
 	}
-}
-	
-
-
 
 	.map-zoom-wrapper {
 		position: absolute;
@@ -453,6 +520,38 @@
 		z-index: 2;
 	}
 	.map-zoom:hover {
+		cursor: pointer;
+		background-color: var(--brandYellow);
+	}
+	.items {
+		/* display: block; */
+		/*position: relative;*/
+
+		padding-bottom: 3px;
+
+		font-size: 23px;
+		width: 24px;
+		height: 24px;
+
+		overflow: hidden;
+		overflow-y: hidden;
+
+		background-color: var(--brandWhite);
+		color: var(--brandGray80);
+
+		border: solid 1px var(--brandGray);
+		/*border-radius: 24px;*/
+
+		text-align: center;
+		
+		margin-top: 5px;
+		margin-bottom: 0px;
+		margin-left: 10px;
+		/* margin: 0 auto; */
+		float: left;
+		z-index: 2;
+	}
+	.items:hover {
 		cursor: pointer;
 		background-color: var(--brandYellow);
 	}

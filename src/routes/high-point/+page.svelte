@@ -101,6 +101,9 @@
 	<div class="map">
 		<Map />
 	</div>
+	<p class="caption">
+		<b>Key Places on Washington Street</b> (Map points are clickable)
+	</p>
 
 	<div class="text">
 		<p>
