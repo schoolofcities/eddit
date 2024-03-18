@@ -4,13 +4,13 @@
 }
 
 @font-face {
-	font-family: RobotoRegular;
-	src: url("roboto/Roboto-Regular.ttf");
+	font-family: Roboto;
+	src: url("Roboto/Roboto-Regular.ttf");
 }
 
 @font-face {
 	font-family: RobotoBold;
-	src: url("roboto/Roboto-Bold.ttf");
+	src: url("Roboto/Roboto-Bold.ttf");
 }
 
 @font-face {

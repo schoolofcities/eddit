@@ -40,25 +40,36 @@
 		return result;
 	}
 
-	function getGoogleDrivePhoto(url) {
-		var urls = url.split("/");
-		var image_url = `https://drive.google.com/uc?export=view&id=${urls[urls.length - 2]}`;
-		return image_url;
-	}
-
 	onMount(async () => {
 		let protocol = new pmtiles.Protocol();
 		maplibregl.addProtocol("pmtiles", protocol.tile);
 
 		// load csv data
 		var highPoints = await processCsv(highPoint_points);
+		console.log(highPoints);
+		
+		highPoints.data.sort(function (a, b) {
+			const nameA = (a.Name || "").toUpperCase();
+			const nameB = (b.Name || "").toUpperCase();
+			if (nameA < nameB) {
+				return -1;
+			}
+			if (nameA > nameB) {
+				return 1;
+			}
+			return 0;
+		});
+
+		for (let i = 0; i < highPoints.data.length; i++) {
+			console.log(highPoints.data[i].Name);
+		}
 
 		// convert to geojson
-		highPoints.data.forEach((point) => {
+		highPoints.data.forEach((point, i) => {
 			highPoint_features.push({
 				type: "Feature",
 				properties: {
-					ID: point.ID,
+					ID: i + 1,
 					ADDRESS: point.Address,
 					NAME: point.Name,
 					DESCRIPTION: point.Description,
@@ -70,7 +81,7 @@
 				},
 			});
 		});
-
+		console.log(highPoint_features)
 		// create geojson
 		var highPoint_geojson = {
 			type: "FeatureCollection",
@@ -121,11 +132,11 @@
 		let protoLayers = BaseLayer;
 
 		map.on("load", function () {
-			placeName = highPoint_geojson.features[7].properties.NAME;
-			address = highPoint_geojson.features[7].properties.ADDRESS;
-			description = highPoint_geojson.features[7].properties.DESCRIPTION;
-			photo_url = highPoint_geojson.features[7].properties.PHOTO_URL;
-			id = highPoint_geojson.features[7].properties.ID;
+			placeName = highPoint_geojson.features[0].properties.NAME;
+			address = highPoint_geojson.features[0].properties.ADDRESS;
+			description = highPoint_geojson.features[0].properties.DESCRIPTION;
+			photo_url = highPoint_geojson.features[0].properties.PHOTO_URL;
+			id = highPoint_geojson.features[0].properties.ID;
 			map.addSource("protomaps", {
 				type: "vector",
 				url: "pmtiles://" + PMTILES_URL,
@@ -190,7 +201,7 @@
 				id: "high-points-layer-select",
 				type: "circle",
 				source: "high-points",
-				filter: ["==", ["get", "ID"], 8],
+				filter: ["==", ["get", "ID"], 1],
 				paint: {
 					"circle-color": "#F4D35E",
 					"circle-radius": 8,
@@ -249,8 +260,10 @@
 			address = filtered[0].properties.ADDRESS;
 			description = filtered[0].properties.DESCRIPTION;
 			photo_url = filtered[0].properties.PHOTO_URL;
+			console.log(id);
 		} else {
-			id = id;
+			id = 1;
+			console.log(id);
 		}
 
 		map.setFilter("high-points-layer-select", ["==", ["get", "ID"], id]);
@@ -267,8 +280,9 @@
 			address = filtered[0].properties.ADDRESS;
 			description = filtered[0].properties.DESCRIPTION;
 			photo_url = filtered[0].properties.PHOTO_URL;
+			console.log(id);
 		} else {
-			id = id;
+			id = highPoint_features[highPoint_features.length - 1].properties.ID;
 			console.log(id);
 		}
 
@@ -543,7 +557,7 @@
 		/*border-radius: 24px;*/
 
 		text-align: center;
-		
+
 		margin-top: 5px;
 		margin-bottom: 0px;
 		margin-left: 10px;
