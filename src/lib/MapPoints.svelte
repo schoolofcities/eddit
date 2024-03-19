@@ -292,10 +292,11 @@
 
 <div id="map-wrapper">
 	<div id="map-title">
-		<h3>Washington Street Map</h3>
+		<h3>Washington Street Historic District</h3>
 	</div>
 
 	<div id="map" on:mouseenter={handleMouseEnter}>
+		
 		<div class="map-zoom-wrapper">
 			<div on:click={zoomIn} class="map-zoom">
 				<svg width="24" height="24">
@@ -333,12 +334,7 @@
 	</div>
 
 	<div id="info-wrapper">
-		<div id="switch-place"></div>
-
-		<div id="place-text">
-			<h3>{placeName}</h3>
-			<p><i>{address}</i></p>
-			<p>{description}</p>
+		<div id="switch-place">
 			<div on:click={getPreviousImage} class="items">
 				<svg width="24" height="24">
 					<line
@@ -346,16 +342,18 @@
 						y1="6"
 						x2="5"
 						y2="13"
-						stroke="#4d4d4d"
+						stroke="#F1F7F7"
 						stroke-width="4"
+						stroke-linecap="round"
 					/>
 					<line
 						x1="5"
-						y1="12"
+						y1="13"
 						x2="19"
 						y2="20"
-						stroke="#4d4d4d"
+						stroke="#F1F7F7"
 						stroke-width="4"
+						stroke-linecap="round"
 					/>
 				</svg>
 			</div>
@@ -366,19 +364,28 @@
 						y1="6"
 						x2="19"
 						y2="13"
-						stroke="#4d4d4d"
+						stroke="#F1F7F7"
 						stroke-width="4"
+						stroke-linecap="round"
 					/>
 					<line
 						x1="19"
-						y1="12"
+						y1="13"
 						x2="5"
 						y2="20"
-						stroke="#4d4d4d"
+						stroke="#F1F7F7"
 						stroke-width="4"
+						stroke-linecap="round"
 					/>
 				</svg>
 			</div>
+		</div>
+
+		<div id="place-text">
+			<h3>{placeName}</h3>
+			<p><i>{address}</i></p>
+			<p>{description}</p>
+			
 		</div>
 
 		<div id="place-photo">
@@ -405,7 +412,7 @@
 	}
 
 	#map-title h3 {
-		width: 300px;
+		width: 420px;
 		margin: 0 auto;
 		margin-top: 5px;
 		margin-bottom: 5px;
@@ -433,7 +440,10 @@
 
 	#switch-place {
 		width: 100%;
-		height: 19px;
+		height: 40px;
+		border-bottom: solid 1px var(--e-global-color-green);
+		margin: 0 auto;
+		margin-bottom: 10px;
 	}
 
 	#place-text {
@@ -550,10 +560,10 @@
 		overflow: hidden;
 		overflow-y: hidden;
 
-		background-color: var(--brandWhite);
+		background-color: var(--e-global-color-green);
 		color: var(--brandGray80);
 
-		border: solid 1px var(--brandGray);
+		border: solid 1px var(--e-global-color-lightblue);
 		/*border-radius: 24px;*/
 
 		text-align: center;

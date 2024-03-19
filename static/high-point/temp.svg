@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="81.28mm" version="1.2" baseProfile="tiny" width="81.28mm" viewBox="0 0 960 960" xmlns:cc="http://creativecommons.org/ns#" xmlns="http://www.w3.org/2000/svg">
+ <defs/>
+ <g stroke-linecap="square" fill="none" stroke-width="1" stroke="black" stroke-linejoin="bevel" fill-rule="evenodd">
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g font-size="45.8333" fill-opacity="1" transform="matrix(1,0,0,1,0,0)" fill="#ffffff" stroke="none" font-family="Ubuntu" font-weight="400" font-style="normal">
+   <path vector-effect="none" d="M-2,-2 L962,-2 L962,962 L-2,962 L-2,-2" fill-rule="evenodd"/>
+  </g>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g font-size="45.8333" fill-opacity="1" transform="matrix(11.811,0,0,11.811,0,0)" fill="#ffffff" stroke="none" font-family="Ubuntu" font-weight="400" font-style="normal">
+   <path vector-effect="none" d="M0,0 L81.28,0 L81.28,81.28 L0,81.28 L0,0" fill-rule="evenodd"/>
+  </g>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g font-size="45.8333" fill-opacity="0" transform="matrix(1,0,0,1,0,0)" fill="#000000" stroke="none" font-family="Ubuntu" font-weight="400" font-style="normal">
+   <rect height="960" x="0" width="960" y="0"/>
+  </g>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" fill-opacity="1" transform="matrix(1,0,0,1,0,0)" fill="#729b6f" stroke-width="3.07087" stroke="#232323" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1">
+   <path vector-effect="none" d="M241.033,392.379 L273.684,369.636 L295.378,357.453 L329.125,405.645 L338.328,403.479 L342.053,404.562 L342.053,420.806 L365.72,446.797 L378.868,447.609 L403.849,448.962 L412.833,456.001 L424.667,471.975 L424.009,474.953 L414.148,480.909 L410.204,485.511 L409.327,494.716 L418.312,507.711 L424.667,521.247 L429.487,519.081 L446.142,512.042 L439.568,498.506 L447.018,493.091 L464.549,490.926 L472.657,497.152 L478.354,517.998 L479.231,526.39 L467.836,530.722 L463.891,537.761 L464.549,544.799 L459.07,548.319 L456.222,554.816 L460.823,574.037 L473.971,592.446 L482.518,610.854 L483.175,626.826 L482.737,656.875 L485.366,677.719 L487.339,704.248 L490.845,705.33 L497.2,691.254 L511.005,690.442 L518.675,692.878 L519.551,700.187 L515.826,710.474 L511.881,717.512 L510.128,775.711 L503.993,776.523 L483.175,775.441 L447.018,773.816 L425.543,773.546 L411.957,772.192 L395.303,775.17 L378.868,777.065 L361.775,773.275 L355.64,771.651 L329.344,765.966 L303.267,755.68 L281.573,744.311 L268.425,739.98 L241.033,729.964 L225.913,722.114 L216.929,711.015 L217.367,703.436 L223.722,693.961 L236.431,683.404 L224.16,668.244 L238.404,655.792 L252.866,642.256 L241.91,620.6 L239.499,604.086 L235.993,590.551 L221.75,569.706 L186.907,525.578 L192.167,519.622 L244.101,481.45 L262.508,507.44 L301.076,479.555 L241.691,396.71 L241.033,392.379" fill-rule="evenodd"/>
+  </g>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="3.07087" stroke="#232323" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1">
+   <path vector-effect="none" d="M646.921,408.527 L657.476,404.959 L660.975,412.853 L653.695,415.834 L652.197,412.401 L640.342,415.759 L641.967,419.837 L642.978,420.177 L644.475,422.4 L644.522,423.395 L648.517,429.08 L646.301,430.765 L641.607,424.562 L638.584,424.966 L631.982,428.416 L631.97,428.422 L621.513,433.886 L616.037,436.592 L598.248,444.775 L580.516,453.091 L577.714,454.494 L575.094,455.635 L572.418,456.632 L555.58,464.516 L551.167,466.634 L542.73,470.68 L537.726,472.701 L537.081,472.95 L536.092,473.241 L535.065,473.419 L510.374,485.399 L503.728,484.805 L468.402,481.647 L466.418,481.483 L464.773,481.391 L460.802,481.026 L459.427,480.911 L458.205,480.85 L455.77,480.827 L454.21,480.857 L451.071,481.147 L446.943,481.77 L443.461,482.148 L441.869,482.261 L441.29,482.228 L440.53,482.068 L439.704,481.741 L438.76,481.169 L437.753,480.365 L437.471,479.881 L437.337,479.589 L435.47,471.762 L435.073,470.047 L435.124,469.499 L435.314,468.986 L435.433,468.716 L435.603,468.533 L435.869,468.274 L436.223,467.938 L436.688,467.709 L437.109,467.604 L437.131,467.749 L439.067,467.348 L440.978,466.928 L442.913,466.633 L444.603,466.489 L444.552,448.381 L433.058,447.982 L432.987,445.812 L432.983,442.225 L433.052,438.648 L433.277,434.995 L433.618,431.32 L433.684,430.576 L433.869,428.509 L433.957,427.524 L433.965,427.503 L433.973,427.483 L433.981,427.462 L433.989,427.441 L433.998,427.421 L434.007,427.4 L434.016,427.38 L434.025,427.359 L434.034,427.339 L434.044,427.319 L434.054,427.299 L434.064,427.279 L434.074,427.26 L434.085,427.24 L434.096,427.22 L434.107,427.201 L434.118,427.182 L434.129,427.162 L434.139,427.146 L434.141,427.143 L434.152,427.124 L434.164,427.106 L434.177,427.087 L434.189,427.068 L434.202,427.05 L434.214,427.032 L434.227,427.014 L434.24,426.996 L434.254,426.978 L434.267,426.96 L434.281,426.943 L434.295,426.925 L434.309,426.908 L434.323,426.891 L434.338,426.874 L434.352,426.857 L434.367,426.841 L434.382,426.824 L434.411,426.793 L434.427,426.777 L434.443,426.761 L434.459,426.746 L434.475,426.73 L434.491,426.715 L434.507,426.7 L434.524,426.685 L434.541,426.671 L434.558,426.657 L434.575,426.642 L434.593,426.629 L434.61,426.615 L434.628,426.601 L434.646,426.588 L434.664,426.575 L434.682,426.562 L434.7,426.55 L434.719,426.537 L434.738,426.525 L434.756,426.514 L434.775,426.502 L434.794,426.491 L434.814,426.479 L434.833,426.469 L434.853,426.458 L434.872,426.447 L434.892,426.437 L434.912,426.427 L434.932,426.418 L434.952,426.408 L434.972,426.399 L434.993,426.39 L435.013,426.382 L435.034,426.373 L435.055,426.365 L435.075,426.357 L435.096,426.35 L435.117,426.342 L435.138,426.335 L435.159,426.328 L435.181,426.322 L435.202,426.316 L435.223,426.31 L435.245,426.304 L435.266,426.298 L435.288,426.293 L435.31,426.288 L435.331,426.283 L435.361,426.278 L435.579,426.216 L435.905,426.125 L436.879,426.062 L438.327,426.012 L438.966,425.952 L439.377,425.913 L439.701,425.872 L440.816,425.915 L450.326,426.283 L454.766,426.455 L455.054,426.536 L455.25,426.734 L455.307,426.845 L455.336,427.044 L454.316,441.173 L467.881,441.34 L467.081,456.955 L478.952,457.697 L480.801,455.968 L487.373,454.109 L505.532,453.205 L521.556,453.883 L524.527,410.544 L553.412,409.96 L584.072,405.855 L584.899,417.107 L585.497,429.107 L600.879,427.969 L625.803,419.457 L624.571,415.867 L629.93,413.772 L630.549,415.927 L638.051,413.691 L639.47,413.244 L638.448,410.297 L638.04,409.121 L637.103,406.419 L644.612,403.564 L646.921,408.527" fill-rule="evenodd"/>
+  </g>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" fill-opacity="1" transform="matrix(1,0,0,1,0,0)" fill="#987db7" stroke-width="3.07087" stroke="#232323" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1">
+   <path vector-effect="none" d="M448.537,117.431 L448.881,142.225 L447.299,165.49 L447.299,203.811 L443.24,269.156 L443.814,276.461 L415.809,275.849 L398.469,275.866 L397.7,297.883 L440.652,300.241 L494.754,296.269 L520.796,295.135 L521.786,309.203 L555.311,307.408 L555.796,315.639 L556.769,316.884 L558.463,316.668 L560.866,314.423 L562.604,314.101 L564.186,314.431 L565.556,315.352 L566.864,317.106 L579.501,312.325 L587.246,307.619 L591.606,302.369 L594.021,286.438 L600.33,270.637 L603.014,267.136 L606.836,266.711 L613.059,266.2 L616.601,265.42 L622.392,262.788 L629.295,259.696 L635.731,255.331 L640.409,251.146 L654.408,251.213 L669.512,249.505 L687.269,250.588 L689.631,250.753 L701.177,250.956 L705.349,250.78 L703.807,236.454 L701.99,229.133 L697.884,220.867 L695.517,217.409 L678.718,196.124 L660.397,175.522 L650.132,160.768 L645.265,152.252 L642.099,147.462 L635.196,135.905 L626.63,125.115 L619.596,116.521 L603.109,96.9085 L592.862,68.2385 L582.418,36.2834 L569.11,-2.24955 L566.369,-11.3914 L565.795,-12.8429 L565.052,-14.7005 L564.377,-15.7809 L563.277,-16.4498 L562.3,-16.7477 L560.13,-23.6231 L569.527,-27.1515 L572.051,-26.7209 L579.267,-27.2977 L587.296,-27.9909 L592.864,-28.4215 L594.247,-29.6644 L595.925,-42.7059 L596.925,-88.1971 L596.103,-96 L523.915,-96 L530.188,-94.4743 L528.79,-87.5282 L525.621,-76.3334 L522.93,-76.6313 L519.076,-69.5851 L517.715,-58.5474 L520.515,-57.2801 L519.301,-37.6989 L544.379,-41.6795 L548.768,-18.3453 L550.613,-12.7562 L535.999,-7.36747 L518.177,-0.0453223 L508.965,4.83429 L480.637,15.8635 L452.354,28.3819 L451.743,35.7121 L450.774,49.1592 L450.182,68.0652 L449.602,89.9225 L448.537,117.431" fill-rule="evenodd"/>
+  </g>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(11.811,0,0,11.811,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+  <g stroke-linecap="square" font-size="45.8333" transform="matrix(1,0,0,1,0,0)" fill="none" stroke-width="1" stroke="#000000" stroke-linejoin="bevel" font-family="Ubuntu" font-weight="400" font-style="normal" stroke-opacity="1"/>
+ </g>
+ <metadata>
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <rdf:Description dc:description="" dc:format="image/svg+xml" dc:date="2024-03-19T09:54:03" dc:title="" dc:identifier="">
+    <dc:creator>
+     <rdf:Bag>
+      <rdf:li>ja</rdf:li>
+     </rdf:Bag>
+    </dc:creator>
+    <dc:publisher>
+     <rdf:Bag>
+      <rdf:li>QGIS 3.34.4-Prizren</rdf:li>
+     </rdf:Bag>
+    </dc:publisher>
+    <dc:subject>
+     <rdf:Bag/>
+    </dc:subject>
+   </rdf:Description>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:title></dc:title>
+    <dc:date>2024-03-19T09:54:03</dc:date>
+    <dc:identifier></dc:identifier>
+    <dc:description></dc:description>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>ja</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:publisher>
+     <cc:Agent>
+      <dc:title>QGIS 3.34.4-Prizren</dc:title>
+     </cc:Agent>
+    </dc:publisher>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>

@@ -47,6 +47,7 @@
 	</div>
 
 	<div class="text">
+		<h2>Building on the rich history and existing strengths of Washington Street</h2>
 		<p>Washington Street has a unique and rich history in High Point.</p>
 
 		<p>
@@ -56,7 +57,6 @@
 		<p>
 			Today, Washington Street remains a deeply valuable place in High Point. 
 			Although this corridor and the surrounding area faced various hurdles in the second half of the 20th century, including disruptive highway construction, the closure of a key educational institution, and broader disinvestment that occurred as integration took place in the late 1960s and 1970s, it represents to this day an essential part of High Point’s story. 
-			High Pointers are leading amazing work in this area. Committed organizations and local businesses are working to serve the community through youth programming and education, local food production, entertainment and community spaces, and restaurants. The people of Washington Street continue to anchor this district as an important place of heritage and community in High Point. 
 			Thanks to active efforts by community members, Washington Street was also officially recognized as a National Historic place in 2010. 
 		</p>
 	</div>
@@ -134,13 +134,14 @@
 	</div>
 
 	<div class="text">
-		<h2>Mobility Data</h2>
+		<h2>Building on existing visitor activity in High Point 
+		</h2>
 		<p>
-			Cell phone data can be used to track activity in a more granular way that other traditional datasets. By tracking the movement of individuals over time or across neighborhoods, we can pick up on trends, such as hubs of activity, or where people are coming from or going to.
+			In addition to new projects and developments, another way to understand existing economic development momentum in High Point is to look at the amount of human activity occurring in different parts of the city. This can help us get a sense of where residents and visitors are going to shop, to eat, to work, or to play, and therefore understand where High Point’s existing hubs of activity are located today. One way to track this type of activity is using cell phone data.
 
 		</p>
 		<p>
-			As an example, the map below shows activity around Washington Street. The concentration of activity around Downtown and High Point University shows the need and potential to attract more residents and visitors to Washington Street, to ensure that we have vibrant economic opportunities in all of our neighborhoods.
+			As an example, the map below shows the number of daily visitors in the areas surrounding Washington Street. The concentration of activity around Downtown and High Point University shows the potential for Washington Street to attract more residents and visitors, thereby ensuring that we promote vibrant, economic opportunities for all of our neighborhoods.
 		</p>
 	</div>
 
@@ -164,7 +165,7 @@
 	</div> -->
 
 	<div class="text">
-		<h2>Thrive High Point</h2>
+		<h2>Utilizing the strengths of local entrepreneurs to reinvest in Washington Street </h2>
 		<p>
 			Our community has already invested deeply in local entrepreneurs and innovators through the Thrive High Point program, which began in 2021 and is run by the City’s Chamber of Commerce. 
 			Through business coaching, networking, and financial support, diverse entrepreneurs - including women and entrepreneurs of color from across the city - have been supported in establishing or growing their business. Over 500 entrepreneurs have participated in the Thrive High Point program since 2021. 

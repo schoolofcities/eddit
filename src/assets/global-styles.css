@@ -122,7 +122,7 @@ main {
 .image-mid-width img {
     display: block; 
     max-width: 960px;
-	max-height: 542px;
+	/* max-height: 542px; */
 	width: 100%;
     height: auto; 
 	border-top: solid 1px var(--e-global-color-green);
