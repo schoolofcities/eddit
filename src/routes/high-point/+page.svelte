@@ -107,9 +107,9 @@
 			Washington Street is located between Downtown and High Point University, two areas of the city that have seen renewed activity, growth, and reinvestment in recent years. 
 			Given this strategic location, there is great potential for Washington Street and its surrounding neighborhood to be part of this ongoing revitalization. 
 		</p>
-		<p>
-			<b>Downtown:</b>
-		</p>
+		<h3>
+			Downtown High Point:
+		</h3>
 		<p>
 			Downtown’s revitalization has been underway thanks to private and public reinvestment, with the City’s goal being to draw both residents and visitors all year round. 
 			Two main projects helped catalyze this transformation: one is the Truist Point Stadium, which opened in 2019 and is home to the Rockers baseball team and the Carolina Core FC soccer team, and the other is Congdon Yards, an adaptive reuse of two former mill buildings that are now home to a an innovative design and business center. Congdon Yards offers a mix of offices, meeting rooms, coworking space, small-scale manufacturing/woodworking space, a café and restaurant, and other event spaces.
@@ -125,9 +125,9 @@
 				Image Source: www.congdonyards.com
 			</p>
 		</div>
-		<p>
-			<b>High Point University:</b>
-		</p>
+		<h3>
+			High Point University:
+		</h3>
 		<p>
 			High Point University has grown exponentially since 2005, under the leadership of the current president, Dr. Qubein. The campus has grown from about 90 acres and 1,500 students in the 1990s, to over 400 acres and over 5,000 students today, including new amenities that serve the campus and the community, such as a new arena and conference center.
 		</p>

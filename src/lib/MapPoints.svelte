@@ -157,7 +157,7 @@
 				type: "raster",
 				source: "esri-sat",
 				paint: {
-					"raster-saturation": 0,
+					"raster-saturation": -0.5,
 					"raster-opacity": 0.5,
 				},
 			});
@@ -407,7 +407,7 @@
 
 	#map-title {
 		margin: 0 auto;
-		height: 38px;
+		height: 40px;
 		border-bottom: solid 1px var(--e-global-color-green);
 	}
 
@@ -415,7 +415,7 @@
 		width: 420px;
 		margin: 0 auto;
 		margin-top: 5px;
-		margin-bottom: 5px;
+		margin-bottom: 25px;
 		font-size: 28px;
 		color: var(--e-global-color-darkblue);
 		text-align: center;
@@ -434,7 +434,8 @@
 
 	#info-wrapper {
 		margin: 0 auto;
-		min-height: 270px;
+		min-height: 330px;
+		/* height: 330px; */
 		/* overflow: hidden; */
 	}
 
