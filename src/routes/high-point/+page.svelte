@@ -4,6 +4,7 @@
 	import "../../assets/global-styles.css";
 	import Map from "../../lib/MapPoints.svelte";
 	import Cellular from "../../lib/MapVisits.svelte";
+	import Thrive from "../../lib/Thrive.svelte";
 	import topImage from "../../assets/high-point-top-image.png";
 </script>
 
@@ -47,9 +48,12 @@
 	</div>
 
 	<div class="text">
-		<h2>Building on the rich history and existing strengths of Washington Street</h2>
-		<p>Washington Street has a unique and rich history in High Point.</p>
-
+		<h2>
+			Building on the rich history and existing strengths of Washington Street
+		</h2>
+		<p>
+			Washington Street has a unique and rich history in High Point.
+		</p>
 		<p>
 			Shortly after the City of High Point was incorporated in the mid 1800s, Washington Street took shape as a cultural and economic hub, and a vibrant Main Street for High Point’s African American community - sometimes referred to as High Point’s “Black Wall Street”. The corridor boasted 18 black-owned businesses by 1910, and just over 50 by 1940, most of which were concentrated along a few blocks. Establishments along Washington Street included hotels, law and real estate offices, dentists, pharmacists, entertainment venues, meeting spaces, as well as several churches. Even in the face of the inequalities of the past, Washington Street was a vibrant center for African American community and business in High Point.
 
@@ -134,7 +138,8 @@
 	</div>
 
 	<div class="text">
-		<h2>Building on existing visitor activity in High Point 
+		<h2>
+			Building on existing visitor activity in High Point 
 		</h2>
 		<p>
 			In addition to new projects and developments, another way to understand existing economic development momentum in High Point is to look at the amount of human activity occurring in different parts of the city. This can help us get a sense of where residents and visitors are going to shop, to eat, to work, or to play, and therefore understand where High Point’s existing hubs of activity are located today. One way to track this type of activity is using cell phone data.
@@ -165,13 +170,16 @@
 	</div> -->
 
 	<div class="text">
-		<h2>Utilizing the strengths of local entrepreneurs to reinvest in Washington Street </h2>
+		<h2>
+			Utilizing the strengths of local entrepreneurs to reinvest in Washington Street 
+		</h2>
 		<p>
 			Our community has already invested deeply in local entrepreneurs and innovators through the Thrive High Point program, which began in 2021 and is run by the City’s Chamber of Commerce. 
 			Through business coaching, networking, and financial support, diverse entrepreneurs - including women and entrepreneurs of color from across the city - have been supported in establishing or growing their business. Over 500 entrepreneurs have participated in the Thrive High Point program since 2021. 
 			Some of these businesses are reaching a point where a brick-and-mortar space would allow them to continue growing, planting deeper roots and building greater economic opportunities in High Point. 
 			These businesses are well poised to contribute their strengths to the revitalization of Washington Street. 
 		</p>
+
 		<!-- <h3>What are you hoping to gain by joining Thrive?</h3>
 		<div class="image-small-width">
 			<img
@@ -186,6 +194,8 @@
 				alt="Your Image"
 			/>
 		</div> -->
+
+		<Thrive/>
 	</div>
 </main>
 
