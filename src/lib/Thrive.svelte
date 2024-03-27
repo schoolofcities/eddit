@@ -1,6 +1,4 @@
 <script>
-    import MapPoints from "./MapPoints.svelte";
-
 
 	const data = [
 		{
@@ -170,8 +168,8 @@
 	#place-text p {
 		margin-top: -20px;
 		padding: 10px;
-		font-size: 24px;
-		line-height: 36px;
+		font-size: 26px;
+		line-height: 38px;
 		font-style: italic;
 		color: var(--e-global-color-darkblue);
 	}
