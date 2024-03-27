@@ -116,7 +116,7 @@
 			These projects are the result of a highly collaborative effort between the local city government and multiple business and community leaders. 
 			Other businesses have opened in the area since then, such as Plank Street Tavern and Stock + Grain Food Hall. 
 		</p>
-		<div class="image-small-width">
+		<div class="image-mid-width">
 			<img
 				src="/eddit/high-point/img-congdon-yards.png"
 				alt="Your Image"
@@ -172,7 +172,7 @@
 			Some of these businesses are reaching a point where a brick-and-mortar space would allow them to continue growing, planting deeper roots and building greater economic opportunities in High Point. 
 			These businesses are well poised to contribute their strengths to the revitalization of Washington Street. 
 		</p>
-		<h3>What are you hoping to gain by joining Thrive?</h3>
+		<!-- <h3>What are you hoping to gain by joining Thrive?</h3>
 		<div class="image-small-width">
 			<img
 				src="/eddit/high-point/img-thrive-hope-to-gain.png"
@@ -185,7 +185,7 @@
 				src="/eddit/high-point/img-thrive-how-has-helped.png"
 				alt="Your Image"
 			/>
-		</div>
+		</div> -->
 	</div>
 </main>
 

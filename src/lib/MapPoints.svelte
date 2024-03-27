@@ -454,7 +454,7 @@
 		max-width: 480px;
 	}
 	#place-text h3 {
-		font-size: 22px;
+		font-size: 26px;
 		color: var(--e-global-color-darkblue);
 		background-color: var(--e-global-color-yellow);
 		border-bottom: solid 1px var(--e-global-color-yellow);
@@ -466,8 +466,8 @@
 	#place-text p {
 		margin-top: -20px;
 		padding: 10px;
-		font-size: 14px;
-		line-height: 20px;
+		font-size: 16px;
+		line-height: 24px;
 		color: var(--e-global-color-black);
 	}
 

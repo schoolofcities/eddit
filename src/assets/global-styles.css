@@ -18,6 +18,16 @@
 	src: url("source-serif-pro/SourceSerifPro-Regular.otf");
 }
 
+@font-face {
+	font-family: AfacadMedium;
+	src: url("Afacad/static/Afacad-Medium.ttf");
+}
+
+@font-face {
+	font-family: AfacadBold;
+	src: url("Afacad/static/Afacad-Bold.ttf");
+}
+
 :root {
 	font-family: Roboto, sans-serif;
 	--brandDarkBlue: #1E3765;
@@ -91,7 +101,7 @@ main {
 	position: relative;
 	top: 40%;
 	border: solid 1px var(--e-global-color-green);
-	border-radius: 100px;
+	border-radius: 10px;
 	background-color: rgba(255, 255, 255, 0.8);
 }
 .title h3 {
@@ -99,13 +109,13 @@ main {
 	margin-top: 10px;
 	padding-top: 10px;
 	margin-bottom: 18px;
-	font-size: 28px;
+	font-size: 46px;
 	border-top: solid 3px var(--e-global-color-yellow);
 }
 
 .text {
 	background-color: none;
-	max-width: 640px;
+	max-width: 940px;
 	margin: 0 auto;
 	position: relative;
 	padding-left: 15px;
@@ -160,8 +170,8 @@ main {
 
 
 h1 {
-	font-family: TradeGothicBold;
-	font-size: 42px;
+	font-family: AfacadBold;
+	font-size: 58px;
 	color: var(--e-global-color-darkblue);
 	text-decoration: none;
 	margin-bottom: 10px;
@@ -170,17 +180,17 @@ h1 {
 
 h2 {
 	text-align: left;
-	font-family: TradeGothicBold;
-	font-size: 26px;
+	font-family: AfacadMedium;
+	font-size: 42px;
 	border-bottom: solid 1px var(--e-global-color-green);
-	margin-top: 30px;
-	color: var(--e-global-color-darkblue);
+	margin-top: 70px;
+	color: var(--e-global-color-green);
 }
 
 h3 {
 	text-align: left;
-	font-family: TradeGothicBold;
-	font-size: 27px;
+	font-family: AfacadMedium;
+	font-size: 35px;
 	margin-bottom: 5px;
 	/* border-bottom: solid 1px var(--brandGray); */
 	color: var(--e-global-color-green);
@@ -190,8 +200,8 @@ p {
 	font-family: Roboto;
 	color: var(--e-global-color-black);
 	text-align: left;
-	font-size: 18px;
-	line-height: 28px;
+	font-size: 20px;
+	line-height: 32px;
 }
 
 a {
