@@ -412,11 +412,11 @@
 	}
 
 	#map-title h3 {
-		width: 420px;
+		/* width: 420px; */
 		margin: 0 auto;
 		margin-top: 5px;
 		margin-bottom: 25px;
-		font-size: 28px;
+		font-size: 25px;
 		color: var(--e-global-color-darkblue);
 		text-align: center;
 	}

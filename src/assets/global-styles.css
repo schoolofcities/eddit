@@ -116,7 +116,7 @@ main {
 .text {
 	background-color: none;
 	max-width: 940px;
-	min-width: 420px;
+	min-width: 320px;
 	margin: 0 auto;
 	position: relative;
 	padding-left: 15px;
