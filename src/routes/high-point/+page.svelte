@@ -100,13 +100,20 @@
 			people of Washington Street continue to anchor this district as an
 			important place of heritage and community in High Point.
 		</p>
+		<p>
+			Click on the points below to find out more about Washington Street’s businesses and amenities.
+		</p>
 	</div>
 
 	<div class="map">
 		<Map />
 	</div>
 
+
 	<div class="text">
+		<h2>
+			Building on existing economic development momentum in High Point
+		</h2>
 		<p>
 			Washington Street is located between Downtown and High Point University, two areas of the city that have seen renewed activity, growth, and reinvestment in recent years. 
 			Given this strategic location, there is great potential for Washington Street and its surrounding neighborhood to be part of this ongoing revitalization. 
