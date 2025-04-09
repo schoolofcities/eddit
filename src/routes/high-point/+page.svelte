@@ -1,11 +1,10 @@
 <script>
-	import Top from "../../lib/TopSofC.svelte";
 	import { CompareImage } from "svelte-compare-image";
-	import "../../assets/global-styles.css";
-	import Map from "../../lib/MapPoints.svelte";
-	import Cellular from "../../lib/MapVisits.svelte";
-	import Thrive from "../../lib/Thrive.svelte";
-	import topImage from "../../assets/high-point-top-image.png";
+	import "./assets/global-styles.css";
+	import Map from "./lib/MapPoints.svelte";
+	import Cellular from "./lib/MapVisits.svelte";
+	import Thrive from "./lib/Thrive.svelte";
+	import topImage from "./assets/high-point-top-image.png";
 </script>
 
 <svelte:head>
@@ -14,8 +13,6 @@
 		content="width=device-width, initial-scale=1, minimum-scale=1"
 	/>
 </svelte:head>
-
-<!-- <Top /> -->
 
 <main>
 	<div class="top-image" style="background-image: url('{topImage}');">
