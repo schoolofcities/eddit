@@ -119,7 +119,25 @@
 		h2 {
 			font-size: 20px; 
 		}
+		.logo-top {
+			width: 225px;
+		}
+		.logo-bottom {
+			width: 150px;
+		}
 	}
+
+	@media (max-width: 600px) {
+		.logo-top {
+			width: 200px;
+		}
+		.logo-bottom {
+			width: 125px;
+		}
+	}
+
+
+	
 
 	
 </style>
