@@ -17,7 +17,7 @@
 
 
 
-<Title title={"Wood Buffalo, CT"} subtitle={"Wood Buffalo Organizations"} image={titleImage} />
+<Title title={"Wood Buffalo, AB"} subtitle={"Wood Buffalo Organizations"} image={titleImage} />
 
 <main>
 

@@ -3,8 +3,8 @@
 
 <svg
    width="360"
-   height="600"
-   viewBox="0 0 95.249998 158.75"
+   height="540"
+   viewBox="0 0 95.249998 142.875"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="1"
-     inkscape:cx="167.5"
-     inkscape:cy="267.49999"
+     inkscape:cx="161"
+     inkscape:cy="291.5"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -51,13 +51,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><image
-       width="87.841034"
-       height="131.76155"
+       width="80.540527"
+       height="120.81079"
        preserveAspectRatio="none"
        xlink:href="map-asthma-360-qgis.png"
        id="image1"
-       x="4.7631307"
-       y="15.738059" /><text
+       x="8.4133835"
+       y="9.704319" /><text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.264583"
        x="5.18573"
@@ -81,13 +81,13 @@
        xml:space="preserve"
        style="font-size:3.175px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';fill:#9a9996;stroke-width:0.264583"
        x="5.1273355"
-       y="157.26315"
+       y="138.72214"
        id="text1-3-1"><tspan
          sodipodi:role="line"
          id="tspan1-6-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#9a9996;stroke-width:0.264583"
          x="5.1273355"
-         y="157.26315">Sources: City of Bridgeport, CDC Places (2023)</tspan></text><text
+         y="138.72214">Sources: City of Bridgeport, CDC Places (2023)</tspan></text><text
        xml:space="preserve"
        style="font-size:3.70417px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.264583"
        x="59.94091"
@@ -142,7 +142,7 @@
        x="63.394062"
        y="18.567604" /><path
        style="fill:#9a9996;stroke:#9a9996;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="m 5.2916666,153.47851 87.3124984,0"
+       d="M 5.2916666,134.93749 H 92.604165"
        id="path1"
        sodipodi:nodetypes="cc" /><path
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.529167;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
