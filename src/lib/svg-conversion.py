@@ -3,8 +3,8 @@ import base64
 from lxml import etree
 import cairosvg
 
-INPUT_SVG_PATH = "../routes/bridgeport-ct/assets/ct-mini-map-360.svg"
-OUTPUT_SVG_PATH = "../routes/bridgeport-ct/assets/ct-mini-map-360-web.svg"
+INPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360.svg"
+OUTPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"
 
 FONT_MAP = {
     "Open Sans": "OpenSans",
