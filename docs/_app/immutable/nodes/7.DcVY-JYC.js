@@ -1,0 +1,236 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/69_IOA4Y.js";import{p as o,Y as n,W as r,a2 as i,X as f}from"../chunks/BioXx7E_.js";import{t as c,a as m}from"../chunks/CQRmXvXE.js";import{T as p,S as y,F as x}from"../chunks/Dccjbty6.js";const u=!0,b=Object.freeze(Object.defineProperty({__proto__:null,prerender:u},Symbol.toStringTag,{value:"Module"})),d=""+new URL("../assets/wood-buffalo-title-img.XOt5mHxF.jpg",import.meta.url).href,g=`<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 381.96">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #efc419;
+      }
+
+      .cls-6 {
+        fill: #d2d2d1;
+        font-size: 8px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-9 {
+        fill: #6fc7e9;
+      }
+
+      .cls-10, .cls-11 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-11, .cls-8 {
+        fill: #231f20;
+      }
+
+      .cls-10, .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-2 {
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #58595b;
+      }
+
+      .cls-3 {
+        stroke-width: .5px;
+      }
+
+      .cls-7 {
+        fill: #808285;
+        font-size: 10px;
+      }
+
+      .cls-12 {
+        fill: #00a28a;
+      }
+
+      .cls-11 {
+        font-size: 20px;
+      }
+
+      .cls-4 {
+        stroke: #d2d2d1;
+      }
+    </style>
+  </defs>
+  <text class="cls-11" transform="translate(2.47 26.86)"><tspan x="0" y="0">Wood Buffalo Has the Largest Wage</tspan><tspan x="0" y="24">Gap Among Alberta’s Major Cities</tspan></text>
+  <text class="cls-8" transform="translate(242.92 343.97)"><tspan x="0" y="0">Upper Income</tspan></text>
+  <text class="cls-8" transform="translate(26.54 344.05)"><tspan x="0" y="0">Lower Income</tspan></text>
+  <circle class="cls-5" cx="21.24" cy="339.81" r="3.92"/>
+  <text class="cls-8" transform="translate(129.88 343.81)"><tspan x="0" y="0">Middle Income</tspan></text>
+  <circle class="cls-9" cx="123.77" cy="339.74" r="3.92"/>
+  <circle class="cls-12" cx="236.72" cy="339.66" r="3.92"/>
+  <text class="cls-10" transform="translate(44.76 117.17)"><tspan x="0" y="0">CALGARY</tspan></text>
+  <text class="cls-10" transform="translate(27.37 190.15)"><tspan x="0" y="0">EDMONTON</tspan></text>
+  <text class="cls-10" transform="translate(2.23 263.13)"><tspan x="0" y="0">WOOD BUFFALO</tspan></text>
+  <text class="cls-10" transform="translate(260.02 238.56)"><tspan x="0" y="0">$24.19+</tspan></text>
+  <text class="cls-10" transform="translate(239.2 165.46)"><tspan x="0" y="0">$15.70+</tspan></text>
+  <text class="cls-10" transform="translate(243.62 93.01)"><tspan x="0" y="0">$17.70+</tspan></text>
+  <text class="cls-7" transform="translate(218.41 292.48)"><tspan x="0" y="0">$25</tspan></text>
+  <text class="cls-10" transform="translate(161.02 311.05)"><tspan x="0" y="0">Averagle Hourly Wage</tspan></text>
+  <text class="cls-7" transform="translate(340.54 291.89)"><tspan x="0" y="0">$50</tspan></text>
+  <line class="cls-3" x1="104.88" y1="179.32" x2="223.49" y2="179.32"/>
+  <line class="cls-3" x1="104.88" y1="185.74" x2="267.05" y2="185.74"/>
+  <line class="cls-3" x1="104.88" y1="192.16" x2="300.11" y2="192.16"/>
+  <circle class="cls-5" cx="223.49" cy="179.32" r="5.12"/>
+  <circle class="cls-9" cx="267.05" cy="185.74" r="5.12"/>
+  <circle class="cls-12" cx="300.11" cy="192.16" r="5.12"/>
+  <line class="cls-3" x1="104.95" y1="252.36" x2="223.22" y2="252.36"/>
+  <line class="cls-3" x1="104.95" y1="258.78" x2="281.18" y2="258.78"/>
+  <line class="cls-3" x1="104.95" y1="265.2" x2="341.35" y2="265.2"/>
+  <circle class="cls-5" cx="223.22" cy="252.36" r="5.12"/>
+  <circle class="cls-9" cx="281.18" cy="258.78" r="5.12"/>
+  <circle class="cls-12" cx="341.35" cy="265.2" r="5.12"/>
+  <line class="cls-3" x1="104.88" y1="119.12" x2="305.19" y2="119.12"/>
+  <line class="cls-3" x1="104.88" y1="112.7" x2="265.88" y2="112.7"/>
+  <line class="cls-3" x1="104.88" y1="106.29" x2="218.75" y2="106.29"/>
+  <circle class="cls-9" cx="265.88" cy="112.7" r="5.12"/>
+  <circle class="cls-12" cx="305.19" cy="119.12" r="5.12"/>
+  <circle class="cls-5" cx="218.75" cy="106.29" r="5.12"/>
+  <line class="cls-2" x1="104.88" y1="89.64" x2="104.88" y2="281.84"/>
+  <line class="cls-2" x1="226.93" y1="273.56" x2="226.93" y2="281.84"/>
+  <line class="cls-2" x1="348.98" y1="273.56" x2="348.98" y2="281.84"/>
+  <line class="cls-1" x1="223.22" y1="241.58" x2="341.35" y2="241.58"/>
+  <line class="cls-1" x1="223.15" y1="168.54" x2="299.77" y2="168.54"/>
+  <line class="cls-1" x1="218.75" y1="95.51" x2="305.19" y2="95.51"/>
+  <text class="cls-6" transform="translate(5.06 376.96)"><tspan x="0" y="0">Sources: Alberta Wage &amp; Salary Survey (2022), Statistics Canada (2021) </tspan></text>
+  <line class="cls-4" x1="5.47" y1="366.76" x2="354.71" y2="366.76"/>
+</svg>`,v=`<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 720 384.26">
+  <g id="background">
+    <image x="0.0" y="0.0" width="720.0" height="384.26" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <text class="cls-11" transform="translate(13.54 28.4)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+      <text class="cls-11" transform="translate(13.54 28.4)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+    </text>
+    <text class="cls-11" transform="translate(13.54 28.4)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Wood Buffalo Has the Largest Wage Gap Among Alberta’s Major Cities</tspan>
+      </tspan>
+    </text>
+    <text class="cls-8" transform="translate(246.21 345.66)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-8" transform="translate(246.21 345.66)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-8" transform="translate(246.21 345.66)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Upper Income</tspan>
+      </tspan>
+    </text>
+    <text class="cls-8" transform="translate(29.83 345.74)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-8" transform="translate(29.83 345.74)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-8" transform="translate(29.83 345.74)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Lower Income</tspan>
+      </tspan>
+    </text>
+    <text class="cls-6" transform="translate(5.54 378.49)" style="fill: #d2d2d1; font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text class="cls-6" transform="translate(5.54 378.49)" style="fill: #d2d2d1; font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-6" transform="translate(5.54 378.49)" style="fill: #d2d2d1; font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Sources: Alberta Wage &amp; Salary Survey (2022), Statistics Canada (2021) </tspan>
+      </tspan>
+    </text>
+    <text class="cls-8" transform="translate(133.17 345.51)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-8" transform="translate(133.17 345.51)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-8" transform="translate(133.17 345.51)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Middle Income</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(103.88 107.18)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(103.88 107.18)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(103.88 107.18)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">CALGARY</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(85.4 180.16)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(85.4 180.16)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(85.4 180.16)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">EDMONTON</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(59.09 253.14)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(59.09 253.14)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(59.09 253.14)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">WOOD BUFFALO</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(496.4 228.57)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(496.4 228.57)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(496.4 228.57)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$24.19+</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(455.57 155.46)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(455.57 155.46)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(455.57 155.46)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$15.70+</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(446.1 83.01)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(446.1 83.01)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(446.1 83.01)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$17.70+</tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(397.44 282.49)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <text class="cls-7" transform="translate(397.44 282.49)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-7" transform="translate(397.44 282.49)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$25</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(342.19 301.06)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(342.19 301.06)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(342.19 301.06)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Averagle Hourly Wage</tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(643.76 281.9)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <text class="cls-7" transform="translate(643.76 281.9)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-7" transform="translate(643.76 281.9)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$50</tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>
+`;var O=c('<!> <main><div class="text"><h1>Nice title about Wood Buffalo</h1> <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p> <p>Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p></div> <div class="callout"><h3>Wood Buffalo Buffalo Buffalo</h3> <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p> <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p></div> <div class="text"><p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p> <p>Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p></div> <!> <div class="text"><p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p> <p>Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p></div></main> <!>',1);function C(e){var A=O(),s=o(A);p(s,{title:"Wood Buffalo, AB",subtitle:"Wood Buffalo Organizations",image:d});var t=n(s,2),a=n(r(t),6);y(a,{svg720:v,svg360:g}),i(2),f(t);var l=n(t,2);x(l),m(e,A)}export{C as component,b as universal};
