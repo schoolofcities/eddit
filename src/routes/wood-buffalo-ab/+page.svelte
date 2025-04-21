@@ -10,7 +10,7 @@
 
 	import titleImage from "./assets/wood-buffalo-title-img.jpg";
 
-	import wageChart360 from "./assets/wood-buffalo-wages-chart-360.svg?raw";
+	import wageChart360 from "./assets/wood-buffalo-wages-chart-360-web.svg?raw";
 	import wageChart720 from "./assets/wood-buffalo-wages-chart-720-web.svg?raw";
 
 </script>
