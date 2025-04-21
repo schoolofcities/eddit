@@ -15,14 +15,27 @@ svg_to_convert = [
 # OUTPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"
 
 FONT_MAP = {
-	"Open Sans": "OpenSans",
-	"OpenSans": "OpenSans",
-	"Open Sans Bold": "OpenSansBold",
-	"OpenSans Bold": "OpenSansBold",
-	"Open Sans Italic": "OpenSansItalic",
-	"OpenSans Italic": "OpenSansItalic",
-	"Open Sans Bold Italic": "OpenSansBoldItalic",
-	"OpenSans Bold Italic": "OpenSansBoldItalic"
+    # Base fonts
+    "Open Sans": "OpenSans",
+    "OpenSans": "OpenSans",
+    
+    # Bold variants
+    "Open Sans Bold": "OpenSansBold",
+    "OpenSans Bold": "OpenSansBold",
+    "Bold": "OpenSansBold",  # Catch-all for any font with bold weight
+    
+    # Italic variants
+    "Open Sans Italic": "OpenSansItalic",
+    "OpenSans Italic": "OpenSansItalic",
+    "Italic": "OpenSansItalic",  # Catch-all for any font with italic style
+    
+    # Bold Italic variants
+    "Open Sans Bold Italic": "OpenSansBoldItalic",
+    "Open Sans BoldItalic": "OpenSansBoldItalic",
+    "OpenSans Bold Italic": "OpenSansBoldItalic",
+    "OpenSans BoldItalic": "OpenSansBoldItalic",
+    "Bold Italic": "OpenSansBoldItalic",  # Catch-all
+    "BoldItalic": "OpenSansBoldItalic"  # Catch-all
 }
 
 def get_svg_pixel_dimensions(root):
@@ -59,67 +72,105 @@ def get_svg_pixel_dimensions(root):
 	return width, height
 
 def apply_font_map(root, font_map, svg_ns):
-	text_nodes = root.xpath(".//svg:text | .//svg:tspan", namespaces={"svg": svg_ns})
-	for node in text_nodes:
-		# Create a copy of all original attributes we want to preserve
-		original_attrs = dict(node.attrib)
-		
-		# Handle style attribute separately
-		style = node.get("style", "")
-		style_parts = [part.strip() for part in style.split(";") if part.strip()]
-		style_dict = {}
-		for part in style_parts:
-			if ":" in part:
-				key, value = part.split(":", 1)
-				style_dict[key.strip()] = value.strip()
+    text_nodes = root.xpath(".//svg:text | .//svg:tspan", namespaces={"svg": svg_ns})
+    for node in text_nodes:
+        # Store original attributes
+        original_attrs = dict(node.attrib)
+        
+        # Parse style attribute
+        style = node.get("style", "")
+        style_parts = [part.strip() for part in style.split(";") if part.strip()]
+        style_dict = {}
+        for part in style_parts:
+            if ":" in part:
+                key, value = part.split(":", 1)
+                style_dict[key.strip()] = value.strip()
 
-		# Determine font properties
-		font_weight = original_attrs.get("font-weight", style_dict.get("font-weight", "")).lower()
-		font_style = original_attrs.get("font-style", style_dict.get("font-style", "")).lower()
-		current_font = style_dict.get("font-family", original_attrs.get("font-family", ""))
+        # Get font properties
+        font_weight = original_attrs.get("font-weight", style_dict.get("font-weight", "normal")).lower()
+        font_style = original_attrs.get("font-style", style_dict.get("font-style", "normal")).lower()
+        current_font = style_dict.get("font-family", original_attrs.get("font-family", ""))
+        
+        # Clean current font name (remove quotes and get first font in stack)
+        current_font = current_font.strip("'\"").split(",")[0].strip()
 
-		# Map to our desired font
-		if "bold" in font_weight:
-			if "italic" in font_style:
-				final_font = "OpenSansBoldItalic"
-				# Remove font-weight since we're using the actual bold font
-				if "font-weight" in style_dict:
-					del style_dict["font-weight"]
-			else:
-				final_font = "OpenSansBold"
-				# Remove font-weight since we're using the actual bold font
-				if "font-weight" in style_dict:
-					del style_dict["font-weight"]
-		elif "italic" in font_style:
-			final_font = "OpenSansItalic"
-		else:
-			final_font = "OpenSans"
+        # Determine font variant
+        is_bold = "bold" in font_weight or "700" in font_weight
+        is_italic = "italic" in font_style or "oblique" in font_style
 
-		# Update font family
-		style_dict["font-family"] = final_font
+        # Build lookup keys based ONLY on what exists in font_map
+        lookup_keys = []
+        if current_font:
+            # Generate possible variants
+            variants = []
+            if is_bold and is_italic:
+                variants.extend([
+                    f"{current_font} Bold Italic",
+                    f"{current_font} BoldItalic",
+                    "Bold Italic",
+                    "BoldItalic"
+                ])
+            elif is_bold:
+                variants.extend([f"{current_font} Bold", "Bold"])
+            elif is_italic:
+                variants.extend([f"{current_font} Italic", "Italic"])
+            
+            # Generate possible keys in order of preference
+            for variant in variants:
+                # Try full font name with variant
+                lookup_keys.append(f"{current_font} {variant}" if " " not in variant else f"{current_font} {variant}")
+                # Try variant alone (will only match if font_map has standalone variants)
+                lookup_keys.append(variant)
+            
+            # Always try the base font name last
+            lookup_keys.append(current_font)
+        
+        # Find the first matching font in font_map
+        mapped_font = current_font  # default to original if no match found
+        for key in lookup_keys:
+            if key in font_map:
+                mapped_font = font_map[key]
+                break
 
-		# Explicitly set normal weight for non-bold fonts to prevent faux-bold
-		if "bold" not in final_font.lower():
-			style_dict["font-weight"] = "normal"
+        # Rest of the function remains the same...
+        style_dict["font-family"] = mapped_font
+        
+        # Clean up font-weight and font-style
+        if "bold" in mapped_font.lower():
+            style_dict.pop("font-weight", None)
+        else:
+            style_dict["font-weight"] = "normal"
+            
+        if "italic" in mapped_font.lower():
+            style_dict.pop("font-style", None)
+        else:
+            style_dict["font-style"] = "normal"
 
-		# Rebuild style string while preserving all other styles
-		updated_style = ";".join(f"{k}:{v}" for k, v in style_dict.items())
-		if updated_style:
-			updated_style += ";"
+        # Remove Inkscape-specific attributes
+        style_dict.pop("-inkscape-font-specification", None)
+        original_attrs.pop("-inkscape-font-specification", None)
 
-		# Clear all attributes and set them back carefully
-		node.attrib.clear()
-		for attr, value in original_attrs.items():
-			if attr not in ["font-family", "font-weight", "font-style"]:
-				node.set(attr, value)
-		
-		# Set the updated style
-		if updated_style:
-			node.set("style", updated_style)
-		
-		# Ensure no font-weight attribute remains as an independent attribute
-		if "font-weight" in node.attrib:
-			del node.attrib["font-weight"]
+        # Rebuild style attribute
+        updated_style = "; ".join(f"{k}: {v}" for k, v in style_dict.items() if v)
+        if updated_style:
+            updated_style += ";"
+
+        # Update the node
+        node.attrib.clear()
+        
+        # Set non-font attributes first
+        for attr, value in original_attrs.items():
+            if attr not in ["font-family", "font-weight", "font-style", "-inkscape-font-specification"]:
+                node.set(attr, value)
+        
+        # Set the style attribute
+        if updated_style:
+            node.set("style", updated_style)
+        
+        # Explicitly set font-family as an attribute if it's not in style
+        if "font-family" not in style_dict:
+            node.set("font-family", mapped_font)
+
 
 def rasterize_non_text_elements(root, width, height, svg_ns, input_svg_path):
 	raster_root = etree.fromstring(etree.tostring(root))
