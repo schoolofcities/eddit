@@ -74,6 +74,7 @@
 		font-size: 60px;
 		color: var(--brandWhite);
 		text-decoration: none;
+		font-weight: normal;
 		margin-top: 0px;
 		margin-bottom: 0px;
 		border-bottom: solid 2px var(--brandYellow);
@@ -84,6 +85,7 @@
 	h2 {
 		text-align: center;
 		font-family: OpenSans;
+		font-weight: normal;
 		font-size: 22px;
 		margin-top: 10px;
 		color: var(--brandWhite);
