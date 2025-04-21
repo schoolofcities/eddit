@@ -3,8 +3,14 @@ import base64
 from lxml import etree
 import cairosvg
 
-INPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360.svg"
-OUTPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"
+svg_to_convert = [
+    ["../routes/bridgeport-ct/assets/map-asthma-360.svg", "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"],
+    ["../routes/bridgeport-ct/assets/map-heat-360.svg", "../routes/bridgeport-ct/assets/map-heat-360-web.svg"],
+    ["../routes/bridgeport-ct/assets/map-tree-360.svg", "../routes/bridgeport-ct/assets/map-tree-360-web.svg"]
+]
+
+# INPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360.svg"
+# OUTPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"
 
 FONT_MAP = {
     "Open Sans": "OpenSans",
@@ -113,7 +119,7 @@ def apply_font_map(root, font_map, svg_ns):
         if "font-weight" in node.attrib:
             del node.attrib["font-weight"]
 
-def rasterize_non_text_elements(root, width, height, svg_ns):
+def rasterize_non_text_elements(root, width, height, svg_ns, input_svg_path):
     raster_root = etree.fromstring(etree.tostring(root))
 
     # Remove all text and tspan elements
@@ -126,7 +132,7 @@ def rasterize_non_text_elements(root, width, height, svg_ns):
     for image_elem in raster_root.xpath(".//svg:image", namespaces={"svg": svg_ns}):
         href = image_elem.get("{http://www.w3.org/1999/xlink}href") or image_elem.get("href")
         if href and not href.startswith("data:"):
-            image_path = os.path.join(os.path.dirname(INPUT_SVG_PATH), href)
+            image_path = os.path.join(os.path.dirname(input_svg_path), href)
             if os.path.exists(image_path):
                 with open(image_path, "rb") as img_file:
                     img_data = img_file.read()
@@ -245,7 +251,7 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 
     # First create a copy for rasterization (before font mapping)
     raster_root = etree.fromstring(etree.tostring(root))
-    png_bytes = rasterize_non_text_elements(raster_root, width_px, height_px, svg_ns)
+    png_bytes = rasterize_non_text_elements(raster_root, width_px, height_px, svg_ns, input_svg_path)
 
     # Now process the original
     apply_font_map(root, font_map, svg_ns)
@@ -267,4 +273,5 @@ def process_svg(input_svg_path, output_svg_path, font_map):
     print(f"✅ Final output written to {output_svg_path}")
 
 if __name__ == "__main__":
-    process_svg(INPUT_SVG_PATH, OUTPUT_SVG_PATH, FONT_MAP)
+    for svg in svg_to_convert:
+        process_svg(svg[0], svg[1], FONT_MAP)
