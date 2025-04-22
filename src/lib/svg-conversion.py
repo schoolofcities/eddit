@@ -4,8 +4,10 @@ from lxml import etree
 import cairosvg
 
 svg_to_convert = [
-	["../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-360.svg", "../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-360-web.svg"],
-	["../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-720-og.svg", "../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-720-web.svg"]
+	["../routes/bridgeport-ct/assets/map-tree-redline-720.svg", "../routes/bridgeport-ct/assets/map-tree-redline-720-web.svg"],
+	["../routes/bridgeport-ct/assets/map-tree-redline-360.svg", "../routes/bridgeport-ct/assets/map-tree-redline-360-web.svg"]
+	# ["../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-360.svg", "../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-360-web.svg"],
+	# ["../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-720-og.svg", "../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-720-web.svg"]
 	# ["../routes/bridgeport-ct/assets/map-asthma-360.svg", "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"],
 	# ["../routes/bridgeport-ct/assets/map-heat-360.svg", "../routes/bridgeport-ct/assets/map-heat-360-web.svg"],
 	# ["../routes/bridgeport-ct/assets/map-tree-360.svg", "../routes/bridgeport-ct/assets/map-tree-360-web.svg"]
