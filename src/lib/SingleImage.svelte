@@ -8,7 +8,7 @@
 </script>
 
 <div class="container" style="max-width: {maxWidth}">
-	<img src={image} alt="" />
+	<img src={image} alt="" loading="lazy" />
 	<p class="imgTitle">{subtitle}</p>
 	<p class="imgSource" >{@html source}</p>
 </div>
