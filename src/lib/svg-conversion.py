@@ -240,41 +240,43 @@ def apply_font_map(root, font_map, svg_ns):
 
 
 def rasterize_non_text_elements(root, width, height, svg_ns, input_svg_path):
-	raster_root = etree.fromstring(etree.tostring(root))
+    raster_root = etree.fromstring(etree.tostring(root))
 
-	# Remove all text and tspan elements
-	for elem in raster_root.xpath(".//svg:text | .//svg:tspan", namespaces={"svg": svg_ns}):
-		parent = elem.getparent()
-		if parent is not None:
-			parent.remove(elem)
+    # Remove all text and tspan elements
+    for elem in raster_root.xpath(".//svg:text | .//svg:tspan", namespaces={"svg": svg_ns}):
+        parent = elem.getparent()
+        if parent is not None:
+            parent.remove(elem)
 
-	# Handle linked raster images: embed them as base64
-	for image_elem in raster_root.xpath(".//svg:image", namespaces={"svg": svg_ns}):
-		href = image_elem.get("{http://www.w3.org/1999/xlink}href") or image_elem.get("href")
-		if href and not href.startswith("data:"):
-			image_path = os.path.join(os.path.dirname(input_svg_path), href)
-			if os.path.exists(image_path):
-				with open(image_path, "rb") as img_file:
-					img_data = img_file.read()
-				mime_type = "image/png" if href.lower().endswith(".png") else "image/jpeg"
-				data_uri = f"data:{mime_type};base64," + base64.b64encode(img_data).decode("utf-8")
-				image_elem.set("href", data_uri)
-				if "{http://www.w3.org/1999/xlink}href" in image_elem.attrib:
-					del image_elem.attrib["{http://www.w3.org/1999/xlink}href"]
+    # Handle linked raster images: embed them as base64
+    for image_elem in raster_root.xpath(".//svg:image", namespaces={"svg": svg_ns}):
+        href = image_elem.get("{http://www.w3.org/1999/xlink}href") or image_elem.get("href")
+        if href and not href.startswith("data:"):
+            image_path = os.path.join(os.path.dirname(input_svg_path), href)
+            if os.path.exists(image_path):
+                with open(image_path, "rb") as img_file:
+                    img_data = img_file.read()
+                mime_type = "image/png" if href.lower().endswith(".png") else "image/jpeg"
+                data_uri = f"data:{mime_type};base64," + base64.b64encode(img_data).decode("utf-8")
+                image_elem.set("href", data_uri)
+                if "{http://www.w3.org/1999/xlink}href" in image_elem.attrib:
+                    del image_elem.attrib["{http://www.w3.org/1999/xlink}href"]
 
-	# Save and convert raster-only copy
-	temp_svg_path = "temp_raster.svg"
-	with open(temp_svg_path, "wb") as f:
-		f.write(etree.tostring(raster_root))
+    # Save and convert raster-only copy
+    temp_svg_path = "temp_raster.svg"
+    with open(temp_svg_path, "wb") as f:
+        f.write(etree.tostring(raster_root))
 
-	png_bytes = cairosvg.svg2png(
-		url=temp_svg_path,
-		output_width=int(width),
-		output_height=int(height),
-		dpi=96
-	)
-	os.remove(temp_svg_path)
-	return png_bytes
+    # Render at 2x resolution but maintain original dimensions in output
+    png_bytes = cairosvg.svg2png(
+        url=temp_svg_path,
+        output_width=int(width * 2),  # Double the width
+        output_height=int(height * 2),  # Double the height
+        dpi=192  # Double the DPI (96 * 2)
+    )
+    os.remove(temp_svg_path)
+    return png_bytes
+
 
 
 
@@ -323,40 +325,40 @@ def keep_only_text_elements(root, svg_ns):
 		root.append(child)
 
 def embed_png_as_background(root, png_bytes, width, height, svg_ns):
-	png_base64 = base64.b64encode(png_bytes).decode("utf-8")
-	data_uri = f"data:image/png;base64,{png_base64}"
+    png_base64 = base64.b64encode(png_bytes).decode("utf-8")
+    data_uri = f"data:image/png;base64,{png_base64}"
 
-	viewBox = root.get("viewBox")
-	if viewBox:
-		x, y, vb_width, vb_height = map(float, viewBox.strip().split())
-	else:
-		x, y = 0, 0
-		vb_width, vb_height = width, height
+    viewBox = root.get("viewBox")
+    if viewBox:
+        x, y, vb_width, vb_height = map(float, viewBox.strip().split())
+    else:
+        x, y = 0, 0
+        vb_width, vb_height = width, height
 
-	# Create a group for the background image (behind everything)
-	bg_group = etree.Element(f"{{{svg_ns}}}g", {"id": "background"})
-	
-	# Create image element with plain href (no namespace prefix)
-	image_attrs = {
-		"x": str(x),
-		"y": str(y),
-		"width": str(vb_width),
-		"height": str(vb_height),
-		"preserveAspectRatio": "xMidYMid meet",
-		"href": data_uri  # Using plain href without namespace
-	}
-	image_elem = etree.Element(f"{{{svg_ns}}}image", image_attrs)
-	
-	bg_group.append(image_elem)
-	
-	# Move all existing elements (text) to a foreground group
-	fg_group = etree.Element(f"{{{svg_ns}}}g", {"id": "foreground"})
-	for child in root[:]:
-		fg_group.append(child)
-	
-	# Add groups to root (background first, then foreground)
-	root.append(bg_group)
-	root.append(fg_group)
+    # Create a group for the background image (behind everything)
+    bg_group = etree.Element(f"{{{svg_ns}}}g", {"id": "background"})
+    
+    # Create image element with plain href (no namespace prefix)
+    image_attrs = {
+        "x": str(x),
+        "y": str(y),
+        "width": str(vb_width),  # Maintain original dimensions
+        "height": str(vb_height),  # Maintain original dimensions
+        "preserveAspectRatio": "xMidYMid meet",
+        "href": data_uri
+    }
+    image_elem = etree.Element(f"{{{svg_ns}}}image", image_attrs)
+    
+    bg_group.append(image_elem)
+    
+    # Move all existing elements (text) to a foreground group
+    fg_group = etree.Element(f"{{{svg_ns}}}g", {"id": "foreground"})
+    for child in root[:]:
+        fg_group.append(child)
+    
+    # Add groups to root (background first, then foreground)
+    root.append(bg_group)
+    root.append(fg_group)
 
 def process_svg(input_svg_path, output_svg_path, font_map):
 	parser = etree.XMLParser(remove_comments=True, remove_blank_text=True)
