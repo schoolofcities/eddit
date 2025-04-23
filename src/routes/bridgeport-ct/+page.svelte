@@ -36,7 +36,11 @@
 
 
 
-<Title title={"Bridgeport, CT"} subtitle={"Groundwork Bridgeport"} image={titleImage} />
+<Title 
+	title={"Bridgeport, CT"}
+	subtitle={"Groundwork Bridgeport"} 
+	image={titleImage} 
+/>
 
 <main>
 
