@@ -29,6 +29,11 @@
 	import mentalHealthBarChart360 from "./assets/mentalhealth-bar-chart-360-web.svg?raw";
 	import mentalHealthBarChart720 from "./assets/mentalhealth-bar-chart-720-web.svg?raw";
 
+	import treeCanopyCrime360 from "./assets/tree-canopy-crime-360-web.svg?raw";
+
+	import treeCanopyBenefits360 from "./assets/tree-canopy-benefits-360-web.svg?raw";
+	import treeCanopyBenefits720 from "./assets/tree-canopy-benefits-720-web.svg?raw";
+
 </script>
 
 
@@ -202,6 +207,19 @@
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
 		</p>
 
+	</div>
+
+	<SingleGraphic
+		svg720={mentalHealthBarChart720}
+		svg360={mentalHealthBarChart360}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+		</p>
+
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 		</p>
@@ -212,18 +230,36 @@
 
 	</div>
 
+	
 	<SingleGraphic
-		svg720={mentalHealthBarChart720}
-		svg360={mentalHealthBarChart360}
+		svg360={treeCanopyBenefits360}
+		svg720={treeCanopyBenefits720}
 	/>
-
 	
 	<div class="text">
 
-		<h3>Sub-Heading</h3>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+		</p>
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphic
+		svg360={treeCanopyCrime360}
+	/>
+
+	<div class="text">
 
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+		</p>
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 		</p>
 
 		<p>

@@ -44,14 +44,14 @@
 
 	.imgTitle {
 		font-family: OpenSansBold;
-		font-size: 20px;
+		font-size: 16px;
 		line-height: 22px;
-		padding-bottom: 10px;
+		padding-bottom: 0px;
 	}
 
 	.imgSource {
 		font-family: OpenSans;
-		color: var(--brandGray70);
+		color: #666666;
 		font-size: 12px;
 		line-height: 18px;
 		margin-top: 0px;
