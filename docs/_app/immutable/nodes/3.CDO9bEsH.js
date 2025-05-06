@@ -1,1 +1,0 @@
-import{L as c}from"../chunks/CGmudxzU.js";const e=!0,o=!1,r=!0,t=Object.freeze(Object.defineProperty({__proto__:null,csr:e,prerender:r,ssr:o},Symbol.toStringTag,{value:"Module"}));export{c as component,t as universal};
