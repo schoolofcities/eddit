@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 310">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-8 {
+        fill: #c1bfbd;
+      }
+
+      .cls-9, .cls-2 {
+        fill: #067fa3;
+      }
+
+      .cls-9, .cls-8, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-9, .cls-8, .cls-10, .cls-11, .cls-13, .cls-14 {
+        font-size: 14px;
+      }
+
+      .cls-10, .cls-3 {
+        fill: #1e3864;
+      }
+
+      .cls-11, .cls-4 {
+        fill: #00a28a;
+      }
+
+      .cls-12 {
+        fill: #9a9896;
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-14 {
+        fill: #0e534d;
+      }
+
+      .cls-15 {
+        fill: #231f20;
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #9a9896;
+      }
+
+      .cls-13, .cls-7 {
+        fill: #6fc7e9;
+      }
+    </style>
+  </defs>
+  <text class="cls-15" transform="translate(19.99 25.37)"><tspan x="0" y="0">Average lone parent household </tspan><tspan x="0" y="24">budget</tspan></text>
+  <g>
+    <g>
+      <rect class="cls-4" x="39.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="55.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="71.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="87.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="103.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="119.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="135.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="151.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="167.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="183.98" y="89.98" width="16" height="16"/>
+      <rect class="cls-4" x="39.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="55.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="71.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="87.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="103.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="119.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="135.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="151.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="167.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="183.98" y="105.98" width="16" height="16"/>
+      <rect class="cls-4" x="39.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="55.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="71.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="87.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="103.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="119.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="135.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="151.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="167.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="183.98" y="121.98" width="16" height="16"/>
+      <rect class="cls-4" x="39.98" y="137.98" width="16" height="16"/>
+      <rect class="cls-4" x="55.98" y="137.98" width="16" height="16"/>
+      <rect class="cls-4" x="71.98" y="137.98" width="16" height="16"/>
+      <rect class="cls-4" x="87.98" y="137.98" width="16" height="16"/>
+      <rect class="cls-4" x="103.98" y="137.98" width="16" height="16"/>
+      <rect class="cls-4" x="119.98" y="137.98" width="16" height="16"/>
+      <rect class="cls-4" x="135.98" y="137.98" width="16" height="16"/>
+      <rect class="cls-4" x="151.98" y="137.98" width="16" height="16"/>
+    </g>
+    <rect class="cls-1" x="39.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-1" x="55.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-1" x="71.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-7" x="87.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-1" x="39.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-1" x="55.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-1" x="71.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-1" x="87.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-1" x="39.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-1" x="55.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-1" x="71.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-1" x="87.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-1" x="39.98" y="201.98" width="16" height="16"/>
+    <rect class="cls-1" x="55.98" y="201.98" width="16" height="16"/>
+    <rect class="cls-1" x="71.98" y="201.98" width="16" height="16"/>
+    <rect class="cls-1" x="87.98" y="201.98" width="16" height="16"/>
+    <g>
+      <rect class="cls-5" x="151.98" y="201.98" width="16" height="16"/>
+      <rect class="cls-5" x="167.98" y="201.98" width="16" height="16"/>
+      <rect class="cls-5" x="183.98" y="201.98" width="16" height="16"/>
+    </g>
+    <rect class="cls-1" x="39.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-1" x="55.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-1" x="71.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-1" x="87.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-3" x="103.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-3" x="135.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-3" x="151.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-3" x="167.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-3" x="183.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-3" x="119.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-3" x="135.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-3" x="151.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-3" x="167.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-3" x="183.98" y="185.98" width="16" height="16"/>
+    <rect class="cls-3" x="103.98" y="201.98" width="16" height="16"/>
+    <rect class="cls-3" x="119.98" y="201.98" width="16" height="16"/>
+    <rect class="cls-3" x="135.98" y="201.98" width="16" height="16"/>
+    <rect class="cls-2" x="103.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-2" x="119.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-2" x="135.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-2" x="151.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-2" x="167.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-2" x="183.98" y="217.98" width="16" height="16"/>
+    <rect class="cls-1" x="39.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-1" x="55.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-1" x="71.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-2" x="87.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-2" x="103.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-2" x="119.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-2" x="135.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-2" x="151.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-2" x="167.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-2" x="183.98" y="233.98" width="16" height="16"/>
+    <rect class="cls-7" x="103.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-3" x="119.98" y="169.98" width="16" height="16"/>
+    <rect class="cls-7" x="167.98" y="137.98" width="16" height="16"/>
+    <rect class="cls-7" x="183.98" y="137.98" width="16" height="16"/>
+    <rect class="cls-7" x="103.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-7" x="119.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-7" x="135.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-7" x="151.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-7" x="167.98" y="153.98" width="16" height="16"/>
+    <rect class="cls-7" x="183.98" y="153.98" width="16" height="16"/>
+  </g>
+  <text class="cls-12" transform="translate(20.07 300)"><tspan x="0" y="0">Source: Alberta Living Wage Report (2023)</tspan></text>
+  <line class="cls-6" x1="20.48" y1="287.54" x2="339.93" y2="287.54"/>
+  <text class="cls-14" transform="translate(200.66 214.2)"><tspan x="0" y="0">3% Healthcare</tspan></text>
+  <text class="cls-11" transform="translate(200.66 118.94)"><tspan x="0" y="0">38% Housing</tspan></text>
+  <text class="cls-13" transform="translate(200.66 158.17)"><tspan x="0" y="0">10% Transportation</tspan></text>
+  <text class="cls-9" transform="translate(200.66 237.89)"><tspan x="0" y="0">13% Food</tspan></text>
+  <text class="cls-10" transform="translate(200.66 191.04)"><tspan x="0" y="0">14% Childcare</tspan></text>
+  <text class="cls-8" transform="translate(39.34 264.79)"><tspan x="0" y="0">22% Other</tspan></text>
+</svg>

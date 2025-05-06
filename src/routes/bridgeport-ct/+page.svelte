@@ -10,8 +10,8 @@
 	
 	import titleImage from "./assets/bridgeport-title.jpg"
 
-	import ctMiniMap360 from "./assets/ct-mini-map-360-web.svg?raw";
-	import ctMiniMap720 from "./assets/ct-mini-map-720-web.svg?raw";
+	import bridgeportContextMap360 from "./assets/bridgeport-contextmap-360-web.svg?raw";
+	import bridgeportContextMap720 from "./assets/bridgeport-contextmap-720-web.svg?raw";
 
 	import ndviImage from "./assets/ndvi.png";
 	import redliningMap from "./assets/map-redlining.jpg";
@@ -63,8 +63,8 @@
 	</div>
 
 	<SingleGraphic
-		svg360={ctMiniMap360}
-		svg720={ctMiniMap720}
+		svg360={bridgeportContextMap360}
+		svg720={bridgeportContextMap720}
 	/>
 
 	<div class="text">
@@ -107,7 +107,7 @@
 		image={redliningMap}
 		subtitle="Historical map of redlining in Bridgeport (1937)"
 		source="Source: Mapping Inequality"
-		maxWidth="1080px"
+		maxWidth="{720 + 180}px"
 	/>
 
 	<div class="text">
@@ -134,7 +134,7 @@
 		image={ndviImage}
 		subtitle="Vegetation index of Bridgeport, CT"
 		source="Normalized Difference Vegetation Index (<a href='https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index' target='_blank'>NDVI</a>) from Copernicus Sentinel-2 L2A (2025)"
-		maxWidth="1080px"
+		maxWidth="720px"
 	/>
 
 	<div class="text">

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 430">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-family: OpenSans, 'Open Sans';
+        font-size: 12px;
+      }
+
+      .cls-1, .cls-9 {
+        fill: #067fa3;
+      }
+
+      .cls-10, .cls-2 {
+        fill: #c1bfbd;
+      }
+
+      .cls-11, .cls-7 {
+        fill: #6fc7e9;
+      }
+
+      .cls-3, .cls-12 {
+        fill: #1e3864;
+      }
+
+      .cls-4, .cls-13 {
+        fill: #00a28a;
+      }
+
+      .cls-14 {
+        fill: #fff;
+        font-size: 14px;
+      }
+
+      .cls-14, .cls-15 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #9a9896;
+      }
+
+      .cls-15 {
+        font-size: 20px;
+      }
+
+      .cls-15, .cls-6 {
+        fill: #231f20;
+      }
+
+      .cls-16 {
+        fill: none;
+        stroke: #9a9896;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8, .cls-17 {
+        fill: #0e534d;
+      }
+    </style>
+  </defs>
+  <text class="cls-15" transform="translate(150 25.37)"><tspan x="0" y="0">Average household budget</tspan></text>
+  <g>
+    <text class="cls-4" transform="translate(195.6 110.05)"><tspan x="0" y="0">Shelter</tspan></text>
+    <text class="cls-7" transform="translate(151.8 171.1)"><tspan x="0" y="0">Transportation</tspan></text>
+    <text class="cls-3" transform="translate(182.87 213.9)"><tspan x="0" y="0">Childcare</tspan></text>
+    <text class="cls-8" transform="translate(174.37 252.19)"><tspan x="0" y="0">Healthcare</tspan></text>
+    <text class="cls-1" transform="translate(207.09 285.96)"><tspan x="0" y="0">Food</tspan></text>
+    <text class="cls-2" transform="translate(202.57 348.32)"><tspan x="0" y="0">Other</tspan></text>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(265.33 50)"><tspan x="0" y="0">Family of Four</tspan></text>
+    <text class="cls-6" transform="translate(382.37 50)"><tspan x="0" y="0">Lone Parent</tspan></text>
+    <g>
+      <g>
+        <rect class="cls-17" x="297.88" y="208.54" width="14.37" height="79.55" rx="2.87" ry="2.87" transform="translate(553.38 -56.75) rotate(90)"/>
+        <text class="cls-14" transform="translate(322.43 253.37)"><tspan x="0" y="0">4%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="276.26" y="169.63" width="57.17" height="79.55" rx="2.62" ry="2.62" transform="translate(514.25 -95.43) rotate(90)"/>
+        <text class="cls-14" transform="translate(314.44 235.8)"><tspan x="0" y="0">19%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-9" x="280.77" y="242.99" width="48.14" height="79.55" rx="2.62" ry="2.62" transform="translate(587.61 -22.08) rotate(90)"/>
+        <text class="cls-14" transform="translate(314.44 304.88)"><tspan x="0" y="0">16%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-10" x="270.24" y="305.03" width="69.2" height="79.55" rx="2.62" ry="2.62" transform="translate(649.65 39.96) rotate(90)"/>
+        <text class="cls-14" transform="translate(314.44 377.24)"><tspan x="0" y="0">23%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-11" x="294.31" y="127.11" width="21.06" height="79.55" rx="2.62" ry="2.62" transform="translate(471.73 -137.96) rotate(90)"/>
+        <text class="cls-14" transform="translate(322.43 175.5)"><tspan x="0" y="0">7%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-13" x="258.2" y="66.96" width="93.28" height="79.55" rx="2.62" ry="2.62" transform="translate(411.58 -198.11) rotate(90)"/>
+        <text class="cls-14" transform="translate(314.44 151.03)"><tspan x="0" y="0">31%</tspan></text>
+      </g>
+    </g>
+    <g>
+      <g>
+        <rect class="cls-17" x="374.93" y="256.47" width="80" height="12.09" rx="2.83" ry="2.83"/>
+        <text class="cls-14" transform="translate(433.39 267.63)"><tspan x="0" y="0">3%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-12" x="374.93" y="212.12" width="80" height="42.19" rx="2.62" ry="2.62"/>
+        <text class="cls-14" transform="translate(425.39 252.66)"><tspan x="0" y="0">14%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-9" x="374.93" y="270.72" width="80" height="39.18" rx="2.62" ry="2.62"/>
+        <text class="cls-14" transform="translate(425.39 308.13)"><tspan x="0" y="0">13%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-10" x="374.93" y="313.6" width="80" height="66.3" rx="2.62" ry="2.62"/>
+        <text class="cls-14" transform="translate(425.39 378.13)"><tspan x="0" y="0">22%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-11" x="374.93" y="178.3" width="80" height="30.14" rx="2.62" ry="2.62"/>
+        <text class="cls-14" transform="translate(425.39 206.81)"><tspan x="0" y="0">10%</tspan></text>
+      </g>
+      <g>
+        <rect class="cls-13" x="374.93" y="60.1" width="80" height="114.52" rx="2.62" ry="2.62"/>
+        <text class="cls-14" transform="translate(425.39 172.58)"><tspan x="0" y="0">38%</tspan></text>
+      </g>
+    </g>
+  </g>
+  <text class="cls-5" transform="translate(20.07 420)"><tspan x="0" y="0">Sources: Alberta Living Wage Report (2023)</tspan></text>
+  <line class="cls-16" x1="20.48" y1="407.54" x2="700" y2="407.54"/>
+</svg>
