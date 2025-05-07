@@ -389,8 +389,10 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 
 
 svg_to_convert = [
-	["../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-360.svg", "../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-360-web.svg"],
-	["../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-720.svg", "../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-720-web.svg"],
+	["../routes/bridgeport-ct/assets/map-ndvi-360.svg", "../routes/bridgeport-ct/assets/map-ndvi-360-web.svg"],
+	["../routes/bridgeport-ct/assets/map-ndvi-720.svg", "../routes/bridgeport-ct/assets/map-ndvi-720-web.svg"]
+	# ["../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-360.svg", "../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-360-web.svg"],
+	# ["../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-720.svg", "../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-720-web.svg"],
 	# ["../routes/bridgeport-ct/assets/bridgeport-contextmap-360.svg", "../routes/bridgeport-ct/assets/bridgeport-contextmap-360-web.svg"],
 	# ["../routes/bridgeport-ct/assets/bridgeport-contextmap-720.svg", "../routes/bridgeport-ct/assets/bridgeport-contextmap-720-web.svg"],
 	# ["../routes/bridgeport-ct/assets/tree-canopy-benefits-360.svg", "../routes/bridgeport-ct/assets/tree-canopy-benefits-360-web.svg"],
@@ -404,9 +406,9 @@ svg_to_convert = [
 	# ["../routes/bridgeport-ct/assets/map-tree-redline-360.svg", "../routes/bridgeport-ct/assets/map-tree-redline-360-web.svg"]
 	# ["../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-360.svg", "../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-360-web.svg"],
 	# ["../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-720-og.svg", "../routes/wood-buffalo-ab/assets/wood-buffalo-wages-chart-720-web.svg"]
-	["../routes/bridgeport-ct/assets/map-asthma-360.svg", "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"],
-	["../routes/bridgeport-ct/assets/map-heat-360.svg", "../routes/bridgeport-ct/assets/map-heat-360-web.svg"],
-	["../routes/bridgeport-ct/assets/map-tree-360.svg", "../routes/bridgeport-ct/assets/map-tree-360-web.svg"]
+	# ["../routes/bridgeport-ct/assets/map-asthma-360.svg", "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"],
+	# ["../routes/bridgeport-ct/assets/map-heat-360.svg", "../routes/bridgeport-ct/assets/map-heat-360-web.svg"],
+	# ["../routes/bridgeport-ct/assets/map-tree-360.svg", "../routes/bridgeport-ct/assets/map-tree-360-web.svg"]
 ]
 
 # INPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360.svg"

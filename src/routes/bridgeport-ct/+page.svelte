@@ -13,8 +13,11 @@
 	import bridgeportContextMap360 from "./assets/bridgeport-contextmap-360-web.svg?raw";
 	import bridgeportContextMap720 from "./assets/bridgeport-contextmap-720-web.svg?raw";
 
-	import ndviImage from "./assets/ndvi.png";
+	// import ndviImage from "./assets/ndvi.png";
 	import redliningMap from "./assets/map-redlining.jpg";
+
+	import ndviMap360 from "./assets/map-ndvi-360-web.svg?raw";
+	import ndviMap720 from "./assets/map-ndvi-720-web.svg?raw";
 
 	import mapTreeRedline360 from "./assets/map-tree-redline-360-web.svg?raw";
 	import mapTreeRedline720 from "./assets/map-tree-redline-720-web.svg?raw";
@@ -91,11 +94,29 @@
 
 	<div class="text">
 
-		<h3>Sub-Heading</h3>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+		</p>
 
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 		</p>
+
+	</div>
+
+	<SingleGraphic
+		svg360={ndviMap360}
+		svg720={ndviMap720}
+	/>
+
+	<div class="text">
+
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+		<h3>Sub-Heading</h3>
 
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
@@ -130,12 +151,6 @@
 
 	</div>
 
-	<SingleImage
-		image={ndviImage}
-		subtitle="Vegetation index of Bridgeport, CT"
-		source="Normalized Difference Vegetation Index (<a href='https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index' target='_blank'>NDVI</a>) from Copernicus Sentinel-2 L2A (2025)"
-		maxWidth="720px"
-	/>
 
 	<div class="text">
 
@@ -165,6 +180,13 @@
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 		</p>
+
+
+
+	<SingleGraphic
+		svg360={treeCanopyBenefits360}
+		svg720={treeCanopyBenefits720}
+	/>
 
 		
 
@@ -230,11 +252,6 @@
 
 	</div>
 
-	
-	<SingleGraphic
-		svg360={treeCanopyBenefits360}
-		svg720={treeCanopyBenefits720}
-	/>
 	
 	<div class="text">
 
