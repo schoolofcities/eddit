@@ -389,8 +389,10 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 
 
 svg_to_convert = [
-	["../routes/bridgeport-ct/assets/map-ndvi-360.svg", "../routes/bridgeport-ct/assets/map-ndvi-360-web.svg"],
-	["../routes/bridgeport-ct/assets/map-ndvi-720.svg", "../routes/bridgeport-ct/assets/map-ndvi-720-web.svg"]
+	["../routes/bridgeport-ct/assets/thermal-img-1-360.svg", "../routes/bridgeport-ct/assets/thermal-img-1-360-web.svg"],
+	["../routes/bridgeport-ct/assets/thermal-img-2-360.svg", "../routes/bridgeport-ct/assets/thermal-img-2-360-web.svg"]
+	# ["../routes/bridgeport-ct/assets/map-ndvi-360.svg", "../routes/bridgeport-ct/assets/map-ndvi-360-web.svg"],
+	# ["../routes/bridgeport-ct/assets/map-ndvi-720.svg", "../routes/bridgeport-ct/assets/map-ndvi-720-web.svg"]
 	# ["../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-360.svg", "../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-360-web.svg"],
 	# ["../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-720.svg", "../routes/wood-buffalo-ab/assets/woodbuffalo-contextmap-720-web.svg"],
 	# ["../routes/bridgeport-ct/assets/bridgeport-contextmap-360.svg", "../routes/bridgeport-ct/assets/bridgeport-contextmap-360-web.svg"],

@@ -37,6 +37,9 @@
 	import treeCanopyBenefits360 from "./assets/tree-canopy-benefits-360-web.svg?raw";
 	import treeCanopyBenefits720 from "./assets/tree-canopy-benefits-720-web.svg?raw";
 
+	import thermalImage1 from "./assets/thermal-img-1-360-web.svg?raw";
+	import thermalImage2 from "./assets/thermal-img-2-360-web.svg?raw";
+
 </script>
 
 
@@ -197,6 +200,24 @@
 		</p>
 
 	</div>
+
+	<SmallMultiples 
+		svgs={[thermalImage1,thermalImage2]}
+	/>
+
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
 
 	<SmallMultiples 
 		svgs={[mapTree360, mapHeat360, mapAsthma360]}
