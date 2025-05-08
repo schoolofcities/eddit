@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 350">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-width: .1px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-7 {
+        font-size: 12px;
+      }
+
+      .cls-1, .cls-7 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-2, .cls-4 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        fill: #efc419;
+      }
+
+      .cls-9 {
+        fill: #6fc7e9;
+      }
+
+      .cls-7 {
+        fill: #9a9896;
+      }
+
+      .cls-10 {
+        fill: #00a28a;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-5 {
+        stroke: #9a9896;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: #58595b;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(94.13 24.18)"><tspan x="0" y="0">Affordable shelters across professions</tspan></text>
+  <text class="cls-7" transform="translate(20 340.08)"><tspan x="0" y="0">Sources: Alberta Wage &amp; Salary Survey (2022), Statistics Canada (2021)</tspan></text>
+  <line class="cls-5" x1="20.41" y1="327.62" x2="690" y2="327.62"/>
+  <g>
+    <text class="cls-1" transform="translate(146.53 78.7)"><tspan x="0" y="0">Driller in</tspan><tspan x="-3.64" y="10.99">Oil &amp; Gas</tspan></text>
+    <text class="cls-1" transform="translate(122.05 158.46)"><tspan x="0" y="0">Construction</tspan><tspan x="30.82" y="10.99">Worker</tspan></text>
+    <text class="cls-1" transform="translate(149.68 124.07)"><tspan x="0" y="0">Teacher</tspan></text>
+    <text class="cls-1" transform="translate(160.09 203.83)"><tspan x="0" y="0">Nurse</tspan></text>
+    <text class="cls-1" transform="translate(158 283.58)"><tspan x="0" y="0">Server</tspan></text>
+    <text class="cls-1" transform="translate(133.07 238.21)"><tspan x="0" y="0">Real Estate</tspan><tspan x="28.75" y="10.99">Agent</tspan></text>
+    <rect class="cls-10" x="212.95" y="72.84" width="385" height="15"/>
+    <rect class="cls-9" x="212.95" y="112.35" width="238" height="15"/>
+    <rect class="cls-9" x="212.95" y="152.64" width="238" height="15"/>
+    <rect class="cls-9" x="212.95" y="192.35" width="185.5" height="15"/>
+    <rect class="cls-8" x="212.95" y="232.45" width="185.5" height="15"/>
+    <rect class="cls-8" x="212.95" y="272.35" width="84" height="15"/>
+    <line class="cls-6" x1="212.95" y1="49.52" x2="212.95" y2="310.67"/>
+    <text class="cls-2" transform="translate(571.13 84.72)"><tspan x="0" y="0">55%</tspan></text>
+    <text class="cls-2" transform="translate(424.11 124.19)"><tspan x="0" y="0">34%</tspan></text>
+    <text class="cls-2" transform="translate(424.11 164.97)"><tspan x="0" y="0">34%</tspan></text>
+    <text class="cls-2" transform="translate(371.62 204.41)"><tspan x="0" y="0">27%</tspan></text>
+    <text class="cls-2" transform="translate(371.62 244.7)"><tspan x="0" y="0">27%</tspan></text>
+    <text class="cls-2" transform="translate(270.13 284.59)"><tspan x="0" y="0">12%</tspan></text>
+    <rect class="cls-3" x="294.38" y="281.28" width="2.57" height="1.17"/>
+  </g>
+</svg>

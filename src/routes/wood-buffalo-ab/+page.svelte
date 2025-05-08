@@ -5,16 +5,17 @@
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
 	import SingleGraphic from "$lib/SingleGraphic.svelte";
+	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
 	import SmallMultiples from "$lib/SmallMultiples.svelte";
 	import SingleImage from "$lib/SingleImage.svelte";
 
 	import titleImage from "./assets/wood-buffalo-title-img.jpg";
 
-	import wageChart360 from "./assets/wood-buffalo-wages-chart-360-web.svg?raw";
-	import wageChart720 from "./assets/wood-buffalo-wages-chart-720-web.svg?raw";
+	// import wageChart360 from "./assets/wood-buffalo-wages-chart-360-web.svg?raw";
+	// import wageChart720 from "./assets/wood-buffalo-wages-chart-720-web.svg?raw";
 
-	import woodBuffaloContextMap360 from "./assets/woodbuffalo-contextmap-360-web.svg?raw";
-	import woodBuffaloContextMap720 from "./assets/woodbuffalo-contextmap-720-web.svg?raw";
+	// import woodBuffaloContextMap360 from "./assets/woodbuffalo-contextmap-360-web.svg";
+	// import woodBuffaloContextMap720 from "./assets/woodbuffalo-contextmap-720-web.svg";
 
 </script>
 
@@ -40,9 +41,9 @@
 
 	</div>
 
-	<SingleGraphic
-		svg720={woodBuffaloContextMap720}
-		svg360={woodBuffaloContextMap360}
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/woodbuffalo-contextmap-720-web.svg"}
+		svg360={"./wood-buffalo-ab/woodbuffalo-contextmap-360-web.svg"}
 	/>
 
 	<div class="text">
@@ -82,10 +83,10 @@
 
 	</div>
 
-	<SingleGraphic
+	<!-- <SingleGraphic
 		svg720={wageChart720}
 		svg360={wageChart360}
-	/>
+	/> -->
 
 	<div class="text">
 

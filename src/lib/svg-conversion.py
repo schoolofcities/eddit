@@ -416,7 +416,21 @@ svg_to_convert = [
 # INPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360.svg"
 # OUTPUT_SVG_PATH = "../routes/bridgeport-ct/assets/map-asthma-360-web.svg"
 
+# if __name__ == "__main__":
+# 	for svg in svg_to_convert:
+# 		process_svg(svg[0], svg[1], FONT_MAP)
+
+
+from pathlib import Path
+
+def main():
+	city = "bridgeport-ct"
+	input_dir = "../routes/v " + city + "/assets"  
+	output_dir = "../../static/"  + city + "/test"
+
+	for svg_file in Path(input_dir).glob("*.svg"):
+		output_path = Path(output_dir) / svg_file.name
+		process_svg(svg_file, output_path, FONT_MAP)  # Your existing function
 
 if __name__ == "__main__":
-	for svg in svg_to_convert:
-		process_svg(svg[0], svg[1], FONT_MAP)
+	main()
