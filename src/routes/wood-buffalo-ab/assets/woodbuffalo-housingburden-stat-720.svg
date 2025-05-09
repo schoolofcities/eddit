@@ -1,7 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 131.93">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 720 110.00001"
+   version="1.1"
+   sodipodi:docname="woodbuffalo-housingburden-stat-720.svg"
+   width="720"
+   height="110"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.7805342"
+     inkscape:cx="317.03969"
+     inkscape:cy="76.381573"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1">
+    <inkscape:grid
+       id="grid6"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1.0000001"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .cls-1 {
         fill: #231f20;
         font-size: 14px;
@@ -33,10 +81,62 @@
       }
     </style>
   </defs>
-  <text class="cls-3" transform="translate(20.07 121.96)"><tspan x="0" y="0">Sources: Statistics Canada (2021) </tspan></text>
-  <line class="cls-5" x1="20.48" y1="109.5" x2="700" y2="109.5"/>
-  <g>
-    <text class="cls-6" transform="translate(183.39 64.76)"><tspan class="cls-2" x="0" y="0">46</tspan><tspan class="cls-4" x="45.66" y="0">%</tspan></text>
-    <text class="cls-1" transform="translate(270.59 45.98)"><tspan x="0" y="0">of households that earn less than 100k </tspan><tspan x="0" y="16.8">spend more than 30% on shelter costs</tspan></text>
+  <text
+     class="cls-3"
+     id="text1"
+     x="20.07"
+     y="100.00001"><tspan
+       x="20.07"
+       y="100.00001"
+       id="tspan1">Sources: Statistics Canada (2021)</tspan></text>
+  <line
+     class="cls-5"
+     x1="20.48"
+     y1="85.500008"
+     x2="524.92981"
+     y2="85.500008"
+     id="line1"
+     style="stroke-width:0.861604" />
+  <g
+     id="g5"
+     transform="translate(0,-7.1483729)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:20px;line-height:1.2;font-family:OpenSans-Bold, 'Open Sans';-inkscape-font-specification:'OpenSans-Bold, Open Sans, Bold'"
+       x="138.75793"
+       y="43.048626"
+       id="text8"><tspan
+         sodipodi:role="line"
+         x="138.75793"
+         y="43.048626"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan10">of households that earn less than 100k </tspan><tspan
+         sodipodi:role="line"
+         x="138.75793"
+         y="67.04863"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan6">spend more than 30% on shelter costs</tspan></text>
+    <text
+       class="cls-6"
+       id="text3"
+       style="font-size:53.7322px;fill:#ab1368;fill-opacity:1;stroke-width:1.03331"
+       x="19.77282"
+       y="66.65451"><tspan
+         class="cls-4"
+         x="19.77282"
+         y="66.65451"
+         id="tspan2"
+         style="font-weight:bold;font-size:53.7322px;fill:#ab1368;fill-opacity:1;stroke-width:1.03331">46</tspan></text>
+    <text
+       class="cls-6"
+       id="text3-4"
+       style="font-size:53.7322px;fill:#ab1368;fill-opacity:1;stroke-width:1.03331"
+       x="84.901527"
+       y="66.65451"><tspan
+         class="cls-4"
+         x="84.901527"
+         y="66.65451"
+         id="tspan2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.7322px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ab1368;fill-opacity:1;stroke-width:1.03331">%</tspan></text>
   </g>
 </svg>

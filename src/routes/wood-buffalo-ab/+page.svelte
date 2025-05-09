@@ -204,6 +204,7 @@
 
 	<SingleGraphicLazy
 		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-stat-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-stat-720.svg"}
 	/>
 
 	<div class="text">

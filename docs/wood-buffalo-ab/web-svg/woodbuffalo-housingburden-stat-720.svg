@@ -1,52 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 720 131.93">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 720 110.00001" version="1.1" sodipodi:docname="woodbuffalo-housingburden-stat-720.svg" width="720" height="110" inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)">
   <g id="background">
-    <image x="0.0" y="0.0" width="720.0" height="131.93" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+    <image x="0.0" y="0.0" width="720.0" height="110.00001" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAADcCAYAAACGeAbVAAAABmJLR0QA/wD/AP+gvaeTAAAFCUlEQVR4nO3OMQ2AMBAAwC8TvvBCCKZeFXtdEJhwUMaH5E7BRQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC06sCbzJzv6zyqHwAAAMBYi+jrti/VDwC+Y6oOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8A8PnQcIBKcXGBgAAAAASUVORK5CYII="/>
   </g>
   <g id="foreground">
-    <text class="cls-3" transform="translate(20.07 121.96)" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-      <text class="cls-3" transform="translate(20.07 121.96)" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-    </text>
-    <text class="cls-3" transform="translate(20.07 121.96)" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Sources: Statistics Canada (2021) </tspan>
+    <text class="cls-3" id="text1" x="20.07" y="100.00001" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text class="cls-3" id="text1" x="20.07" y="100.00001" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      <tspan x="20.07" y="100.00001" id="tspan1" style="font-weight: normal; font-style: normal;">
+        <tspan x="20.07" y="100.00001" id="tspan1" style="font-weight: normal; font-style: normal;">Sources: Statistics Canada (2021)</tspan>
       </tspan>
     </text>
-    <g>
-      <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;">
-        <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;"/>
-      </text>
-    </g>
-    <g>
-      <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;">
-        <tspan class="cls-2" x="0" y="0" style="font-family: OpenSansBold; font-style: normal;">
-          <tspan class="cls-2" x="0" y="0" style="font-family: OpenSansBold; font-style: normal;">46</tspan>
+    <g id="g5" transform="translate(0,-7.1483729)">
+      <text xml:space="preserve" style="font-size: 20px; line-height: 1.2; font-family: OpenSansBold; font-style: normal;" x="138.75793" y="43.048626" id="text8">
+        <text xml:space="preserve" style="font-size: 20px; line-height: 1.2; font-family: OpenSansBold; font-style: normal;" x="138.75793" y="43.048626" id="text8"/>
+        <tspan sodipodi:role="line" x="138.75793" y="43.048626" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 20px; line-height: 1.2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;" id="tspan10">
+          <tspan sodipodi:role="line" x="138.75793" y="43.048626" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 20px; line-height: 1.2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;" id="tspan10">of households that earn less than 100k </tspan>
+        </tspan>
+        <tspan sodipodi:role="line" x="138.75793" y="67.04863" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 20px; line-height: 1.2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;" id="tspan6">
+          <tspan sodipodi:role="line" x="138.75793" y="67.04863" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 20px; line-height: 1.2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;" id="tspan6">spend more than 30% on shelter costs</tspan>
         </tspan>
       </text>
-    </g>
-    <g>
-      <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;">
-        <tspan class="cls-4" x="45.66" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
-          <tspan class="cls-4" x="45.66" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">%</tspan>
+      <text class="cls-6" id="text3" style="font-size: 40px; fill: #00a28a; fill-opacity: 1; stroke-width: 1.03331; font-weight: normal; font-style: normal;" x="19.77282" y="66.65451">
+        <text class="cls-6" id="text3" style="font-size: 40px; fill: #00a28a; fill-opacity: 1; stroke-width: 1.03331; font-weight: normal; font-style: normal;" x="19.77282" y="66.65451"/>
+        <tspan class="cls-4" x="19.77282" y="66.65451" id="tspan2" style="font-size: 53.7322px; fill: #ab1368; fill-opacity: 1; stroke-width: 1.03331; font-family: OpenSansBold; font-style: normal;">
+          <tspan class="cls-4" x="19.77282" y="66.65451" id="tspan2" style="font-size: 53.7322px; fill: #ab1368; fill-opacity: 1; stroke-width: 1.03331; font-family: OpenSansBold; font-style: normal;">46</tspan>
         </tspan>
       </text>
-    </g>
-    <g>
-      <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
-        <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;"/>
-      </text>
-    </g>
-    <g>
-      <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">of households that earn less than 100k </tspan>
-        </tspan>
-      </text>
-    </g>
-    <g>
-      <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
-        <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">spend more than 30% on shelter costs</tspan>
+      <text class="cls-6" id="text3-4" style="font-size: 40px; fill: #00a28a; fill-opacity: 1; stroke-width: 1.03331; font-weight: normal; font-style: normal;" x="84.901527" y="66.65451">
+        <text class="cls-6" id="text3-4" style="font-size: 40px; fill: #00a28a; fill-opacity: 1; stroke-width: 1.03331; font-weight: normal; font-style: normal;" x="84.901527" y="66.65451"/>
+        <tspan class="cls-4" x="84.901527" y="66.65451" id="tspan2-0" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 53.7322px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #ab1368; fill-opacity: 1; stroke-width: 1.03331;">
+          <tspan class="cls-4" x="84.901527" y="66.65451" id="tspan2-0" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 53.7322px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #ab1368; fill-opacity: 1; stroke-width: 1.03331;">%</tspan>
         </tspan>
       </text>
     </g>
