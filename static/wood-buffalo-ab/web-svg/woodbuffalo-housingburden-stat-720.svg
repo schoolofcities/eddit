@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 720 131.93">
+  <g id="background">
+    <image x="0.0" y="0.0" width="720.0" height="131.93" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <text class="cls-3" transform="translate(20.07 121.96)" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text class="cls-3" transform="translate(20.07 121.96)" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-3" transform="translate(20.07 121.96)" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Sources: Statistics Canada (2021) </tspan>
+      </tspan>
+    </text>
+    <g>
+      <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;">
+        <tspan class="cls-2" x="0" y="0" style="font-family: OpenSansBold; font-style: normal;">
+          <tspan class="cls-2" x="0" y="0" style="font-family: OpenSansBold; font-style: normal;">46</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text class="cls-6" transform="translate(183.39 64.76)" style="fill: #00a28a; font-size: 40px; font-weight: normal; font-style: normal;">
+        <tspan class="cls-4" x="45.66" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+          <tspan class="cls-4" x="45.66" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">%</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
+        <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">of households that earn less than 100k </tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text class="cls-1" transform="translate(270.59 45.98)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
+        <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">spend more than 30% on shelter costs</tspan>
+        </tspan>
+      </text>
+    </g>
+  </g>
+</svg>

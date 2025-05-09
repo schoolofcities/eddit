@@ -24,13 +24,17 @@
 
 
 
-<Title title={"Wood Buffalo, AB"} subtitle={"Wood Buffalo Organizations"} image={titleImage} />
+<Title
+	title={"Wood Buffalo, AB"}
+	subtitle={"Ceramic Bison, BA"}
+	image={titleImage}
+/>
 
 <main>
 
 	<div class="text">
 
-		<h1>Nice title about Wood Buffalo</h1>
+		<h1>Lorem ipsum title</h1>
 
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
@@ -42,8 +46,8 @@
 	</div>
 
 	<SingleGraphicLazy
-		svg720={"./wood-buffalo-ab/woodbuffalo-contextmap-720-web.svg"}
-		svg360={"./wood-buffalo-ab/woodbuffalo-contextmap-360-web.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-360.svg"}
 	/>
 
 	<div class="text">
@@ -83,10 +87,10 @@
 
 	</div>
 
-	<!-- <SingleGraphic
-		svg720={wageChart720}
-		svg360={wageChart360}
-	/> -->
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-wages-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-wages-360.svg"}
+	/>
 
 	<div class="text">
 
@@ -99,6 +103,151 @@
 
 	</div>
 
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<h3>
+			Lorem ipsum subtitle
+		</h3>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-shelters-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-shelters-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<h3>
+			Lorem ipsum subtitle
+		</h3>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-expenses-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-expenses-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<h3>
+			Lorem ipsum subtitle
+		</h3>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-migrating-cities-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-migrating-cities-chart-360.svg"}
+	/>
+
+	
+	<div class="text">
+
+		<p>
+			Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-shadowpop-vert-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-shadowpop-vert-chart-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<h3>
+			Lorem ipsum subtitle
+		</h3>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-stat-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingadequacy-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingadequacy-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-map-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-map-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<h3>
+			Lorem ipsum subtitle
+		</h3>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
 
 </main>
 

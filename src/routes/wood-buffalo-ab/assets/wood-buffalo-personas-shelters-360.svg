@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="360"
+   height="385.93"
+   viewBox="0 0 360 385.93"
+   version="1.1"
+   sodipodi:docname="wood-buffalo-personas-shelters-360.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4584433"
+     inkscape:cx="85.364994"
+     inkscape:cy="211.86974"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1">
+    <inkscape:grid
+       id="grid26"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1, .cls-2 {
+        stroke: #231f20;
+        stroke-width: .1px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-size: 12px;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-2, .cls-4 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        fill: #efc419;
+      }
+
+      .cls-8 {
+        fill: #6fc7e9;
+      }
+
+      .cls-3 {
+        fill: #9a9896;
+      }
+
+      .cls-9 {
+        fill: #00a28a;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-5 {
+        stroke: #9a9896;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke: #58595b;
+      }
+    </style>
+  </defs>
+  <rect
+     class="cls-7"
+     x="135.89499"
+     y="252.36"
+     width="50.400002"
+     height="15"
+     id="rect1" />
+  <rect
+     class="cls-7"
+     x="135.89499"
+     y="292.26999"
+     width="15.2"
+     height="15"
+     id="rect2" />
+  <rect
+     class="cls-8"
+     x="135.89499"
+     y="132.27"
+     width="192"
+     height="15"
+     id="rect3" />
+  <rect
+     class="cls-8"
+     x="135.89499"
+     y="172.56"
+     width="162.39999"
+     height="15"
+     id="rect4" />
+  <rect
+     class="cls-8"
+     x="135.80499"
+     y="212.27"
+     width="78.800003"
+     height="15"
+     id="rect5" />
+  <rect
+     class="cls-9"
+     x="135.80499"
+     y="92.75"
+     width="220"
+     height="15"
+     id="rect6" />
+  <text
+     class="cls-3"
+     transform="translate(20 360)"
+     id="text17"><tspan
+       x="0"
+       y="0"
+       id="tspan16">Sources: Alberta Wage &amp; Salary Survey (2021), </tspan><tspan
+       x="0"
+       y="14.4"
+       id="tspan17">Statistics Canada (2021)</tspan></text>
+  <line
+     class="cls-5"
+     x1="20.41"
+     y1="347.54"
+     x2="330"
+     y2="347.54"
+     id="line17" />
+  <line
+     class="cls-6"
+     x1="135.89499"
+     y1="69.43"
+     x2="135.89499"
+     y2="330.59"
+     id="line18" />
+  <text
+     class="cls-2"
+     id="text18"
+     x="327.59094"
+     y="90.752174"
+     style="font-size:14px"><tspan
+       x="327.59094"
+       y="90.752174"
+       id="tspan18"
+       style="font-size:14px">55%</tspan></text>
+  <text
+     class="cls-2"
+     id="text19"
+     x="299.68094"
+     y="130.14394"
+     style="font-size:14px"><tspan
+       x="299.68094"
+       y="130.14394"
+       id="tspan19"
+       style="font-size:14px">48%</tspan></text>
+  <text
+     class="cls-2"
+     id="text20"
+     x="270.08093"
+     y="170.26349"
+     style="font-size:14px"><tspan
+       x="270.08093"
+       y="170.26349"
+       id="tspan20"
+       style="font-size:14px">41%</tspan></text>
+  <text
+     class="cls-2"
+     id="text21"
+     x="186.39093"
+     y="209.39006"
+     style="font-size:14px"><tspan
+       x="186.39093"
+       y="209.39006"
+       id="tspan21"
+       style="font-size:14px">20%</tspan></text>
+  <text
+     class="cls-2"
+     id="text22"
+     x="158.08093"
+     y="249.78488"
+     style="font-size:14px"><tspan
+       x="158.08093"
+       y="249.78488"
+       id="tspan22"
+       style="font-size:14px">13%</tspan></text>
+  <text
+     class="cls-2"
+     id="text23"
+     x="154.49071"
+     y="304.77731"
+     style="font-size:14px"><tspan
+       x="154.49071"
+       y="304.77731"
+       id="tspan23"
+       style="font-size:14px">4%</tspan></text>
+  <text
+     class="cls-4"
+     id="text1"
+     x="18.177734"
+     y="29.801899"
+     style="font-weight:700;font-size:20px;font-family:OpenSans-Bold, 'Open Sans';fill:#231f20"><tspan
+       x="18.177734"
+       y="29.801899"
+       id="tspan1">Percent of housing that is</tspan></text>
+  <text
+     class="cls-4"
+     id="text1-9"
+     x="18.177734"
+     y="55"
+     style="font-weight:700;font-size:20px;font-family:OpenSans-Bold, 'Open Sans';fill:#231f20"><tspan
+       x="18.177734"
+       y="55"
+       id="tspan1-1">affordable by profession</tspan></text>
+  <text
+     class="cls-2"
+     id="text3-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#231f20;stroke-width:0.1px;stroke-miterlimit:10"
+     x="41.736099"
+     y="105.5376"><tspan
+       x="41.736099"
+       y="105.5376"
+       id="tspan3-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">Police Officer</tspan></text>
+  <text
+     class="cls-2"
+     id="text6-82"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#231f20;stroke-width:0.1px;stroke-miterlimit:10"
+     x="76.81131"
+     y="145.1676"><tspan
+       x="76.81131"
+       y="145.1676"
+       id="tspan6-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">Teacher</tspan></text>
+  <text
+     class="cls-2"
+     id="text6-8"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#231f20;stroke-width:0.1px;stroke-miterlimit:10"
+     x="8.079731"
+     y="262.51978"><tspan
+       x="8.079731"
+       y="262.51978"
+       id="tspan6-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">Janitor / Caretaker</tspan></text>
+  <text
+     class="cls-2"
+     id="text7-6"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#231f20;stroke-width:0.1px;stroke-miterlimit:10"
+     x="37.74086"
+     y="224.91759"><tspan
+       x="37.74086"
+       y="224.91759"
+       id="tspan7-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">Social Worker</tspan></text>
+  <text
+     class="cls-2"
+     id="text7-7"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#231f20;stroke-width:0.1px;stroke-miterlimit:10"
+     x="24.160906"
+     y="185.26088"><tspan
+       x="24.160906"
+       y="185.26088"
+       id="tspan7-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">Oil &amp; Gas Driller</tspan></text>
+  <text
+     class="cls-2"
+     id="text8-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#231f20;stroke-width:0.1px;stroke-miterlimit:10"
+     x="48.350235"
+     y="304.67758"><tspan
+       x="48.350235"
+       y="304.67758"
+       id="tspan8-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1">Food Server</tspan></text>
+</svg>

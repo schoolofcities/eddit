@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 360 381.96">
+  <g id="background">
+    <image x="0.0" y="0.0" width="360.0" height="381.96" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <text class="cls-11" transform="translate(2.47 26.86)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+      <text class="cls-11" transform="translate(2.47 26.86)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+    </text>
+    <text class="cls-11" transform="translate(2.47 26.86)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Wood Buffalo Has the Largest Wage</tspan>
+      </tspan>
+    </text>
+    <text class="cls-11" transform="translate(2.47 26.86)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+      <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">Gap Among Alberta’s Major Cities</tspan>
+      </tspan>
+    </text>
+    <text class="cls-8" transform="translate(242.92 343.97)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-8" transform="translate(242.92 343.97)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-8" transform="translate(242.92 343.97)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Upper Income</tspan>
+      </tspan>
+    </text>
+    <text class="cls-8" transform="translate(26.54 344.05)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-8" transform="translate(26.54 344.05)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-8" transform="translate(26.54 344.05)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Lower Income</tspan>
+      </tspan>
+    </text>
+    <text class="cls-8" transform="translate(129.88 343.81)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-8" transform="translate(129.88 343.81)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-8" transform="translate(129.88 343.81)" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Middle Income</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(44.76 117.17)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(44.76 117.17)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(44.76 117.17)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">CALGARY</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(27.37 190.15)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(27.37 190.15)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(27.37 190.15)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">EDMONTON</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(2.23 263.13)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(2.23 263.13)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(2.23 263.13)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">WOOD BUFFALO</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(260.02 238.56)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(260.02 238.56)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(260.02 238.56)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$24.19+</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(239.2 165.46)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(239.2 165.46)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(239.2 165.46)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$15.70+</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(243.62 93.01)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(243.62 93.01)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(243.62 93.01)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$17.70+</tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(218.41 292.48)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <text class="cls-7" transform="translate(218.41 292.48)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-7" transform="translate(218.41 292.48)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$25</tspan>
+      </tspan>
+    </text>
+    <text class="cls-10" transform="translate(161.02 311.05)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <text class="cls-10" transform="translate(161.02 311.05)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-10" transform="translate(161.02 311.05)" style="font-family: OpenSansBold; fill: #231f20; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Averagle Hourly Wage</tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(340.54 291.89)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <text class="cls-7" transform="translate(340.54 291.89)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-7" transform="translate(340.54 291.89)" style="font-family: OpenSans; fill: #808285; font-size: 10px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$50</tspan>
+      </tspan>
+    </text>
+    <text class="cls-6" transform="translate(5.06 376.96)" style="fill: #d2d2d1; font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text class="cls-6" transform="translate(5.06 376.96)" style="fill: #d2d2d1; font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-6" transform="translate(5.06 376.96)" style="fill: #d2d2d1; font-size: 8px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Sources: Alberta Wage &amp; Salary Survey (2022), Statistics Canada (2021) </tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>

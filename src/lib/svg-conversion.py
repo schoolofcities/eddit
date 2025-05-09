@@ -424,13 +424,13 @@ svg_to_convert = [
 from pathlib import Path
 
 def main():
-	city = "bridgeport-ct"
-	input_dir = "../routes/v " + city + "/assets"  
-	output_dir = "../../static/"  + city + "/test"
+	city = "wood-buffalo-ab"
+	input_dir = "../routes/" + city + "/assets"  
+	output_dir = "../../static/"  + city + "/web-svg"
 
 	for svg_file in Path(input_dir).glob("*.svg"):
 		output_path = Path(output_dir) / svg_file.name
-		process_svg(svg_file, output_path, FONT_MAP)  # Your existing function
+		process_svg(svg_file, output_path, FONT_MAP)
 
 if __name__ == "__main__":
 	main()

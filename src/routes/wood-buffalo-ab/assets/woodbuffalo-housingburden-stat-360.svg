@@ -1,7 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 134.43">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 360 134.43"
+   version="1.1"
+   sodipodi:docname="woodbuffalo-housingburden-stat-360.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.89026708"
+     inkscape:cx="254.41803"
+     inkscape:cy="28.081461"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6">
+    <inkscape:grid
+       id="grid12"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="9.9999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .cls-1 {
         letter-spacing: 0em;
       }
@@ -37,10 +83,66 @@
       }
     </style>
   </defs>
-  <text class="cls-2" transform="translate(33.11 124.43)"><tspan x="0" y="0">Sources: Statistics Canada (2021) </tspan></text>
-  <line class="cls-5" x1="33.53" y1="111.97" x2="340" y2="111.97"/>
-  <g>
-    <text class="cls-6" transform="translate(29.65 69.7)"><tspan class="cls-4" x="0" y="0">46</tspan><tspan class="cls-1" x="54.8" y="0">%</tspan></text>
-    <text class="cls-3" transform="translate(129 40.21)"><tspan x="0" y="0">of households that earn less </tspan><tspan x="0" y="16.8">than 100k spend more than </tspan><tspan x="0" y="33.6">30% on shelter costs</tspan></text>
+  <text
+     class="cls-2"
+     id="text1"
+     x="19.378906"
+     y="129.11719"><tspan
+       x="19.378906"
+       y="129.11719"
+       id="tspan1">Sources: Statistics Canada (2021)</tspan></text>
+  <line
+     class="cls-5"
+     x1="20"
+     y1="109.99999"
+     x2="350"
+     y2="109.99999"
+     id="line1"
+     style="stroke-width:1.03768" />
+  <g
+     id="g6">
+    <text
+       class="cls-6"
+       id="text3"
+       style="font-size:52px;fill:#ab1368;fill-opacity:1.0"
+       x="19.111328"
+       y="69.699997"><tspan
+         class="cls-4"
+         x="19.111328"
+         y="69.699997"
+         id="tspan2"
+         style="font-size:52px;fill:#ab1368;fill-opacity:1.0">46</tspan></text>
+    <text
+       class="cls-6"
+       id="text3-4"
+       style="font-size:52px;fill:#ab1368;fill-opacity:1.0"
+       x="82.140472"
+       y="69.699997"><tspan
+         class="cls-4"
+         x="82.140472"
+         y="69.699997"
+         id="tspan2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ab1368;fill-opacity:1.0">%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15px;line-height:1.2;font-family:OpenSans-Bold, 'Open Sans';-inkscape-font-specification:'OpenSans-Bold, Open Sans, Bold'"
+       x="139.75781"
+       y="42.242188"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="139.75781"
+         y="42.242188"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">of households that earn less</tspan><tspan
+         sodipodi:role="line"
+         x="139.75781"
+         y="60.242188"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan9">than 100k spend more than</tspan><tspan
+         sodipodi:role="line"
+         x="139.75781"
+         y="78.242188"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan10">30% on shelter costs</tspan></text>
   </g>
 </svg>
