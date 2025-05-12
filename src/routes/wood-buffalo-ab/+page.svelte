@@ -11,12 +11,6 @@
 
 	import titleImage from "./assets/wood-buffalo-title-img.jpg";
 
-	// import wageChart360 from "./assets/wood-buffalo-wages-chart-360-web.svg?raw";
-	// import wageChart720 from "./assets/wood-buffalo-wages-chart-720-web.svg?raw";
-
-	// import woodBuffaloContextMap360 from "./assets/woodbuffalo-contextmap-360-web.svg";
-	// import woodBuffaloContextMap720 from "./assets/woodbuffalo-contextmap-720-web.svg";
-
 </script>
 
 
@@ -167,8 +161,8 @@
 	</div>
 
 	<SingleGraphicLazy
-		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-migrating-cities-chart-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-migrating-cities-chart-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-migration-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-migration-chart-360.svg"}
 	/>
 
 	

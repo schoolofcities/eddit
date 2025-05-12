@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1080 775.09"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="greensboro-grocery-1080.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.35077546"
+     inkscape:cx="488.91676"
+     inkscape:cy="269.40311"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" /><defs
+     id="defs2"><style
+       id="style1">
+      .cls-1 {
+        fill: #aa206a;
+        font-size: 18px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #1d3864;
+      }
+
+      .cls-4 {
+        stroke: #babdbe;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        stroke: #686868;
+        stroke-width: .75px;
+      }
+
+      .cls-8 {
+        fill: #9a9896;
+      }
+
+      .cls-8, .cls-9 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-2 {
+        font-size: 20px;
+      }
+
+      .cls-2, .cls-9, .cls-10 {
+        fill: #231f20;
+      }
+
+      .cls-6 {
+        stroke: #9a9896;
+      }
+
+      .cls-10 {
+        font-size: 16px;
+      }
+    </style><linearGradient
+       id="linear-gradient"
+       x1="868.62"
+       y1="722"
+       x2="1044.69"
+       y2="722"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#fff"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#95d4cb"
+         id="stop2" /></linearGradient></defs><image
+     width="1080"
+     height="775"
+     preserveAspectRatio="none"
+     xlink:href="greensboro-grocery-1080.png"
+     id="image1"
+     x="0"
+     y="0.090026855" /><g
+     id="content"><text
+       class="cls-2"
+       transform="translate(18.21 24.1)"
+       id="text2"><tspan
+         x="0"
+         y="0"
+         id="tspan2">Most grocery stores are outside East Greensboro</tspan></text><text
+       class="cls-10"
+       transform="translate(856.87 707.76)"
+       id="text3"><tspan
+         x="0"
+         y="0"
+         id="tspan3">Population Density per km</tspan></text><text
+       class="cls-10"
+       transform="translate(1054.83 702.43) scale(.58)"
+       id="text4"><tspan
+         x="0"
+         y="0"
+         id="tspan4">2</tspan></text><text
+       class="cls-9"
+       transform="translate(942.93 742.42)"
+       id="text5"><tspan
+         x="0"
+         y="0"
+         id="tspan5">1250</tspan></text><text
+       class="cls-9"
+       transform="translate(902.35 742.42)"
+       id="text6"><tspan
+         x="0"
+         y="0"
+         id="tspan6">600</tspan></text><text
+       class="cls-9"
+       transform="translate(865.19 742.42)"
+       id="text7"><tspan
+         x="0"
+         y="0"
+         id="tspan7">0</tspan></text><text
+       class="cls-9"
+       transform="translate(1027.54 742.42)"
+       id="text8"><tspan
+         x="0"
+         y="0"
+         id="tspan8">12000</tspan></text><text
+       class="cls-8"
+       transform="translate(19.97 765.09)"
+       id="text9"><tspan
+         x="0"
+         y="0"
+         id="tspan9">Data Source: Open Street Maps</tspan></text><line
+       class="cls-6"
+       x1="20"
+       y1="752.63"
+       x2="1059.67"
+       y2="752.63"
+       id="line9" /><rect
+       class="cls-7"
+       x="868.62"
+       y="714.5"
+       width="176.07"
+       height="15"
+       id="rect9" /><line
+       class="cls-4"
+       x1="956.66"
+       y1="714.3"
+       x2="956.66"
+       y2="729.7"
+       id="line10" /><line
+       class="cls-4"
+       x1="1044.69"
+       y1="714.3"
+       x2="1044.69"
+       y2="729.7"
+       id="line11" /><line
+       class="cls-4"
+       x1="912.64"
+       y1="714.3"
+       x2="912.64"
+       y2="729.7"
+       id="line12" /><line
+       class="cls-4"
+       x1="868.62"
+       y1="714.3"
+       x2="868.62"
+       y2="729.7"
+       id="line13" /><g
+       id="g13"><text
+         class="cls-10"
+         transform="translate(40 726.5)"
+         id="text13"><tspan
+           x="0"
+           y="0"
+           id="tspan13">Greensboro City Limits</tspan></text><rect
+         class="cls-5"
+         x="24.42"
+         y="714.9"
+         width="11.6"
+         height="11.6"
+         id="rect13" /></g><g
+       id="g14"><text
+         class="cls-10"
+         transform="translate(40 703.97)"
+         id="text14"><tspan
+           x="0"
+           y="0"
+           id="tspan14">Grocery Stores</tspan></text><circle
+         class="cls-3"
+         cx="30.22"
+         cy="698.65"
+         r="5.8"
+         id="circle14" /></g><text
+       class="cls-1"
+       transform="translate(701.52 564.86)"
+       id="text15"><tspan
+         x="0"
+         y="0"
+         id="tspan15">East Greensboro</tspan></text></g></svg>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_3"
+   data-name="Layer 3"
+   width="720"
+   height="300"
+   viewBox="0 0 720 300"
+   version="1.1"
+   sodipodi:docname="greensboro-pop-growth-chart-720.svg"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview23"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.5610683"
+     inkscape:cx="433.71816"
+     inkscape:cy="114.57236"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_3">
+    <inkscape:grid
+       id="grid23"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #1d3864;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #00a08a;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: #9a9896;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-7, .cls-8, .cls-5 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-4, .cls-8, .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-9 {
+        stroke: #9a9896;
+      }
+
+      .cls-9, .cls-10 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10 {
+        stroke: #1d3864;
+      }
+    </style>
+  </defs>
+  <text
+     class="cls-4"
+     id="text2"
+     x="20"
+     y="35"><tspan
+       x="20"
+       y="35"
+       id="tspan1">The population of East Greensboro is growing almost twice as fast</tspan><tspan
+       x="20"
+       y="59"
+       id="tspan2">as the rest of the city</tspan></text>
+  <text
+     class="cls-8"
+     id="text3"
+     x="456.33078"
+     y="91.386086"
+     style="font-size:14px;-inkscape-font-specification:'Open Sans, Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="456.33078"
+       y="91.386086"
+       id="tspan3"
+       style="font-weight:bold;font-size:14px;-inkscape-font-specification:'Open Sans, Bold';font-family:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2013</tspan></text>
+  <text
+     class="cls-8"
+     id="text4"
+     x="526.80243"
+     y="91.386086"
+     style="font-size:14px;-inkscape-font-specification:'Open Sans, Bold';font-family:'Open Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+       x="526.80243"
+       y="91.386086"
+       id="tspan4"
+       style="font-weight:bold;font-size:14px;-inkscape-font-specification:'Open Sans, Bold';font-family:'Open Sans';font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2022</tspan></text>
+  <rect
+     class="cls-6"
+     x="90"
+     y="100"
+     width="467.07"
+     height="30"
+     id="rect4" />
+  <rect
+     class="cls-1"
+     x="90"
+     y="100"
+     width="396.53"
+     height="30"
+     id="rect5" />
+  <rect
+     class="cls-6"
+     x="90"
+     y="150"
+     width="508.67"
+     height="30"
+     id="rect6" />
+  <rect
+     class="cls-1"
+     x="90"
+     y="150"
+     width="378.32"
+     height="30"
+     id="rect7" />
+  <g
+     id="g12"
+     style="fill:#3d3846;stroke:#3d3846">
+    <line
+       class="cls-10"
+       x1="90"
+       y1="199.96"
+       x2="630"
+       y2="199.96"
+       id="line7"
+       style="fill:#3d3846;stroke:#3d3846" />
+    <line
+       class="cls-10"
+       x1="90"
+       y1="194.48"
+       x2="90"
+       y2="205.44"
+       id="line8"
+       style="fill:#3d3846;stroke:#3d3846" />
+    <line
+       class="cls-10"
+       x1="360"
+       y1="194.32"
+       x2="360"
+       y2="205.28"
+       id="line9"
+       style="fill:#3d3846;stroke:#3d3846" />
+    <line
+       class="cls-10"
+       x1="630"
+       y1="194.32"
+       x2="630"
+       y2="205.28"
+       id="line10"
+       style="fill:#3d3846;stroke:#3d3846" />
+    <line
+       class="cls-10"
+       x1="225"
+       y1="196.98"
+       x2="225"
+       y2="202.95"
+       id="line11"
+       style="fill:#3d3846;stroke:#3d3846" />
+    <line
+       class="cls-10"
+       x1="495"
+       y1="196.98"
+       x2="495"
+       y2="202.95"
+       id="line12"
+       style="fill:#3d3846;stroke:#3d3846" />
+  </g>
+  <text
+     class="cls-3"
+     transform="translate(97.32 170.29)"
+     id="text12"><tspan
+       x="0"
+       y="0"
+       id="tspan12">East Greensboro</tspan></text>
+  <text
+     class="cls-3"
+     transform="translate(96.5,120.36)"
+     id="text13"><tspan
+       x="0"
+       y="0"
+       id="tspan13">West Greensboro</tspan></text>
+  <text
+     class="cls-5"
+     transform="translate(324.54 246.96)"
+     id="text14"><tspan
+       x="0"
+       y="0"
+       id="tspan14">Population</tspan></text>
+  <text
+     class="cls-8"
+     id="text15"
+     style="font-size:14px"
+     x="344.25098"
+     y="221.38"><tspan
+       x="344.25098"
+       y="221.38"
+       id="tspan15"
+       style="font-size:14px">100k</tspan></text>
+  <text
+     class="cls-8"
+     id="text16"
+     style="font-size:14px"
+     x="85.497559"
+     y="221.38"><tspan
+       x="85.497559"
+       y="221.38"
+       id="tspan16"
+       style="font-size:14px">0</tspan></text>
+  <text
+     class="cls-8"
+     id="text17"
+     style="font-size:14px"
+     x="614.55176"
+     y="221.38"><tspan
+       x="614.55176"
+       y="221.38"
+       id="tspan17"
+       style="font-size:14px">200k</tspan></text>
+  <text
+     class="cls-2"
+     id="text19"
+     x="607.409"
+     y="162.52"><tspan
+       x="607.409"
+       y="162.52"
+       id="tspan18">34.5%</tspan><tspan
+       x="607.409"
+       y="179.31999"
+       id="tspan19">Growth</tspan></text>
+  <text
+     class="cls-2"
+     id="text19-0"
+     x="564.66534"
+     y="111.60049"
+     style="font-weight:700;font-size:14px;font-family:OpenSans-Bold, 'Open Sans';fill:#00a08a"><tspan
+       x="564.66534"
+       y="111.60049"
+       id="tspan18-3">18%</tspan><tspan
+       x="564.66534"
+       y="128.40048"
+       id="tspan19-4">Growth</tspan></text>
+  <text
+     class="cls-7"
+     transform="translate(20 290)"
+     id="text22"><tspan
+       x="0"
+       y="0"
+       id="tspan22">Data Source: American Community Survey (2013, 2022) </tspan></text>
+  <line
+     class="cls-9"
+     x1="20.41"
+     y1="275.5"
+     x2="700"
+     y2="275.5"
+     id="line23" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+     d="M 468.32001,180 V 150"
+     id="path23" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+     d="M 486.53,130 V 100"
+     id="path24" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+     d="M 486.53,98.706335 V 95.54717"
+     id="path26" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 468.32001,149.14282 v -3.15916"
+     id="path26-3" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     d="m 598.67001,149.14282 v -3.15916"
+     id="path26-7" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+     d="M 557.07001,98.706335 V 95.54717"
+     id="path26-4" />
+</svg>
