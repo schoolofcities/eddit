@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="Layer_3" data-name="Layer 3" width="360" height="310" viewBox="0 0 360 310" version="1.1" sodipodi:docname="greensboro-pop-growth-chart-360.svg" inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)">
+  <g id="background">
+    <image x="0.0" y="0.0" width="360.0" height="310.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <text class="cls-4" transform="translate(20 25)" id="text4" style="font-family: OpenSansBold; font-size: 20px; fill: #231f20; font-style: normal;">
+      <text class="cls-4" transform="translate(20 25)" id="text4" style="font-family: OpenSansBold; font-size: 20px; fill: #231f20; font-style: normal;"/>
+      <tspan x="0" y="0" id="tspan1" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" id="tspan1" style="font-weight: normal; font-style: normal;">The population of East </tspan>
+      </tspan>
+      <tspan x="0" y="24" id="tspan2" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="24" id="tspan2" style="font-weight: normal; font-style: normal;">Greensboro is growing almost </tspan>
+      </tspan>
+      <tspan x="0" y="48" id="tspan3" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="48" id="tspan3" style="font-weight: normal; font-style: normal;">twice as fast as the rest of the </tspan>
+      </tspan>
+      <tspan x="0" y="72" id="tspan4" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="72" id="tspan4" style="font-weight: normal; font-style: normal;">city</tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" id="text7" x="19" y="302" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text class="cls-7" id="text7" x="19" y="302" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      <tspan x="19" y="302" id="tspan7" style="font-weight: normal; font-style: normal;">
+        <tspan x="19" y="302" id="tspan7" style="font-weight: normal; font-style: normal;">Data Source: American Community Survey (2013, 2022)</tspan>
+      </tspan>
+    </text>
+    <g id="g24">
+      <text class="cls-3" transform="translate(48.58,200.33)" id="text11" style="font-size: 14px; font-family: OpenSansBold; fill: #fff; font-style: normal;">
+        <text class="cls-3" transform="translate(48.58,200.33)" id="text11" style="font-size: 14px; font-family: OpenSansBold; fill: #fff; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan11" style="font-size: 13px; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan11" style="font-size: 13px; font-weight: normal; font-style: normal;">East Greensboro</tspan>
+        </tspan>
+      </text>
+      <text class="cls-3" id="text12" style="font-size: 14px; font-family: OpenSansBold; fill: #fff; font-style: normal;" x="48.580002" y="149.905">
+        <text class="cls-3" id="text12" style="font-size: 14px; font-family: OpenSansBold; fill: #fff; font-style: normal;" x="48.580002" y="149.905"/>
+        <tspan x="48.580002" y="149.905" id="tspan12" style="font-size: 13px; font-weight: normal; font-style: normal;">
+          <tspan x="48.580002" y="149.905" id="tspan12" style="font-size: 13px; font-weight: normal; font-style: normal;">West Greensboro</tspan>
+        </tspan>
+      </text>
+      <text class="cls-2" transform="translate(270.4 192.56)" id="text14" style="font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+        <text class="cls-2" transform="translate(270.4 192.56)" id="text14" style="font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan13" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan13" style="font-weight: normal; font-style: normal;">34.5%</tspan>
+        </tspan>
+        <tspan x="0" y="16.8" id="tspan14" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="16.8" id="tspan14" style="font-weight: normal; font-style: normal;">Growth</tspan>
+        </tspan>
+      </text>
+      <text class="cls-2" transform="translate(251.61 142.04)" id="text16" style="font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+        <text class="cls-2" transform="translate(251.61 142.04)" id="text16" style="font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan15" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan15" style="font-weight: normal; font-style: normal;">18%</tspan>
+        </tspan>
+        <tspan x="0" y="16.8" id="tspan16" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="16.8" id="tspan16" style="font-weight: normal; font-style: normal;">Growth</tspan>
+        </tspan>
+      </text>
+      <text class="cls-5" id="text21" x="125.14" y="269.57672" style="font-size: 14px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;">
+        <text class="cls-5" id="text21" x="125.14" y="269.57672" style="font-size: 14px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;"/>
+        <tspan x="125.14" y="269.57672" id="tspan21" style="font-weight: normal; font-style: normal;">
+          <tspan x="125.14" y="269.57672" id="tspan21" style="font-weight: normal; font-style: normal;">Population</tspan>
+        </tspan>
+      </text>
+      <text class="cls-8" transform="translate(147.16 247.97)" id="text22" style="font-size: 12px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;">
+        <text class="cls-8" transform="translate(147.16 247.97)" id="text22" style="font-size: 12px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan22" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan22" style="font-weight: normal; font-style: normal;">100k</tspan>
+        </tspan>
+      </text>
+      <text class="cls-8" transform="translate(37.17 247.97)" id="text23" style="font-size: 12px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;">
+        <text class="cls-8" transform="translate(37.17 247.97)" id="text23" style="font-size: 12px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan23" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan23" style="font-weight: normal; font-style: normal;">0</tspan>
+        </tspan>
+      </text>
+      <text class="cls-8" transform="translate(267.16 247.97)" id="text24" style="font-size: 12px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;">
+        <text class="cls-8" transform="translate(267.16 247.97)" id="text24" style="font-size: 12px; font-family: OpenSans; fill: #231f20; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan24" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan24" style="font-weight: normal; font-style: normal;">200k</tspan>
+        </tspan>
+      </text>
+      <text class="cls-8" id="text3" x="66.300217" y="240.66916" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 12px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #231f20;" transform="rotate(-45)">
+        <text class="cls-8" id="text3" x="66.300217" y="240.66916" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 12px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #231f20;" transform="rotate(-45)"/>
+        <tspan x="66.300217" y="240.66916" id="tspan3-1" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 14px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;">
+          <tspan x="66.300217" y="240.66916" id="tspan3-1" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 14px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;">2013</tspan>
+        </tspan>
+      </text>
+      <text class="cls-8" id="text4-7" x="87.999153" y="262.3681" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 12px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #231f20;" transform="rotate(-45)">
+        <text class="cls-8" id="text4-7" x="87.999153" y="262.3681" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 12px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #231f20;" transform="rotate(-45)"/>
+        <tspan x="87.999153" y="262.3681" id="tspan4-9" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 14px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;">
+          <tspan x="87.999153" y="262.3681" id="tspan4-9" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 14px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal;">2022</tspan>
+        </tspan>
+      </text>
+    </g>
+  </g>
+</svg>
