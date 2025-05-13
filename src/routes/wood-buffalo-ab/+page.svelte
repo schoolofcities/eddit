@@ -9,7 +9,7 @@
 	import SmallMultiples from "$lib/SmallMultiples.svelte";
 	import SingleImage from "$lib/SingleImage.svelte";
 
-	import titleImage from "./assets/wood-buffalo-title-img.jpg";
+	import titleImage from "./assets/wood-buffalo-title-img-2.jpg";
 
 </script>
 
