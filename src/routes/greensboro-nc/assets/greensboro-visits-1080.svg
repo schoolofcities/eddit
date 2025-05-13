@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1080 819.99997"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="greensboro-visits-1080.svg"
+   xml:space="preserve"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   width="1080"
+   height="820"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="273.74999"
+     inkscape:cy="236.74999"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13-1"
+     showgrid="false"
+     showguides="false"><inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="9.9999998"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" /></sodipodi:namedview><defs
+     id="defs2"><style
+       id="style1">
+      .cls-1 {
+        fill: #aa206a;
+        font-size: 18px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #1d3864;
+      }
+
+      .cls-4 {
+        stroke: #babdbe;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        stroke: #686868;
+        stroke-width: .75px;
+      }
+
+      .cls-8 {
+        fill: #9a9896;
+      }
+
+      .cls-8, .cls-9 {
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-9, .cls-10 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-2 {
+        font-size: 20px;
+      }
+
+      .cls-2, .cls-9, .cls-10 {
+        fill: #231f20;
+      }
+
+      .cls-6 {
+        stroke: #9a9896;
+      }
+
+      .cls-10 {
+        font-size: 16px;
+      }
+    </style><linearGradient
+       id="linear-gradient"
+       x1="868.62"
+       y1="722"
+       x2="1044.6899"
+       y2="722"
+       gradientUnits="userSpaceOnUse"><stop
+         offset="0"
+         stop-color="#fff"
+         id="stop1" /><stop
+         offset="1"
+         stop-color="#95d4cb"
+         id="stop2" /></linearGradient></defs><image
+     width="1080"
+     height="820"
+     preserveAspectRatio="none"
+     xlink:href="gb-visits-1080-qgis.png"
+     id="image1"
+     x="0"
+     y="0" /><g
+     id="content"><text
+       class="cls-2"
+       id="text2"
+       x="18.203125"
+       y="34.242191"><tspan
+         x="18.203125"
+         y="34.242191"
+         id="tspan2">Annual visits to grocery stores in Greensboro</tspan></text><text
+       class="cls-8"
+       id="text9"
+       x="18.822266"
+       y="809.38629"><tspan
+         x="18.822266"
+         y="809.38629"
+         id="tspan9">Data Sources: Spectus (2022), OpenStreetMap, American Community Survey (2023)</tspan></text><g
+       id="g13"
+       transform="translate(7.8397731,-528.45235)"><rect
+         style="fill:#8ad1c6;fill-opacity:1;fill-rule:evenodd;stroke:#77767b;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="rect11"
+         width="179.11835"
+         height="9.5755615"
+         x="13.128977"
+         y="686.15771" /><text
+         class="cls-10"
+         id="text13-9"
+         x="32.056625"
+         y="678.22186"
+         style="font-size:16px;font-family:OpenSans, 'Open Sans';fill:#231f20"><tspan
+           x="32.056625"
+           y="678.22186"
+           id="tspan13-3">Population density</tspan></text><text
+         class="cls-10"
+         id="text13-2"
+         x="45.538761"
+         y="710.85175"
+         style="font-size:14px;font-family:OpenSans, 'Open Sans';fill:#231f20"><tspan
+           x="45.538761"
+           y="710.85175"
+           id="tspan13-9"
+           style="font-size:14px">500</tspan></text><text
+         class="cls-10"
+         id="text13-2-1"
+         x="85.127922"
+         y="710.85175"
+         style="font-size:14px;font-family:OpenSans, 'Open Sans';fill:#231f20"><tspan
+           x="85.127922"
+           y="710.85175"
+           id="tspan13-9-2"
+           style="font-size:14px">1000</tspan></text><text
+         class="cls-10"
+         id="text13-2-1-6"
+         x="45.484047"
+         y="728.5791"
+         style="font-size:14px;font-family:OpenSans, 'Open Sans';fill:#231f20"><tspan
+           x="45.484047"
+           y="728.5791"
+           id="tspan13-9-2-06"
+           style="font-size:14px">Residents per km<tspan
+   style="font-size:65%;baseline-shift:super"
+   id="tspan11" /></tspan></text><text
+         class="cls-10"
+         id="text13-2-1-7"
+         x="130.2083"
+         y="710.85175"
+         style="font-size:14px;font-family:OpenSans, 'Open Sans';fill:#231f20"><tspan
+           x="130.2083"
+           y="710.85175"
+           id="tspan13-9-2-0"
+           style="font-size:14px">2000</tspan></text><text
+         class="cls-10"
+         id="text13-2-1-7-1"
+         x="159.47025"
+         y="723.31934"
+         style="font-size:10px;font-family:OpenSans, 'Open Sans';fill:#231f20"><tspan
+           x="159.47025"
+           y="723.31934"
+           id="tspan13-9-2-0-9"
+           style="font-size:10px">2</tspan></text><rect
+         class="cls-5"
+         x="13.128978"
+         y="686.15771"
+         width="44.779583"
+         height="9.5755434"
+         id="rect13-7"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none" /><rect
+         class="cls-5"
+         x="57.908562"
+         y="686.15771"
+         width="44.779583"
+         height="9.5755434"
+         id="rect13-7-5"
+         style="fill:#d4ede8;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none" /><rect
+         class="cls-5"
+         x="102.68815"
+         y="686.15771"
+         width="44.779583"
+         height="9.5755434"
+         id="rect13-7-3"
+         style="fill:#acded6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none" /><rect
+         class="cls-5"
+         x="147.46774"
+         y="686.15771"
+         width="44.779583"
+         height="9.5755434"
+         id="rect13-7-56"
+         style="fill:#8ad1c6;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none" /></g><text
+       class="cls-1"
+       id="text15"
+       x="663.40125"
+       y="427.10178"
+       style="font-size:16px"><tspan
+         x="663.40125"
+         y="427.10178"
+         id="tspan15"
+         style="font-size:16px">East Greensboro</tspan></text><text
+       class="cls-1"
+       id="text15-3"
+       x="516.56854"
+       y="416"
+       style="font-weight:700;font-size:16px;font-family:OpenSans-Bold, 'Open Sans';fill:#aa206a"><tspan
+         x="516.56854"
+         y="416"
+         id="tspan15-6"
+         style="font-size:16px">West Greensboro</tspan></text><g
+       id="g14"
+       transform="translate(-2.7959904,-610.90807)"><circle
+         class="cls-3"
+         cx="27.517878"
+         cy="710.90808"
+         r="3.2277281"
+         id="circle14"
+         style="fill:#8996ad;fill-opacity:1;stroke:#1f3865;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" /><circle
+         class="cls-3"
+         cx="86.39872"
+         cy="711.24609"
+         r="7.7277279"
+         id="circle14-2"
+         style="fill:#8996ad;fill-opacity:1;stroke:#1f3865;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" /><circle
+         class="cls-3"
+         cx="188.62233"
+         cy="710.90808"
+         r="11.616815"
+         id="circle14-2-5"
+         style="fill:#8996ad;fill-opacity:1;stroke:#1f3865;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" /></g><g
+       id="g13-1"
+       transform="translate(-262.11748,-601.58514)"><text
+         class="cls-10"
+         id="text13-9-4"
+         x="282.11749"
+         y="680.49139"
+         style="font-size:14px;line-height:1;font-family:OpenSans, 'Open Sans';fill:#231f20"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           x="282.11749"
+           y="680.49139"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+             x="282.11749"
+             y="680.49139"
+             id="tspan13-3-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Visits to grocery stores (2022) </tspan></tspan></text><text
+         class="cls-10"
+         id="text13-2-1-6-6"
+         x="294.18466"
+         y="706.08514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#231f20"><tspan
+           x="294.18466"
+           y="706.08514"
+           id="tspan13-9-2-06-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">&lt;10k</tspan></text><text
+         class="cls-10"
+         id="text13-2-1-6-6-3"
+         x="355.99365"
+         y="706.08514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#231f20"><tspan
+           x="355.99365"
+           y="706.08514"
+           id="tspan13-9-2-06-4-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">10k - 100k</tspan></text><text
+         class="cls-10"
+         id="text13-2-1-6-6-3-9"
+         x="463.68182"
+         y="706.08514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#231f20"><tspan
+           x="463.68182"
+           y="706.08514"
+           id="tspan13-9-2-06-4-7-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:OpenSans, 'Open Sans';-inkscape-font-specification:'OpenSans, Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">100k+</tspan></text></g></g><text
+     class="cls-10"
+     id="text13"
+     x="899.68396"
+     y="289.8588"
+     style="font-size:14px;font-family:OpenSans, 'Open Sans';fill:#5e5c64;fill-opacity:1"><tspan
+       x="899.68396"
+       y="289.8588"
+       id="tspan13"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e5c64;fill-opacity:1">Greensboro city limits</tspan></text><text
+     class="cls-10"
+     id="text13-6"
+     x="567.05292"
+     y="492.15625"
+     style="font-size:14px;font-family:OpenSans, 'Open Sans';fill:#5e5c64;fill-opacity:1"><tspan
+       x="567.05292"
+       y="492.15625"
+       id="tspan13-1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e5c64;fill-opacity:1">Downtown</tspan></text><text
+     class="cls-10"
+     id="text13-6-8"
+     x="67.929688"
+     y="732.92188"
+     style="font-size:14px;font-family:OpenSans, 'Open Sans';fill:#5e5c64;fill-opacity:1"><tspan
+       x="67.929688"
+       y="732.92188"
+       id="tspan13-1-7"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5e5c64;fill-opacity:1">High Point</tspan></text><path
+     style="fill:none;stroke:#5e5c64;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 865.25,315.25 c 0,-18.75 12.375,-31 31.5,-31"
+     id="path17"
+     sodipodi:nodetypes="cc" /></svg>
