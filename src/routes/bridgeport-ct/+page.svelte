@@ -83,8 +83,8 @@
 	</div>
 
 	<SingleGraphicLazy
-		svg360={"./bridgeport-ct/web-svg/map-ndvi-360.svg"}
-		svg720={"./bridgeport-ct/web-svg/map-ndvi-720.svg"}
+		svg360={"./bridgeport-ct/web-svg/map-ndvi-tree-360.svg"}
+		svg720={"./bridgeport-ct/web-svg/map-ndvi-tree-720.svg"}
 	/>
 
 	<div class="text">
