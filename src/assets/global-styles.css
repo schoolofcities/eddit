@@ -96,10 +96,10 @@ h2 {
 
 h3 {
 	text-align: left;
-	font-family: TradeGothicBold;
-	font-size: 28px;
-	margin-bottom: 5px;
-	color: var(--brandDarkBlue);
+	font-family: OpenSansBold;
+	font-size: 20px;
+	margin-bottom: 10px;
+	color: var(--brandBlack);
 	font-weight: normal;
 }
 
@@ -110,6 +110,13 @@ p {
 	font-size: 19px;
 	line-height: 28px;
 	font-weight: normal;
+}
+
+@media screen and (max-width: 600px) {
+	p {
+		font-size: 17px;
+		line-height: 26px;
+	}
 }
 
 a {
@@ -144,4 +151,9 @@ a:hover {
 	line-height: 26px;
 }
 
-
+@media screen and (max-width: 600px) {
+	.callout p {
+		font-size: 16px;
+		line-height: 25px;
+	}
+}

@@ -27,13 +27,13 @@
 		display: flex;
 		height: 100vh;
 		width: 100%;
-		border-bottom: solid 1px var(--brandLightBlue);
+		border-bottom: solid 1px var(--brandWhite);
 	}
 
 	.left {
 		flex: 1;
 		background-color: var(--brandDarkBlue);
-		border-right: solid 1px var(--brandLightBlue);
+		border-right: solid 1px var(--brandWhite);
 		display: flex;
 		justify-content: center;
 		align-items: center;

@@ -14,10 +14,21 @@
 		<img src={edditLogo} alt="EDDIT Logo" class="logo-eddit"/>
 
 		<p>
-			Credits....
+			<br>
+				<a href="./albuquerque-nm">Albuquerque, NM</a> |
+				<a href="./bridgeport-ct">Bridgeport, CT</a> | 
+				<a href="./greensboro-nc">Greensboro, NC</a> |
+				<a href="./high-point-nc">High Point, NC</a> |
+				<a href="./wood-buffalo-ab">Wood Buffalo, AB</a> | 
+				<a href="./worcester-ma">Worcester, MA</a> 
+			<br>
 		</p>
-		<p>
-			Links to other pages ...
+
+
+		<p style="max-width: 720px; margin: 0 auto;">
+			<br>
+			Credits: Names name, Names name,  Names name, Names name, Names name, Names name, Names name,
+			<br><br>
 		</p>
 
 		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-unis"/>
@@ -46,9 +57,18 @@
 p {
 	color: white;
 	font-family: OpenSans;
-	font-size: 14px;
+	font-size: 15px;
+	line-height: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
+}
+
+a {
+	color: white;
+}
+
+a:hover {
+	color: var(--brandYellow);
 }
 
 .logo-unis {

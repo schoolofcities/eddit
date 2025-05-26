@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.55277778"
-     inkscape:cx="339.19598"
-     inkscape:cy="108.54271"
+     inkscape:zoom="1.5634917"
+     inkscape:cx="353.05593"
+     inkscape:cy="150.6244"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -152,12 +152,28 @@
          x="0"
          y="0"
          id="tspan11">Raleigh</tspan></text>
+    <text
+       fill="#0d534d"
+       font-family="OpenSans, 'Open Sans'"
+       font-size="12px"
+       id="text11-3"
+       x="293.05722"
+       y="165.17105"><tspan
+         x="293.05722"
+         y="165.17105"
+         id="tspan11-6">High Point</tspan></text>
     <circle
        cx="401.52"
        cy="170.61"
        r="2.33"
        fill="#0d534d"
        id="circle11" />
+    <circle
+       cx="354.86237"
+       cy="161.18176"
+       r="2.3299999"
+       fill="#0d534d"
+       id="circle11-7" />
     <text
        transform="translate(367.04 158.79)"
        fill="#0d534d"

@@ -22,15 +22,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="17.688889"
-     inkscape:cx="367.99937"
-     inkscape:cy="358.19096"
+     inkscape:zoom="1.1055556"
+     inkscape:cx="142.91457"
+     inkscape:cy="237.43718"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_5" />
+     inkscape:current-layer="g11" />
   <defs
      id="defs1">
     <clipPath
@@ -144,6 +144,22 @@
        r="2.33"
        fill="#0d534d"
        id="circle10" />
+    <text
+       fill="#0d534d"
+       font-family="OpenSans, 'Open Sans'"
+       font-size="12px"
+       id="text10-6"
+       x="124.53556"
+       y="164.12718"><tspan
+         x="124.53556"
+         y="164.12718"
+         id="tspan10-7">High Point</tspan></text>
+    <circle
+       cx="185.98973"
+       cy="160.54036"
+       r="2.3299999"
+       fill="#0d534d"
+       id="circle10-5" />
     <text
        transform="translate(198.62 158.79)"
        fill="#0d534d"
