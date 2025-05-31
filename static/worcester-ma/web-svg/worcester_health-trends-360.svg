@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 540">
+  <g id="background">
+    <image x="0.0" y="0.0" width="360.0" height="540.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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AQENAAABAQ0AAAEBDQAAAQENAAABAQ0AAAEBDQAAAQENAAABH1IBRhy+8eo7y0UXvlR7x6S76sDDK68/b9OW8qVPbau9hUm9x/CT5Ybbn6m9ArpIQAMjBrOrry2lqT1j4r3WDsoPFl8rpTS7am9hQu/RTn++lCKg4f/gFQ4AAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACAhoAAAICGgAAAgIaAAACPRqDwC6ZebI0bsX1697rvaOSbduemb20tm1O+9/8el9tbcwofeYKU/XngBdJaCBEed99eEHFz6zd772jkn3tX5/bqltB7e9+717am/BPYBRXuEAAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAICAgAYAgICABgCAgIAGAIBAr/YAoFsuv/3eO67e/q6jtXdMur/68dKq7TPHtt7yL0e21t6Ce5xuTSlf++wVF/xD7R3w/yWggRGr1s5d1zS1VzBopstPhlOlacqVtbfgHqdbU4bPl1IENMuWVzgAACAgoAEAICCgAQAgIKABACAgoAEAICCgAQAgIKABACAgoAEAICCgAQAgIKABACAgoAEAICCgAQAgIKABACAgoAEAICCgAQAgIKABACAgoAEAICCgAQAgIKABACAgoAEAICCgAQAgIKABACAgoAEAICCgAQAgIKABACAg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"/>
+  </g>
+  <g id="foreground">
+    <g id="Layer_1" data-name="Layer 1">
+      <g>
+        <text class="cls-15" transform="translate(20 530)" style="font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+          <text class="cls-15" transform="translate(20 530)" style="font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        </text>
+      </g>
+      <g>
+        <text class="cls-15" transform="translate(20 530)" style="font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: CDC Places (2024)</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Layer_5" data-name="Layer 5">
+      <text class="cls-12" transform="translate(20 25)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+        <text class="cls-12" transform="translate(20 25)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+      </text>
+      <text class="cls-12" transform="translate(20 25)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Health trends in the downtown </tspan>
+        </tspan>
+      </text>
+      <text class="cls-12" transform="translate(20 25)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+        <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">Worcester Area</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(61.45 417.82)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <text class="cls-10" transform="translate(61.45 417.82)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;"/>
+      </text>
+      <text class="cls-10" transform="translate(61.45 417.82)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Obesity</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(61.45 417.82)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="-41.9" y="16.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="-41.9" y="16.8" style="font-weight: normal; font-style: normal;">among adults</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(44.87 200)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <text class="cls-10" transform="translate(44.87 200)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;"/>
+      </text>
+      <text class="cls-10" transform="translate(44.87 200)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">No Health</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(44.87 200)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="1.2" y="16.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="1.2" y="16.8" style="font-weight: normal; font-style: normal;">Insurance</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(44.87 200)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="-24.77" y="33.6" style="font-weight: normal; font-style: normal;">
+          <tspan x="-24.77" y="33.6" style="font-weight: normal; font-style: normal;">among adults</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(44.87 200)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="-2.98" y="50.4" style="font-weight: normal; font-style: normal;">
+          <tspan x="-2.98" y="50.4" style="font-weight: normal; font-style: normal;">aged 18-64</tspan>
+        </tspan>
+      </text>
+      <text class="cls-9" transform="translate(315.85 485.2)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-9" transform="translate(315.85 485.2)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-9" transform="translate(315.85 485.2)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">40%</tspan>
+        </tspan>
+      </text>
+      <text class="cls-9" transform="translate(216.12 485.2)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-9" transform="translate(216.12 485.2)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-9" transform="translate(216.12 485.2)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">20%</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(66.59 118.28)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <text class="cls-10" transform="translate(66.59 118.28)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;"/>
+      </text>
+      <text class="cls-10" transform="translate(66.59 118.28)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Cancer</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(66.59 118.28)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="-47.04" y="16.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="-47.04" y="16.8" style="font-weight: normal; font-style: normal;">among adults</tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(33.18 315)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <text class="cls-10" transform="translate(33.18 315)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;"/>
+      </text>
+      <text class="cls-10" transform="translate(33.18 315)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Depression </tspan>
+        </tspan>
+      </text>
+      <text class="cls-10" transform="translate(33.18 315)" style="font-size: 14px; font-family: OpenSansBold; fill: #231f20; font-style: normal;">
+        <tspan x="-13.62" y="16.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="-13.62" y="16.8" style="font-weight: normal; font-style: normal;">among adults</tspan>
+        </tspan>
+      </text>
+      <text class="cls-9" transform="translate(120.32 485.34)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-9" transform="translate(120.32 485.34)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-9" transform="translate(120.32 485.34)" style="font-size: 14px; fill: #939598; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0%</tspan>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;"/>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-11" style="font-size: 14px; font-family: OpenSansBold; fill: #00a28a; font-style: normal;">
+          <tspan class="cls-11" style="font-size: 14px; font-family: OpenSansBold; fill: #00a28a; font-style: normal;"/>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-11" style="font-size: 14px; font-family: OpenSansBold; fill: #00a28a; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Focus Area</tspan>
+          </tspan>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">(Census tracts including </tspan>
+          </tspan>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="28.8" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="28.8" style="font-weight: normal; font-style: normal;">Downtown Worcester </tspan>
+          </tspan>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        </tspan>
+      </text>
+      <text transform="translate(198.9 150.2)" style="font-weight: normal; font-style: normal;">
+        <tspan class="cls-16" style="font-family: OpenSans; fill: #231f20; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="43.2" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="43.2" style="font-weight: normal; font-style: normal;">and Plumley Village)</tspan>
+          </tspan>
+        </tspan>
+      </text>
+      <text class="cls-8" transform="translate(198.9 125.2)" style="font-size: 14px; font-family: OpenSansBold; fill: #1e3864; font-style: normal;">
+        <text class="cls-8" transform="translate(198.9 125.2)" style="font-size: 14px; font-family: OpenSansBold; fill: #1e3864; font-style: normal;"/>
+      </text>
+      <text class="cls-8" transform="translate(198.9 125.2)" style="font-size: 14px; font-family: OpenSansBold; fill: #1e3864; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Worcester County</tspan>
+        </tspan>
+      </text>
+      <text class="cls-7" transform="translate(197.65 99.93)" style="font-size: 14px; font-family: OpenSansBold; fill: #6fc7e9; font-style: normal;">
+        <text class="cls-7" transform="translate(197.65 99.93)" style="font-size: 14px; font-family: OpenSansBold; fill: #6fc7e9; font-style: normal;"/>
+      </text>
+      <text class="cls-7" transform="translate(197.65 99.93)" style="font-size: 14px; font-family: OpenSansBold; fill: #6fc7e9; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Massachusetts</tspan>
+        </tspan>
+      </text>
+    </g>
+  </g>
+</svg>

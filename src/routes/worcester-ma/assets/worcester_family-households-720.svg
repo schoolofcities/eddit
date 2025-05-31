@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 263.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d9;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #1e3864;
+      }
+
+      .cls-3 {
+        fill: #00a28a;
+      }
+
+      .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #231f20;
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        fill: #9a9896;
+        font-family: OpenSans, 'Open Sans';
+        font-size: 12px;
+      }
+
+      .cls-6 {
+        font-size: 20px;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #9a9896;
+      }
+    </style>
+  </defs>
+  <text class="cls-6" transform="translate(20 25)"><tspan x="0" y="0">Share of family households* in Worcester</tspan></text>
+  <text class="cls-5" transform="translate(152.43 115)"><tspan x="0" y="0">Worcester City</tspan></text>
+  <text class="cls-5" transform="translate(178.85 155)"><tspan x="0" y="0">Downtown</tspan></text>
+  <text class="cls-5" transform="translate(198.48 194.45)"><tspan x="0" y="0">Plumley</tspan></text>
+  <text class="cls-5" transform="translate(484.7 195)"><tspan x="0" y="0">45%</tspan></text>
+  <text class="cls-5" transform="translate(484.7 155)"><tspan x="0" y="0">34%</tspan></text>
+  <text class="cls-5" transform="translate(484.7 114.29)"><tspan x="0" y="0">57%</tspan></text>
+  <text class="cls-5" transform="translate(484.7 74.48)"><tspan x="0" y="0">63%</tspan></text>
+  <text class="cls-5" transform="translate(151.03 75)"><tspan x="0" y="0">Massachusetts</tspan></text>
+  <g>
+    <rect class="cls-3" x="274.46" y="180" width="20" height="20"/>
+    <rect class="cls-3" x="294.46" y="180" width="20" height="20"/>
+    <rect class="cls-3" x="314.46" y="180" width="20" height="20"/>
+    <rect class="cls-3" x="334.46" y="180" width="20" height="20"/>
+    <polyline class="cls-1" points="364.46 180 374.46 180 374.46 200 364.46 200"/>
+    <polyline class="cls-3" points="364.46 200 354.46 200 354.46 180 364.46 180"/>
+    <rect class="cls-1" x="374.46" y="180" width="20" height="20"/>
+    <rect class="cls-1" x="394.46" y="180" width="20" height="20"/>
+    <rect class="cls-1" x="414.46" y="180" width="20" height="20"/>
+    <rect class="cls-1" x="434.46" y="180" width="20" height="20"/>
+    <rect class="cls-1" x="454.46" y="180" width="20" height="20"/>
+    <rect class="cls-3" x="334.46" y="180" width="20" height="20"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="274.46" y="140" width="20" height="20"/>
+    <rect class="cls-2" x="294.46" y="140" width="20" height="20"/>
+    <rect class="cls-2" x="314.46" y="140" width="20" height="20"/>
+    <rect class="cls-2" x="334.46" y="140" width="20" height="20"/>
+    <rect class="cls-1" x="374.46" y="140" width="20" height="20"/>
+    <rect class="cls-1" x="394.46" y="140" width="20" height="20"/>
+    <rect class="cls-1" x="414.46" y="140" width="20" height="20"/>
+    <rect class="cls-1" x="434.46" y="140" width="20" height="20"/>
+    <rect class="cls-1" x="454.46" y="140" width="20" height="20"/>
+    <polyline class="cls-2" points="342.46 160 334.46 160 334.46 140 342.46 140"/>
+    <polyline class="cls-1" points="342.46 140 354.46 140 354.46 160 342.46 160"/>
+    <rect class="cls-1" x="354.46" y="140" width="20" height="20"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="274.46" y="100" width="20" height="20"/>
+    <rect class="cls-2" x="294.46" y="100" width="20" height="20"/>
+    <rect class="cls-2" x="314.46" y="100" width="20" height="20"/>
+    <rect class="cls-2" x="334.46" y="100" width="20" height="20"/>
+    <polyline class="cls-2" points="388.46 120 374.46 120 374.46 100 388.46 100"/>
+    <polyline class="cls-1" points="388.46 100 394.46 100 394.46 120 388.46 120"/>
+    <rect class="cls-1" x="394.46" y="100" width="20" height="20"/>
+    <rect class="cls-1" x="414.46" y="100" width="20" height="20"/>
+    <rect class="cls-1" x="434.46" y="100" width="20" height="20"/>
+    <rect class="cls-1" x="454.46" y="100" width="20" height="20"/>
+    <polyline class="cls-2" points="342.46 120 334.46 120 334.46 100 342.46 100"/>
+    <rect class="cls-2" x="354.46" y="100" width="20" height="20"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="274.46" y="60" width="20" height="20"/>
+    <rect class="cls-2" x="294.46" y="60" width="20" height="20"/>
+    <rect class="cls-2" x="314.46" y="60" width="20" height="20"/>
+    <rect class="cls-2" x="334.46" y="60" width="20" height="20"/>
+    <polyline class="cls-2" points="400.46 80 394.46 80 394.46 60 400.46 60"/>
+    <polyline class="cls-1" points="400.46 60 414.46 60 414.46 80 400.46 80"/>
+    <rect class="cls-1" x="414.46" y="60" width="20" height="20"/>
+    <rect class="cls-1" x="434.46" y="60" width="20" height="20"/>
+    <rect class="cls-1" x="454.46" y="60" width="20" height="20"/>
+    <polyline class="cls-2" points="342.46 80 334.46 80 334.46 60 342.46 60"/>
+    <rect class="cls-2" x="354.46" y="60" width="20" height="20"/>
+    <rect class="cls-2" x="374.46" y="60" width="20" height="20"/>
+  </g>
+  <g>
+    <text class="cls-7" transform="translate(20 240.05)"><tspan x="0" y="0">Data Source: American Community Survey (2023)</tspan><tspan x="0" y="14.4">*Family households include at least one person related to the householder by birth, marriage, or adoption. </tspan></text>
+    <line class="cls-4" x1="20.41" y1="227.59" x2="700" y2="227.59"/>
+  </g>
+</svg>

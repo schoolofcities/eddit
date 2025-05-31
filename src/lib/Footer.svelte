@@ -27,7 +27,7 @@
 
 		<p style="max-width: 720px; margin: 0 auto;">
 			<br>
-			Credits: Names name, Names name,  Names name, Names name, Names name, Names name, Names name,
+			Credits: Hello World, Names List 
 			<br><br>
 		</p>
 

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #00a28a;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-6, .cls-5, .cls-7 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-6, .cls-5, .cls-8 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-3, .cls-7, .cls-8 {
+        fill: #231f20;
+      }
+
+      .cls-9 {
+        fill: #9a9896;
+        font-size: 12px;
+      }
+
+      .cls-9, .cls-8 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-7 {
+        font-size: 20px;
+      }
+
+      .cls-4 {
+        stroke: #9a9896;
+      }
+    </style>
+  </defs>
+  <text class="cls-7" transform="translate(20 27.14)"><tspan x="0" y="0">Median ages in Worcester</tspan></text>
+  <text class="cls-6" transform="translate(294.78 189.93)"><tspan x="0" y="0">Worcester</tspan></text>
+  <text class="cls-6" transform="translate(233.2 85)"><tspan x="0" y="0">40</tspan></text>
+  <text class="cls-8" transform="translate(148.88 74.29)"><tspan x="0" y="0">50</tspan></text>
+  <text class="cls-8" transform="translate(148.88 124.39)"><tspan x="0" y="0">25</tspan></text>
+  <text class="cls-8" transform="translate(135.81 181.67) rotate(-90)"><tspan x="0" y="0">median age (years)</tspan></text>
+  <text class="cls-8" transform="translate(156.89 173.89)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-6" transform="translate(316.62 96.8)"><tspan x="0" y="0">34.1</tspan></text>
+  <text class="cls-6" transform="translate(406.04 105.6)"><tspan x="0" y="0">29.7</tspan></text>
+  <text class="cls-5" transform="translate(495.47 103.1)"><tspan x="0" y="0">30.9</tspan></text>
+  <text class="cls-6" transform="translate(381.97 189.93)"><tspan x="0" y="0">Downtown</tspan></text>
+  <text class="cls-6" transform="translate(229.77 189.93)"><tspan x="0" y="0">MA</tspan></text>
+  <text class="cls-5" transform="translate(481.21 190.07)"><tspan x="0" y="0">Plumley</tspan></text>
+  <path class="cls-3" d="M240.11,105h2.18c4.92,0,8.91,3.99,8.91,8.91v56.09h-20v-56.09c0-4.92,3.99-8.91,8.91-8.91Z"/>
+  <circle class="cls-3" cx="241.2" cy="97.5" r="7.5"/>
+  <path class="cls-3" d="M329.54,116.8h2.18c4.92,0,8.91,3.99,8.91,8.91v44.29h-20v-44.29c0-4.92,3.99-8.91,8.91-8.91Z"/>
+  <circle class="cls-3" cx="330.62" cy="109.3" r="7.5"/>
+  <path class="cls-3" d="M418.96,125.6h2.18c4.92,0,8.91,3.99,8.91,8.91v35.49h-20v-35.49c0-4.92,3.99-8.91,8.91-8.91Z"/>
+  <circle class="cls-3" cx="420.05" cy="118.1" r="7.5"/>
+  <path class="cls-2" d="M508.38,123.2h2.18c4.92,0,8.91,3.99,8.91,8.91v37.89h-20v-37.89c0-4.92,3.99-8.91,8.91-8.91Z"/>
+  <circle class="cls-2" cx="509.47" cy="115.7" r="7.5"/>
+  <g>
+    <line class="cls-1" x1="173.11" y1="170" x2="173.11" y2="70"/>
+    <line class="cls-1" x1="169.94" y1="70" x2="176.27" y2="70"/>
+    <line class="cls-1" x1="169.94" y1="170" x2="176.27" y2="170"/>
+    <line class="cls-1" x1="169.94" y1="120" x2="176.27" y2="120"/>
+  </g>
+  <line class="cls-1" x1="169.94" y1="170" x2="580.08" y2="170"/>
+  <g>
+    <text class="cls-9" transform="translate(20 229.65)"><tspan x="0" y="0">Data Source: American Community Survey (2023) </tspan></text>
+    <line class="cls-4" x1="20.41" y1="217.19" x2="700" y2="217.19"/>
+  </g>
+</svg>

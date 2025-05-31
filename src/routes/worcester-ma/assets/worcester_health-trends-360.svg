@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 540">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        font-size: 14px;
+      }
+
+      .cls-7, .cls-8, .cls-10, .cls-11, .cls-12 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-13 {
+        fill: #6fc7e9;
+      }
+
+      .cls-8, .cls-14 {
+        fill: #1e3864;
+      }
+
+      .cls-9 {
+        fill: #939598;
+      }
+
+      .cls-9, .cls-15, .cls-16 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-2 {
+        stroke: #1e3864;
+      }
+
+      .cls-3 {
+        stroke: #d1d3d4;
+        stroke-width: .25px;
+      }
+
+      .cls-10, .cls-12, .cls-16 {
+        fill: #231f20;
+      }
+
+      .cls-11, .cls-17 {
+        fill: #00a28a;
+      }
+
+      .cls-15 {
+        fill: #9a9896;
+      }
+
+      .cls-15, .cls-16 {
+        font-size: 12px;
+      }
+
+      .cls-12 {
+        font-size: 20px;
+      }
+
+      .cls-4 {
+        stroke: #9a9896;
+      }
+
+      .cls-5 {
+        stroke: #6fc7e9;
+      }
+
+      .cls-6 {
+        stroke: #00a28a;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <text class="cls-15" transform="translate(20 530)"><tspan x="0" y="0">Data Source: CDC Places (2024)</tspan></text>
+      <line class="cls-4" x1="20.41" y1="517.54" x2="340" y2="517.54"/>
+    </g>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <text class="cls-12" transform="translate(20 25)"><tspan x="0" y="0">Health trends in the downtown </tspan><tspan x="0" y="24">Worcester Area</tspan></text>
+    <text class="cls-10" transform="translate(61.45 417.82)"><tspan x="0" y="0">Obesity</tspan><tspan x="-41.9" y="16.8">among adults</tspan></text>
+    <text class="cls-10" transform="translate(44.87 200)"><tspan x="0" y="0">No Health</tspan><tspan x="1.2" y="16.8">Insurance</tspan><tspan x="-24.77" y="33.6">among adults</tspan><tspan x="-2.98" y="50.4">aged 18-64</tspan></text>
+    <g>
+      <rect class="cls-17" x="215.79" y="349.5" width="20" height="191.4" transform="translate(-219.41 670.99) rotate(-90)"/>
+      <rect class="cls-14" x="201.76" y="338.53" width="20" height="163.35" transform="translate(-208.44 631.97) rotate(-90)"/>
+      <rect class="cls-13" x="190.91" y="324.38" width="20" height="141.65" transform="translate(-194.29 596.12) rotate(-90)"/>
+    </g>
+    <g>
+      <rect class="cls-17" x="144.45" y="221.86" width="20" height="47.62" transform="translate(-91.22 400.12) rotate(-90)"/>
+      <rect class="cls-14" x="131.64" y="209.67" width="20" height="22" transform="translate(-79.03 362.31) rotate(-90)"/>
+      <rect class="cls-13" x="131.64" y="184.75" width="20" height="21.85" transform="translate(-54.03 337.31) rotate(-90)"/>
+    </g>
+    <text class="cls-9" transform="translate(315.85 485.2)"><tspan x="0" y="0">40%</tspan></text>
+    <text class="cls-9" transform="translate(216.12 485.2)"><tspan x="0" y="0">20%</tspan></text>
+    <text class="cls-10" transform="translate(66.59 118.28)"><tspan x="0" y="0">Cancer</tspan><tspan x="-47.04" y="16.8">among adults</tspan></text>
+    <g>
+      <rect class="cls-17" x="131.85" y="133.45" width="20" height="23.51" transform="translate(-3.36 287.05) rotate(-90)"/>
+      <rect class="cls-14" x="141.06" y="99.23" width="20" height="41.95" transform="translate(30.86 271.27) rotate(-90)"/>
+      <rect class="cls-13" x="140.81" y="74.48" width="20" height="41.45" transform="translate(55.61 246.02) rotate(-90)"/>
+    </g>
+    <text class="cls-10" transform="translate(33.18 315)"><tspan x="0" y="0">Depression </tspan><tspan x="-13.62" y="16.8">among adults</tspan></text>
+    <g>
+      <rect class="cls-13" x="178.84" y="236.45" width="20" height="117.5" transform="translate(-106.36 484.04) rotate(-90)"/>
+      <rect class="cls-14" x="179.81" y="260.48" width="20" height="119.45" transform="translate(-130.39 510.02) rotate(-90)"/>
+      <rect class="cls-17" x="185.1" y="280.2" width="20" height="130.01" transform="translate(-150.11 540.3) rotate(-90)"/>
+    </g>
+    <line class="cls-1" x1="130.09" y1="70.2" x2="130.09" y2="469.45"/>
+    <text class="cls-9" transform="translate(120.32 485.34)"><tspan x="0" y="0">0%</tspan></text>
+    <line class="cls-3" x1="330.09" y1="210.67" x2="330.09" y2="469.45"/>
+    <line class="cls-3" x1="230.09" y1="210.67" x2="230.09" y2="469.45"/>
+    <line class="cls-3" x1="280.09" y1="210.67" x2="280.09" y2="469.45"/>
+    <line class="cls-3" x1="180.09" y1="70.2" x2="180.09" y2="469.45"/>
+    <text transform="translate(198.9 150.2)"><tspan class="cls-11"><tspan x="0" y="0">Focus Area</tspan></tspan><tspan class="cls-16"><tspan x="0" y="14.4">(Census tracts including </tspan></tspan><tspan class="cls-16"><tspan x="0" y="28.8">Downtown Worcester </tspan></tspan><tspan class="cls-16"><tspan x="0" y="43.2">and Plumley Village)</tspan></tspan></text>
+    <text class="cls-8" transform="translate(198.9 125.2)"><tspan x="0" y="0">Worcester County</tspan></text>
+    <text class="cls-7" transform="translate(197.65 99.93)"><tspan x="0" y="0">Massachusetts</tspan></text>
+    <line class="cls-5" x1="175.76" y1="95.2" x2="194.21" y2="95.2"/>
+    <line class="cls-2" x1="175.76" y1="120.2" x2="194.21" y2="120.2"/>
+    <line class="cls-6" x1="157.52" y1="145.2" x2="194.21" y2="145.2"/>
+  </g>
+</svg>
