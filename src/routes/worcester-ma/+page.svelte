@@ -86,7 +86,27 @@
 		svg360={"./worcester-ma/web-svg/worcester_SNAP-360.svg"}
 	/>
 
-	
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./worcester-ma/web-svg/worcester_race-720.svg"}
+		svg360={"./worcester-ma/web-svg/worcester_race-360.svg"}
+	/>
+
+	<SingleGraphicLazy
+		svg720={"./worcester-ma/web-svg/worcester_edu-attainment-720.svg"}
+		svg360={"./worcester-ma/web-svg/worcester_edu-attainment-360.svg"}
+	/>
+
 	<div class="text">
 
 		<p>
