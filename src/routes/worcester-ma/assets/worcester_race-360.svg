@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 370">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 370">
   <defs>
     <style>
       .cls-1, .cls-2 {
@@ -10,56 +10,56 @@
         stroke: #231f20;
       }
 
-      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-2 {
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-2 {
         stroke-miterlimit: 10;
       }
 
-      .cls-3, .cls-10 {
+      .cls-3, .cls-11 {
         fill: none;
       }
 
-      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-2 {
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-2 {
         stroke: #fff;
       }
 
-      .cls-4, .cls-11 {
+      .cls-4, .cls-12 {
         fill: #067fa3;
       }
 
-      .cls-5, .cls-12 {
+      .cls-5, .cls-13 {
         fill: #ab2069;
       }
 
-      .cls-6, .cls-13 {
+      .cls-6, .cls-14 {
         fill: #1e3864;
       }
 
-      .cls-7, .cls-14 {
+      .cls-7, .cls-15 {
         fill: #00a28a;
       }
 
-      .cls-15, .cls-16 {
+      .cls-16, .cls-17 {
         font-family: OpenSans-Bold, 'Open Sans';
         font-weight: 700;
       }
 
-      .cls-15, .cls-16, .cls-17, .cls-18 {
+      .cls-16, .cls-17, .cls-18, .cls-19 {
         fill: #231f20;
       }
 
-      .cls-15, .cls-18 {
+      .cls-16, .cls-19 {
         font-size: 14px;
       }
 
-      .cls-19 {
+      .cls-20 {
         fill: #9a9896;
       }
 
-      .cls-19, .cls-17 {
+      .cls-20, .cls-18 {
         font-size: 12px;
       }
 
-      .cls-19, .cls-17, .cls-18 {
+      .cls-20, .cls-18, .cls-19 {
         font-family: OpenSans, 'Open Sans';
       }
 
@@ -67,94 +67,103 @@
         stroke-width: .5px;
       }
 
-      .cls-8, .cls-9, .cls-20 {
+      .cls-8, .cls-9, .cls-10, .cls-21 {
         fill: #0e534d;
       }
 
-      .cls-16 {
-        font-size: 20px;
+      .cls-9 {
+        stroke-width: .75px;
       }
 
       .cls-10 {
+        stroke-width: .25px;
+      }
+
+      .cls-17 {
+        font-size: 20px;
+      }
+
+      .cls-11 {
         stroke: #9a9896;
       }
     </style>
   </defs>
-  <text class="cls-15" transform="translate(45.03 173.86)"><tspan x="0" y="0">Downtown</tspan></text>
-  <text class="cls-15" transform="translate(18.61 123.64)"><tspan x="0" y="0">Worcester City</tspan></text>
-  <text class="cls-15" transform="translate(64.65 224.31)"><tspan x="0" y="0">Plumley</tspan></text>
-  <text class="cls-17" transform="translate(121.62 270)"><tspan x="0" y="0">0%</tspan></text>
-  <text class="cls-17" transform="translate(224.02 270)"><tspan x="0" y="0">50%</tspan></text>
-  <text class="cls-17" transform="translate(324.76 270)"><tspan x="0" y="0">100%</tspan></text>
-  <line class="cls-3" x1="129.99" y1="250" x2="339.99" y2="250"/>
-  <line class="cls-3" x1="129.99" y1="253.26" x2="129.99" y2="246.74"/>
-  <line class="cls-3" x1="234.99" y1="253.26" x2="234.99" y2="246.74"/>
-  <line class="cls-3" x1="287.5" y1="252.03" x2="287.5" y2="248.04"/>
-  <line class="cls-3" x1="182.49" y1="252" x2="182.49" y2="248.02"/>
-  <line class="cls-3" x1="340" y1="253.26" x2="340" y2="246.74"/>
-  <g>
-    <text class="cls-18" transform="translate(66.02 300.12)"><tspan x="0" y="0">White</tspan></text>
-    <rect class="cls-14" x="50" y="289.98" width="10" height="10"/>
-  </g>
-  <g>
-    <text class="cls-18" transform="translate(131.66 300.12)"><tspan x="0" y="0">Black</tspan></text>
-    <rect class="cls-13" x="116.66" y="289.98" width="10" height="10"/>
-  </g>
-  <g>
-    <text class="cls-18" transform="translate(195 300.12)"><tspan x="0" y="0">Indigenous</tspan></text>
-    <rect class="cls-20" x="180" y="289.98" width="10" height="10"/>
-  </g>
-  <g>
-    <text class="cls-18" transform="translate(295 300.05)"><tspan x="0" y="0">API</tspan></text>
-    <rect class="cls-12" x="280" y="289.91" width="10" height="10"/>
-  </g>
-  <g>
-    <text class="cls-18" transform="translate(125 320.09)"><tspan x="0" y="0">Mixed</tspan></text>
-    <rect class="cls-11" x="110" y="309.95" width="10" height="10"/>
-  </g>
-  <g>
-    <text class="cls-18" transform="translate(205 320.09)"><tspan x="0" y="0">Other</tspan></text>
-    <rect class="cls-1" x="190" y="309.95" width="10" height="10"/>
-  </g>
-  <text class="cls-15" transform="translate(17.55 74.08)"><tspan x="0" y="0">Massachusetts</tspan></text>
-  <text class="cls-16" transform="translate(17.76 27.14)"><tspan x="0" y="0">Demographics of Worcester</tspan></text>
-  <g>
-    <text class="cls-19" transform="translate(20 360)"><tspan x="0" y="0">Data Source: American Community Survey (2023) </tspan></text>
-    <line class="cls-10" x1="20.41" y1="347.54" x2="340" y2="347.54"/>
-  </g>
-  <g>
-    <rect class="cls-7" x="130" y="110" width="121.86" height="20"/>
-    <rect class="cls-6" x="251.86" y="110" width="25.49" height="20"/>
-    <rect class="cls-5" x="278.51" y="110" width="14.76" height="20"/>
-    <rect class="cls-2" x="324.61" y="110" width="15.39" height="20"/>
-    <rect class="cls-4" x="293.3" y="110" width="31.31" height="20"/>
-    <rect class="cls-8" x="277.36" y="110.38" width="1.16" height="19.25"/>
-  </g>
-  <g>
-    <rect class="cls-7" x="130" y="160" width="98.26" height="20"/>
-    <rect class="cls-6" x="228.26" y="160" width="15.44" height="20"/>
-    <rect class="cls-9" x="243.69" y="160" width="31.86" height="20"/>
-    <rect class="cls-5" x="275.55" y="160" width="12.08" height="20"/>
-    <rect class="cls-2" x="329.16" y="160" width="10.84" height="20"/>
-    <rect class="cls-4" x="287.63" y="160" width="41.54" height="20"/>
-  </g>
-  <g>
-    <rect class="cls-7" x="130" y="210" width="90.3" height="20"/>
-    <rect class="cls-6" x="220.3" y="210" width="5.17" height="20"/>
-    <rect class="cls-9" x="225.47" y="210" width="47.67" height="20"/>
-    <rect class="cls-2" x="330.34" y="210" width="9.66" height="20"/>
-    <rect class="cls-4" x="273.14" y="210" width="57.2" height="20"/>
-  </g>
-  <g>
+  <g id="Layer_1" data-name="Layer 1">
+    <text class="cls-16" transform="translate(45.03 173.86)"><tspan x="0" y="0">Downtown</tspan></text>
+    <text class="cls-16" transform="translate(18.61 123.64)"><tspan x="0" y="0">Worcester City</tspan></text>
+    <text class="cls-16" transform="translate(64.65 224.31)"><tspan x="0" y="0">Plumley</tspan></text>
+    <text class="cls-18" transform="translate(121.62 270)"><tspan x="0" y="0">0%</tspan></text>
+    <text class="cls-18" transform="translate(224.02 270)"><tspan x="0" y="0">50%</tspan></text>
+    <text class="cls-18" transform="translate(324.76 270)"><tspan x="0" y="0">100%</tspan></text>
+    <line class="cls-3" x1="129.99" y1="250" x2="339.99" y2="250"/>
+    <line class="cls-3" x1="129.99" y1="253.26" x2="129.99" y2="246.74"/>
+    <line class="cls-3" x1="234.99" y1="253.26" x2="234.99" y2="246.74"/>
+    <line class="cls-3" x1="287.5" y1="252.03" x2="287.5" y2="248.04"/>
+    <line class="cls-3" x1="182.49" y1="252" x2="182.49" y2="248.02"/>
+    <line class="cls-3" x1="340" y1="253.26" x2="340" y2="246.74"/>
     <g>
-      <rect class="cls-7" x="130" y="60" width="148.53" height="20"/>
-      <rect class="cls-6" x="278.53" y="60" width="14.7" height="20"/>
+      <text class="cls-19" transform="translate(66.02 300.12)"><tspan x="0" y="0">White</tspan></text>
+      <rect class="cls-15" x="50" y="289.98" width="10" height="10"/>
     </g>
     <g>
-      <rect class="cls-2" x="328.6" y="60" width="11.4" height="20"/>
-      <rect class="cls-5" x="293.74" y="60" width="14.93" height="20"/>
-      <rect class="cls-4" x="308.67" y="60" width="19.93" height="20"/>
+      <text class="cls-19" transform="translate(131.66 300.12)"><tspan x="0" y="0">Black</tspan></text>
+      <rect class="cls-14" x="116.66" y="289.98" width="10" height="10"/>
     </g>
-    <rect class="cls-20" x="293.24" y="60.5" width=".48" height="18.99"/>
+    <g>
+      <text class="cls-19" transform="translate(195 300.12)"><tspan x="0" y="0">Indigenous</tspan></text>
+      <rect class="cls-21" x="180" y="289.98" width="10" height="10"/>
+    </g>
+    <g>
+      <text class="cls-19" transform="translate(295 300.05)"><tspan x="0" y="0">API</tspan></text>
+      <rect class="cls-13" x="280" y="289.91" width="10" height="10"/>
+    </g>
+    <g>
+      <text class="cls-19" transform="translate(125 320.09)"><tspan x="0" y="0">Mixed</tspan></text>
+      <rect class="cls-12" x="110" y="309.95" width="10" height="10"/>
+    </g>
+    <g>
+      <text class="cls-19" transform="translate(205 320.09)"><tspan x="0" y="0">Other</tspan></text>
+      <rect class="cls-1" x="190" y="309.95" width="10" height="10"/>
+    </g>
+    <text class="cls-16" transform="translate(17.55 74.08)"><tspan x="0" y="0">Massachusetts</tspan></text>
+    <text class="cls-17" transform="translate(17.76 27.14)"><tspan x="0" y="0">Demographics of Worcester</tspan></text>
+    <g>
+      <text class="cls-20" transform="translate(20 360)"><tspan x="0" y="0">Data Source: Decennial Census (2020) </tspan></text>
+      <line class="cls-11" x1="20.41" y1="347.54" x2="340" y2="347.54"/>
+    </g>
+    <g>
+      <rect class="cls-7" x="130.45" y="160" width="108.03" height="20"/>
+      <rect class="cls-6" x="238.48" y="160" width="30.34" height="20"/>
+      <rect class="cls-5" x="270.73" y="160" width="24.32" height="20"/>
+      <rect class="cls-2" x="316.01" y="160" width="23.54" height="20"/>
+      <rect class="cls-4" x="295.04" y="160" width="20.97" height="20"/>
+      <rect class="cls-9" x="268.82" y="160.11" width="1.91" height="19.77"/>
+    </g>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <g>
+      <rect class="cls-7" x="130" y="60" width="146.25" height="20"/>
+      <rect class="cls-6" x="276.25" y="60" width="14.76" height="20"/>
+      <rect class="cls-5" x="291.72" y="60" width="15.24" height="20"/>
+      <rect class="cls-2" x="325.15" y="60" width="14.84" height="20"/>
+      <rect class="cls-4" x="306.96" y="60" width="18.19" height="20"/>
+      <rect class="cls-10" x="291" y="60.39" width=".72" height="19.22"/>
+    </g>
+    <g>
+      <rect class="cls-7" x="130.01" y="110" width="112.01" height="20"/>
+      <rect class="cls-6" x="242.02" y="110" width="31" height="20"/>
+      <rect class="cls-5" x="274.03" y="110" width="15.02" height="20"/>
+      <rect class="cls-2" x="312.86" y="110" width="27.11" height="20"/>
+      <rect class="cls-4" x="289.05" y="110" width="23.81" height="20"/>
+      <rect class="cls-10" x="273" y="110.37" width="1.02" height="19.26"/>
+    </g>
+    <g>
+      <rect class="cls-7" x="130.01" y="210" width="35.42" height="20"/>
+      <rect class="cls-6" x="165.42" y="210" width="45.78" height="20"/>
+      <rect class="cls-5" x="212.46" y="210" width="2.52" height="20"/>
+      <rect class="cls-2" x="266.36" y="210" width="73.64" height="20"/>
+      <rect class="cls-4" x="214.98" y="210" width="51.38" height="20"/>
+      <rect class="cls-8" x="211.2" y="210.39" width="1.26" height="19.23"/>
+    </g>
   </g>
 </svg>

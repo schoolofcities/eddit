@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 250.07">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-7 {
+        fill: #067fa3;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-11 {
+        font-size: 14px;
+      }
+
+      .cls-8, .cls-3 {
+        fill: #1e3864;
+      }
+
+      .cls-4, .cls-9 {
+        fill: #00a28a;
+      }
+
+      .cls-12 {
+        fill: #9a9896;
+        font-family: OpenSans, 'Open Sans';
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-11 {
+        fill: #0e534d;
+      }
+
+      .cls-10 {
+        fill: #231f20;
+        font-size: 20px;
+      }
+
+      .cls-6 {
+        stroke: #9a9896;
+      }
+    </style>
+  </defs>
+  <text class="cls-10" transform="translate(20 27.14)"><tspan x="0" y="0">Households on cash public assistance or food stamps (SNAP) </tspan></text>
+  <g>
+    <text class="cls-12" transform="translate(20 240)"><tspan x="0" y="0">Data Source: American Community Survey (2023) </tspan></text>
+    <line class="cls-6" x1="20.41" y1="227.54" x2="700" y2="227.54"/>
+  </g>
+  <g>
+    <text class="cls-8" transform="translate(224.59 75)"><tspan x="0" y="0">15% Massachusetts</tspan></text>
+    <text class="cls-11" transform="translate(259.45 155.28)"><tspan x="0" y="0">22% Downtown</tspan></text>
+    <text class="cls-7" transform="translate(290.69 115)"><tspan x="0" y="0">28% Worcester City</tspan></text>
+    <text class="cls-9" transform="translate(496.34 195)"><tspan x="0" y="0">69% Plumley</tspan></text>
+    <rect class="cls-3" x="140.72" y="60" width="75.6" height="20"/>
+    <rect class="cls-2" x="140.72" y="100" width="141.7" height="20"/>
+    <rect class="cls-5" x="140.72" y="140" width="111.2" height="20"/>
+    <rect class="cls-4" x="140.72" y="180" width="347.05" height="20"/>
+    <line class="cls-1" x1="140.72" y1="50" x2="140.72" y2="210"/>
+  </g>
+</svg>

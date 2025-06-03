@@ -51,33 +51,33 @@
     </style>
   </defs>
   <text class="cls-7" transform="translate(20 23.8)"><tspan x="0" y="0">Median ages in Worcester</tspan></text>
+  <text class="cls-6" transform="translate(38.57 179.93)"><tspan x="0" y="0">MA</tspan></text>
+  <text class="cls-6" transform="translate(100.82 179.93)"><tspan x="0" y="0">Worcester</tspan></text>
+  <text class="cls-5" transform="translate(281.74 180.07)"><tspan x="0" y="0">Plumley</tspan></text>
+  <text class="cls-6" transform="translate(185.26 179.93)"><tspan x="0" y="0">Downtown</tspan></text>
   <g>
-    <text class="cls-6" transform="translate(41.99 75)"><tspan x="0" y="0">40</tspan></text>
-    <text class="cls-6" transform="translate(38.57 179.93)"><tspan x="0" y="0">MA</tspan></text>
-    <path class="cls-3" d="M48.91,95h2.18c4.92,0,8.91,3.99,8.91,8.91v56.09h-20v-56.09c0-4.92,3.99-8.91,8.91-8.91Z"/>
-    <circle class="cls-3" cx="50" cy="87.5" r="7.5"/>
-  </g>
-  <g>
-    <text class="cls-6" transform="translate(100.82 179.93)"><tspan x="0" y="0">Worcester</tspan></text>
-    <text class="cls-6" transform="translate(122.66 86.8)"><tspan x="0" y="0">34.1</tspan></text>
-    <path class="cls-3" d="M135.58,106.8h2.18c4.92,0,8.91,3.99,8.91,8.91v44.29h-20v-44.29c0-4.92,3.99-8.91,8.91-8.91Z"/>
-    <circle class="cls-3" cx="136.67" cy="99.3" r="7.5"/>
-  </g>
-  <g>
-    <text class="cls-5" transform="translate(296 93.1)"><tspan x="0" y="0">30.9</tspan></text>
-    <text class="cls-5" transform="translate(281.74 180.07)"><tspan x="0" y="0">Plumley</tspan></text>
-    <path class="cls-2" d="M308.91,113.2h2.18c4.92,0,8.91,3.99,8.91,8.91v37.89h-20v-37.89c0-4.92,3.99-8.91,8.91-8.91Z"/>
-    <circle class="cls-2" cx="310" cy="105.7" r="7.5"/>
-  </g>
-  <g>
-    <text class="cls-6" transform="translate(209.33 95.6)"><tspan x="0" y="0">29.7</tspan></text>
-    <text class="cls-6" transform="translate(185.26 179.93)"><tspan x="0" y="0">Downtown</tspan></text>
-    <path class="cls-3" d="M222.25,115.6h2.18c4.92,0,8.91,3.99,8.91,8.91v35.49h-20v-35.49c0-4.92,3.99-8.91,8.91-8.91Z"/>
-    <circle class="cls-3" cx="223.33" cy="108.1" r="7.5"/>
-  </g>
-  <line class="cls-1" x1="19.93" y1="160" x2="339.47" y2="160"/>
-  <g>
-    <text class="cls-8" transform="translate(20 220)"><tspan x="0" y="0">Data Source: American Community Survey (2023) </tspan></text>
+    <text class="cls-8" transform="translate(20 220)"><tspan x="0" y="0">Data Source: Decennial Census (2020)</tspan></text>
     <line class="cls-4" x1="20.41" y1="207.54" x2="339.47" y2="207.54"/>
   </g>
+  <g>
+    <text class="cls-6" transform="translate(35.71 75)"><tspan x="0" y="0">39.9</tspan></text>
+    <g>
+      <circle class="cls-3" cx="49.83" cy="87.7" r="7.5"/>
+      <path class="cls-3" d="M48.32,95.2h3.03c4.68,0,8.49,3.8,8.49,8.49v56.31h-20v-56.31c0-4.68,3.8-8.49,8.49-8.49Z"/>
+    </g>
+  </g>
+  <text class="cls-6" transform="translate(122.68 86.8)"><tspan x="0" y="0">34.3</tspan></text>
+  <g>
+    <circle class="cls-3" cx="136.67" cy="98.9" r="7.5"/>
+    <path class="cls-3" d="M135.15,106.4h3.03c4.68,0,8.49,3.8,8.49,8.49v45.11h-20v-45.11c0-4.68,3.8-8.49,8.49-8.49Z"/>
+  </g>
+  <text class="cls-5" transform="translate(296.48 93.1)"><tspan x="0" y="0">27.5</tspan></text>
+  <circle class="cls-2" cx="310.21" cy="112.5" r="7.5"/>
+  <path class="cls-2" d="M308.7,120h3.03c4.68,0,8.49,3.8,8.49,8.49v31.51h-20v-31.51c0-4.68,3.8-8.49,8.49-8.49Z"/>
+  <g>
+    <text class="cls-6" transform="translate(209.54 95.75)"><tspan x="0" y="0">29.5</tspan></text>
+    <circle class="cls-3" cx="223.47" cy="108.65" r="7.5"/>
+    <path class="cls-3" d="M222.51,116.15h1.78c5.03,0,9.11,4.08,9.11,9.11v34.89h-20v-34.89c0-5.03,4.08-9.11,9.11-9.11Z"/>
+  </g>
+  <line class="cls-1" x1="19.93" y1="160" x2="339.47" y2="160"/>
 </svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        font-size: 14px;
+      }
+
+      .cls-1, .cls-6 {
+        fill: #1e3864;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-3, .cls-7 {
+        fill: #00a28a;
+      }
+
+      .cls-8 {
+        fill: #9a9896;
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-5 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #9a9896;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <text class="cls-8" transform="translate(20 310)"><tspan x="0" y="0">Data Source: TCB Site Data (2022)?, CDC Places (2022)</tspan></text>
+      <line class="cls-9" x1="20.41" y1="297.54" x2="700" y2="297.54"/>
+    </g>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <text class="cls-2" transform="translate(64.51 59.72)"><tspan x="0" y="0">Visits to doctor</tspan><tspan x="-32.89" y="16.8">for routine checkup</tspan><tspan x="-.7" y="33.6">within the past</tspan><tspan x="-24.64" y="50.4">year among adults</tspan></text>
+    <text class="cls-2" transform="translate(66.97 157.65)"><tspan x="0" y="0">Good or better</tspan><tspan x="-14.02" y="16.8">self-rated health</tspan><tspan x="-40.26" y="33.6">status among adults</tspan></text>
+    <text class="cls-2" transform="translate(49.83 236.55)"><tspan x="0" y="0">Health insurance</tspan><tspan x="24.3" y="16.8">among adults</tspan><tspan x="46.09" y="33.6">aged 18-64</tspan></text>
+    <text class="cls-4" transform="translate(20 24.8)"><tspan x="0" y="0">Health indicators for Plumley vs Downtown in 2022</tspan></text>
+    <text class="cls-3" transform="translate(540 96.75)"><tspan x="0" y="0">90.0%</tspan></text>
+    <text class="cls-1" transform="translate(488.8 74.06)"><tspan x="0" y="0">77.2%</tspan></text>
+    <rect class="cls-6" x="190" y="59.72" width="293.94" height="17"/>
+    <rect class="cls-7" x="190" y="83" width="342.67" height="17"/>
+    <text class="cls-1" transform="translate(555.2 243.27)"><tspan x="0" y="0">93.8%</tspan></text>
+    <text class="cls-3" transform="translate(580 266.27)"><tspan x="0" y="0">100%</tspan></text>
+    <rect class="cls-7" x="190" y="253" width="380.75" height="17"/>
+    <rect class="cls-6" x="190" y="230" width="357.14" height="17"/>
+    <text class="cls-1" transform="translate(509.2 164.57)"><tspan x="0" y="0">82.3%</tspan></text>
+    <text class="cls-3" transform="translate(508 187.24)"><tspan x="0" y="0">82.0%</tspan></text>
+    <rect class="cls-7" x="190" y="173.3" width="312.21" height="17"/>
+    <rect class="cls-6" x="190" y="150.3" width="313.36" height="17"/>
+    <rect class="cls-7" x="610" y="84.36" width="10" height="10"/>
+    <g>
+      <rect class="cls-6" x="610" y="64.36" width="10" height="10"/>
+      <text class="cls-5" transform="translate(630 74.36)"><tspan x="0" y="0">Downtown</tspan></text>
+    </g>
+    <text class="cls-5" transform="translate(630 94.36)"><tspan x="0" y="0">Plumley</tspan></text>
+  </g>
+</svg>

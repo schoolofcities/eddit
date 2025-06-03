@@ -40,8 +40,21 @@
 	</div>
 
 	<SingleGraphicLazy
-		svg720={"./worcester-ma/web-svg/worcester-contextmap-720.svg"}
-		svg360={"./worcester-ma/web-svg/worcester-contextmap-360.svg"}
+		svg720={"./worcester-ma/web-svg/worcester-contextmapV2-720.svg"}
+		svg360={"./worcester-ma/web-svg/worcester-contextmapV2-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
+		svg720={"./worcester-ma/web-svg/worcester-city-contextmap-720.svg"}
+		svg360={"./worcester-ma/web-svg/worcester-city-contextmap-360.svg"}
 	/>
 
 	<div class="text">
@@ -122,7 +135,7 @@
 	</div>
 
 	<SmallMultiplesLazy
-		svgPaths={["./worcester-ma/web-svg/worcester_residential-map.svg","./worcester-ma/web-svg/worcester_parkinglots-map.svg","./worcester-ma/web-svg/worcester_greenspaces-grocery-map.svg"]}
+		svgPaths={["./worcester-ma/web-svg/worcester_map-residential.svg","./worcester-ma/web-svg/worcester_map_parkinglots.svg","./worcester-ma/web-svg/worcester_map-greenspaces-grocery.svg"]}
 	/>
 
 	<div class="text">
@@ -137,8 +150,8 @@
 	</div>
 
 	<SingleGraphicLazy
-		svg720={"./worcester-ma/web-svg/worcester_health-trends-720.svg"}
-		svg360={"./worcester-ma/web-svg/worcester_health-trends-360.svg"}
+		svg720={"./worcester-ma/web-svg/worcester_health-indicators-720.svg"}
+		svg360={"./worcester-ma/web-svg/worcester_health-indicators-360.svg"}
 	/>
 
 	<div class="text">

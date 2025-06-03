@@ -2,15 +2,15 @@
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500">
   <defs>
     <style>
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
         stroke-miterlimit: 10;
       }
 
-      .cls-1, .cls-7 {
+      .cls-1, .cls-8 {
         stroke: #231f20;
       }
 
-      .cls-1, .cls-7, .cls-9, .cls-11, .cls-15 {
+      .cls-1, .cls-8, .cls-10, .cls-11, .cls-14 {
         fill: none;
       }
 
@@ -18,7 +18,7 @@
         stroke: #8cbf3f;
       }
 
-      .cls-2, .cls-16 {
+      .cls-2, .cls-15 {
         fill: #8cbf3f;
       }
 
@@ -26,81 +26,81 @@
         stroke: #dc4732;
       }
 
-      .cls-3, .cls-8 {
+      .cls-3, .cls-9 {
         fill: #dc4732;
       }
 
-      .cls-19, .cls-20, .cls-21, .cls-22, .cls-23 {
-        fill: #231f20;
-      }
-
-      .cls-4 {
-        stroke: #0e534d;
-      }
-
-      .cls-4, .cls-13 {
-        fill: #0e534d;
-      }
-
-      .cls-5 {
-        stroke: #efc419;
-      }
-
-      .cls-5, .cls-18 {
-        fill: #efc419;
-      }
-
-      .cls-24 {
-        fill: #939598;
-      }
-
-      .cls-24, .cls-25, .cls-22 {
-        font-size: 12px;
-      }
-
-      .cls-24, .cls-25, .cls-22, .cls-23 {
-        font-family: OpenSans, 'Open Sans';
-      }
-
-      .cls-26 {
-        fill: #fff;
-      }
-
-      .cls-6, .cls-8, .cls-10, .cls-13, .cls-14, .cls-16, .cls-18 {
+      .cls-4, .cls-7, .cls-9, .cls-13, .cls-15, .cls-17 {
         stroke: #fff;
       }
 
-      .cls-6, .cls-12 {
+      .cls-4, .cls-16 {
+        fill: #55874d;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-21, .cls-22 {
+        fill: #231f20;
+      }
+
+      .cls-5 {
+        stroke: #0e534d;
+      }
+
+      .cls-5, .cls-13 {
+        fill: #0e534d;
+      }
+
+      .cls-6 {
+        stroke: #efc419;
+      }
+
+      .cls-6, .cls-17 {
+        fill: #efc419;
+      }
+
+      .cls-23 {
+        fill: #939598;
+      }
+
+      .cls-23, .cls-24, .cls-21 {
+        font-size: 12px;
+      }
+
+      .cls-23, .cls-24, .cls-21, .cls-22 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-25 {
+        fill: #fff;
+      }
+
+      .cls-7, .cls-12 {
         fill: #ea9184;
       }
 
-      .cls-7 {
+      .cls-8 {
         stroke-width: 1.5px;
       }
 
-      .cls-20, .cls-21 {
+      .cls-19, .cls-20 {
         font-family: OpenSans-Bold, 'Open Sans';
         font-weight: 700;
       }
 
-      .cls-20, .cls-23 {
+      .cls-19, .cls-22 {
         font-size: 14px;
       }
 
-      .cls-9, .cls-11 {
+      .cls-10, .cls-11 {
         stroke: #939598;
         stroke-width: .5px;
-      }
-
-      .cls-10 {
-        fill: #407551;
       }
 
       .cls-11 {
         stroke-dasharray: 5 5;
       }
 
-      .cls-25 {
+      .cls-24 {
         fill: #9a9896;
       }
 
@@ -108,101 +108,91 @@
         stroke: #ea9184;
       }
 
-      .cls-14, .cls-17 {
-        fill: #78ab70;
-      }
-
-      .cls-21 {
+      .cls-20 {
         font-size: 20px;
       }
 
-      .cls-15 {
+      .cls-14 {
         stroke: #9a9896;
       }
 
-      .cls-17 {
-        stroke: #78ab70;
+      .cls-16 {
+        stroke: #55874d;
       }
     </style>
   </defs>
-  <text class="cls-20" transform="translate(20 290.1)"><tspan x="0" y="0">Downtown</tspan></text>
-  <text class="cls-20" transform="translate(20 239.82)"><tspan x="0" y="0">Worcester City</tspan></text>
-  <text class="cls-20" transform="translate(20 190.1)"><tspan x="0" y="0">Massachusetts</tspan></text>
-  <text class="cls-20" transform="translate(20 340.1)"><tspan x="0" y="0">Plumley</tspan></text>
-  <text class="cls-21" transform="translate(20 25)"><tspan x="0" y="0">Plumley and Downtown </tspan><tspan x="0" y="24">Worcester have higher rates of </tspan><tspan x="0" y="48">residents below the poverty line </tspan></text>
+  <text class="cls-19" transform="translate(20 290.1)"><tspan x="0" y="0">Downtown</tspan></text>
+  <text class="cls-19" transform="translate(20 239.82)"><tspan x="0" y="0">Worcester City</tspan></text>
+  <text class="cls-19" transform="translate(20 190.1)"><tspan x="0" y="0">Massachusetts</tspan></text>
+  <text class="cls-19" transform="translate(20 340.1)"><tspan x="0" y="0">Plumley</tspan></text>
+  <text class="cls-20" transform="translate(20 25)"><tspan x="0" y="0">Plumley and Downtown </tspan><tspan x="0" y="24">Worcester have higher rates of </tspan><tspan x="0" y="48">residents below the poverty line </tspan></text>
   <g>
-    <text class="cls-25" transform="translate(20 490)"><tspan x="0" y="0">Data Source: American Community Survey (2023) </tspan></text>
-    <line class="cls-15" x1="20.41" y1="477.54" x2="340" y2="477.54"/>
+    <text class="cls-24" transform="translate(20 490)"><tspan x="0" y="0">Data Source: American Community Survey (2023) </tspan></text>
+    <line class="cls-14" x1="20.41" y1="477.54" x2="340" y2="477.54"/>
   </g>
-  <g>
-    <rect class="cls-8" x="189.86" y="175.1" width="7.22" height="20"/>
-    <rect class="cls-6" x="196.9" y="175.1" width="7.77" height="20"/>
-    <rect class="cls-18" x="204.67" y="175.1" width="4.07" height="20"/>
-    <rect class="cls-16" x="208.89" y="175.1" width="4.29" height="20"/>
-    <rect class="cls-14" x="213.33" y="175.1" width="5.78" height="20"/>
-    <rect class="cls-10" x="219.1" y="175.1" width="2.49" height="20"/>
-    <rect class="cls-13" x="221.59" y="175.1" width="118.41" height="20"/>
-  </g>
-  <g>
-    <rect class="cls-8" x="116.85" y="275.1" width="26.88" height="20"/>
-    <rect class="cls-6" x="143.73" y="275.1" width="60.91" height="20"/>
-    <rect class="cls-18" x="204.64" y="275.1" width="11.82" height="20"/>
-    <rect class="cls-16" x="216.46" y="275.1" width="18.12" height="20"/>
-    <rect class="cls-14" x="234.58" y="275.1" width="7.86" height="20"/>
-    <rect class="cls-13" x="242.44" y="275.1" width="24.4" height="20"/>
-  </g>
-  <g>
-    <rect class="cls-8" x="100" y="324.96" width="23.34" height="20"/>
-    <rect class="cls-6" x="123.34" y="324.96" width="81.33" height="20"/>
-    <rect class="cls-18" x="204.67" y="324.96" width="1.36" height="20"/>
-    <rect class="cls-16" x="206.04" y="324.96" width="24.61" height="20"/>
-    <rect class="cls-14" x="230.65" y="324.96" width="10.8" height="20"/>
-    <rect class="cls-13" x="241.45" y="324.96" width="8.56" height="20"/>
-  </g>
+  <rect class="cls-9" x="189.86" y="175.1" width="7.22" height="20"/>
+  <rect class="cls-7" x="196.9" y="175.1" width="7.77" height="20"/>
+  <rect class="cls-17" x="204.67" y="175.1" width="4.07" height="20"/>
+  <rect class="cls-15" x="208.89" y="175.1" width="4.29" height="20"/>
+  <rect class="cls-4" x="213.33" y="175.1" width="8.27" height="20"/>
+  <rect class="cls-13" x="221.59" y="175.1" width="118.41" height="20"/>
+  <rect class="cls-9" x="100" y="324.96" width="23.34" height="20"/>
+  <rect class="cls-7" x="123.34" y="324.96" width="81.33" height="20"/>
+  <rect class="cls-17" x="204.67" y="324.96" width="1.36" height="20"/>
+  <rect class="cls-15" x="206.04" y="324.96" width="24.61" height="20"/>
+  <rect class="cls-4" x="230.65" y="324.96" width="10.8" height="20"/>
+  <rect class="cls-13" x="241.45" y="324.96" width="8.56" height="20"/>
   <line class="cls-1" x1="204.66" y1="165.1" x2="204.66" y2="355.1"/>
+  <rect class="cls-9" x="175" y="225.1" width="14.09" height="20"/>
+  <rect class="cls-7" x="189.09" y="225.1" width="15.59" height="20"/>
+  <rect class="cls-17" x="204.67" y="225.1" width="6.49" height="20"/>
+  <rect class="cls-15" x="211.17" y="225.1" width="6.59" height="20"/>
+  <rect class="cls-4" x="217.75" y="225.1" width="12.41" height="20"/>
+  <rect class="cls-13" x="230.16" y="225.1" width="94.84" height="20"/>
+  <text class="cls-21" transform="translate(94.94 373.33)"><tspan x="0" y="0">Below poverty line</tspan></text>
+  <text class="cls-21" transform="translate(211.82 373.33)"><tspan x="0" y="0">Above poverty line</tspan></text>
+  <text class="cls-22" transform="translate(19.77 100)"><tspan x="0" y="0">Distribution of residents by income-to-poverty </tspan><tspan x="0" y="16.8">ratio, which compares total household income to </tspan><tspan x="0" y="33.6">the federal poverty threshold</tspan></text>
   <g>
-    <rect class="cls-8" x="175" y="225.1" width="14.09" height="20"/>
-    <rect class="cls-6" x="189.09" y="225.1" width="15.59" height="20"/>
-    <rect class="cls-18" x="204.67" y="225.1" width="6.49" height="20"/>
-    <rect class="cls-16" x="211.17" y="225.1" width="6.59" height="20"/>
-    <rect class="cls-14" x="217.75" y="225.1" width="8.61" height="20"/>
-    <rect class="cls-10" x="226.36" y="225.1" width="3.8" height="20"/>
-    <rect class="cls-13" x="230.16" y="225.1" width="94.84" height="20"/>
+    <text class="cls-21" transform="translate(62.92 409.9)"><tspan x="0" y="0">Under 0.5</tspan></text>
+    <rect class="cls-3" x="50.01" y="400" width="10" height="10"/>
+    <text class="cls-21" transform="translate(153.41 409.9)"><tspan x="0" y="0">0.5 – 0.99</tspan></text>
+    <rect class="cls-12" x="140.01" y="400" width="10" height="10"/>
+    <text class="cls-21" transform="translate(242.91 409.9)"><tspan x="0" y="0">1.0 – 1.24</tspan></text>
+    <rect class="cls-6" x="230.01" y="400" width="10" height="10"/>
   </g>
-  <line class="cls-7" x1="204.66" y1="165.1" x2="204.66" y2="355.1"/>
-  <text class="cls-22" transform="translate(94.94 373.33)"><tspan x="0" y="0">Below poverty line</tspan></text>
-  <text class="cls-22" transform="translate(211.82 373.33)"><tspan x="0" y="0">Above poverty line</tspan></text>
-  <text class="cls-23" transform="translate(19.77 100)"><tspan x="0" y="0">Distribution of residents by income-to-poverty </tspan><tspan x="0" y="16.8">ratio, which compares total household income to </tspan><tspan x="0" y="33.6">the federal poverty threshold</tspan></text>
-  <text class="cls-22" transform="translate(78.12 409.9)"><tspan x="0" y="0">Under 0.5</tspan></text>
-  <rect class="cls-3" x="65.21" y="400" width="10" height="10"/>
-  <text class="cls-22" transform="translate(163.4 409.9)"><tspan x="0" y="0">0.5 – 0.99</tspan></text>
-  <rect class="cls-12" x="150" y="400" width="10" height="10"/>
-  <text class="cls-22" transform="translate(251.47 409.9)"><tspan x="0" y="0">1.0 – 1.24</tspan></text>
-  <rect class="cls-5" x="238.58" y="400" width="10" height="10"/>
-  <text class="cls-22" transform="translate(31.51 429.9)"><tspan x="0" y="0">1.25 – 1.49</tspan></text>
-  <rect class="cls-2" x="20" y="420" width="10" height="10"/>
-  <text class="cls-22" transform="translate(112.9 429.73)"><tspan x="0" y="0">1.5 – 1.84</tspan></text>
-  <rect class="cls-17" x="100" y="420" width="10" height="10"/>
-  <text class="cls-22" transform="translate(273.55 429.73)"><tspan x="0" y="0">2.0 and over</tspan></text>
-  <rect class="cls-4" x="260.14" y="420" width="10" height="10"/>
-  <text class="cls-22" transform="translate(193.11 429.73)"><tspan x="0" y="0">1.85 – 1.99</tspan></text>
-  <rect class="cls-17" x="180.21" y="420" width="10" height="10"/>
-  <text class="cls-22" transform="translate(113.74 450)"><tspan x="0" y="0">Income-to-poverty ratio</tspan></text>
+  <g>
+    <text class="cls-21" transform="translate(61.52 429.9)"><tspan x="0" y="0">1.25 – 1.49</tspan></text>
+    <rect class="cls-2" x="50.01" y="420" width="10" height="10"/>
+    <text class="cls-21" transform="translate(243.42 429.73)"><tspan x="0" y="0">2.0 and over</tspan></text>
+    <rect class="cls-5" x="230.01" y="420" width="10" height="10"/>
+    <text class="cls-21" transform="translate(152.91 429.73)"><tspan x="0" y="0">1.5 – 1.99</tspan></text>
+    <rect class="cls-16" x="140.01" y="420" width="10" height="10"/>
+  </g>
+  <text class="cls-21" transform="translate(113.74 450)"><tspan x="0" y="0">Income-to-poverty ratio</tspan></text>
   <g>
     <g>
-      <polyline class="cls-9" points="189.86 200.5 189.86 204.62 192.36 204.62"/>
+      <polyline class="cls-10" points="189.86 200.5 189.86 204.62 192.36 204.62"/>
       <line class="cls-11" x1="197.37" y1="204.62" x2="335" y2="204.62"/>
-      <polyline class="cls-9" points="337.5 204.62 340 204.62 340 200.5"/>
+      <polyline class="cls-10" points="337.5 204.62 340 204.62 340 200.5"/>
     </g>
-    <rect class="cls-26" x="234.49" y="198.87" width="71.38" height="11.67"/>
-    <text class="cls-24" transform="translate(233.6 208.5)"><tspan x="0" y="0">100% of pop.</tspan></text>
+    <rect class="cls-25" x="234.49" y="198.87" width="71.38" height="11.67"/>
+    <text class="cls-23" transform="translate(233.6 208.5)"><tspan x="0" y="0">100% of pop.</tspan></text>
   </g>
   <g>
     <line class="cls-1" x1="211.96" y1="359.67" x2="238.77" y2="359.67"/>
-    <path class="cls-19" d="M241.79,359.67c-1.42.53-3.18,1.43-4.27,2.38l.86-2.38-.86-2.38c1.09.95,2.85,1.85,4.27,2.38Z"/>
+    <path class="cls-18" d="M241.79,359.67c-1.42.53-3.18,1.43-4.27,2.38l.86-2.38-.86-2.38c1.09.95,2.85,1.85,4.27,2.38Z"/>
   </g>
   <g>
     <line class="cls-1" x1="197.36" y1="359.67" x2="170.55" y2="359.67"/>
-    <path class="cls-19" d="M167.53,359.67c1.42-.53,3.18-1.43,4.27-2.38l-.86,2.38.86,2.38c-1.09-.95-2.85-1.85-4.27-2.38Z"/>
+    <path class="cls-18" d="M167.53,359.67c1.42-.53,3.18-1.43,4.27-2.38l-.86,2.38.86,2.38c-1.09-.95-2.85-1.85-4.27-2.38Z"/>
   </g>
+  <g>
+    <rect class="cls-9" x="153.87" y="276" width="30.91" height="20"/>
+    <rect class="cls-7" x="184.78" y="276" width="19.86" height="20"/>
+    <rect class="cls-17" x="204.64" y="276" width="7.96" height="20"/>
+    <rect class="cls-15" x="212.6" y="276" width="3.81" height="20"/>
+    <rect class="cls-4" x="216.41" y="276" width="7.42" height="20"/>
+    <rect class="cls-13" x="223.84" y="276" width="80.03" height="20"/>
+  </g>
+  <line class="cls-8" x1="204.66" y1="165.1" x2="204.66" y2="355.1"/>
 </svg>

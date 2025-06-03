@@ -52,69 +52,68 @@
   <text class="cls-5" transform="translate(22.43 140.28)"><tspan x="0" y="0">Worcester City</tspan></text>
   <text class="cls-5" transform="translate(48.85 180.28)"><tspan x="0" y="0">Downtown</tspan></text>
   <text class="cls-5" transform="translate(68.48 220.41)"><tspan x="0" y="0">Plumley</tspan></text>
-  <text class="cls-5" transform="translate(313.57 220.41)"><tspan x="0" y="0">45%</tspan></text>
-  <text class="cls-5" transform="translate(312.46 180.28)"><tspan x="0" y="0">34%</tspan></text>
-  <text class="cls-5" transform="translate(313.57 140.28)"><tspan x="0" y="0">57%</tspan></text>
+  <text class="cls-5" transform="translate(313.07 140.28)"><tspan x="0" y="0">56%</tspan></text>
   <text class="cls-5" transform="translate(313.07 100.28)"><tspan x="0" y="0">63%</tspan></text>
   <text class="cls-5" transform="translate(21.03 100.28)"><tspan x="0" y="0">Massachusetts</tspan></text>
   <g>
-    <rect class="cls-3" x="130.19" y="206" width="18" height="18"/>
-    <rect class="cls-3" x="148.19" y="206" width="18" height="18"/>
-    <rect class="cls-3" x="166.19" y="206" width="18" height="18"/>
-    <rect class="cls-3" x="184.19" y="206" width="18" height="18"/>
-    <polyline class="cls-1" points="211.19 206 220.19 206 220.19 224 211.19 224"/>
-    <polyline class="cls-3" points="211.19 224 202.19 224 202.19 206 211.19 206"/>
-    <rect class="cls-1" x="220.19" y="206" width="18" height="18"/>
-    <rect class="cls-1" x="238.19" y="206" width="18" height="18"/>
-    <rect class="cls-1" x="256.19" y="206" width="18" height="18"/>
-    <rect class="cls-1" x="274.19" y="206" width="18" height="18"/>
-    <rect class="cls-1" x="292.19" y="206" width="18" height="18"/>
-    <rect class="cls-3" x="184.19" y="206" width="18" height="18"/>
-  </g>
-  <g>
-    <rect class="cls-2" x="130.19" y="166" width="18" height="18"/>
-    <rect class="cls-2" x="148.19" y="166" width="18" height="18"/>
-    <rect class="cls-2" x="166.19" y="166" width="18" height="18"/>
-    <rect class="cls-2" x="184.19" y="166" width="18" height="18"/>
-    <rect class="cls-1" x="220.19" y="166" width="18" height="18"/>
-    <rect class="cls-1" x="238.19" y="166" width="18" height="18"/>
-    <rect class="cls-1" x="256.19" y="166" width="18" height="18"/>
-    <rect class="cls-1" x="274.19" y="166" width="18" height="18"/>
-    <rect class="cls-1" x="292.19" y="166" width="18" height="18"/>
-    <polyline class="cls-2" points="191.39 184 184.19 184 184.19 166 191.39 166"/>
-    <polyline class="cls-1" points="191.39 166 202.19 166 202.19 184 191.39 184"/>
-    <rect class="cls-1" x="202.19" y="166" width="18" height="18"/>
-  </g>
-  <g>
-    <rect class="cls-2" x="130.19" y="126" width="18" height="18"/>
-    <rect class="cls-2" x="148.19" y="126" width="18" height="18"/>
-    <rect class="cls-2" x="166.19" y="126" width="18" height="18"/>
-    <rect class="cls-2" x="184.19" y="126" width="18" height="18"/>
-    <polyline class="cls-2" points="232.79 144 220.19 144 220.19 126 232.79 126"/>
-    <polyline class="cls-1" points="232.79 126 238.19 126 238.19 144 232.79 144"/>
-    <rect class="cls-1" x="238.19" y="126" width="18" height="18"/>
-    <rect class="cls-1" x="256.19" y="126" width="18" height="18"/>
-    <rect class="cls-1" x="274.19" y="126" width="18" height="18"/>
-    <rect class="cls-1" x="292.19" y="126" width="18" height="18"/>
-    <polyline class="cls-2" points="191.39 144 184.19 144 184.19 126 191.39 126"/>
-    <rect class="cls-2" x="202.19" y="126" width="18" height="18"/>
-  </g>
-  <g>
-    <rect class="cls-2" x="130" y="86" width="18" height="18"/>
-    <rect class="cls-2" x="148" y="86" width="18" height="18"/>
-    <rect class="cls-2" x="166" y="86" width="18" height="18"/>
-    <rect class="cls-2" x="184" y="86" width="18" height="18"/>
-    <polyline class="cls-2" points="243.4 104 238 104 238 86 243.4 86"/>
-    <polyline class="cls-1" points="243.4 86 256 86 256 104 243.4 104"/>
-    <rect class="cls-1" x="256" y="86" width="18" height="18"/>
-    <rect class="cls-1" x="274" y="86" width="18" height="18"/>
-    <rect class="cls-1" x="292" y="86" width="18" height="18"/>
-    <polyline class="cls-2" points="191.2 104 184 104 184 86 191.2 86"/>
-    <rect class="cls-2" x="202" y="86" width="18" height="18"/>
-    <rect class="cls-2" x="220" y="86" width="18" height="18"/>
-  </g>
-  <g>
-    <text class="cls-7" transform="translate(20 270)"><tspan x="0" y="0">Data Source: American Community Survey (2023)</tspan><tspan x="0" y="14.4">*Family households include at least one person related </tspan><tspan x="0" y="28.8">to the householder by birth, marriage, or adoption. </tspan></text>
+    <text class="cls-7" transform="translate(20 270)"><tspan x="0" y="0">Data Source: Decennial Census (2020)</tspan><tspan x="0" y="14.4">*Family households include at least one person related </tspan><tspan x="0" y="28.8">to the householder by birth, marriage, or adoption. </tspan></text>
     <line class="cls-4" x1="20.41" y1="257.54" x2="340" y2="257.54"/>
   </g>
+  <g>
+    <rect class="cls-2" x="129.88" y="86" width="18" height="18"/>
+    <rect class="cls-2" x="147.88" y="86" width="18" height="18"/>
+    <rect class="cls-2" x="165.88" y="86" width="18" height="18"/>
+    <rect class="cls-2" x="183.88" y="86" width="18" height="18"/>
+    <polyline class="cls-2" points="243.28 104 237.88 104 237.88 86 243.28 86"/>
+    <polyline class="cls-1" points="243.28 86 255.88 86 255.88 104 243.28 104"/>
+    <rect class="cls-1" x="255.88" y="86" width="18" height="18"/>
+    <rect class="cls-1" x="273.88" y="86" width="18" height="18"/>
+    <rect class="cls-1" x="291.88" y="86" width="18" height="18"/>
+    <polyline class="cls-2" points="191.08 104 183.88 104 183.88 86 191.08 86"/>
+    <rect class="cls-2" x="201.88" y="86" width="18" height="18"/>
+    <rect class="cls-2" x="219.88" y="86" width="18" height="18"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="129.88" y="126" width="18" height="18"/>
+    <rect class="cls-2" x="147.88" y="126" width="18" height="18"/>
+    <rect class="cls-2" x="165.88" y="126" width="18" height="18"/>
+    <rect class="cls-2" x="183.88" y="126" width="18" height="18"/>
+    <polyline class="cls-2" points="230.68 144 219.88 144 219.88 126 230.68 126"/>
+    <polyline class="cls-1" points="230.68 126 237.88 126 237.88 144 230.68 144"/>
+    <rect class="cls-1" x="237.88" y="126" width="18" height="18"/>
+    <rect class="cls-1" x="255.88" y="126" width="18" height="18"/>
+    <rect class="cls-1" x="273.88" y="126" width="18" height="18"/>
+    <rect class="cls-1" x="291.88" y="126" width="18" height="18"/>
+    <polyline class="cls-2" points="191.08 144 183.88 144 183.88 126 191.08 126"/>
+    <rect class="cls-2" x="201.88" y="126" width="18" height="18"/>
+  </g>
+  <g>
+    <rect class="cls-2" x="129.88" y="166" width="18" height="18"/>
+    <rect class="cls-2" x="147.88" y="166" width="18" height="18"/>
+    <polyline class="cls-2" points="176.68 184 165.88 184 165.88 166 176.68 166"/>
+    <polyline class="cls-1" points="176.68 166 183.88 166 183.88 184 176.68 184"/>
+    <rect class="cls-1" x="183.88" y="166" width="18" height="18"/>
+    <rect class="cls-1" x="219.88" y="166" width="18" height="18"/>
+    <rect class="cls-1" x="237.88" y="166" width="18" height="18"/>
+    <rect class="cls-1" x="255.88" y="166" width="18" height="18"/>
+    <rect class="cls-1" x="273.88" y="166" width="18" height="18"/>
+    <rect class="cls-1" x="291.88" y="166" width="18" height="18"/>
+    <rect class="cls-1" x="201.88" y="166" width="18" height="18"/>
+  </g>
+  <g>
+    <rect class="cls-3" x="129.88" y="206" width="18" height="18"/>
+    <rect class="cls-3" x="147.88" y="206" width="18" height="18"/>
+    <rect class="cls-3" x="165.88" y="206" width="18" height="18"/>
+    <rect class="cls-3" x="183.88" y="206" width="18" height="18"/>
+    <polyline class="cls-3" points="232.48 224 219.88 224 219.88 206 232.48 206"/>
+    <polyline class="cls-1" points="232.48 206 237.88 206 237.88 224 232.48 224"/>
+    <rect class="cls-1" x="237.88" y="206" width="18" height="18"/>
+    <rect class="cls-1" x="255.88" y="206" width="18" height="18"/>
+    <rect class="cls-1" x="273.88" y="206" width="18" height="18"/>
+    <rect class="cls-1" x="291.88" y="206" width="18" height="18"/>
+    <rect class="cls-3" x="183.88" y="206" width="18" height="18"/>
+    <rect class="cls-3" x="201.88" y="206" width="18" height="18"/>
+  </g>
+  <text class="cls-5" transform="translate(313.07 220)"><tspan x="0" y="0">57%</tspan></text>
+  <text class="cls-5" transform="translate(313.07 180)"><tspan x="0" y="0">26%</tspan></text>
 </svg>
