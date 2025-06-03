@@ -77,38 +77,38 @@
   <text class="cls-8" transform="translate(20 27.14)"><tspan x="0" y="0">More than half of Plumley residents 25 and older do not have a high </tspan><tspan x="0" y="24">school diploma</tspan></text>
   <text class="cls-7" transform="translate(54.38 123.74)"><tspan x="0" y="0">Downtown</tspan></text>
   <text class="cls-7" transform="translate(72.95 203.36)"><tspan x="0" y="0">Plumley</tspan></text>
-  <text class="cls-2" transform="translate(168.69 90)"><tspan x="0" y="0">Less than HS Diploma</tspan></text>
-  <text class="cls-6" transform="translate(353.84 89.13)"><tspan x="0" y="0">HS Diploma</tspan></text>
-  <text class="cls-9" transform="translate(453.63 82.97)"><tspan x="0" y="0">Some</tspan><tspan x="-6.09" y="16.8">College</tspan></text>
-  <text class="cls-3" transform="translate(481.54 150.26)"><tspan x="0" y="0">Associate</tspan><tspan x="8.54" y="16.8">Degree</tspan></text>
-  <text class="cls-4" transform="translate(541.02 82.97)"><tspan x="0" y="0">Bachelors Degree</tspan><tspan x="28.24" y="16.8">or Higher</tspan></text>
+  <text class="cls-2" transform="translate(151.39 82.87)"><tspan x="0" y="0">Less than</tspan><tspan x="-7.01" y="16.8">HS Diploma</tspan></text>
+  <text class="cls-6" transform="translate(231.56 82.87)"><tspan x="0" y="0">HS Diploma</tspan><tspan x="16.85" y="16.8">or GED</tspan></text>
+  <text class="cls-9" transform="translate(353.32 82.87)"><tspan x="0" y="0">Some</tspan><tspan x="-6.09" y="16.8">College</tspan></text>
+  <text class="cls-3" transform="translate(416.65 82.87)"><tspan x="0" y="0">Associate</tspan><tspan x="8.54" y="16.8">Degree</tspan></text>
+  <text class="cls-4" transform="translate(513.65 82.87)"><tspan x="0" y="0">Bachelors Degree</tspan><tspan x="28.24" y="16.8">or Higher</tspan></text>
   <line class="cls-11" x1="161.96" y1="200" x2="657.59" y2="200"/>
   <g>
-    <rect class="cls-17" x="150" y="110" width="188.39" height="20"/>
-    <rect class="cls-14" x="533.92" y="110" width="136.08" height="20"/>
-    <rect class="cls-12" x="344.07" y="110" width="100.24" height="20"/>
-    <rect class="cls-15" x="449.98" y="110" width="45.69" height="20"/>
-    <rect class="cls-13" x="501.35" y="110" width="26.9" height="20"/>
-  </g>
-  <g>
-    <rect class="cls-12" x="446.31" y="190" width="116.41" height="20"/>
-    <rect class="cls-15" x="568.29" y="190" width="30.78" height="20"/>
-    <rect class="cls-13" x="604.63" y="190" width="16.91" height="20"/>
+    <rect class="cls-12" x="445.88" y="190" width="116.41" height="20"/>
+    <rect class="cls-15" x="567.43" y="190" width="30.78" height="20"/>
+    <rect class="cls-13" x="603.34" y="190" width="18.64" height="20"/>
     <rect class="cls-17" x="150" y="190" width="290.75" height="20"/>
     <rect class="cls-14" x="627.11" y="190" width="42.89" height="20"/>
   </g>
   <text class="cls-5" transform="translate(283.11 204.64)"><tspan x="0" y="0">59%</tspan></text>
-  <text class="cls-5" transform="translate(231.93 124.05)"><tspan x="0" y="0">38%</tspan></text>
   <text class="cls-1" transform="translate(492.73 204.64)"><tspan x="0" y="0">23%</tspan></text>
-  <text class="cls-1" transform="translate(381.92 124.19)"><tspan x="0" y="0">20%</tspan></text>
   <text class="cls-1" transform="translate(574.84 204.64)"><tspan x="0" y="0">6%</tspan></text>
-  <text class="cls-1" transform="translate(463.99 124.32)"><tspan x="0" y="0">9%</tspan></text>
-  <text class="cls-1" transform="translate(505.96 124.32)"><tspan x="0" y="0">5%</tspan></text>
   <text class="cls-1" transform="translate(604.25 204.78)"><tspan x="0" y="0">3%</tspan></text>
   <text class="cls-1" transform="translate(639.72 204.78)"><tspan x="0" y="0">9%</tspan></text>
-  <text class="cls-1" transform="translate(589.69 124.32)"><tspan x="0" y="0">27%</tspan></text>
   <g>
     <text class="cls-10" transform="translate(20 250)"><tspan x="0" y="0">Data Source: American Community Survey (2023) </tspan></text>
     <line class="cls-16" x1="20.41" y1="237.54" x2="700" y2="237.54"/>
+  </g>
+  <g>
+    <rect class="cls-17" x="150" y="110" width="69.45" height="20"/>
+    <rect class="cls-12" x="225.01" y="110" width="93.8" height="20"/>
+    <rect class="cls-15" x="324.38" y="110" width="96.27" height="20"/>
+    <rect class="cls-13" x="426.22" y="110" width="47.38" height="20"/>
+    <rect class="cls-14" x="479.16" y="110" width="190.84" height="20"/>
+    <text class="cls-5" transform="translate(172.46 124.6)"><tspan x="0" y="0">14%</tspan></text>
+    <text class="cls-1" transform="translate(259.65 124.6)"><tspan x="0" y="0">19%</tspan></text>
+    <text class="cls-1" transform="translate(360.72 124.6) scale(.96 1)"><tspan x="0" y="0">19%</tspan></text>
+    <text class="cls-1" transform="translate(437.71 124.6)"><tspan x="0" y="0">10%</tspan></text>
+    <text class="cls-1" transform="translate(562.32 124.6)"><tspan x="0" y="0">38%</tspan></text>
   </g>
 </svg>
