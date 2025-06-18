@@ -10,12 +10,14 @@
 
 <div class="container">
 	<div class="left">
-		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-top"  />
+		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-top" />
 		<div>
 			<h1>{title}</h1>
 			<h2>{subtitle}</h2>
 		</div>
-		<img src={edditLogo} alt="EDDIT Logo" class="logo-bottom" />
+		<a href="https://www.equitabledev.org/" target="_blank" class="logo-link">
+			<img src={edditLogo} alt="EDDIT Logo" class="logo-bottom" />
+		</a>
 	</div>
 	<div class="right">
 		<img src={image} alt="Image" />
@@ -27,13 +29,13 @@
 		display: flex;
 		height: 100vh;
 		width: 100%;
-		border-bottom: solid 1px var(--brandWhite);
+		border-bottom: solid 1px var(--brandGray);
 	}
 
 	.left {
 		flex: 1;
 		background-color: var(--brandDarkBlue);
-		border-right: solid 1px var(--brandWhite);
+		border-right: solid 1px var(--brandGray);
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -53,6 +55,21 @@
 		height: auto;
 		position: absolute;
 		bottom: 12px;
+	}
+	
+	.logo-link {
+		position: absolute;
+		bottom: 12px;
+		left: 50%;
+		transform: translateX(-50%);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: fit-content;
+	}
+
+	.logo-link:hover {
+		opacity: 0.8;
 	}
 
 	.right {
