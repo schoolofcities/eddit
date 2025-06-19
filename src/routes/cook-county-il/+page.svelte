@@ -28,8 +28,7 @@
 
 	<div class="text">
 
-		<h1>Lorem ipsum title</h1>
-
+		<br><br>
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 		</p>
@@ -42,6 +41,11 @@
 	<SingleGraphicLazy
 		svg720={"./cook-county-il/web-svg/chicago-contextmap-720.svg"}
 		svg360={"./cook-county-il/web-svg/chicago-contextmap-360.svg"}
+	/>
+
+	<SingleGraphicLazy
+		svg720={"./cook-county-il/web-svg/cook-county-contextmap-720.svg"}
+		svg360={"./cook-county-il/web-svg/cook-county-contextmap-360.svg"}
 	/>
 
 	<div class="text">

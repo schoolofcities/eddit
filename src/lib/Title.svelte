@@ -11,7 +11,7 @@
 <div class="container">
 	<div class="left">
 		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-top" />
-		<div>
+		<div class="title-text-container">
 			<h1>{title}</h1>
 			<h2>{subtitle}</h2>
 		</div>
@@ -86,6 +86,11 @@
 		object-fit: cover;
 	}
 
+	.title-text-container {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+
 	h1 {
 		font-family: TradeGothicBold;
 		font-size: 60px;
@@ -97,15 +102,18 @@
 		border-bottom: solid 2px var(--brandYellow);
 		padding: 0px;
 		padding-bottom: 5px;
+		/* margin-left: 15px; */
+		/* margin-right: 15px; */
 	}
 
 	h2 {
 		text-align: center;
-		font-family: OpenSans;
+		font-family: OpenSansItalic;
 		font-weight: normal;
 		font-size: 22px;
-		margin-top: 10px;
+		margin-top: 5px;
 		color: var(--brandWhite);
+		max-width: 450px;
 	}
 
 	/* Media Query for Tall Screens (Portrait Mode) */
@@ -136,7 +144,7 @@
 		}
 
 		h2 {
-			font-size: 20px; 
+			font-size: 16px; 
 		}
 		.logo-top {
 			width: 225px;

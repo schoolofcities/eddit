@@ -17,6 +17,8 @@
 			<br>
 				<a href="./albuquerque-nm">Albuquerque, NM</a> |
 				<a href="./bridgeport-ct">Bridgeport, CT</a> | 
+				<a href="./champaign-il">Champaign, IL</a> |
+				<a href="./cook-county-il">Cook County, IL</a> |
 				<a href="./greensboro-nc">Greensboro, NC</a> |
 				<a href="./high-point-nc">High Point, NC</a> |
 				<a href="./wood-buffalo-ab">Wood Buffalo, AB</a> | 
