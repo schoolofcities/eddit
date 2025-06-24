@@ -15,6 +15,18 @@
 	import titleImage from "./assets/bridgeport-title.jpg"
 	import redliningMap from "./assets/map-redlining.jpg";
 
+	import Footnote from '$lib/Footnote.svelte';
+    import Footnotes from '$lib/Footnotes.svelte';
+    import { createFootnoteStore } from '$lib/footnoteUtils';
+
+	const footnoteStore = createFootnoteStore();
+    const { footnotes, addFootnote } = footnoteStore;
+
+	const fns = [
+		'Hello I am a footnote',
+		'Hello I am a second footnote'
+	];
+
 </script>
 
 
@@ -33,10 +45,10 @@
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.<Footnote id={addFootnote(fns[0])} />
 		</p>
 		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.<Footnote id={addFootnote(fns[1])} />
 		</p>
 
 	</div>
@@ -305,6 +317,12 @@
 		</p>
 
 	</div>
+
+	<div class="text">
+
+        <Footnotes footnotes={footnotes} />
+		
+    </div>
 
 
 </main>

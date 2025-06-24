@@ -3,7 +3,7 @@
 </script>
 
 <div class="footnotes">
-    <h3>Footnotes</h3>
+    <h2>References</h2>
     {#each footnotes as footnote (footnote.id)}
         <div id={`footnote-${footnote.id}`} class="footnote-item">
             <sup>{footnote.id}</sup>
@@ -29,7 +29,7 @@
         margin-bottom: 0.5em;
         line-height: 1.4;
         position: relative;
-        padding-left: 1.5em;
+        padding-left: 1em;
     }
 
     .footnote-item sup {
@@ -38,8 +38,13 @@
     }
 
     .backlink {
-        margin-left: 0.5em;
+        margin-left: 0.3em;
         text-decoration: none;
-        color: #007FA3;
+        color: var(--brandMedGreen);
+        font-size: 20px;
+    }
+
+    a:hover {
+        color: var(--brandLightBlue);
     }
 </style>

@@ -15,21 +15,25 @@
 
 		<p>
 			<br>
-				<a href="./albuquerque-nm">Albuquerque, NM</a> |
-				<a href="./bridgeport-ct">Bridgeport, CT</a> | 
-				<a href="./champaign-il">Champaign, IL</a> |
-				<a href="./cook-county-il">Cook County, IL</a> |
-				<a href="./greensboro-nc">Greensboro, NC</a> |
-				<a href="./high-point-nc">High Point, NC</a> |
-				<a href="./wood-buffalo-ab">Wood Buffalo, AB</a> | 
-				<a href="./worcester-ma">Worcester, MA</a> 
+				<a href="./albuquerque-nm">Albuquerque, NM</a>
+				<a href="./bridgeport-ct">Bridgeport, CT</a>
+				<a href="./champaign-il">Champaign, IL</a>
+				<a href="./cook-county-il">Cook County, IL</a>
+				<a href="./high-point-nc">Eau Claire, WI</a>
+				<a href="./greensboro-nc">Greensboro, NC</a>
+				<a href="./high-point-nc">Halifax, NS</a>
+				<a href="./high-point-nc">High Point, NC</a>
+				<a href="./wood-buffalo-ab">Wood Buffalo, AB</a>
+				<a href="./worcester-ma">Worcester, MA</a>
 			<br>
 		</p>
 
 
 		<p style="max-width: 720px; margin: 0 auto;">
 			<br>
-			Credits: Hello World, Names List 
+			Credits:
+			<br>
+			A list of everyone involved in this project
 			<br><br>
 		</p>
 
@@ -52,7 +56,7 @@
 }
 
 .footer-content {
-	max-width: 720px;
+	max-width: 700px;
 	margin: 0 auto;
 }
 
@@ -63,10 +67,16 @@ p {
 	line-height: 20px;
 	padding-left: 20px;
 	padding-right: 20px;
+	text-align: center;
 }
 
 a {
 	color: white;
+	padding-right: 5px;
+	padding-left: 5px;
+	white-space: nowrap;
+	text-decoration: underline;
+	/* border-bottom: solid 1px white; */
 }
 
 a:hover {
