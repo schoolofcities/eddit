@@ -20,7 +20,7 @@
 		</a>
 	</div>
 	<div class="right">
-		<img src={image} alt="Image" />
+		<img src={image} alt="Photo of {subtitle}" />
 	</div>
 </div>
 
@@ -30,6 +30,7 @@
 		height: 100vh;
 		width: 100%;
 		border-bottom: solid 1px var(--brandGray);
+		margin-bottom: 50px;
 	}
 
 	.left {
@@ -39,7 +40,7 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		text-align: center;
+		text-align: left;
 		position: relative;
 	}
 
@@ -93,7 +94,9 @@
 
 	h1 {
 		font-family: TradeGothicBold;
-		font-size: 60px;
+		font-size: 54px;
+		line-height: 60px;
+		max-width: 700px;
 		color: var(--brandWhite);
 		text-decoration: none;
 		font-weight: normal;
@@ -101,19 +104,19 @@
 		margin-bottom: 0px;
 		border-bottom: solid 2px var(--brandYellow);
 		padding: 0px;
-		padding-bottom: 5px;
+		padding-bottom: 10px;
 		/* margin-left: 15px; */
 		/* margin-right: 15px; */
 	}
 
 	h2 {
-		text-align: center;
+		text-align: left;
 		font-family: OpenSansItalic;
 		font-weight: normal;
-		font-size: 22px;
-		margin-top: 5px;
+		font-size: 24px;
+		margin-top: 8px;
 		color: var(--brandWhite);
-		max-width: 450px;
+		max-width: 600px;
 	}
 
 	/* Media Query for Tall Screens (Portrait Mode) */
@@ -138,9 +141,20 @@
 		}
 	}
 
+	@media (max-width: 1930px) {
+		h1 {
+			font-size: 48px;
+			line-height: 54px;
+		}
+		h2 {
+			font-size: 22px; 
+		}
+	}
+
 	@media (max-width: 800px) {
 		h1 {
-			font-size: 40px; 
+			font-size: 36px; 
+			line-height: 42px;
 		}
 
 		h2 {
@@ -164,7 +178,4 @@
 	}
 
 
-	
-
-	
 </style>

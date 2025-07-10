@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="content" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #999795;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 20px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #999795;
+        font-family: OpenSans, 'Open Sans';
+        font-size: 12px;
+      }
+
+      .cls-3 {
+        fill: #00a189;
+        font-size: 48px;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-4" transform="translate(20.19 101.05)"><tspan x="0" y="0">Data Source: US Bureau of Labor Statistics (2022)</tspan><tspan x="0" y="14.4">*Chicagoland includes Cook County and surrounding counties in Illinois, Indiana, and Wisconsin</tspan></text>
+    <line class="cls-1" x1="20.6" y1="88.58" x2="700.19" y2="88.58"/>
+  </g>
+  <text class="cls-2" transform="translate(178.2 34.36)"><tspan x="0" y="0">people are employed as landscape and</tspan><tspan x="0" y="24">groundskeeping workers in the Chicagoland area*</tspan></text>
+  <text class="cls-3" transform="translate(18.71 60)"><tspan x="0" y="0">28,030</tspan></text>
+</svg>
