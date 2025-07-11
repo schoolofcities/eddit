@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="content" viewBox="0 0 360 140">
+  <g id="background">
+    <image x="0.0" y="0.0" width="360.0" height="140.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAEYCAYAAAB1BMHYAAAABmJLR0QA/wD/AP+gvaeTAAADZklEQVR4nO3WwQ3CMBAAwbPIPw9MEzQWRTTkeuiBOlwBJh0kyocTYqaCfW4EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8u5IdcKS1di+f9zO7AwCA71jWR81u2DNlBxy5jDGNEtfsDgAAiPiBgZ5rffXeb9kdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnbYlzDQ0XwYyJAAAAAElFTkSuQmCC"/>
+  </g>
+  <g id="foreground">
+    <g>
+      <text class="cls-4" transform="translate(20 100)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="cls-4" transform="translate(20 100)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(20 100)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: US Bureau of Labor Statistics (2022)</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(20 100)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">*Chicagoland includes Cook County and surrounding</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(20 100)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="28.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="28.8" style="font-weight: normal; font-style: normal;">counties in Illinois, Indiana, and Wisconsin</tspan>
+        </tspan>
+      </text>
+    </g>
+    <text class="cls-2" transform="translate(162.93 31.16)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <text class="cls-2" transform="translate(162.93 31.16)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;"/>
+    </text>
+    <text class="cls-2" transform="translate(162.93 31.16)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">people work in landscape</tspan>
+      </tspan>
+    </text>
+    <text class="cls-2" transform="translate(162.93 31.16)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">and groundskeeping in</tspan>
+      </tspan>
+    </text>
+    <text class="cls-2" transform="translate(162.93 31.16)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="33.6" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="33.6" style="font-weight: normal; font-style: normal;">the Chicagoland area*</tspan>
+      </tspan>
+    </text>
+    <text class="cls-1" transform="translate(18.71 60.63)" style="fill: #00a189; font-size: 44px; font-family: OpenSansBold; font-style: normal;">
+      <text class="cls-1" transform="translate(18.71 60.63)" style="fill: #00a189; font-size: 44px; font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text class="cls-1" transform="translate(18.71 60.63)" style="fill: #00a189; font-size: 44px; font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">28,030</tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>
