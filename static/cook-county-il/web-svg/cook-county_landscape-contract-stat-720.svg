@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="content" viewBox="0 0 720 130">
+  <g id="background">
+    <image x="0.0" y="0.0" width="720.0" height="130.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <g>
+      <text class="cls-4" transform="translate(20.19 101.05)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="cls-4" transform="translate(20.19 101.05)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(20.19 101.05)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: US Bureau of Labor Statistics (2022)</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(20.19 101.05)" style="fill: #999795; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">*Chicagoland includes Cook County and surrounding counties in Illinois, Indiana, and Wisconsin</tspan>
+        </tspan>
+      </text>
+    </g>
+    <text class="cls-2" transform="translate(178.2 34.36)" style="font-size: 20px; font-family: OpenSansBold; font-style: normal;">
+      <text class="cls-2" transform="translate(178.2 34.36)" style="font-size: 20px; font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text class="cls-2" transform="translate(178.2 34.36)" style="font-size: 20px; font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">people are employed as landscape and</tspan>
+      </tspan>
+    </text>
+    <text class="cls-2" transform="translate(178.2 34.36)" style="font-size: 20px; font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">groundskeeping workers in the Chicagoland area*</tspan>
+      </tspan>
+    </text>
+    <text class="cls-3" transform="translate(18.71 60)" style="font-family: OpenSansBold; fill: #00a189; font-size: 48px; font-style: normal;">
+      <text class="cls-3" transform="translate(18.71 60)" style="font-family: OpenSansBold; fill: #00a189; font-size: 48px; font-style: normal;"/>
+    </text>
+    <text class="cls-3" transform="translate(18.71 60)" style="font-family: OpenSansBold; fill: #00a189; font-size: 48px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">28,030</tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>

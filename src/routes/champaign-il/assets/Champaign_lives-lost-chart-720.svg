@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560.5">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #999795;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-3, .cls-7 {
+        fill: #ab2069;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-5 {
+        fill: #6fc7e9;
+      }
+
+      .cls-8 {
+        fill: #999795;
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-6, .cls-9 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-11 {
+        fill: #87ceeb;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-9 {
+        font-size: 16px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <text class="cls-6" transform="translate(491.62 103.09)"><tspan x="0" y="0">Average US life expectancy</tspan><tspan x="99.8" y="16.8">(78.4 years)</tspan></text>
+    <text class="cls-9" transform="translate(21.18 90.5)"><tspan x="0" y="0">Each horizontal bar represents a homicide victim</tspan><tspan x="0" y="19.2">in Champaign from 2020 to 2024</tspan></text>
+    <text class="cls-4" transform="translate(20 27.14)"><tspan x="0" y="0">1,996 years of life lost to gun violence in Champaign from </tspan><tspan x="0" y="24">January 2020 to September 2024</tspan></text>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <g>
+      <text class="cls-8" transform="translate(20 520.5)"><tspan x="0" y="0">Data Source: Champaign Police Department (2024), Center for Disease Control and Prevention (2023)</tspan><tspan x="0" y="14.4">*Exact victim ages were randomly generated within age categories provided (17 &amp; under, 18-24, 25-39, 40 &amp; over).</tspan><tspan x="0" y="28.8" xml:space="preserve">Full life expectancy for all victims was set as US average of 78.4 years according to the CDC.  </tspan></text>
+      <line class="cls-1" x1="20.41" y1="508.04" x2="700" y2="508.04"/>
+    </g>
+  </g>
+  <g id="Isolation_Mode" data-name="Isolation Mode">
+    <text class="cls-6" transform="translate(329.89 484.36)"><tspan x="0" y="0">Age in years</tspan></text>
+    <text class="cls-6" transform="translate(36.37 465.5)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-6" transform="translate(115.12 465.5)"><tspan x="0" y="0">10</tspan></text>
+    <text class="cls-6" transform="translate(197.87 465.5)"><tspan x="0" y="0">20</tspan></text>
+    <text class="cls-6" transform="translate(280.62 465.5)"><tspan x="0" y="0">30</tspan></text>
+    <text class="cls-6" transform="translate(363.37 465.5)"><tspan x="0" y="0">40</tspan></text>
+    <text class="cls-6" transform="translate(446.12 465.5)"><tspan x="0" y="0">50</tspan></text>
+    <text class="cls-6" transform="translate(528.87 465.5)"><tspan x="0" y="0">60</tspan></text>
+    <text class="cls-6" transform="translate(611.62 465.5)"><tspan x="0" y="0">70</tspan></text>
+    <g>
+      <g id="patch_4" data-name="patch 4">
+        <path class="cls-11" d="M40.72,441.65h49.65v-6.42h-49.65v6.42Z"/>
+      </g>
+      <g id="patch_5" data-name="patch 5">
+        <path class="cls-11" d="M40.72,433.63h107.57v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_6" data-name="patch 6">
+        <path class="cls-11" d="M40.72,425.61h115.85v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_7" data-name="patch 7">
+        <path class="cls-11" d="M40.72,417.59h140.67v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_8" data-name="patch 8">
+        <path class="cls-11" d="M40.72,409.57h148.95v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_9" data-name="patch 9">
+        <path class="cls-11" d="M40.72,401.55h148.95v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_10" data-name="patch 10">
+        <path class="cls-11" d="M40.72,393.53h148.95v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_11" data-name="patch 11">
+        <path class="cls-11" d="M40.72,385.51h165.5v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_12" data-name="patch 12">
+        <path class="cls-11" d="M40.72,377.49h182.05v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_13" data-name="patch 13">
+        <path class="cls-11" d="M40.72,369.47h190.32v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_14" data-name="patch 14">
+        <path class="cls-11" d="M40.72,361.45h190.32v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_15" data-name="patch 15">
+        <path class="cls-11" d="M40.72,353.44h190.32v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_16" data-name="patch 16">
+        <path class="cls-11" d="M40.72,345.42h190.32v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_17" data-name="patch 17">
+        <path class="cls-11" d="M40.72,337.4h190.32v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_18" data-name="patch 18">
+        <path class="cls-11" d="M40.72,329.38h190.32v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_19" data-name="patch 19">
+        <path class="cls-11" d="M40.72,321.36h198.6v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_20" data-name="patch 20">
+        <path class="cls-11" d="M40.72,313.34h198.6v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_21" data-name="patch 21">
+        <path class="cls-11" d="M40.72,305.32h206.87v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_22" data-name="patch 22">
+        <path class="cls-11" d="M40.72,297.3h215.15v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_23" data-name="patch 23">
+        <path class="cls-11" d="M40.72,289.28h215.15v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_24" data-name="patch 24">
+        <path class="cls-11" d="M40.72,281.26h231.7v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_25" data-name="patch 25">
+        <path class="cls-11" d="M40.72,273.24h239.97v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_26" data-name="patch 26">
+        <path class="cls-11" d="M40.72,265.22h248.25v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_27" data-name="patch 27">
+        <path class="cls-11" d="M40.72,257.2h256.52v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_28" data-name="patch 28">
+        <path class="cls-11" d="M40.72,249.18h256.52v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_29" data-name="patch 29">
+        <path class="cls-11" d="M40.72,241.17h273.07v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_30" data-name="patch 30">
+        <path class="cls-11" d="M40.72,233.15h289.62v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_31" data-name="patch 31">
+        <path class="cls-11" d="M40.72,225.13h289.62v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_32" data-name="patch 32">
+        <path class="cls-11" d="M40.72,217.11h297.9v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_33" data-name="patch 33">
+        <path class="cls-11" d="M40.72,209.09h306.17v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_34" data-name="patch 34">
+        <path class="cls-11" d="M40.72,201.07h314.45v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_35" data-name="patch 35">
+        <path class="cls-11" d="M40.72,193.05h314.45v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_36" data-name="patch 36">
+        <path class="cls-11" d="M40.72,185.03h322.72v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_37" data-name="patch 37">
+        <path class="cls-11" d="M40.72,177.01h322.72v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_38" data-name="patch 38">
+        <path class="cls-11" d="M40.72,168.99h322.72v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_39" data-name="patch 39">
+        <path class="cls-11" d="M40.72,160.97h397.2v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_40" data-name="patch 40">
+        <path class="cls-11" d="M40.72,152.95h405.47v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_41" data-name="patch 41">
+        <path class="cls-11" d="M40.72,144.93h422.02v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_42" data-name="patch 42">
+        <path class="cls-11" d="M40.72,136.92h537.87v-6.42H40.72v6.42Z"/>
+      </g>
+    </g>
+    <g>
+      <g id="patch_43" data-name="patch 43">
+        <path class="cls-7" d="M40.72,449.67h640.48v-6.42H40.72v6.42Z"/>
+      </g>
+      <g id="patch_44" data-name="patch 44">
+        <path class="cls-7" d="M90.37,441.65h590.83v-6.42H90.37v6.42Z"/>
+      </g>
+      <g id="patch_45" data-name="patch 45">
+        <path class="cls-7" d="M148.29,433.63h532.91v-6.42H148.29v6.42Z"/>
+      </g>
+      <g id="patch_46" data-name="patch 46">
+        <path class="cls-7" d="M156.57,425.61h524.63v-6.42H156.57v6.42Z"/>
+      </g>
+      <g id="patch_47" data-name="patch 47">
+        <path class="cls-7" d="M181.39,417.59h499.81v-6.42H181.39v6.42Z"/>
+      </g>
+      <g id="patch_48" data-name="patch 48">
+        <path class="cls-7" d="M189.67,409.57h491.53v-6.42H189.67v6.42Z"/>
+      </g>
+      <g id="patch_49" data-name="patch 49">
+        <path class="cls-7" d="M189.67,401.55h491.53v-6.42H189.67v6.42Z"/>
+      </g>
+      <g id="patch_50" data-name="patch 50">
+        <path class="cls-7" d="M189.67,393.53h491.53v-6.42H189.67v6.42Z"/>
+      </g>
+      <g id="patch_51" data-name="patch 51">
+        <path class="cls-7" d="M206.22,385.51h474.98v-6.42H206.22v6.42Z"/>
+      </g>
+      <g id="patch_52" data-name="patch 52">
+        <path class="cls-7" d="M222.77,377.49h458.43v-6.42H222.77v6.42Z"/>
+      </g>
+      <g id="patch_53" data-name="patch 53">
+        <path class="cls-7" d="M231.04,369.47h450.16v-6.42H231.04v6.42Z"/>
+      </g>
+      <g id="patch_54" data-name="patch 54">
+        <path class="cls-7" d="M231.04,361.45h450.16v-6.42H231.04v6.42Z"/>
+      </g>
+      <g id="patch_55" data-name="patch 55">
+        <path class="cls-7" d="M231.04,353.44h450.16v-6.42H231.04v6.42Z"/>
+      </g>
+      <g id="patch_56" data-name="patch 56">
+        <path class="cls-7" d="M231.04,345.42h450.16v-6.42H231.04v6.42Z"/>
+      </g>
+      <g id="patch_57" data-name="patch 57">
+        <path class="cls-7" d="M231.04,337.4h450.16v-6.42H231.04v6.42Z"/>
+      </g>
+      <g id="patch_58" data-name="patch 58">
+        <path class="cls-7" d="M231.04,329.38h450.16v-6.42H231.04v6.42Z"/>
+      </g>
+      <g id="patch_59" data-name="patch 59">
+        <path class="cls-7" d="M239.32,321.36h441.88v-6.42H239.32v6.42Z"/>
+      </g>
+      <g id="patch_60" data-name="patch 60">
+        <path class="cls-7" d="M239.32,313.34h441.88v-6.42H239.32v6.42Z"/>
+      </g>
+      <g id="patch_61" data-name="patch 61">
+        <path class="cls-7" d="M247.59,305.32h433.61v-6.42H247.59v6.42Z"/>
+      </g>
+      <g id="patch_62" data-name="patch 62">
+        <path class="cls-7" d="M255.87,297.3h425.33v-6.42H255.87v6.42Z"/>
+      </g>
+      <g id="patch_63" data-name="patch 63">
+        <path class="cls-7" d="M255.87,289.28h425.33v-6.42H255.87v6.42Z"/>
+      </g>
+      <g id="patch_64" data-name="patch 64">
+        <path class="cls-7" d="M272.42,281.26h408.78v-6.42h-408.78v6.42Z"/>
+      </g>
+      <g id="patch_65" data-name="patch 65">
+        <path class="cls-7" d="M280.69,273.24h400.51v-6.42h-400.51v6.42Z"/>
+      </g>
+      <g id="patch_66" data-name="patch 66">
+        <path class="cls-7" d="M288.97,265.22h392.23v-6.42h-392.23v6.42Z"/>
+      </g>
+      <g id="patch_67" data-name="patch 67">
+        <path class="cls-7" d="M297.24,257.2h383.96v-6.42h-383.96v6.42Z"/>
+      </g>
+      <g id="patch_68" data-name="patch 68">
+        <path class="cls-7" d="M297.24,249.18h383.96v-6.42h-383.96v6.42Z"/>
+      </g>
+      <g id="patch_69" data-name="patch 69">
+        <path class="cls-7" d="M313.79,241.17h367.41v-6.42h-367.41v6.42Z"/>
+      </g>
+      <g id="patch_70" data-name="patch 70">
+        <path class="cls-7" d="M330.34,233.15h350.86v-6.42h-350.86v6.42Z"/>
+      </g>
+      <g id="patch_71" data-name="patch 71">
+        <path class="cls-7" d="M330.34,225.13h350.86v-6.42h-350.86v6.42Z"/>
+      </g>
+      <g id="patch_72" data-name="patch 72">
+        <path class="cls-7" d="M338.62,217.11h342.58v-6.42h-342.58v6.42Z"/>
+      </g>
+      <g id="patch_73" data-name="patch 73">
+        <path class="cls-7" d="M346.89,209.09h334.31v-6.42h-334.31v6.42Z"/>
+      </g>
+      <g id="patch_74" data-name="patch 74">
+        <path class="cls-7" d="M355.17,201.07h326.03v-6.42h-326.03v6.42Z"/>
+      </g>
+      <g id="patch_75" data-name="patch 75">
+        <path class="cls-7" d="M355.17,193.05h326.03v-6.42h-326.03v6.42Z"/>
+      </g>
+      <g id="patch_76" data-name="patch 76">
+        <path class="cls-7" d="M363.44,185.03h317.76v-6.42h-317.76v6.42Z"/>
+      </g>
+      <g id="patch_77" data-name="patch 77">
+        <path class="cls-7" d="M363.44,177.01h317.76v-6.42h-317.76v6.42Z"/>
+      </g>
+      <g id="patch_78" data-name="patch 78">
+        <path class="cls-7" d="M363.44,168.99h317.76v-6.42h-317.76v6.42Z"/>
+      </g>
+      <g id="patch_79" data-name="patch 79">
+        <path class="cls-7" d="M437.92,160.97h243.28v-6.42h-243.28v6.42Z"/>
+      </g>
+      <g id="patch_80" data-name="patch 80">
+        <path class="cls-7" d="M446.19,152.95h235.01v-6.42h-235.01v6.42Z"/>
+      </g>
+      <g id="patch_81" data-name="patch 81">
+        <path class="cls-7" d="M462.74,144.93h218.46v-6.42h-218.46v6.42Z"/>
+      </g>
+      <g id="patch_82" data-name="patch 82">
+        <path class="cls-7" d="M578.59,136.92h102.61v-6.42h-102.61v6.42Z"/>
+      </g>
+    </g>
+    <g>
+      <rect class="cls-10" x="587.92" y="420.01" width="83.28" height="19.67"/>
+      <text class="cls-3" transform="translate(595.36 434.93)"><tspan x="0" y="0">Years lost</tspan></text>
+    </g>
+    <g>
+      <rect class="cls-10" x="50.72" y="140.26" width="88.4" height="19.67"/>
+      <text class="cls-5" transform="translate(56.89 155.81)"><tspan x="0" y="0">Years lived</tspan></text>
+    </g>
+    <g>
+      <path class="cls-2" d="M669.65,114.56s8.76,1.13,10.54,9.2"/>
+      <path d="M680.5,126.77c-.69-1.35-1.8-2.99-2.87-3.96l2.46.57,2.26-1.14c-.81,1.2-1.5,3.05-1.85,4.53Z"/>
+    </g>
+  </g>
+</svg>

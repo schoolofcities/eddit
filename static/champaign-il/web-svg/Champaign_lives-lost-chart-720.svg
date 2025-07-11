@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560.5">
+  <g id="background">
+    <image x="0.0" y="0.0" width="720.0" height="560.5" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <g id="Layer_1" data-name="Layer 1">
+      <text class="cls-6" transform="translate(491.62 103.09)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(491.62 103.09)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(491.62 103.09)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Average US life expectancy</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(491.62 103.09)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="99.8" y="16.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="99.8" y="16.8" style="font-weight: normal; font-style: normal;">(78.4 years)</tspan>
+        </tspan>
+      </text>
+      <text class="cls-9" transform="translate(21.18 90.5)" style="font-family: OpenSans; font-size: 16px; font-weight: normal; font-style: normal;">
+        <text class="cls-9" transform="translate(21.18 90.5)" style="font-family: OpenSans; font-size: 16px; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-9" transform="translate(21.18 90.5)" style="font-family: OpenSans; font-size: 16px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Each horizontal bar represents a homicide victim</tspan>
+        </tspan>
+      </text>
+      <text class="cls-9" transform="translate(21.18 90.5)" style="font-family: OpenSans; font-size: 16px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="19.2" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="19.2" style="font-weight: normal; font-style: normal;">in Champaign from 2020 to 2024</tspan>
+        </tspan>
+      </text>
+      <text class="cls-4" transform="translate(20 27.14)" style="font-family: OpenSansBold; font-size: 20px; font-style: normal;">
+        <text class="cls-4" transform="translate(20 27.14)" style="font-family: OpenSansBold; font-size: 20px; font-style: normal;"/>
+      </text>
+      <text class="cls-4" transform="translate(20 27.14)" style="font-family: OpenSansBold; font-size: 20px; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1,996 years of life lost to gun violence in Champaign from </tspan>
+        </tspan>
+      </text>
+      <text class="cls-4" transform="translate(20 27.14)" style="font-family: OpenSansBold; font-size: 20px; font-style: normal;">
+        <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">January 2020 to September 2024</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g id="Layer_4" data-name="Layer 4">
+      <g>
+        <text class="cls-8" transform="translate(20 520.5)" style="fill: #999795; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+          <text class="cls-8" transform="translate(20 520.5)" style="fill: #999795; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        </text>
+      </g>
+      <g>
+        <text class="cls-8" transform="translate(20 520.5)" style="fill: #999795; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: Champaign Police Department (2024), Center for Disease Control and Prevention (2023)</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <text class="cls-8" transform="translate(20 520.5)" style="fill: #999795; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">*Exact victim ages were randomly generated within age categories provided (17 &amp; under, 18-24, 25-39, 40 &amp; over).</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <text class="cls-8" transform="translate(20 520.5)" style="fill: #999795; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="28.8" xml:space="preserve" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="28.8" xml:space="preserve" style="font-weight: normal; font-style: normal;">Full life expectancy for all victims was set as US average of 78.4 years according to the CDC.  </tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Isolation_Mode" data-name="Isolation Mode">
+      <text class="cls-6" transform="translate(329.89 484.36)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(329.89 484.36)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(329.89 484.36)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Age in years</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(36.37 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(36.37 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(36.37 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(115.12 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(115.12 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(115.12 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">10</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(197.87 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(197.87 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(197.87 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">20</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(280.62 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(280.62 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(280.62 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">30</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(363.37 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(363.37 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(363.37 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">40</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(446.12 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(446.12 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(446.12 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">50</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(528.87 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(528.87 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(528.87 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">60</tspan>
+        </tspan>
+      </text>
+      <text class="cls-6" transform="translate(611.62 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(611.62 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+      </text>
+      <text class="cls-6" transform="translate(611.62 465.5)" style="font-size: 14px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">70</tspan>
+        </tspan>
+      </text>
+      <g>
+        <text class="cls-3" transform="translate(595.36 434.93)" style="font-family: OpenSansBold; font-size: 14px; fill: #ab2069; font-style: normal;">
+          <text class="cls-3" transform="translate(595.36 434.93)" style="font-family: OpenSansBold; font-size: 14px; fill: #ab2069; font-style: normal;"/>
+        </text>
+      </g>
+      <g>
+        <text class="cls-3" transform="translate(595.36 434.93)" style="font-family: OpenSansBold; font-size: 14px; fill: #ab2069; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Years lost</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <text class="cls-5" transform="translate(56.89 155.81)" style="font-family: OpenSansBold; font-size: 14px; fill: #6fc7e9; font-style: normal;">
+          <text class="cls-5" transform="translate(56.89 155.81)" style="font-family: OpenSansBold; font-size: 14px; fill: #6fc7e9; font-style: normal;"/>
+        </text>
+      </g>
+      <g>
+        <text class="cls-5" transform="translate(56.89 155.81)" style="font-family: OpenSansBold; font-size: 14px; fill: #6fc7e9; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Years lived</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
