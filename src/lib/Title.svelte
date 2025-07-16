@@ -88,8 +88,8 @@
 	}
 
 	.title-text-container {
-		margin-left: 15px;
-		margin-right: 15px;
+		margin-left: 35px;
+		margin-right: 35px;
 	}
 
 	h1 {

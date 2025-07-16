@@ -36,7 +36,7 @@
 
 <Title 
 	title={"Increasing tree cover for equity and climate resilience"}
-	subtitle={"in Bridgeport, CT"} 
+	subtitle={"Bridgeport, CT"} 
 	image={titleImage} 
 />
 
