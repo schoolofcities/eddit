@@ -71,6 +71,22 @@
 	</div>
 
 	<SingleGraphicLazy
+		svg720={"./cook-county-il/web-svg/cook-county_GLT-policy-chart-720.svg"}
+		svg360={"./cook-county-il/web-svg/cook-county_GLT-policy-chart-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
+	<SingleGraphicLazy
 		svg720={"./cook-county-il/web-svg/cook-county_landscape-contract-stat-720.svg"}
 		svg360={"./cook-county-il/web-svg/cook-county_landscape-contract-stat-360.svg"}
 	/>
@@ -146,6 +162,23 @@
 		</p>
 
 	</div>
+
+	<SingleGraphicLazy
+		svg720={"./cook-county-il/web-svg/cook-county_commuters-arches-720.svg"}
+		svg360={"./cook-county-il/web-svg/cook-county_commuters-arches-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+		<p>
+			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+		</p>
+
+	</div>
+
 
 </main>
 
