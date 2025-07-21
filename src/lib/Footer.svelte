@@ -63,6 +63,7 @@
 p {
 	color: white;
 	font-family: OpenSans;
+	font-weight: normal;
 	font-size: 15px;
 	line-height: 20px;
 	padding-left: 20px;
@@ -72,6 +73,8 @@ p {
 
 a {
 	color: white;
+	font-family: OpenSans;
+	font-weight: normal;
 	padding-right: 5px;
 	padding-left: 5px;
 	white-space: nowrap;

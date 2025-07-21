@@ -1,26 +1,36 @@
 <script>
 	import "../assets/global-styles.css"
-	import uniLogos from "../assets/university-logos.svg"
-	import edditLogo from "../assets/eddit-logo.svg"
-
+	import logoLight from '../assets/sofc-uoft-logo-blue-colour.svg';
+	import logoDark from '../assets/sofc-uoft-logo-white-colour.svg';
 	export let title = '';
 	export let subtitle = '';
 	export let image = '';
+	export let imageAltText = '';
+	export let titleFontColour = 'var(--brandDarkBlue)';
+	export let titleBorderColour = 'var(--brandDarkBlue)';
+	export let subtitleFontColour = 'var(--brandDarkBlue)';
+	export let backgroundColour = 'var(--brandWhite)';
+	export let logoStyle = 'Light'; // 'Light' or 'Dark' or 'None'
 </script>
 
 <div class="container">
-	<div class="left">
-		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-top" />
+	<div class="left" style="background-color: {backgroundColour};">
+		{#if logoStyle === 'Light'}
+			<a href="https://schoolofcities.utoronto.ca/" target="_blank" class="logo-link">
+				<img src={logoLight} alt="UofT and School of Cities logos" class="logo-top" />
+			</a>
+		{:else if logoStyle === 'Dark'}
+			<a href="https://schoolofcities.utoronto.ca/" target="_blank" class="logo-link">
+				<img src={logoDark} alt="UofT and School of Cities logos" class="logo-top" />
+			</a>
+		{/if}
 		<div class="title-text-container">
-			<h1>{title}</h1>
-			<h2>{subtitle}</h2>
+			<h1 style="color: {titleFontColour}; border-bottom: solid 2px {titleBorderColour}">{title}</h1>
+			<h2 style="color: {subtitleFontColour};">{subtitle}</h2>
 		</div>
-		<a href="https://www.equitabledev.org/" target="_blank" class="logo-link">
-			<img src={edditLogo} alt="EDDIT Logo" class="logo-bottom" />
-		</a>
 	</div>
 	<div class="right">
-		<img src={image} alt="Photo of {subtitle}" />
+		<img src={image} alt="{imageAltText}" />
 	</div>
 </div>
 
@@ -30,37 +40,32 @@
 		height: 100vh;
 		width: 100%;
 		border-bottom: solid 1px var(--brandGray);
-		margin-bottom: 50px;
+		margin-bottom: 70px;
+		z-index: 20;
 	}
 
 	.left {
 		flex: 1;
-		background-color: var(--brandDarkBlue);
+		/* background-color: var(--brandWhite); */
 		border-right: solid 1px var(--brandGray);
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		text-align: left;
 		position: relative;
+		z-index: inherit;
 	}
 
 	.logo-top {
-		width: 275px;
+		width: 300px;
 		height: auto;
 		position: absolute;
 		top: 8px;
 	}
-
-	.logo-bottom {
-		width: 200px;
-		height: auto;
-		position: absolute;
-		bottom: 12px;
-	}
 	
 	.logo-link {
 		position: absolute;
-		bottom: 12px;
+		top: 0px;
 		left: 50%;
 		transform: translateX(-50%);
 		display: flex;
@@ -79,6 +84,7 @@
 		justify-content: center;
 		align-items: center;
 		object-fit: cover;
+		z-index: inherit;
 	}
 
 	.right img {
@@ -88,14 +94,14 @@
 	}
 
 	.title-text-container {
+		max-width: 680px;
 		margin-left: 35px;
 		margin-right: 35px;
 	}
 
-	h1 {
+	.title-text-container h1 {
 		text-align: left;
 		font-family: TradeGothicBold;
-		color: var(--brandWhite);
 		font-size: 54px;
 		line-height: 62px;
 		max-width: 720px;
@@ -105,13 +111,11 @@
 		margin-bottom: 0px;
 		padding: 0px;
 		padding-bottom: 10px;
-		border-bottom: solid 2px var(--brandYellow);
 	}
 
-	h2 {
+	.title-text-container h2 {
 		text-align: left;
 		font-family: SourceSerifItalic;
-		color: var(--brandWhite);
 		font-weight: normal;
 		font-size: 24px;
 		margin-top: 8px;
@@ -141,39 +145,41 @@
 	}
 
 	@media (max-width: 1930px) {
-		h1 {
+		.title-text-container h1 {
 			font-size: 48px;
 			line-height: 54px;
 		}
-		h2 {
+		.title-text-container h2 {
 			font-size: 22px; 
 		}
 	}
 
 	@media (max-width: 800px) {
-		h1 {
-			font-size: 36px; 
-			line-height: 42px;
+		.title-text-container h1 {
+			font-size: 40px; 
+			line-height: 46px;
 		}
 
-		h2 {
-			font-size: 16px; 
+		.title-text-container h2 {
+			font-size: 18px; 
 		}
 		.logo-top {
 			width: 225px;
-		}
-		.logo-bottom {
-			width: 150px;
 		}
 	}
 
 	@media (max-width: 600px) {
 		.logo-top {
-			width: 200px;
+			width: 175px;
 		}
-		.logo-bottom {
-			width: 125px;
+		/* .title-text-container h1 {
+			font-size: 32px; 
+			line-height: 38px;
 		}
+
+		.title-text-container h2 {
+			font-size: 4px; 
+		} */
 	}
 
 

@@ -23,11 +23,12 @@
 	.footnote-ref {
 		vertical-align: super;
 		font-size: 0.8em;
-		font-family: OpenSansBold;
+		font-family: SourceSerifBold;
+		font-weight: normal;
 		margin-left: 0;
 		margin-right: 0.1em; /* slight breathing room after */
 		text-decoration: none;
-		color: var(--brandMedGreen);
+		color: var(--brandPink);
 		white-space: nowrap;
 	}
 	.footnote-ref:hover {
