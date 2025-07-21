@@ -176,8 +176,8 @@ main {
 	text-align: left;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	font-size: 19.5px;
-	line-height: 32px;
+	font-size: 18px;
+	line-height: 30px;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-rendering: optimizeLegibility;
@@ -306,7 +306,7 @@ a:hover {
 	text-align: left;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 28px;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -314,6 +314,10 @@ a:hover {
 }
 
 @media screen and (max-width: 600px) {
+	.callout {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
 	.callout p {
 		font-size: 15px;
 		line-height: 23px;

@@ -30,13 +30,10 @@
 
 
 
-
-
-
 <Title 
 	title={"Increasing tree cover for equity and climate resilience"}
-	subtitle={"A case study of Bridgeport, CT"} 
-	image={titleImage} 
+	subtitle={"A case study of Bridgeport, Connecticut"} 
+	image={titleImage}
 />
 
 <main>
@@ -57,11 +54,21 @@
 	<div class="text">
 
 		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.<Footnote id={addFootnote(fns[1])} />
+			In Bridgeport, Connecticut, community organizations are working with the municipal government to plant more trees, and nurture them to ensure they reach maturity. Bridgeport, a port city on the rail line between New York City and Boston, was once a hub of Connecticut’s manufacturing industry. However, like many former industrial cities, its economy declined in the late twentieth century. The city’s East Side in particular suffered the effects of suburbanization and 1960s urban renewal policies, which demolished many Black and immigrant communities to make way for highway projects and new development that never materialized. One legacy of this era is significantly lower tree cover and less access to green spaces on the East Side, where the population is more diverse, and less wealthy, than the city as a whole. 
 		</p>
 
+	
+	</div>
+
+	<GraphicSingle
+		svg360={"./bridgeport-ct/web-svg/map-ndvi-tree-360.svg"}
+		svg720={"./bridgeport-ct/web-svg/map-ndvi-tree-720.svg"}
+	/>
+
+	<div class="text">
+
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+			Many of the benefits of trees — such as shade, cooling, and pollutant mitigation — are highly localized. To achieve the benefits from tree cover, trees need to be planted not at the scale of cities but of neighbourhoods, blocks, and even homes. 
 		</p>
 
 		<div class="callout">
@@ -78,22 +85,12 @@
 
 		</div>
 
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
-		</p>
+		
 
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 		</p>
 
-	</div>
-
-	<GraphicSingle
-		svg360={"./bridgeport-ct/web-svg/map-ndvi-tree-360.svg"}
-		svg720={"./bridgeport-ct/web-svg/map-ndvi-tree-720.svg"}
-	/>
-
-	<div class="text">
 		
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
