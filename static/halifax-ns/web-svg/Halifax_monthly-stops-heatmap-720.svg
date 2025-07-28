@@ -1,0 +1,1632 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 720 410">
+  <g id="background">
+    <image x="0.0" y="0.0" width="720.0" height="410.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <text class="cls-70" transform="translate(604.06 178.32)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-70" transform="translate(604.06 178.32)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-70" transform="translate(604.06 178.32)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2 million</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(542.61 157.05)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(542.61 157.05)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(542.61 157.05)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Estimated visits</tspan>
+      </tspan>
+    </text>
+    <text class="cls-70" transform="translate(604.06 301.46)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-70" transform="translate(604.06 301.46)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-70" transform="translate(604.06 301.46)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.5 million</tspan>
+      </tspan>
+    </text>
+    <text class="cls-70" transform="translate(604.06 336.91)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-70" transform="translate(604.06 336.91)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-70" transform="translate(604.06 336.91)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">No data</tspan>
+      </tspan>
+    </text>
+    <text class="cls-70" transform="translate(604.06 260.41)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-70" transform="translate(604.06 260.41)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-70" transform="translate(604.06 260.41)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1 million</tspan>
+      </tspan>
+    </text>
+    <text class="cls-70" transform="translate(604.06 219.36)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-70" transform="translate(604.06 219.36)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-70" transform="translate(604.06 219.36)" style="font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.5 million</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(180.73 173.47)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(180.73 173.47)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(180.73 173.47)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">January</tspan>
+      </tspan>
+    </text>
+    <text class="cls-71" transform="translate(213.21 131.51) rotate(-90)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <text class="cls-71" transform="translate(213.21 131.51) rotate(-90)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-71" transform="translate(213.21 131.51) rotate(-90)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Total visits</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(171.48 190.12)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(171.48 190.12)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(171.48 190.12)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">February</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(188.6 206.76)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(188.6 206.76)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(188.6 206.76)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">March</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(199.76 223.4)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(199.76 223.4)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(199.76 223.4)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">April</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(202.52 240.04)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(202.52 240.04)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(202.52 240.04)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">May</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(201.22 256.69)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(201.22 256.69)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(201.22 256.69)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">June</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(207.07 273.33)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(207.07 273.33)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(207.07 273.33)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">July</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(184.66 289.97)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(184.66 289.97)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(184.66 289.97)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">August</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(157.92 306.75)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(157.92 306.75)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(157.92 306.75)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">September</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(176.88 323.26)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(176.88 323.26)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(176.88 323.26)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">October</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(160.95 339.9)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(160.95 339.9)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(160.95 339.9)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">November</tspan>
+      </tspan>
+    </text>
+    <text class="cls-68" transform="translate(154.4 356.54)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <text class="cls-68" transform="translate(154.4 356.54)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-68" transform="translate(154.4 356.54)" style="font-family: OpenSans; font-size: 14px; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Decemeber</tspan>
+      </tspan>
+    </text>
+    <text class="cls-73" transform="translate(20 27.14)" style="font-size: 20px; font-family: OpenSansBold; font-style: normal;">
+      <text class="cls-73" transform="translate(20 27.14)" style="font-size: 20px; font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text class="cls-73" transform="translate(20 27.14)" style="font-size: 20px; font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Monthly visits to Downtown Halifax</tspan>
+      </tspan>
+    </text>
+    <text class="cls-74" transform="translate(323.19 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <text class="cls-74" transform="translate(323.19 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;"/>
+    </text>
+    <text class="cls-74" transform="translate(323.19 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2021</tspan>
+      </tspan>
+    </text>
+    <text class="cls-74" transform="translate(364.79 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <text class="cls-74" transform="translate(364.79 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;"/>
+    </text>
+    <text class="cls-74" transform="translate(364.79 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2022</tspan>
+      </tspan>
+    </text>
+    <text class="cls-74" transform="translate(406.4 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <text class="cls-74" transform="translate(406.4 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;"/>
+    </text>
+    <text class="cls-74" transform="translate(406.4 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2023</tspan>
+      </tspan>
+    </text>
+    <text class="cls-74" transform="translate(448.01 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <text class="cls-74" transform="translate(448.01 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;"/>
+    </text>
+    <text class="cls-74" transform="translate(448.01 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2024</tspan>
+      </tspan>
+    </text>
+    <text class="cls-74" transform="translate(281.58 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <text class="cls-74" transform="translate(281.58 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;"/>
+    </text>
+    <text class="cls-74" transform="translate(281.58 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2020</tspan>
+      </tspan>
+    </text>
+    <text class="cls-74" transform="translate(239.98 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <text class="cls-74" transform="translate(239.98 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;"/>
+    </text>
+    <text class="cls-74" transform="translate(239.98 156.72)" style="font-family: OpenSansBold; font-size: 14px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2019</tspan>
+      </tspan>
+    </text>
+    <text class="cls-71" transform="translate(505 56.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <text class="cls-71" transform="translate(505 56.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-71" transform="translate(505 56.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">20 million</tspan>
+      </tspan>
+    </text>
+    <text class="cls-71" transform="translate(505 101.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <text class="cls-71" transform="translate(505 101.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-71" transform="translate(505 101.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">10 million</tspan>
+      </tspan>
+    </text>
+    <text class="cls-71" transform="translate(505 146.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <text class="cls-71" transform="translate(505 146.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-71" transform="translate(505 146.44)" style="font-family: OpenSans; font-size: 14px; fill: #d1d3d4; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0</tspan>
+      </tspan>
+    </text>
+    <g>
+      <text class="cls-67" transform="translate(10 400)" style="font-family: OpenSans; font-size: 12px; fill: #999795; font-weight: normal; font-style: normal;">
+        <text class="cls-67" transform="translate(10 400)" style="font-family: OpenSans; font-size: 12px; fill: #999795; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text class="cls-67" transform="translate(10 400)" style="font-family: OpenSans; font-size: 12px; fill: #999795; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: Cuebiq (2019, 2020, 2021, 2022, 2023, 2024) </tspan>
+        </tspan>
+      </text>
+    </g>
+    <text class="cls-72" transform="translate(477.61 77.62)" style="font-size: 10px; fill: #742879; font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; opacity: .4; font-weight: normal;">
+      <text class="cls-72" transform="translate(477.61 77.62)" style="font-size: 10px; fill: #742879; font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; opacity: .4; font-weight: normal;"/>
+    </text>
+    <text class="cls-72" transform="translate(477.61 77.62)" style="font-size: 10px; fill: #742879; font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; opacity: .4; font-weight: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">estimated</tspan>
+      </tspan>
+    </text>
+    <g>
+      <text class="cls-66" transform="translate(247.53 174.74)" style="font-family: OpenSans; fill: #fff; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="cls-66" transform="translate(247.53 174.74)" style="font-family: OpenSans; fill: #fff; font-size: 12px; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text class="cls-66" transform="translate(247.53 174.74)" style="font-family: OpenSans; fill: #fff; font-size: 12px; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.0</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(457.51 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(457.51 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(457.51 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 289.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.5</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 289.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 289.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 289.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 289.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 289.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 289.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.6</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 306.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.3</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 306.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 306.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 306.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 306.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 306.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 306.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.5</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 322.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.3</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 322.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 322.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 322.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 322.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 322.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 322.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.4</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.2</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 339.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.1</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 339.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 339.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 339.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 339.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 339.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 339.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.2</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 355.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 355.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 355.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 355.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 355.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 355.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 355.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.6</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(373.75 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(373.75 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(373.75 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(415.36 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(415.36 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(415.36 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(456.97 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(456.97 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(456.97 173.47)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 173.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 173.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 173.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(290.54 173.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(290.54 173.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(290.54 173.47)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.1</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(415.36 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(415.36 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(415.36 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(456.97 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(456.97 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(456.97 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(248.94 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(248.94 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(248.94 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(373.75 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(373.75 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(373.75 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 190.04)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.6</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(290.54 190.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(290.54 190.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(290.54 190.04)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.1</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(456.97 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.1</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 206.61)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 206.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 206.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 206.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 206.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 206.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 206.61)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 223.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 223.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 223.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.5</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.2</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(456.97 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.4</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.2</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 223.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 223.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 223.18)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 223.18)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.5</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.4</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(456.97 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.6</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.3</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 239.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 239.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 239.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 239.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 239.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 239.75)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 239.75)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.5</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(456.97 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(456.97 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.4</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 256.32)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 256.32)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 256.32)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 256.32)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 256.32)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 256.32)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.7</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 256.32)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(457.51 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(457.51 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(457.51 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2.0</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(415.36 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(415.36 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(373.75 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(373.75 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.5</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 272.89)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(332.15 272.89)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(332.15 272.89)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.8</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 272.89)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-69" transform="translate(290.54 272.89)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-69" transform="translate(290.54 272.89)" style="font-family: OpenSans; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.6</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <text class="cls-65" transform="translate(248.94 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <g>
+          <text class="cls-65" transform="translate(248.94 272.89)" style="font-family: OpenSans; fill: #fff; font-size: 10px; font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1.9</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

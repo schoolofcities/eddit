@@ -4,6 +4,7 @@
 
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
+	import Password from "$lib/Password.svelte";
 	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
 	import SmallMultiplesLazy from "$lib/SmallMultiplesLazy.svelte";
 	import SingleImage from "$lib/SingleImage.svelte";
@@ -13,7 +14,7 @@
 </script>
 
 
-
+<Password/>
 
 <Title
 	title={"Albuquerque, NM"}

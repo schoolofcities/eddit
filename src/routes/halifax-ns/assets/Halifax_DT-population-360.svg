@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #999795;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-8, .cls-10 {
+        font-size: 14px;
+      }
+
+      .cls-7, .cls-11 {
+        fill: #00a28a;
+      }
+
+      .cls-8, .cls-12 {
+        fill: #ab2069;
+      }
+
+      .cls-12 {
+        opacity: .1;
+      }
+
+      .cls-9 {
+        font-size: 20px;
+      }
+
+      .cls-13 {
+        fill: #999795;
+        font-size: 12px;
+      }
+
+      .cls-13, .cls-10 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-14 {
+        fill: #d6ede8;
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-3 {
+        stroke: #00a28a;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 5px;
+      }
+
+      .cls-11 {
+        opacity: .2;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #ab2069;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        stroke: #d1d3d4;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <polygon class="cls-11" points="120.02 194.45 140.06 192.99 160.1 179.3 180.14 174.19 200.18 166.01 220.21 158.56 240.25 112.79 240.25 320.48 79.95 320.26 79.95 188.39 99.99 192.59 120.02 194.45"/>
+    <polygon class="cls-12" points="120.02 259.1 140.06 290.67 160.1 286.47 180.14 283.23 200.18 233.21 220.21 227.52 240.25 198.71 240.25 320.48 79.95 320.48 79.95 254.79 99.99 255.22 120.02 259.1"/>
+    <g>
+      <text class="cls-10" transform="translate(36.65 324.47)"><tspan x="0" y="0">0</tspan></text>
+      <text class="cls-10" transform="translate(29.45 271.58)"><tspan x="0" y="0">5k</tspan></text>
+      <text class="cls-10" transform="translate(21.44 218.69)"><tspan x="0" y="0">10k</tspan></text>
+      <text class="cls-10" transform="translate(21.44 165.8)"><tspan x="0" y="0">15k</tspan></text>
+      <text class="cls-10" transform="translate(21.44 112.91)"><tspan x="0" y="0">20k</tspan></text>
+    </g>
+    <text class="cls-9" transform="translate(20 27.14)"><tspan x="0" y="0">Population of Downtown</tspan><tspan x="0" y="24">Halifax from 1981 to 2021</tspan></text>
+    <text class="cls-8" transform="translate(252.78 202.12)"><tspan x="0" y="0">59%</tspan></text>
+    <text class="cls-8" transform="translate(44.65 247.04)"><tspan x="0" y="0">50%</tspan></text>
+    <text class="cls-8" transform="translate(245.5 290.5)"><tspan x="0" y="0">20-34 year old</tspan><tspan x="0" y="16.8">population</tspan></text>
+    <text class="cls-7" transform="translate(246.59 122.62)"><tspan x="0" y="0">Total</tspan><tspan x="0" y="16.8">population</tspan></text>
+    <g>
+      <text class="cls-13" transform="translate(10 375.5)"><tspan x="0" y="0">Data Source: Statistics Canada (1981, 1986, 1991, 1996, </tspan><tspan x="0" y="14.4">2001, 2006, 2011, 2016, 2021)</tspan></text>
+      <line class="cls-1" x1="10.41" y1="363.04" x2="330.5" y2="363.04"/>
+    </g>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <line class="cls-2" x1="240.25" y1="323.79" x2="240.25" y2="317.18"/>
+      <line class="cls-2" x1="220.21" y1="323.79" x2="220.21" y2="317.18"/>
+      <line class="cls-2" x1="200.18" y1="323.79" x2="200.18" y2="317.18"/>
+      <line class="cls-2" x1="180.14" y1="323.79" x2="180.14" y2="317.18"/>
+      <line class="cls-2" x1="160.1" y1="323.79" x2="160.1" y2="317.18"/>
+      <line class="cls-2" x1="140.06" y1="323.79" x2="140.06" y2="317.18"/>
+      <line class="cls-2" x1="120.02" y1="323.79" x2="120.02" y2="317.18"/>
+      <line class="cls-2" x1="99.99" y1="323.79" x2="99.99" y2="317.18"/>
+      <line class="cls-2" x1="79.95" y1="323.79" x2="79.95" y2="317.18"/>
+    </g>
+    <g>
+      <line class="cls-6" x1="46.81" y1="265.72" x2="337.9" y2="265.72"/>
+      <line class="cls-6" x1="46.81" y1="212.56" x2="337.9" y2="212.56"/>
+      <line class="cls-6" x1="46.81" y1="159.41" x2="337.9" y2="159.41"/>
+      <line class="cls-6" x1="46.81" y1="106.25" x2="337.9" y2="106.25"/>
+    </g>
+    <line class="cls-2" x1="49.41" y1="320.49" x2="335.83" y2="320.49"/>
+    <g>
+      <line class="cls-3" x1="79.95" y1="320.49" x2="79.95" y2="188.39"/>
+      <line class="cls-4" x1="79.95" y1="320.49" x2="79.95" y2="254.14"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="99.99" y1="320.49" x2="99.99" y2="192.59"/>
+      <line class="cls-4" x1="99.99" y1="320.49" x2="99.99" y2="254.85"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="120.02" y1="320.49" x2="120.02" y2="194.45"/>
+      <line class="cls-4" x1="120.02" y1="320.49" x2="120.02" y2="258.45"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="140.06" y1="320.48" x2="140.06" y2="192.99"/>
+      <line class="cls-4" x1="140.06" y1="320.48" x2="140.06" y2="290.76"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="160.1" y1="320.49" x2="160.1" y2="179.3"/>
+      <line class="cls-4" x1="160.1" y1="320.49" x2="160.1" y2="286.55"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="180.14" y1="320.49" x2="180.14" y2="174.2"/>
+      <line class="cls-4" x1="180.14" y1="320.49" x2="180.14" y2="283.3"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="200.18" y1="320.49" x2="200.18" y2="166.01"/>
+      <line class="cls-4" x1="200.18" y1="320.49" x2="200.18" y2="232.98"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="220.21" y1="320.49" x2="220.21" y2="158.56"/>
+      <line class="cls-4" x1="220.21" y1="320.49" x2="220.21" y2="227.28"/>
+    </g>
+    <g>
+      <line class="cls-3" x1="240.25" y1="320.48" x2="240.25" y2="112.79"/>
+      <line class="cls-4" x1="240.25" y1="320.48" x2="240.25" y2="198.46"/>
+    </g>
+    <text class="cls-10" transform="translate(63.94 345)"><tspan x="0" y="0">1981</tspan></text>
+    <text class="cls-10" transform="translate(104.01 345)"><tspan x="0" y="0">1991</tspan></text>
+    <text class="cls-10" transform="translate(144.11 345)"><tspan x="0" y="0">2001</tspan></text>
+    <text class="cls-10" transform="translate(184.12 345)"><tspan x="0" y="0">2011</tspan></text>
+    <text class="cls-10" transform="translate(224.2 345)"><tspan x="0" y="0">2021</tspan></text>
+    <circle class="cls-5" cx="240.25" cy="197.22" r="6.47"/>
+    <circle class="cls-5" cx="140.06" cy="290.03" r="6.47"/>
+    <circle class="cls-5" cx="79.95" cy="254.14" r="6.47"/>
+    <rect class="cls-14" x="152.34" y="268.02" width="15.52" height="13.59"/>
+    <text class="cls-8" transform="translate(145.79 279.88)"><tspan x="0" y="0">24%</tspan></text>
+  </g>
+</svg>

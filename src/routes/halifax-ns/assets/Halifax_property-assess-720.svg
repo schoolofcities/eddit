@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_3" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #999795;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        font-size: 20px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #ab2069;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 40px;
+      }
+
+      .cls-5 {
+        fill: #999795;
+        font-family: OpenSans, 'Open Sans';
+        font-size: 12px;
+      }
+
+      .cls-4 {
+        fill: #00a28a;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-5" transform="translate(10 150)"><tspan x="0" y="0">Data Source: Downtown Halifax Business Commission (2025)</tspan></text>
+    <line class="cls-1" x1="10.41" y1="137.54" x2="700" y2="137.54"/>
+  </g>
+  <text class="cls-3" transform="translate(20 99.3)"><tspan x="0" y="0">0.02%</tspan></text>
+  <text class="cls-2" transform="translate(146.07 80.7)"><tspan x="0" y="0">of the Halifax Regional</tspan><tspan x="0" y="24">Municipality’s land, but</tspan></text>
+  <g>
+    <text class="cls-4" transform="translate(409.1 99.3)"><tspan x="0" y="0">13%</tspan></text>
+    <text class="cls-2" transform="translate(500.9 80.7)"><tspan x="0" y="0">of its assessed</tspan><tspan x="0" y="24">property value</tspan></text>
+  </g>
+  <text class="cls-2" transform="translate(20 40)"><tspan x="0" y="0">Downtown Halifax is</tspan></text>
+</svg>

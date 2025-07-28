@@ -6,6 +6,7 @@
 
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
+	import Password from "$lib/Password.svelte";
 
 	import GraphicSingle from "$lib/GraphicSingle.svelte";
 	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
@@ -29,6 +30,8 @@
 
 
 
+<Password/>
+
 <Title 
 	title={'“Canada’s Favourite Downtown”: Encouraging investments in the core'}
 	subtitle={"A case study of Halifax, Nova Scotia"} 
@@ -40,8 +43,7 @@
 	<div class="text">
 
 		<p>
-			As climate change causes summer temperatures to rise, many cities are looking to trees to provide health benefits and counteract the effects of urban heat events. Yet often the tree canopy is uneven, a legacy of inequitable development patterns and zoning. To ensure that the health and climate benefits of trees can be enjoyed by all residents, cities must be intentional in how they plan, plant, and care for their urban forests.
-			<Footnote id={addFootnote(fns[0])} />
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</p>
 
 	</div>
@@ -54,7 +56,84 @@
 	<div class="text">
 
 		<p>
-			In Bridgeport, Connecticut, community organizations are working with the municipal government to plant more trees and nurture them to ensure they reach maturity. Bridgeport, a port city on the rail line between New York City and Boston, was once a hub of Connecticut’s manufacturing industry. However, like many former industrial cities, its economy declined in the late twentieth century. The city’s East Side in particular suffered the effects of suburbanization and 1960s urban renewal policies, which demolished many Black and immigrant neighbourhoods to make way for highway projects and new development, some of which never materialized. One legacy of this era is significantly lower tree cover and less access to green spaces on the East Side, where the population is more diverse, and less wealthy, than the city as a whole.
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+	
+	</div>
+
+	<GraphicMultiples
+		svgPaths={["./halifax-ns/web-svg/Halifax_HRM-population-360.svg","./halifax-ns/web-svg/Halifax_DT-population-360.svg" ]}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+	
+	</div>
+
+	<GraphicSingle
+		svg360={"./halifax-ns/web-svg/Halifax_downtown-map-360.svg"}
+		svg720={"./halifax-ns/web-svg/Halifax_downtown-map-720.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+	
+	</div>
+
+	<GraphicSingle
+		svg360={"./halifax-ns/web-svg/Halifax_property-assess-360.svg"}
+		svg720={"./halifax-ns/web-svg/Halifax_property-assess-720.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+	
+	</div>
+
+	<GraphicSingle
+		svg360={"./halifax-ns/web-svg/halifax_canada-recovery-360.svg"}
+		svg720={"./halifax-ns/web-svg/halifax_canada-recovery-720.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+	
+	</div>
+
+	<GraphicSingle
+		svg360={"./halifax-ns/web-svg/Halifax_monthly-stops-heatmap-360.svg"}
+		svg720={"./halifax-ns/web-svg/Halifax_monthly-stops-heatmap-720.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+	
+	</div>
+
+	<GraphicSingle
+		svg360={"./halifax-ns/web-svg/Halifax_visits-downtown-360.svg"}
+		svg720={"./halifax-ns/web-svg/Halifax_visits-downtown-720.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 		</p>
 	
 	</div>

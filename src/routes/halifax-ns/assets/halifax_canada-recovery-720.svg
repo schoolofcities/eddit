@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        font-size: 16px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #999795;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #0e534d;
+        opacity: .25;
+      }
+
+      .cls-5 {
+        fill: #999795;
+        font-size: 12px;
+      }
+
+      .cls-5, .cls-2 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-6 {
+        fill: #00a28a;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" x="230.42" y="60" width="364" height="20"/>
+  <rect class="cls-4" x="230.42" y="89.36" width="348" height="20"/>
+  <rect class="cls-4" x="230.42" y="118.71" width="340" height="20"/>
+  <rect class="cls-4" x="230.42" y="148.07" width="340" height="20"/>
+  <rect class="cls-6" x="230.42" y="177.43" width="340" height="20"/>
+  <rect class="cls-4" x="230.42" y="206.78" width="328" height="20"/>
+  <rect class="cls-4" x="230.42" y="236.14" width="320" height="20"/>
+  <rect class="cls-4" x="230.42" y="265.5" width="316" height="20"/>
+  <rect class="cls-4" x="230.42" y="294.85" width="304" height="20"/>
+  <rect class="cls-4" x="230.42" y="324.21" width="280" height="20"/>
+  <rect class="cls-4" x="230.42" y="353.57" width="268" height="20"/>
+  <text class="cls-2" transform="translate(91.25 76.38)"><tspan x="0" y="0">Mississauga, ON</tspan></text>
+  <text class="cls-1" transform="translate(20 21.99)"><tspan x="0" y="0">Recovery ratings of Canadian cities based on 2019 and 2023 activity levels </tspan></text>
+  <text class="cls-2" transform="translate(605.23 76.38)"><tspan x="0" y="0">91%</tspan></text>
+  <text class="cls-2" transform="translate(588.94 105.7)"><tspan x="0" y="0">87%</tspan></text>
+  <text class="cls-2" transform="translate(581.12 135.02)"><tspan x="0" y="0">85%</tspan></text>
+  <text class="cls-2" transform="translate(580.62 164.34)"><tspan x="0" y="0">85%</tspan></text>
+  <text class="cls-1" transform="translate(579.38 193.66)"><tspan x="0" y="0">85%</tspan></text>
+  <text class="cls-2" transform="translate(568.8 223.36)"><tspan x="0" y="0">82%</tspan></text>
+  <text class="cls-2" transform="translate(560.81 252.68)"><tspan x="0" y="0">80%</tspan></text>
+  <text class="cls-2" transform="translate(556.88 282)"><tspan x="0" y="0">79%</tspan></text>
+  <text class="cls-2" transform="translate(545.01 311.32)"><tspan x="0" y="0">76%</tspan></text>
+  <text class="cls-2" transform="translate(520.99 340.63)"><tspan x="0" y="0">70%</tspan></text>
+  <text class="cls-2" transform="translate(508.76 369.95)"><tspan x="0" y="0">67%</tspan></text>
+  <text class="cls-2" transform="translate(125.01 105.7)"><tspan x="0" y="0">Quebec, QC</tspan></text>
+  <text class="cls-2" transform="translate(105.89 135.02)"><tspan x="0" y="0">Vancouver, BC</tspan></text>
+  <text class="cls-2" transform="translate(129.43 164.34)"><tspan x="0" y="0">Calgary, AB</tspan></text>
+  <text class="cls-1" transform="translate(125.98 193.66)"><tspan x="0" y="0">Halifax, NS</tspan></text>
+  <text class="cls-2" transform="translate(126.7 223.36)"><tspan x="0" y="0">Ottawa, ON</tspan></text>
+  <text class="cls-2" transform="translate(106.53 252.68)"><tspan x="0" y="0">Edmonton, AB</tspan></text>
+  <text class="cls-2" transform="translate(123.62 282)"><tspan x="0" y="0">London, ON</tspan></text>
+  <text class="cls-2" transform="translate(110.32 311.32)"><tspan x="0" y="0">Winnipeg, MB</tspan></text>
+  <text class="cls-2" transform="translate(120.85 340.63)"><tspan x="0" y="0">Toronto, ON</tspan></text>
+  <text class="cls-2" transform="translate(114.64 369.95)"><tspan x="0" y="0">Montreal, QC</tspan></text>
+  <g>
+    <text class="cls-5" transform="translate(10 410)"><tspan x="0" y="0">Data Source: Spectus (2019, 2023) </tspan></text>
+    <line class="cls-3" x1="10.41" y1="397.54" x2="700" y2="397.54"/>
+  </g>
+</svg>
