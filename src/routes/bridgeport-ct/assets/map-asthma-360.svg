@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    sodipodi:docname="map-asthma-360.svg"
-   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,9 +23,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.4240741"
-     inkscape:cx="123.94018"
-     inkscape:cy="244.72042"
+     inkscape:zoom="1.0069725"
+     inkscape:cx="64.053391"
+     inkscape:cy="311.32927"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -55,7 +55,7 @@
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="5.18573"
-         y="9.123476">Asthma</tspan></text><text
+         y="9.123476">Asthma prevalence</tspan></text><text
        xml:space="preserve"
        style="font-size:3.70417px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.264583"
        x="5.18573"
@@ -64,7 +64,7 @@
          id="tspan1-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="5.18573"
-         y="15.738059">Asthma prevelance among adults (18 years and up)</tspan></text><text
+         y="15.738059">Asthma prevalence among adults (18 years and up)</tspan></text><text
        xml:space="preserve"
        style="font-size:3.175px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';fill:#9a9996;stroke-width:0.264583"
        x="5.1273355"
@@ -124,7 +124,7 @@
        x="44.771168"
        y="88.111427"
        id="text1-3-3-4-7"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="44.771168"
          y="88.111427"
          id="tspan3-4">Downtown</tspan></text><text
@@ -135,11 +135,11 @@
        id="text1-3-3-4-9"><tspan
          sodipodi:role="line"
          id="tspan1-6-2-5-7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="64.334824"
          y="71.357628">East</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="64.334824"
          y="75.802635"
          id="tspan3-3">Side</tspan></text></g></svg>

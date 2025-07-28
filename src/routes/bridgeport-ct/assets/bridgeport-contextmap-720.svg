@@ -6,7 +6,7 @@
    version="1.1"
    id="svg15"
    sodipodi:docname="bridgeport-contextmap-720.svg"
-   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,15 +23,31 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.75522935"
-     inkscape:cx="322.41861"
-     inkscape:cy="49.653791"
+     inkscape:zoom="1.5104587"
+     inkscape:cx="378.36188"
+     inkscape:cy="206.89079"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg15" />
+     inkscape:current-layer="LABELS"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="10"
+       spacingy="10"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
   <g
      id="water">
     <rect
@@ -176,16 +192,19 @@
        font-family="OpenSans-Bold, 'Open Sans'"
        font-size="12"
        font-weight="700"
-       id="text13"><tspan
+       id="text13"
+       style="fill:#00a18a;fill-opacity:1"><tspan
          x="0"
          y="0"
-         id="tspan13">CONNECTICUT</tspan></text>
+         id="tspan13"
+         style="fill:#00a18a;fill-opacity:1">CONNECTICUT</tspan></text>
     <text
        transform="translate(371.19 155.94)"
        fill="#0d534d"
        font-family="OpenSans, 'Open Sans'"
        font-size="12"
-       id="text14"><tspan
+       id="text14"
+       style="opacity:0.8"><tspan
          x="0"
          y="0"
          id="tspan14">Hartford</tspan></text>
@@ -196,18 +215,20 @@
        fill="#0d534d"
        id="circle14" />
     <text
-       transform="translate(244.17 294.78)"
        fill="#0d534d"
        font-family="OpenSans, 'Open Sans'"
-       font-size="12"
-       id="text15"><tspan
-         x="0"
-         y="0"
+       font-size="12px"
+       id="text15"
+       style="opacity:0.8"
+       x="249.31955"
+       y="287.34827"><tspan
+         x="249.31955"
+         y="287.34827"
          id="tspan15">New York City</tspan></text>
     <circle
-       cx="239.58"
-       cy="290.77"
-       r="2.33"
+       cx="244.84659"
+       cy="283.33282"
+       r="2.3299999"
        fill="#0d534d"
        id="circle15" />
     <text
@@ -216,7 +237,8 @@
        font-size="12px"
        id="text15-9"
        x="521.88507"
-       y="76.910133"><tspan
+       y="76.910133"
+       style="opacity:0.8"><tspan
          x="521.88507"
          y="76.910133"
          id="tspan15-2">Boston</tspan></text>
@@ -226,6 +248,15 @@
        r="2.3299999"
        fill="#0d534d"
        id="circle15-0" />
+    <text
+       class="cls-1"
+       id="text11"
+       x="555.15106"
+       y="256.91"
+       style="font-style:italic;font-size:12px;font-family:OpenSans-Italic, 'Open Sans';font-variation-settings:'wdth' 100, 'wght' 400;opacity:0.5;fill:#0d534d"><tspan
+         x="555.15106"
+         y="256.91"
+         id="tspan11-2">Atlantic Ocean</tspan></text>
   </g>
   <circle
      style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:65.6881;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -240,4 +271,35 @@
      height="360"
      x="0"
      y="0" />
+  <rect
+     class="cls-8"
+     x="423.08722"
+     y="310.5"
+     width="236.41278"
+     height="30"
+     id="rect15"
+     style="fill:#ffffff;stroke:#0d534d;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none"
+     rx="14.449997"
+     ry="14.449997" />
+  <text
+     class="cls-4"
+     id="text15-6"
+     x="491.9032"
+     y="329.62131"
+     style="font-size:12px;fill:#0d534d"><tspan
+       class="cls-11"
+       x="603.50317"
+       y="329.62131"
+       id="tspan15-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">148,654</tspan></text>
+  <text
+     class="cls-3"
+     id="text10-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0d534d"
+     x="435.27548"
+     y="330.04318"><tspan
+       x="435.27548"
+       y="330.04318"
+       id="tspan10-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Bridgeport Population (2020):</tspan></text>
 </svg>

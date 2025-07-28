@@ -7,7 +7,7 @@
    viewBox="0 0 95.249998 142.875"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
    sodipodi:docname="map-tree-360.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="228.24999"
-     inkscape:cy="257.74999"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="131.87541"
+     inkscape:cy="147.43176"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -73,7 +73,7 @@
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="5.18573"
-         y="9.123476">Tree Canopy</tspan></text><text
+         y="9.123476">Tree canopy</tspan></text><text
        xml:space="preserve"
        style="font-size:3.70417px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';stroke-width:0.264583"
        x="5.18573"
@@ -149,11 +149,11 @@
        id="text1-3-3-4"><tspan
          sodipodi:role="line"
          id="tspan1-6-2-5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="64.313118"
          y="71.435951">East</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="64.313118"
          y="75.880959"
          id="tspan3">Side</tspan></text><text
@@ -163,7 +163,7 @@
        y="88.111427"
        id="text1-3-3-4-7"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.70417px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';stroke-width:0.264583"
          x="44.77116"
          y="88.111427"
          id="tspan3-4">Downtown</tspan></text></g></svg>

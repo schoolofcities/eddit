@@ -31,6 +31,7 @@
 		margin: 0 auto;
 		padding-top: 10px;
 		padding-bottom: 0px;
+		margin-bottom: 30px;
 	}
 
 	img {

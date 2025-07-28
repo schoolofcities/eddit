@@ -21,7 +21,7 @@
 				<a href="./cook-county-il">Cook County, IL</a>
 				<a href="./high-point-nc">Eau Claire, WI</a>
 				<a href="./greensboro-nc">Greensboro, NC</a>
-				<a href="./high-point-nc">Halifax, NS</a>
+				<a href="./halifax-ns">Halifax, NS</a>
 				<a href="./high-point-nc">High Point, NC</a>
 				<a href="./wood-buffalo-ab">Wood Buffalo, AB</a>
 				<a href="./worcester-ma">Worcester, MA</a>

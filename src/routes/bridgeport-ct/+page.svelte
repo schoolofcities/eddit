@@ -1,10 +1,11 @@
 <script>
 
-	// 19, 18.33
-
 	import "../../assets/global-styles.css"
 
+	import Password from "$lib/Password.svelte";
+
 	import Title from '$lib/Title.svelte';
+	import AuthorDate from "$lib/AuthorDate.svelte";
 	import Footer from "$lib/Footer.svelte";
 
 	import GraphicSingle from "$lib/GraphicSingle.svelte";
@@ -22,26 +23,54 @@
     const { footnotes, addFootnote } = footnoteStore;
 
 	const fns = [
-		'Hello I am a footnote',
-		'Hello I am a second footnote'
+		'American Forests, “Nationwide Evaluation Of Tree Cover Shows Huge Opportunity To Reduce Heat Exposure And Boost Air Quality And Employment,” *PR Newswire* (blog), June 22, 2021, [URL](https://www.prnewswire.com/news-releases/nationwide-evaluation-of-tree-cover-shows-huge-opportunity-to-reduce-heat-exposure-and-boost-air-quality-and-employment-301317405.html).',
+		'Bill M. Jesdale, Rachel Morello-Frosch, and Lara Cushing, “The Racial/Ethnic Distribution of Heat Risk–Related Land Cover in Relation to Residential Segregation,” *Environmental Health Perspectives* 121, no. 7 (July 2013): 811–17, [URL](https://doi.org/10.1289/ehp.1205919).',
+		'Meen Chel Jung et al., “Legacies of Redlining Lead to Unequal Cooling Effects of Urban Tree Canopy,” *Landscape and Urban Planning* 246 (June 1, 2024): 105028, [URL](https://doi.org/10.1016/j.landurbplan.2024.105028).',
+		'Richard Rothstein, *The Color of Law: A Forgotten History of How Our Government Segregated America* (New York: Liveright Publishing Corporation, 2017).',
+		'The Nature Conservancy, “Planting Healthy Air: A Global Analysis of the Role of Urban Trees in Addressing Particulate Matter Pollution and Extreme Heat,” November 4, 2016, [URL](https://www.nature.org/content/dam/tnc/nature/en/documents/20160825_PHA_ExSummary_Final.pdf).',
+		'David J. Nowak, Daniel E. Crane, and Jack C. Stevens, “Air Pollution Removal by Urban Trees and Shrubs in the United States,” *Urban Forestry & Urban Greening* 4, no. 3 (April 3, 2006): 115–23, [URL](https://doi.org/10.1016/j.ufug.2006.01.007).',
+		'Min Jiao et al., “Optimizing the Shade Potential of Trees by Accounting for Landscape Context,” *Sustainable Cities and Society* 70 (July 1, 2021): 102905, [URL](https://doi.org/10.1016/j.scs.2021.102905).',
+		'American Forests, “Nationwide Evaluation Of Tree Cover Shows Huge Opportunity.”',
+		'Peter James et al., “A Review of the Health Benefits of Greenness,” *Current Epidemiology Reports* 2, no. 2 (June 1, 2015): 131–42, [URL](https://doi.org/10.1007/s40471-015-0043-7).',
+		'James et al., “A Review of the Health Benefits of Greenness.”',
+		'Mark McCord, “This Simple Addition to a City Can Dramatically Improve People’s Mental Health,” *World Economic Forum* (blog), April 6, 2021, [URL](https://www.weforum.org/agenda/2021/04/city-trees-reduce-stress-and-anxiety/).',
+		'Deborah A. Cohen, Sanae Inagami, and Brian Finch, “The Built Environment and Collective Efficacy,” *Health & Place* 14, no. 2 (June 1, 2008): 198–208, [URL](https://doi.org/10.1016/j.healthplace.2007.06.001).',
+		'Sandra Bogar and Kirsten M. Beyer, “Green Space, Violence, and Crime: A Systematic Review,” *Trauma, Violence & Abuse* 17, no. 2 (2016): 160–71, [URL](https://doi.org/10.1177/1524838015576412).',
+		'Kathryn Gilstad-Hayden et al., “Research Note: Greater Tree Canopy Cover Is Associated with Lower Rates of Both Violent and Property Crime in New Haven, CT,” *Landscape and Urban Planning* 143 (November 1, 2015): 248–53, [URL](https://doi.org/10.1016/j.landurbplan.2015.08.005).',
+		'Rachel Danford et al., “What Does It Take to Achieve Equitable Urban Tree Canopy Distribution? A Boston Case Study,” *Cities and the Environment (CATE)* 7, no. 1 (February 24, 2014), [URL](https://digitalcommons.lmu.edu/cate/vol7/iss1/2); Jesdale, Morello-Frosch, and Cushing, “The Racial/Ethnic Distribution of Heat Risk–Related Land Cover.”',
+		'Edith B. de Guzman, Francisco J. Escobedo, and Rachel O’Leary, “A Socio-Ecological Approach to Align Tree Stewardship Programs with Public Health Benefits in Marginalized Neighborhoods in Los Angeles, USA,” *Frontiers in Sustainable Cities* 4 (2022), [URL](https://doi.org/10.3389/frsc.2022.944182).',
+		'de Guzman, Escobedo, and O’Leary, “A Socio-Ecological Approach to Align Tree Stewardship Programs.”',
+		'Pedro H. S. Brancalion and Karen D. Holl, “Guidance for Successful Tree Planting Initiatives,” *Journal of Applied Ecology* 57, no. 12 (2020): 2349–61, [URL](https://doi.org/10.1111/1365-2664.13725).',
+		'The Arbor Day Foundation, “A Tree Can Be An Equalizer,” accessed June 24, 2025, [URL](https://www.arborday.org/stories/a-tree-can-be-an-equalizer.cfm).'
 	];
+
 
 </script>
 
 
 
+<Password/>
+
 <Title 
 	title={"Increasing tree cover for equity and climate resilience"}
 	subtitle={"A case study of Bridgeport, Connecticut"} 
 	image={titleImage}
+	imageCaption={"Park in Bridgeport."}
+	imageSource={"Photo by _________."}
 />
 
 <main>
 
 	<div class="text">
 
+		<AuthorDate
+			writing={"<a href='' target='_blank'>Author Name</a>"}
+			graphics={"<a href='' target='_blank'>Author Name</a> & <a href='' target='_blank'>Author Name</a>"}
+			date={"August 2025"}
+		/>
+
 		<p>
-			As climate change causes summer temperatures to rise, many cities are looking to trees as a way to provide health benefits and counteract the effects of urban heat events. Yet in many cities, the tree canopy is uneven, a legacy of inequitable development patterns and zoning. To ensure the health and climate benefits of trees can be enjoyed by all residents, cities must be intentional in how they plan, plant, and care for their urban forests.<Footnote id={addFootnote(fns[0])} />
+			As climate change causes summer temperatures to rise, many cities are looking to trees to provide health benefits and counteract the effects of urban heat events. Yet often the tree canopy is uneven, a legacy of inequitable development patterns and zoning. To ensure that the health and climate benefits of trees can be enjoyed by all residents, cities must be intentional in how they plan, plant, and care for their urban forests.
 		</p>
 
 	</div>
@@ -54,7 +83,7 @@
 	<div class="text">
 
 		<p>
-			In Bridgeport, Connecticut, community organizations are working with the municipal government to plant more trees, and nurture them to ensure they reach maturity. Bridgeport, a port city on the rail line between New York City and Boston, was once a hub of Connecticut’s manufacturing industry. However, like many former industrial cities, its economy declined in the late twentieth century. The city’s East Side in particular suffered the effects of suburbanization and 1960s urban renewal policies, which demolished many Black and immigrant communities to make way for highway projects and new development that never materialized. One legacy of this era is significantly lower tree cover and less access to green spaces on the East Side, where the population is more diverse, and less wealthy, than the city as a whole. 
+			In Bridgeport, Connecticut, community organizations are working with the municipal government to plant more trees and nurture them to ensure they reach maturity. Bridgeport, a port city on the rail line between New York City and Boston, was once a hub of Connecticut’s manufacturing industry. However, like many former industrial cities, its economy declined in the late twentieth century. The city’s East Side in particular suffered the effects of suburbanization and 1960s urban renewal policies, which demolished many Black and immigrant neighbourhoods to make way for highway projects and new development, some of which never materialized. One legacy of this era is significantly lower tree cover and less access to green spaces on the East Side, where the population is more diverse, and less wealthy, than the city as a whole.
 		</p>
 
 	
@@ -68,15 +97,17 @@
 	<div class="text">
 
 		<p>
-			Many of the benefits of trees — such as shade, cooling, and pollutant mitigation — are highly localized. To achieve the benefits from tree cover, trees need to be planted not at the scale of cities but of neighbourhoods, blocks, and even homes. 
+			Many of the benefits of trees — such as shade, cooling, and pollutant mitigation — are highly localized. To achieve the benefits from tree cover, trees need to be planted not at the scale of cities but of neighbourhoods, blocks, and even homes.  
 		</p>
 
 		<div class="callout">
 
-			<h2>Groundwork Bridgeport</h2>
+			<h2>
+				Groundwork Bridgeport
+			</h2>
 
 			<p>
-				<a href="">Groundwork Bridgeport</a> is a community-based organization founded in 1998 as one of the first of a national network of non-profits dedicated to reclaiming abandoned industrial sites and underused spaces to create the potential for recreation, beautification, and economic development. They aim to bring the benefits of tree cover to all, starting with the East Side. As a small, local organization, Groundwork Bridgeport came to EDDIT looking to build momentum around their work, communicateconvince people of the importance of trees and tree canopy cover, and mobilize partner organizations and the public to get involved through volunteering, financial support, or tree adoptionadopting a tree.
+				<a href="https://www.groundworkbridgeport.org" target="_blank">Groundwork Bridgeport</a> is a community-based organization founded in 1998 as one of the first of a national network of non-profits dedicated to reclaiming abandoned industrial sites and underused lots to create economic development opportunities and spaces for recreation and beautification. They aim to bring the benefits of tree cover to all, starting with the East Side. A small, local organization, Groundwork Bridgeport worked with the <a href="https://www.groundworkbridgeport.org" target="_blank">EDDIT data storytelling team</a> to build momentum around their work, communicate the importance of trees and tree canopy cover, and engage partner organizations and the public to get involved through volunteering, financial support, or tree adoption.
 			</p>
 
 			<p>
@@ -85,67 +116,37 @@
 
 		</div>
 
-		
+		<h2>
+			Historical neglect and tree equity
+		</h2>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Access to urban trees and green spaces is not equitably distributed. The non-profit organization American Forests <a href="https://www.groundworkbridgeport.org" target="_blank">developed</a> a <strong>tree equity</strong> score that identifies disparities in different populations’ access to trees. The score integrates environmental characteristics, including tree canopy, building density, and surface temperature, as well as socioeconomic and demographic variables such as income, employment, race, age, language, and health. The concept of tree equity has been widely adopted as a way to highlight differences in access to green spaces more broadly.
 		</p>
 
 		
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-		<h3>Sub-Heading</h3>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			A significant finding from this work is that neighbourhoods with a majority of people of colour have on average 33 percent less tree canopy than majority white neighbourhoods. Communities with high levels of people living in poverty have 41 percent less tree cover than wealthier areas.<Footnote id={addFootnote(fns[0])} /> Another nationwide analysis of land cover in densely populated areas found that neighbourhoods highly segregated by race had relatively less tree canopy, particularly among Hispanic and Asian communities. The same study found that neighbourhoods with a high percentage of renters had less tree cover than those with high levels of home ownership.<Footnote id={addFootnote(fns[1])} />
 		</p>
 
 	</div>
 
 	<ImageSingle
 		imageURL={redliningMap}
-		caption="Historical map of redlining in Bridgeport (1937)."
+		caption="Redlined map of Bridgeport (1937)."
 		source="Source: Mapping Inequality."
-		maxWidth="{680}px"
+		maxWidth="{720 + 180}px"
 		link="Yes"
 	/>
 
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-		
-
-		<h3>Sub-Heading</h3>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Variation in tree cover reflects the legacy of historic government disinvestment in communities with more racial minorities.<Footnote id={addFootnote(fns[2])} /> Neighbourhoods in Bridgeport that were historically redlined have less tree cover today than neighbouring areas. Redlining was the practice of withholding loans and other financial resources from neighbourhoods based on their racial or ethnic characteristics, and was common in American cities in the 1930s through the 1960s.<Footnote id={addFootnote(fns[3])} />.
 		</p>
 
 	</div>
-
-
-	<div class="text">
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-	</div>
-
-
+	
 	<GraphicSingle
 		svg360={"./bridgeport-ct/web-svg/map-tree-redline-360.svg"}
 		svg720={"./bridgeport-ct/web-svg/map-tree-redline-720.svg"}
@@ -153,48 +154,19 @@
 
 	<div class="text">
 
+		<h2>
+			Illustrating the impact of trees using data
+		</h2>
+
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+			In many cities, funding for tree planting initiatives and maintenance comes from local government, so the Bridgeport data story focuses on communicating the benefits of investing in trees to decision-makers in municipal departments, including Parks & Recreation and Health, as well as members of city council.
 		</p>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-	</div>
-
-
-	<GraphicSingle
-		svg360={"./bridgeport-ct/web-svg/tree-canopy-benefits-360.svg"}
-		svg720={"./bridgeport-ct/web-svg/tree-canopy-benefits-720.svg"}
-	/>
-
-	<div class="text">
-
-		<h3>Sub-Heading</h3>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			A first step is to establish a baseline of the existing tree cover, which can be done for many cities using publicly available data about the city’s <a href="https://www.treeequityscore.org" target="_blank">Tree Equity Score</a>. This information can be explored via an interactive online tool that allows users to input tree cover goals and see heat metrics and tree cover gaps. The tree canopy data are sourced from Google's Environmental Insights Explorer, which uses machine learning to analyze imagery captured over different years at a fine resolution. Users can download this baseline of tree canopy data and create additional layers that incorporate local data from other sources highlighting how trees affect climate resilience, health, and public safety.
 		</p>
 
 	</div>
-
-	<GraphicMultiples
-		svgPaths={["./bridgeport-ct/web-svg/thermal-img-1-360.svg", "./bridgeport-ct/web-svg/thermal-img-2-360.svg"]}
-	/>
-
-	<div class="text">
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-	</div>
-
 
 	<GraphicMultiples
 		svgPaths={["./bridgeport-ct/web-svg/map-tree-360.svg", "./bridgeport-ct/web-svg/map-heat-360.svg", "./bridgeport-ct/web-svg/map-asthma-360.svg"]}
@@ -202,16 +174,52 @@
 
 	<div class="text">
 
+		<h2>
+			The benefits of trees: climate impacts
+		</h2>
+
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+			Green spaces and trees planted along sidewalks and roads have a variety of positive effects in urban environments. Trees absorb pollutants like carbon monoxide and dioxide, ozone, nitric oxide and nitrogen dioxide, and sulfur dioxide from the atmosphere, reducing cities’ emissions. They also help to filter out fine particulate matter (PM<sub>2.5</sub>), generated by vehicle tailpipe emissions and industry, which is one of the most deadly forms of air pollution.<Footnote id={addFootnote(fns[4])}/> These air purification effects are magnified in areas with warmer weather, where growing seasons and time in leaf are longer.<Footnote id={addFootnote(fns[5])}/> Organizations looking for data to support work on trees’ role in pollution mitigation can use air quality data from the Environmental Protection Agency (EPA), which is available at the <a href="https://www.epa.gov/outdoor-air-quality-data" target="_blank">county level</a> for roughly a third of U.S. counties. 
 		</p>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Trees also help to mitigate the effects of urban heat islands (UHI), the phenomenon where cities experience warmer temperatures than surrounding areas due to the prevalence of impermeable surfaces like asphalt and concrete, and air pollution from transportation and energy uses.<Footnote id={addFootnote(fns[6])}/> Trees help to alleviate UHI effects in two ways: by providing shade that reduces the ambient air temperature, and through evapotranspiration, in which they absorb energy from the air. Shade in particular has significant cooling effects, reducing urban daytime temperatures by 4 degrees C (7 degrees F) and nighttime temperatures by up to 12 degrees C (22 degrees F).<Footnote id={addFootnote(fns[7])}/> These lower temperatures reduce the need for air conditioning and help limit urban energy consumption. Trees also provide an insulating role in winter, which can reduce heating use. 
 		</p>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Bringing this concept to life with visual data, this thermal imagery captured in Bridgeport shows the stark difference in ground temperature (roughly 22 degrees C or 40 degrees F) between an uncovered paved path and an adjacent area shaded by trees. Many cities have community-based heat monitors where similar information is available.
+		</p>
+
+	</div>
+
+	<GraphicSingle
+		svg360={"./bridgeport-ct/web-svg/thermal-imgs-360.svg"}
+		svg720={"./bridgeport-ct/web-svg/thermal-imgs-720.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			Another benefit of trees and other green spaces is that they absorb water, reducing the risk of flooding, erosion, and the degradation of urban waterways. They also help to <a href="https://www.vibrantcitieslab.com/research/stormwater-mitigation/" target="_blank">break up soil</a>, allowing it to retain more water. Trees combat nutrient runoff in stormwater by <a href="https://www.vibrantcitieslab.com/research/water-quality/" target="_blank">absorbing phosphorous and nitrogen</a> from lawn fertilizers and pet waste, preventing them from entering waterways and leaching into groundwater. This reduction in stormwater nutrient runoff has been linked with decreased municipal water treatment costs.
+		</p>
+
+	</div>
+
+	<GraphicSingle
+		svg360={"./bridgeport-ct/web-svg/tree-canopy-benefits-360.svg"}
+		svg720={"./bridgeport-ct/web-svg/tree-canopy-benefits-720.svg"}
+	/>
+
+
+	
+	<div class="text">
+
+		<h2>
+			The health benefits of tree cover
+		</h2>
+
+		<p>
+			Trees also provide a number of health benefits. In filtering pollutants from the air, they make it easier to breathe, which can reduce the rate of asthma. More urban green space is also associated with decreased risk of stroke and coronary heart disease. Proximity to trees can alleviate some of the effects of cardiovascular problems and lower the stress associated with noise pollution.<Footnote id={addFootnote(fns[8])}/> Overall, increasing tree canopy can lead to lower mortality rates from disease.
 		</p>
 
 	</div>
@@ -221,11 +229,10 @@
 		svg720={"./bridgeport-ct/web-svg/asthma-bar-chart-720.svg"}
 	/>
 
-
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+			Urban green spaces with tree cover also improve physical health outcomes by providing safe, shaded, attractive places to walk, run, and play, offering both health and lifestyle benefits. Physical activity is linked with extended life expectancy and more outdoor playing time for children.<Footnote id={addFootnote(fns[9])}/> In addition to physical health outcomes, trees also have a positive impact on mental health. One study found that people who lived within 100m (325 feet) of street trees had lower levels of stress and anxiety, and less need for antidepressants, with stronger effects in lower-income communities.<Footnote id={addFootnote(fns[10])}/> Trees and green spaces have also been linked to stronger community trust and collective efficacy, as attractive outdoor areas encourage more neighbourhood interaction and positive social engagement.<Footnote id={addFootnote(fns[11])}/> Organizations looking to show what effects trees can have in their communities can use the Centers for Disease Control and Prevenstion (CDC) <a href="https://www.cdc.gov/places/index.html" target="_blank"> Places dataset</a>, which tracks many health metrics at the census block group level and which can be mapped and analyzed relative to Tree Equity Score data.
 		</p>
 
 	</div>
@@ -237,29 +244,12 @@
 
 	<div class="text">
 
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
-		</p>
+		<h2>
+			Moving from challenges to opportunities
+		</h2>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-	</div>
-
-	
-	<div class="text">
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Despite their numerous health and environmental benefits, there are some challenges to planting trees in urban environments. For example, there is a common idea that trees can block sight lines for law enforcement or hide criminals, which has been used by various groups to argue against increasing tree cover.<Footnote id={addFootnote(fns[12])}/> However, a significant number of studies, including one conducted at the census block level in New Haven, Connecticut in 2015, found that greater tree cover was associated with lower levels of both violent and property crime.<Footnote id={addFootnote(fns[13])}/> This finding remained significant even after accounting for factors like household income, race, renter-to-owner ratio, and vacancy rates.
 		</p>
 
 	</div>
@@ -271,15 +261,11 @@
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
+			Another challenge is the lack of space for tree planting in low-income neighbourhoods, which tend to have narrower sidewalks, less open space, and more impervious materials such as concrete and asphalt.<Footnote id={addFootnote(fns[14])}/> These areas also tend to have higher levels of population density and development, and therefore less available space overall.<Footnote id={addFootnote(fns[15])}/> Many homes are rented, meaning property owners are not on site to approve plantings. 
 		</p>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			However, despite these challenges, there is potential for trees to have a particularly significant impact in lower-income neighbourhoods, given that these areas tend to have more limited access to air conditioning and outdoor space, and a higher share of the population that does physical work outdoors.<Footnote id={addFootnote(fns[16])}/>  By cooling the surrounding environment, trees can mitigate the harmful effects of extreme heat to which low-income communities are particularly vulnerable.
 		</p>
 
 	</div>
@@ -289,35 +275,56 @@
 		svg720={"./bridgeport-ct/web-svg/bridgeport-schematic_challenges-720.svg"}
 	/>
 
-	<br>
+	<div class="text">
+
+		<p>
+			Because of the challenges associated with planting in lower-income communities, many cities have expanded their tree cover opportunistically, often choosing to plant where they have permission, easy access to land, and good conditions. By failing to develop a strategic approach to planting trees, some cities have exacerbated existing inequities in tree cover and failed to ensure long-term community or maintenance support. Approaches to urban tree planting may also not account for changing climate and water cycles, which can lead to the death or removal of trees, ultimately wasting limited resources.<Footnote id={addFootnote(fns[17])}/> To enjoy the full heat, health, and environmental benefits from their efforts, cities need to create strategic and coordinated tree planting programs with partners at all stages, from planning to implementation and maintenance. 
+		</p>
+
+		<p>
+			Grassroots groups like Groundwork Bridgeport help make tree cover expansion programs successful in the long term by ensuring residents play an active role in tree planting in their own neighbourhoods. For example, Groundwork Bridgeport works with local community leaders to make sure that trees align with resident preferences, even engaging them in the act of planting. A variety of other non-profits have <a href="https://holdenfg.org/resource/series/tree-resources/" target="_blank">created resources</a> for potential tree stewards — those who care for trees — including a guide explaining how to select trees that are appropriate for a given space, as well as tips on how to plant, maintain, and water them. A community-based approach is essential.<Footnote id={addFootnote(fns[18])}/>
+		</p>
+
+		<p>
+			Given trees’ myriad environmental benefits, there is a growing movement to build more of this “green infrastructure” in urban areas. Additional opportunities for tree planting might include creating a green space requirement for new building developments, replacing parking spaces with greenery, and adding bus bulbs (curb extensions that bring bus stops in line with a parking lane). These all come with trade offs, financial and otherwise, which must be negotiated with communities. In the meantime, projects like the EDDIT-Groundwork Bridgeport case help urban leaders and residents understand the benefits and challenges of planting trees, and target priority investment areas so that all can experience a healthier, greener future.
+		</p>
+
+	</div>
 
 	<GraphicSingle
 		svg360={"./bridgeport-ct/web-svg/bridgeport-schematic_opportunities-360.svg"}
 		svg720={"./bridgeport-ct/web-svg/bridgeport-schematic_opportunities-720.svg"}
 	/>
 
-	<div class="text">
+
+	<Footnotes footnotes={footnotes} />
+
+	<div class="details">
+
+		<h2>Additional resources</h2>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. 
-		</p>
+			<a href="https://www.cityplants.org/wp-content/uploads/2021/05/LA-Urban-Forest_Streets-Guidebook_FINAL_REVISED.pdf" target="_blank">CAPA Strategies Los Angeles Urban Forest Equity Streets Guidebook</a>
+			<br><br>
+			<a href="https://www.cdc.gov/places/index.html" target="_blank">CDC Places dataset</a>
+			<br><br>
+			<a href="https://www.epa.gov/outdoor-air-quality-data" target="_blank">EPA Air Quality data</a>
+			<br><br>
+			<a href="https://www.groundworkbridgeport.org/" target="_blank">Groundwork Bridgeport</a>
+			<br><br>
+			<a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Mapping Inequality: Redlining in New Deal America</a>
+			<br><br>
+			<a href="https://www.treeequityscore.org/" target="_blank">Tree Equity Score</a>
+			<br><br>
+			<a href="https://holdenfg.org/resource/series/tree-resources/" target="_blank">Tree Planting Resources</a>
+			<br><br>
+			<a href="https://vibrantcitieslab.com/" target="_blank">Vibrant Cities Lab Tree Research and Case Studies</a>
 
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 		</p>
 
 	</div>
-
-	<div class="text">
-
-        <Footnotes footnotes={footnotes} />
 		
-    </div>
-
+	
 
 </main>
 
