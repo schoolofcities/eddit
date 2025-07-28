@@ -107,7 +107,7 @@
 			</h2>
 
 			<p>
-				<a href="https://www.groundworkbridgeport.org" target="_blank">Groundwork Bridgeport</a> is a community-based organization founded in 1998 as one of the first of a national network of non-profits dedicated to reclaiming abandoned industrial sites and underused lots to create economic development opportunities and spaces for recreation and beautification. They aim to bring the benefits of tree cover to all, starting with the East Side. A small, local organization, Groundwork Bridgeport worked with the <a href="https://www.groundworkbridgeport.org" target="_blank">EDDIT data storytelling team</a> to build momentum around their work, communicate the importance of trees and tree canopy cover, and engage partner organizations and the public to get involved through volunteering, financial support, or tree adoption.
+				<a href="https://www.groundworkbridgeport.org" target="_blank">Groundwork Bridgeport</a> is a community-based organization founded in 1998 as one of the first of a national network of non-profits dedicated to reclaiming abandoned industrial sites and underused lots to create economic development opportunities and spaces for recreation and beautification. They aim to bring the benefits of tree cover to all, starting with the East Side. A small, local organization, Groundwork Bridgeport worked with the <a href="./" target="_blank">EDDIT data storytelling team</a> to build momentum around their work, communicate the importance of trees and tree canopy cover, and engage partner organizations and the public to get involved through volunteering, financial support, or tree adoption.
 			</p>
 
 			<p>
@@ -121,7 +121,7 @@
 		</h2>
 
 		<p>
-			Access to urban trees and green spaces is not equitably distributed. The non-profit organization American Forests <a href="https://www.groundworkbridgeport.org" target="_blank">developed</a> a <strong>tree equity</strong> score that identifies disparities in different populations’ access to trees. The score integrates environmental characteristics, including tree canopy, building density, and surface temperature, as well as socioeconomic and demographic variables such as income, employment, race, age, language, and health. The concept of tree equity has been widely adopted as a way to highlight differences in access to green spaces more broadly.
+			Access to urban trees and green spaces is not equitably distributed. The non-profit organization American Forests <a href="https://www.treeequityscore.org" target="_blank">developed</a> a <strong>tree equity</strong> score that identifies disparities in different populations’ access to trees. The score integrates environmental characteristics, including tree canopy, building density, and surface temperature, as well as socioeconomic and demographic variables such as income, employment, race, age, language, and health. The concept of tree equity has been widely adopted as a way to highlight differences in access to green spaces more broadly.
 		</p>
 
 		
