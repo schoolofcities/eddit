@@ -55,8 +55,8 @@
 	title={"Increasing tree cover for equity and climate resilience"}
 	subtitle={"A case study of Bridgeport, Connecticut"} 
 	image={titleImage}
-	imageCaption={"Park in Bridgeport."}
-	imageSource={"Photo by _________."}
+	imageCaption={"Helen Street Greenspace in Bridgeport, CT."}
+	imageSource={"Photo by Michelle Zhang on June 12, 2023 at 10:57am"}
 />
 
 <main>
