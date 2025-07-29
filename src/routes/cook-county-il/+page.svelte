@@ -5,10 +5,9 @@
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
-	import SingleGraphic from "$lib/SingleGraphic.svelte";
-	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
-	import SmallMultiplesLazy from "$lib/SmallMultiplesLazy.svelte";
-	import SingleImage from "$lib/SingleImage.svelte";
+	import GraphicSingle from "$lib/GraphicSingle.svelte";
+	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
+	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/cook-county-title.jpg";
 
@@ -39,7 +38,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/chicago-contextmap-720.svg"}
 		svg360={"./cook-county-il/web-svg/chicago-contextmap-360.svg"}
 	/>
@@ -55,7 +54,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/cook-county-contextmap-720.svg"}
 		svg360={"./cook-county-il/web-svg/cook-county-contextmap-360.svg"}
 	/>
@@ -71,7 +70,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/cook-county_GLT-policy-chart-720.svg"}
 		svg360={"./cook-county-il/web-svg/cook-county_GLT-policy-chart-360.svg"}
 	/>
@@ -87,7 +86,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/cook-county_landscape-contract-stat-720.svg"}
 		svg360={"./cook-county-il/web-svg/cook-county_landscape-contract-stat-360.svg"}
 	/>
@@ -103,7 +102,7 @@
 
 	</div>
 
-	<SmallMultiplesLazy
+	<GraphicMultiples
 		svgPaths={["./cook-county-il/web-svg/cook-county_income-map-360.svg", "./cook-county-il/web-svg/cook-county_minorities-map-360.svg"]}
 	/>
 
@@ -118,7 +117,7 @@
 
 	</div>
 
-	<SmallMultiplesLazy
+	<GraphicMultiples
 		svgPaths={["./cook-county-il/web-svg/cook-county_NO2-map-360.svg", "./cook-county-il/web-svg/cook-county_PM25-pollution-map-360.svg", "./cook-county-il/web-svg/cook-county_ejc-map-360.svg"]}
 	/>
 
@@ -133,7 +132,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/cook-county_gasvelectric-chart-720.svg"}
 		svg360={"./cook-county-il/web-svg/cook-county_gasvelectric-chart-360.svg"}
 	/>
@@ -149,7 +148,7 @@
 
 	</div>
 
-	<SmallMultiplesLazy
+	<GraphicMultiples
 		svgPaths={["./cook-county-il/web-svg/cook-county_asthma-map-360.svg", "./cook-county-il/web-svg/cook-county_dr-visits-map-360.svg"]}
 	/>
 
@@ -164,7 +163,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/cook-county_commuters-arches-720.svg"}
 		svg360={"./cook-county-il/web-svg/cook-county_commuters-arches-360.svg"}
 	/>

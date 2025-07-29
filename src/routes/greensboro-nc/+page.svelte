@@ -6,9 +6,8 @@
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
 	import GraphicSingle from "$lib/GraphicSingle.svelte";
-	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
-	import SmallMultiples from "$lib/SmallMultiples.svelte";
-	import SingleImage from "$lib/SingleImage.svelte";
+	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
+	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/greensboro-title.jpg";
 
@@ -41,7 +40,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./greensboro-nc/web-svg/greensboro-contextmap-720.svg"}
 		svg360={"./greensboro-nc/web-svg/greensboro-contextmap-360.svg"}
 	/>
@@ -100,7 +99,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./greensboro-nc/web-svg/greensboro-pop-growth-chart-720.svg"}
 		svg360={"./greensboro-nc/web-svg/greensboro-pop-growth-chart-360.svg"}
 	/>
@@ -116,7 +115,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg1080={"./greensboro-nc/web-svg/greensboro-visits-1080.svg"}
 		svg720={"./greensboro-nc/web-svg/greensboro-visits-720.svg"}
 		svg360={"./greensboro-nc/web-svg/greensboro-visits-360.svg"}
@@ -133,7 +132,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg1080={"./greensboro-nc/web-svg/greensboro-potential-1080.svg"}
 		svg720={"./greensboro-nc/web-svg/greensboro-potential-720.svg"}
 		svg360={"./greensboro-nc/web-svg/greensboro-potential-360.svg"}

@@ -5,10 +5,9 @@
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
-	import SingleGraphic from "$lib/SingleGraphic.svelte";
-	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
-	import SmallMultiples from "$lib/SmallMultiples.svelte";
-	import SingleImage from "$lib/SingleImage.svelte";
+	import GraphicSingle from "$lib/GraphicSingle.svelte";
+	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
+	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/champaign-title.jpg";
 
@@ -39,7 +38,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./champaign-il/web-svg/champaign-contextmap-720.svg"}
 		svg360={"./champaign-il/web-svg/champaign-contextmap-360.svg"}
 	/>
@@ -55,7 +54,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./champaign-il/web-svg/Champaign_street-lighting-map-720.svg"}
 		svg360={"./champaign-il/web-svg/Champaign_street-lighting-map-360.svg"}
 	/>
@@ -71,7 +70,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./champaign-il/web-svg/Champaign_access-map-720.svg"}
 		svg360={"./champaign-il/web-svg/Champaign_access-map-360.svg"}
 	/>
@@ -87,7 +86,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./champaign-il/web-svg/Champaign_shooting-incidents-bars-720.svg"}
 		svg360={"./champaign-il/web-svg/Champaign_shooting-incidents-bars-360.svg"}
 	/>
@@ -103,7 +102,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./champaign-il/web-svg/Champaign_lives-lost-chart-720.svg"}
 		svg360={"./champaign-il/web-svg/Champaign_lives-lost-chart-360.svg"}
 	/>

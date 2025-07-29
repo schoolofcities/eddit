@@ -5,10 +5,9 @@
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
-	import SingleGraphic from "$lib/SingleGraphic.svelte";
-	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
-	import SmallMultiples from "$lib/SmallMultiples.svelte";
-	import SingleImage from "$lib/SingleImage.svelte";
+	import GraphicSingle from "$lib/GraphicSingle.svelte";
+	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
+	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/high-point-title.png";
 
@@ -42,7 +41,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./high-point-nc/web-svg/highpoint-contextmap-720.svg"}
 		svg360={"./high-point-nc/web-svg/highpoint-contextmap-360.svg"}
 	/>
@@ -58,7 +57,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./high-point-nc/web-svg/high-point-map-720.svg"}
 		svg360={"./high-point-nc/web-svg/high-point-map-360.svg"}
 	/>
@@ -98,7 +97,7 @@
 	
 	</div>
 
-	<SingleImage
+	<ImageSingle
 		image={"/eddit/high-point/img-koonts-mcghee-drug-store.png"}
 		subtitle={""}
 		maxWidth={"680px"}
@@ -116,7 +115,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./high-point-nc/web-svg/highpoint-footfall-720.svg"}
 		svg360={"./high-point-nc/web-svg/highpoint-footfall-360.svg"}
 	/>
@@ -132,7 +131,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./high-point-nc/web-svg/high-point_employer-parity-720.svg"}
 		svg360={"./high-point-nc/web-svg/high-point_employer-parity-360.svg"}
 	/>

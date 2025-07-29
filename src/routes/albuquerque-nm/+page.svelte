@@ -5,9 +5,9 @@
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
-	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
-	import SmallMultiplesLazy from "$lib/SmallMultiplesLazy.svelte";
-	import SingleImage from "$lib/SingleImage.svelte";
+	import GraphicSingle from "$lib/GraphicSingle.svelte";
+	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
+	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/abq-title.jpg";
 
@@ -37,7 +37,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg360={"./albuquerque-nm/web-svg/abq-contextmap-360.svg"}
 		svg720={"./albuquerque-nm/web-svg/abq-contextmap-720.svg"}
 	/>
@@ -53,7 +53,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg360={"./albuquerque-nm/web-svg/abq-trailmap-360.svg"}
 		svg720={"./albuquerque-nm/web-svg/abq-trailmap-720.svg"}
 		svg1080={"./albuquerque-nm/web-svg/abq-trailmap-1080.svg"}
@@ -70,7 +70,7 @@
 
 	</div>
 
-	<SmallMultiplesLazy
+	<GraphicMultiples
 		svgPaths={[
 			"./albuquerque-nm/web-svg/abq-example-indy-360.svg", 
 			"./albuquerque-nm/web-svg/abq-example-sanantonio-360.svg", 
@@ -91,7 +91,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg360={"./albuquerque-nm/web-svg/abq-visitor-chart-360.svg"}
 		svg720={"./albuquerque-nm/web-svg/abq-visitor-chart-720.svg"}
 	/>
@@ -108,7 +108,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg360={"./albuquerque-nm/web-svg/abq-hfin-360.svg"}
 		svg720={"./albuquerque-nm/web-svg/abq-hfin-720.svg"}
 	/>
@@ -125,7 +125,7 @@
 
 	</div>
 
-	<SmallMultiplesLazy
+	<GraphicMultiples
 		svgPaths={[
 			"./albuquerque-nm/web-svg/abq-income-360.svg", 
 			"./albuquerque-nm/web-svg/abq-rent-360.svg",

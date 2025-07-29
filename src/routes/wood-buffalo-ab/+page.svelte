@@ -5,10 +5,9 @@
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
-	import SingleGraphic from "$lib/SingleGraphic.svelte";
-	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
-	import SmallMultiples from "$lib/SmallMultiples.svelte";
-	import SingleImage from "$lib/SingleImage.svelte";
+	import GraphicSingle from "$lib/GraphicSingle.svelte";
+	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
+	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/wood-buffalo-title-img-2.jpg";
 
@@ -40,7 +39,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-360.svg"}
 	/>
@@ -82,7 +81,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-wages-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-wages-360.svg"}
 	/>
@@ -98,7 +97,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-360.svg"}
 	/>
@@ -117,7 +116,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-shelters-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-shelters-360.svg"}
 	/>
@@ -139,7 +138,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-expenses-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-expenses-360.svg"}
 	/>
@@ -161,7 +160,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-migration-chart-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-migration-chart-360.svg"}
 	/>
@@ -175,7 +174,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-shadowpop-vert-chart-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-shadowpop-vert-chart-360.svg"}
 	/>
@@ -197,7 +196,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-stat-360.svg"}
 		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-stat-720.svg"}
 	/>
@@ -210,7 +209,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingadequacy-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingadequacy-360.svg"}
 	/>
@@ -223,7 +222,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-map-720.svg"}
 		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-map-360.svg"}
 	/>

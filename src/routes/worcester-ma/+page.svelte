@@ -6,10 +6,9 @@
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
 
-	import SingleGraphic from "$lib/SingleGraphic.svelte";
-	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
-	import SmallMultiplesLazy from "$lib/SmallMultiplesLazy.svelte";
-	import SingleImage from "$lib/SingleImage.svelte";
+	import GraphicSingle from "$lib/GraphicSingle.svelte";
+	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
+	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/worcester-title.jpg";
 
@@ -41,7 +40,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester-contextmapV2-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester-contextmapV2-360.svg"}
 	/>
@@ -54,7 +53,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester-city-contextmap-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester-city-contextmap-360.svg"}
 	/>
@@ -70,12 +69,12 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_median-age-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_median-age-360.svg"}
 	/>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_family-households-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_family-households-360.svg"}
 	/>
@@ -91,12 +90,12 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_poverty-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_poverty-360.svg"}
 	/>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_SNAP-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_SNAP-360.svg"}
 	/>
@@ -112,12 +111,12 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_race-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_race-360.svg"}
 	/>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_edu-attainment-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_edu-attainment-360.svg"}
 	/>
@@ -136,7 +135,7 @@
 	
 	</div>
 
-	<SmallMultiplesLazy
+	<GraphicMultiples
 		svgPaths={["./worcester-ma/web-svg/worcester_map-residential.svg","./worcester-ma/web-svg/worcester_map_parkinglots.svg","./worcester-ma/web-svg/worcester_map-greenspaces-grocery.svg"]}
 	/>
 
@@ -151,7 +150,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_health-indicators-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_health-indicators-360.svg"}
 	/>
