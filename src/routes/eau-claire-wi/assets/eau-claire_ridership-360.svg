@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 400">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #999795;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-5 {
+        fill: #dc4732;
+      }
+
+      .cls-8 {
+        fill: #999795;
+        font-size: 12px;
+      }
+
+      .cls-8, .cls-9 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-2 {
+        stroke: #000;
+      }
+
+      .cls-9, .cls-6 {
+        font-size: 14px;
+      }
+
+      .cls-5 {
+        font-size: 36px;
+      }
+
+      .cls-3 {
+        fill: #bcbec0;
+        stroke: #d1d3d4;
+        stroke-width: .25px;
+      }
+    </style>
+  </defs>
+  <line class="cls-2" x1="57.1" y1="320.14" x2="340.66" y2="320.14"/>
+  <g>
+    <text class="cls-9" transform="translate(52 325.05)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-9" transform="translate(48.27 283.9)"><tspan x="0" y="0">.2</tspan></text>
+    <text class="cls-9" transform="translate(48.27 242.75)"><tspan x="0" y="0">.4</tspan></text>
+    <text class="cls-9" transform="translate(48.27 201.59)"><tspan x="0" y="0">.6</tspan></text>
+    <text class="cls-9" transform="translate(48.27 160.44)"><tspan x="0" y="0">.8</tspan></text>
+    <text class="cls-9" transform="translate(40.26 119.29)"><tspan x="0" y="0">1.0</tspan></text>
+    <text class="cls-9" transform="translate(40.26 78.14)"><tspan x="0" y="0">1.2</tspan></text>
+  </g>
+  <rect class="cls-7" x="299.34" y="180.67" width="17.23" height="139.42"/>
+  <rect class="cls-7" x="276.67" y="198.58" width="17.23" height="121.51"/>
+  <rect class="cls-7" x="254" y="224.99" width="17.23" height="95.1"/>
+  <rect class="cls-7" x="231.33" y="225.03" width="17.23" height="95.06"/>
+  <rect class="cls-7" x="208.66" y="130.8" width="17.23" height="189.29"/>
+  <rect class="cls-7" x="185.99" y="120.2" width="17.23" height="199.89"/>
+  <rect class="cls-7" x="163.32" y="127.7" width="17.23" height="192.38"/>
+  <rect class="cls-7" x="140.65" y="125.83" width="17.23" height="194.26"/>
+  <rect class="cls-7" x="117.98" y="125.31" width="17.23" height="194.78"/>
+  <rect class="cls-7" x="95.31" y="103.79" width="17.23" height="216.29"/>
+  <rect class="cls-7" x="72.64" y="97.95" width="17.23" height="222.14"/>
+  <g>
+    <line class="cls-3" x1="65" y1="278.7" x2="340.66" y2="278.7"/>
+    <line class="cls-3" x1="65" y1="237.26" x2="340.66" y2="237.26"/>
+    <line class="cls-3" x1="65" y1="195.82" x2="340.66" y2="195.82"/>
+    <line class="cls-3" x1="65" y1="154.38" x2="233" y2="154.38"/>
+    <line class="cls-3" x1="65" y1="112.94" x2="233" y2="112.94"/>
+    <line class="cls-3" x1="65" y1="71.5" x2="233" y2="71.5"/>
+  </g>
+  <text class="cls-9" transform="translate(30 304.35) rotate(-90)"><tspan x="0" y="0">Annual transit ridership (millions)</tspan></text>
+  <text class="cls-9" transform="translate(65.46 338.15)"><tspan x="0" y="0">2013</tspan></text>
+  <text class="cls-9" transform="translate(111.92 337.95)"><tspan x="0" y="0">2015</tspan></text>
+  <text class="cls-9" transform="translate(158.39 337.95)"><tspan x="0" y="0">2017</tspan></text>
+  <text class="cls-9" transform="translate(204.86 337.95)"><tspan x="0" y="0">2019</tspan></text>
+  <text class="cls-9" transform="translate(246.61 337.95)"><tspan x="0" y="0">2021</tspan></text>
+  <text class="cls-9" transform="translate(291.95 337.95)"><tspan x="0" y="0">2023</tspan></text>
+  <line class="cls-2" x1="307.96" y1="322.3" x2="307.96" y2="317.88"/>
+  <line class="cls-2" x1="262.62" y1="322.3" x2="262.62" y2="317.88"/>
+  <line class="cls-2" x1="220.87" y1="322.3" x2="220.87" y2="317.88"/>
+  <line class="cls-2" x1="174.4" y1="322.3" x2="174.4" y2="317.88"/>
+  <line class="cls-2" x1="127.93" y1="322.3" x2="127.93" y2="317.88"/>
+  <line class="cls-2" x1="81.47" y1="322.3" x2="81.47" y2="317.88"/>
+  <text class="cls-6" transform="translate(234.79 100)"><tspan x="0" y="0">used public</tspan><tspan x="0" y="16.8">transportation</tspan><tspan x="0" y="33.6">to commute to</tspan><tspan x="0" y="50.4">work in 2023</tspan></text>
+  <text class="cls-5" transform="translate(232.82 80.12)"><tspan x="0" y="0">1.04%</tspan></text>
+  <text class="cls-4" transform="translate(20 27.14)"><tspan x="0" y="0">Transit ridership in Eau Claire</tspan></text>
+  <g>
+    <text class="cls-8" transform="translate(10 376.23)"><tspan x="0" y="0">Data Source: Eau Claire Transit (2013, 2014, 2015, 2016, </tspan><tspan x="0" y="14.4">2017, 2018, 2019), American Community Survey (2023)</tspan></text>
+    <line class="cls-1" x1="10.41" y1="363.77" x2="340" y2="363.77"/>
+  </g>
+</svg>

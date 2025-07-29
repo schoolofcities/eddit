@@ -24,14 +24,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.5104587"
-     inkscape:cx="378.36188"
-     inkscape:cy="206.89079"
+     inkscape:cx="556.78451"
+     inkscape:cy="198.28414"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="LABELS"
+     inkscape:current-layer="svg15"
      showgrid="false">
     <inkscape:grid
        id="grid1"
@@ -273,9 +273,9 @@
      y="0" />
   <rect
      class="cls-8"
-     x="423.08722"
+     x="387.50854"
      y="310.5"
-     width="236.41278"
+     width="271.99146"
      height="30"
      id="rect15"
      style="fill:#ffffff;stroke:#0d534d;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none"
@@ -296,10 +296,10 @@
      class="cls-3"
      id="text10-2"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0d534d"
-     x="435.27548"
+     x="398.29239"
      y="330.04318"><tspan
-       x="435.27548"
+       x="398.29239"
        y="330.04318"
        id="tspan10-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Bridgeport Population (2020):</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">City of Bridgeport Population (2020):</tspan></text>
 </svg>

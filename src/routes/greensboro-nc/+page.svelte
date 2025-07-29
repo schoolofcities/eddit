@@ -5,12 +5,12 @@
 	import Title from '$lib/Title.svelte';
 	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
-	import SingleGraphic from "$lib/SingleGraphic.svelte";
+	import GraphicSingle from "$lib/GraphicSingle.svelte";
 	import SingleGraphicLazy from "$lib/SingleGraphicLazy.svelte";
 	import SmallMultiples from "$lib/SmallMultiples.svelte";
 	import SingleImage from "$lib/SingleImage.svelte";
 
-	import titleImage from "./assets/greensboro-title.png";
+	import titleImage from "./assets/greensboro-title.jpg";
 
 </script>
 
@@ -60,7 +60,7 @@
 
 	<div class="callout">
 
-		<h3>Greensboro boro boro borough</h3>
+		<h2>Greensboro boro boro borough</h2>
 
 		<p>
 			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
@@ -83,7 +83,7 @@
 
 	</div>
 
-	<SingleGraphicLazy
+	<GraphicSingle
 		svg1080={"./greensboro-nc/web-svg/greensboro-grocery-1080.svg"}
 		svg720={"./greensboro-nc/web-svg/greensboro-grocery-720.svg"}
 		svg360={"./greensboro-nc/web-svg/greensboro-grocery-360.svg"}

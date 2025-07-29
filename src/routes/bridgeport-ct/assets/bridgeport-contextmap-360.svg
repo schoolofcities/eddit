@@ -22,9 +22,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.5104587"
-     inkscape:cx="168.82289"
-     inkscape:cy="295.60557"
+     inkscape:zoom="2.1361112"
+     inkscape:cx="267.77632"
+     inkscape:cy="208.55656"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -181,10 +181,12 @@
          font-family="OpenSans-Bold, 'Open Sans'"
          font-size="12"
          font-weight="700"
-         id="text12"><tspan
+         id="text12"
+         style="fill:#00a18a;fill-opacity:1"><tspan
            x="0"
            y="0"
-           id="tspan12">CONNECTICUT</tspan></text>
+           id="tspan12"
+           style="fill:#00a18a;fill-opacity:1">CONNECTICUT</tspan></text>
       <text
          transform="translate(191.26 155.94)"
          fill="#0d534d"
@@ -206,7 +208,8 @@
          font-size="12px"
          id="text14"
          x="62.441742"
-         y="278.66422"><tspan
+         y="278.66422"
+         style="opacity:0.8"><tspan
            x="62.441742"
            y="278.66422"
            id="tspan14">New York City</tspan></text>
@@ -222,7 +225,8 @@
          font-size="12px"
          id="text14-6"
          x="292.26212"
-         y="76.93782"><tspan
+         y="76.93782"
+         style="opacity:0.8"><tspan
            x="292.26212"
            y="76.93782"
            id="tspan14-1">Boston</tspan></text>
@@ -249,9 +253,9 @@
      y="0" />
   <rect
      class="cls-8"
-     x="105.19341"
+     x="68.27948"
      y="310.38513"
-     width="236.41278"
+     width="273.32672"
      height="30"
      id="rect15"
      style="fill:#ffffff;stroke:#0d534d;stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none"
@@ -272,12 +276,12 @@
      class="cls-3"
      id="text10-2"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0d534d"
-     x="117.38168"
+     x="78.427734"
      y="329.92831"><tspan
-       x="117.38168"
+       x="78.427734"
        y="329.92831"
        id="tspan10-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Bridgeport Population (2020):</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">City of Bridgeport Population (2020):</tspan></text>
   <text
      class="cls-1"
      id="text11-0"

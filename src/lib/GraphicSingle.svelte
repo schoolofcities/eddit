@@ -80,6 +80,9 @@
 	
 	.svg-container {
 		width: var(--svg-width);
+		margin-bottom: 0px;
+		padding-bottom: 0px;
 		height: auto;
 	}
+
 </style>

@@ -19,7 +19,7 @@
 				<a href="./bridgeport-ct">Bridgeport, CT</a>
 				<a href="./champaign-il">Champaign, IL</a>
 				<a href="./cook-county-il">Cook County, IL</a>
-				<a href="./high-point-nc">Eau Claire, WI</a>
+				<a href="./eau-claire-wi">Eau Claire, WI</a>
 				<a href="./greensboro-nc">Greensboro, NC</a>
 				<a href="./halifax-ns">Halifax, NS</a>
 				<a href="./high-point-nc">High Point, NC</a>
