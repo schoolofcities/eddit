@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360.4">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300.4">
   <defs>
     <style>
       .cls-1 {
@@ -57,42 +57,37 @@
       }
     </style>
   </defs>
-  <text class="cls-3" transform="translate(118.92 280)"><tspan x="0" y="0">White</tspan></text>
-  <text class="cls-4" transform="translate(20 27.14)"><tspan x="0" y="0">Reaching parity in business ownership</tspan></text>
+  <text class="cls-3" transform="translate(49.32 220)"><tspan x="0" y="0">White</tspan></text>
+  <text class="cls-3" transform="translate(39.98 100)"><tspan x="0" y="0">Female</tspan></text>
+  <text class="cls-3" transform="translate(52.67 160.18)"><tspan x="0" y="0">Black</tspan></text>
+  <rect class="cls-11" x="100.14" y="200" width="380.44" height="15"/>
+  <rect class="cls-9" x="100.14" y="214.95" width="286.26" height="15"/>
+  <rect class="cls-9" x="100.14" y="94.77" width="409.19" height="15"/>
+  <rect class="cls-9" x="100.14" y="155" width="309.57" height="15"/>
+  <rect class="cls-11" x="100.14" y="79.77" width="327.76" height="15"/>
+  <rect class="cls-11" x="100.14" y="140" width="213.02" height="15"/>
+  <text class="cls-4" transform="translate(20 27.14)"><tspan x="0" y="0">Reaching parity in business ownership in High Point</tspan></text>
   <g>
-    <text class="cls-5" transform="translate(20 350)"><tspan x="0" y="0">Data Sources: American Community Survey (2023), Annual Business Survey (2022) </tspan></text>
-    <line class="cls-8" x1="20.41" y1="337.54" x2="700" y2="337.54"/>
+    <text class="cls-5" transform="translate(20 290)"><tspan x="0" y="0">Data Sources: American Community Survey (2023), Annual Business Survey (2022) </tspan></text>
+    <line class="cls-8" x1="20.41" y1="277.54" x2="700" y2="277.54"/>
   </g>
   <text class="cls-6" transform="translate(20 50)"><tspan x="0" y="0">A demographic reaches parity when its share of the population equals its share of business ownership.</tspan></text>
-  <rect class="cls-11" x="169.73" y="260" width="217.4" height="15"/>
-  <rect class="cls-9" x="169.73" y="274.95" width="163.58" height="15"/>
-  <text class="cls-2" transform="translate(305.44 287.13)"><tspan x="0" y="0">36%</tspan></text>
-  <text class="cls-3" transform="translate(341.69 309.31)"><tspan x="0" y="0">+12%</tspan></text>
-  <text class="cls-1" transform="translate(359.27 271.91)"><tspan x="0" y="0">48%</tspan></text>
-  <text class="cls-10" transform="translate(570 179.98)"><tspan x="0" y="0">Ownership Share</tspan></text>
-  <text class="cls-10" transform="translate(570 200.04)"><tspan x="0" y="0">Population Share</tspan></text>
-  <rect class="cls-11" x="550" y="169.96" width="10" height="10"/>
-  <polyline class="cls-9" points="550 199.75 560 199.75 560 189.75 550 189.75 550 199.75"/>
-  <text class="cls-3" transform="translate(109.58 100)"><tspan x="0" y="0">Female</tspan></text>
-  <text class="cls-3" transform="translate(122.26 160.18)"><tspan x="0" y="0">Black</tspan></text>
-  <text class="cls-3" transform="translate(100.27 220.13)"><tspan x="0" y="0">Minority</tspan></text>
-  <rect class="cls-9" x="169.73" y="94.77" width="233.82" height="15"/>
-  <rect class="cls-9" x="169.73" y="155" width="176.9" height="15"/>
-  <rect class="cls-9" x="169.73" y="215" width="286.43" height="15"/>
-  <rect class="cls-11" x="169.73" y="200" width="208.53" height="15"/>
-  <rect class="cls-11" x="169.73" y="79.77" width="187.29" height="15"/>
-  <text class="cls-1" transform="translate(329.16 91.67)"><tspan x="0" y="0">42%</tspan></text>
-  <text class="cls-2" transform="translate(375.69 106.67)"><tspan x="0" y="0">52%</tspan></text>
-  <rect class="cls-11" x="169.73" y="140" width="121.73" height="15"/>
-  <text class="cls-1" transform="translate(263.59 151.9)"><tspan x="0" y="0">27%</tspan></text>
-  <text class="cls-2" transform="translate(318.76 166.9)"><tspan x="0" y="0">39%</tspan></text>
-  <text class="cls-1" transform="translate(350.4 211.9)"><tspan x="0" y="0">46%</tspan></text>
-  <text class="cls-2" transform="translate(428.29 226.9)"><tspan x="0" y="0">64%</tspan></text>
-  <line class="cls-7" x1="333.31" y1="293.85" x2="387.13" y2="293.85"/>
-  <text class="cls-3" transform="translate(400.46 248.61)"><tspan x="0" y="0">-18%</tspan></text>
-  <line class="cls-7" x1="377.88" y1="233.15" x2="456.16" y2="233.15"/>
-  <text class="cls-3" transform="translate(302.44 188.69)"><tspan x="0" y="0">-12%</tspan></text>
-  <line class="cls-7" x1="291.46" y1="173.23" x2="346.55" y2="173.23"/>
-  <text class="cls-3" transform="translate(364.64 128.46)"><tspan x="0" y="0">-10%</tspan></text>
-  <line class="cls-7" x1="357.02" y1="113" x2="403.55" y2="113"/>
+  <text class="cls-3" transform="translate(415.17 249.31)"><tspan x="0" y="0">+12%</tspan></text>
+  <text class="cls-10" transform="translate(570 149.97)"><tspan x="0" y="0">Ownership share</tspan></text>
+  <text class="cls-10" transform="translate(570 170.04)"><tspan x="0" y="0">Population share</tspan></text>
+  <rect class="cls-11" x="550" y="139.96" width="10" height="10"/>
+  <polyline class="cls-9" points="550 169.75 560 169.75 560 159.75 550 159.75 550 169.75"/>
+  <line class="cls-7" x1="386.39" y1="233.85" x2="480.58" y2="233.85"/>
+  <text class="cls-3" transform="translate(344.86 188.69)"><tspan x="0" y="0">-12%</tspan></text>
+  <line class="cls-7" x1="313.15" y1="173.23" x2="409.7" y2="173.23"/>
+  <text class="cls-3" transform="translate(452.25 128.82)"><tspan x="0" y="0">-10%</tspan></text>
+  <line class="cls-7" x1="427.89" y1="113" x2="509.32" y2="113"/>
+  <g>
+    <text class="cls-2" transform="translate(358.86 226.95)"><tspan x="0" y="0">36%</tspan></text>
+    <text class="cls-1" transform="translate(400.36 91.77)"><tspan x="0" y="0">42%</tspan></text>
+    <text class="cls-2" transform="translate(481.79 107)"><tspan x="0" y="0">52%</tspan></text>
+    <text class="cls-1" transform="translate(285.62 152)"><tspan x="0" y="0">27%</tspan></text>
+    <text class="cls-2" transform="translate(382.17 167)"><tspan x="0" y="0">39%</tspan></text>
+    <text class="cls-1" transform="translate(453.04 212)"><tspan x="0" y="0">48%</tspan></text>
+  </g>
 </svg>
