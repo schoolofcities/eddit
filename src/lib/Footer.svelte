@@ -109,9 +109,7 @@ a {
 	color: white;
 	font-family: OpenSans;
 	font-weight: normal;
-	/* white-space: nowrap; */
 	text-decoration: underline;
-	/* border-bottom: solid 1px white; */
 }
 
 a:hover {
