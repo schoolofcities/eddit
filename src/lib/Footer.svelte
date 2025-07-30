@@ -13,28 +13,50 @@
 
 		<img src={edditLogo} alt="EDDIT Logo" class="logo-eddit"/>
 
-		<p>
+		<p style="max-width: 720px; margin: 0 auto;  text-align: left;">
+			<br><br>
+			The Equitable Development Data Insight Training (EDDIT) Initiative works with organizations in small and mid-sized cities to offer free data analysis and storytelling training. In 2023-24, the initiative helped groups working toward urban equitable development to identify and build their case, translate complex data into accessible narratives, and make compelling, evidence-based arguments to influence decision-making, build trust, and mobilize support from funders, policymakers, community members, and collaborators.
+			<br><br>
+			EDDIT is funded by the Robert Wood Johnson Foundation.
 			<br>
-				<a href="./albuquerque-nm">Albuquerque, NM</a>
-				<a href="./bridgeport-ct">Bridgeport, CT</a>
-				<a href="./champaign-il">Champaign, IL</a>
-				<a href="./cook-county-il">Cook County, IL</a>
-				<a href="./eau-claire-wi">Eau Claire, WI</a>
-				<a href="./greensboro-nc">Greensboro, NC</a>
-				<a href="./halifax-ns">Halifax, NS</a>
-				<a href="./high-point-nc">High Point, NC</a>
-				<a href="./wood-buffalo-ab">Wood Buffalo, AB</a>
-				<a href="./worcester-ma">Worcester, MA</a>
 			<br>
+			<strong>Case studies:</strong>
 		</p>
 
-
-		<p style="max-width: 720px; margin: 0 auto;">
-			<br>
-			Credits:
-			<br>
-			A list of everyone involved in this project
-			<br><br>
+		<p class="footer-link">
+			<a href="./albuquerque-nm">Albuquerque, NM</a>
+		</p>
+		<p class="footer-link">
+			<a href="./bridgeport-ct">Bridgeport, CT - Increasing tree cover for equity and climate resilience</a>
+		</p>
+		<p class="footer-link">
+			<a href="./albuquerque-nm">Albuquerque, NM</a>
+		</p>
+		<p class="footer-link">
+			<a href="./champaign-il">Champaign, IL</a>
+		</p>
+		<p class="footer-link">
+			<a href="./cook-county-il">Cook County, IL</a>
+		</p>
+		<p class="footer-link">
+			<a href="./eau-claire-wi">Eau Claire, WI</a>
+		</p>
+		<p class="footer-link">
+			<a href="./greensboro-nc">Greensboro, NC - Increasing the availability of healthy food</a>
+		</p>
+		<p class="footer-link">
+			<a href="./halifax-ns">Halifax, NS</a>
+		</p>
+		<p class="footer-link">
+			<a href="./wood-buffalo-ab">Wood Buffalo, AB</a>
+		</p>
+		<p class="footer-link">
+			<a href="./worcester-ma">Worcester, MA</a>
+		</p>
+		
+		<p style="max-width: 720px; margin: 0 auto;  text-align: left;">
+			
+			<br><br><br>
 		</p>
 
 		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-unis"/>
@@ -56,8 +78,9 @@
 }
 
 .footer-content {
-	max-width: 700px;
+	max-width: 720px;
 	margin: 0 auto;
+	width: 100%;
 }
 
 p {
@@ -65,19 +88,28 @@ p {
 	font-family: OpenSans;
 	font-weight: normal;
 	font-size: 15px;
-	line-height: 20px;
+	line-height: 21px;
 	padding-left: 20px;
 	padding-right: 20px;
-	text-align: center;
+	text-align: left;
+	width: calc(100% - 40px);
+}
+
+p strong {
+	font-family: OpenSansBold;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.footer-link {
+	margin-bottom: -0px;
 }
 
 a {
 	color: white;
 	font-family: OpenSans;
 	font-weight: normal;
-	padding-right: 5px;
-	padding-left: 5px;
-	white-space: nowrap;
+	/* white-space: nowrap; */
 	text-decoration: underline;
 	/* border-bottom: solid 1px white; */
 }
@@ -87,14 +119,14 @@ a:hover {
 }
 
 .logo-unis {
-	width: 275px;
+	width: 320px;
 	height: auto;
 	display: block;
 	margin: 0 auto;
 }
 
 .logo-eddit {
-	width: 200px;
+	width: 220px;
 	height: auto;
 	display: block;
 	margin: 0 auto;
