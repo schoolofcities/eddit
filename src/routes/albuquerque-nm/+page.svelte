@@ -18,7 +18,7 @@
 
 <Title
 	title={"Albuquerque, NM"}
-	subtitle={"Subtitle?"}
+	subtitle={"Tortilla's are fun"}
 	image={titleImage}
 />
 
