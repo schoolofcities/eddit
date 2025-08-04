@@ -1,165 +1,251 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="Layer_3" version="1.1" viewBox="0 0 360 310">
   <g id="background">
-    <image x="0.0" y="0.0" width="360.0" height="310.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+    <image x="0.0" y="0.0" width="360.0" height="310.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
   </g>
   <g id="foreground">
     <g id="text4" class="st6" style="isolation: isolate;">
-      <text class="st8" transform="translate(20 25)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <text class="st8" transform="translate(20 25)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
-      </text>
-      <text class="st8" transform="translate(20 25)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">The population of East </tspan>
-        </tspan>
-      </text>
-      <text class="st8" transform="translate(20 49)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <text class="st8" transform="translate(20 49)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
-      </text>
-      <text class="st8" transform="translate(20 49)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Greensboro is growing almost </tspan>
-        </tspan>
-      </text>
-      <text class="st8" transform="translate(20 73)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <text class="st8" transform="translate(20 73)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
-      </text>
-      <text class="st8" transform="translate(20 73)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">twice as fast as the rest of the </tspan>
-        </tspan>
-      </text>
-      <text class="st8" transform="translate(20 97)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <text class="st8" transform="translate(20 97)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
-      </text>
-      <text class="st8" transform="translate(20 97)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">city</tspan>
-        </tspan>
-      </text>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 25)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <text class="st8" transform="translate(20 25)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 25)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">The population of East</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 49)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <text class="st8" transform="translate(20 49)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 49)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Greensboro is growing almost</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 73)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <text class="st8" transform="translate(20 73)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 73)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">twice as fast as the rest of the</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 97)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <text class="st8" transform="translate(20 97)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st8" transform="translate(20 97)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">city</tspan>
+          </tspan>
+        </text>
+      </g>
     </g>
     <g id="text7" class="st6" style="isolation: isolate;">
-      <text class="st5" transform="translate(19 302)" style="fill: #9a9896; isolation: isolate; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
-        <text class="st5" transform="translate(19 302)" style="fill: #9a9896; isolation: isolate; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st5" transform="translate(19 302)" style="fill: #9a9896; isolation: isolate; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: American Community Survey (2013, 2022)</tspan>
-        </tspan>
-      </text>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st5" transform="translate(19 302)" style="fill: #9a9896; isolation: isolate; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+          <text class="st5" transform="translate(19 302)" style="fill: #9a9896; isolation: isolate; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st5" transform="translate(19 302)" style="fill: #9a9896; isolation: isolate; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: American Community Survey (2013, 2022)</tspan>
+          </tspan>
+        </text>
+      </g>
     </g>
-    <g id="g24">
-      <g id="text11" class="st6" style="isolation: isolate;">
-        <text class="st9" transform="translate(48.6 200.3)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
-          <text class="st9" transform="translate(48.6 200.3)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;"/>
-        </text>
-        <text class="st9" transform="translate(48.6 200.3)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">East Greensboro</tspan>
-          </tspan>
-        </text>
-      </g>
-      <g id="text12" class="st6" style="isolation: isolate;">
-        <text class="st9" transform="translate(48.6 149.9)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
-          <text class="st9" transform="translate(48.6 149.9)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;"/>
-        </text>
-        <text class="st9" transform="translate(48.6 149.9)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">West Greensboro</tspan>
-          </tspan>
-        </text>
-      </g>
-      <g id="text14" class="st6" style="isolation: isolate;">
-        <text class="st11" transform="translate(270.4 192.6)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <text class="st11" transform="translate(270.4 192.6)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
-        </text>
-        <text class="st11" transform="translate(270.4 192.6)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">34.5%</tspan>
-          </tspan>
-        </text>
-        <text class="st11" transform="translate(270.4 209.4)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <text class="st11" transform="translate(270.4 209.4)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
-        </text>
-        <text class="st11" transform="translate(270.4 209.4)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Growth</tspan>
-          </tspan>
-        </text>
-      </g>
-      <g id="text16" class="st6" style="isolation: isolate;">
-        <text class="st11" transform="translate(251.6 142)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <text class="st11" transform="translate(251.6 142)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
-        </text>
-        <text class="st11" transform="translate(251.6 142)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">18%</tspan>
-          </tspan>
-        </text>
-        <text class="st11" transform="translate(251.6 158.8)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <text class="st11" transform="translate(251.6 158.8)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
-        </text>
-        <text class="st11" transform="translate(251.6 158.8)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Growth</tspan>
-          </tspan>
-        </text>
-      </g>
-      <g id="text21" class="st6" style="isolation: isolate;">
+    <g id="text21" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
         <text class="st10" transform="translate(125.1 269.6)" style="isolation: isolate; font-family: OpenSans; fill: #231f20; font-size: 14px; font-weight: normal; font-style: normal;">
           <text class="st10" transform="translate(125.1 269.6)" style="isolation: isolate; font-family: OpenSans; fill: #231f20; font-size: 14px; font-weight: normal; font-style: normal;"/>
         </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
         <text class="st10" transform="translate(125.1 269.6)" style="isolation: isolate; font-family: OpenSans; fill: #231f20; font-size: 14px; font-weight: normal; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Population</tspan>
           </tspan>
         </text>
       </g>
-      <g id="text22" class="st6" style="isolation: isolate;">
+    </g>
+    <g id="text22" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
         <text class="st12" transform="translate(147.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;">
           <text class="st12" transform="translate(147.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;"/>
         </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
         <text class="st12" transform="translate(147.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">100K</tspan>
           </tspan>
         </text>
       </g>
-      <g id="text23" class="st6" style="isolation: isolate;">
+    </g>
+    <g id="text23" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
         <text class="st12" transform="translate(37.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;">
           <text class="st12" transform="translate(37.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;"/>
         </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
         <text class="st12" transform="translate(37.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0</tspan>
           </tspan>
         </text>
       </g>
-      <g id="text24" class="st6" style="isolation: isolate;">
+    </g>
+    <g id="text24" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
         <text class="st12" transform="translate(267.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;">
           <text class="st12" transform="translate(267.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;"/>
         </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
         <text class="st12" transform="translate(267.2 248)" style="isolation: isolate; font-family: OpenSans; font-size: 12px; fill: #231f20; font-weight: normal; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">200K</tspan>
           </tspan>
         </text>
       </g>
-      <g id="text3" class="st6" style="isolation: isolate;">
-        <text class="st7" transform="translate(217.1 123.3) rotate(-45)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
-          <text class="st7" transform="translate(217.1 123.3) rotate(-45)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;"/>
+    </g>
+    <g id="text12" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
+        <text class="st9" transform="translate(48.6 200.4)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
+          <text class="st9" transform="translate(48.6 200.4)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;"/>
         </text>
-        <text class="st7" transform="translate(217.1 123.3) rotate(-45)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st9" transform="translate(48.6 200.4)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Rest of Greensboro</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="text16" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
+        <text class="st11" transform="translate(251.6 192.5)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+          <text class="st11" transform="translate(251.6 192.5)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st11" transform="translate(251.6 192.5)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">18%</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st11" transform="translate(251.6 209.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+          <text class="st11" transform="translate(251.6 209.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st11" transform="translate(251.6 209.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Growth</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g>
+      <g id="text11" class="st6" style="isolation: isolate;">
+        <g class="st6" style="isolation: isolate;">
+          <text class="st9" transform="translate(48.6 149.8)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
+            <text class="st9" transform="translate(48.6 149.8)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="text11" class="st6" style="isolation: isolate;">
+        <g class="st6" style="isolation: isolate;">
+          <text class="st9" transform="translate(48.6 149.8)" style="isolation: isolate; font-family: OpenSansBold; fill: #fff; font-size: 13px; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">East Greensboro</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="text14" class="st6" style="isolation: isolate;">
+        <g class="st6" style="isolation: isolate;">
+          <text class="st11" transform="translate(270.4 142.1)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+            <text class="st11" transform="translate(270.4 142.1)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="text14" class="st6" style="isolation: isolate;">
+        <g class="st6" style="isolation: isolate;">
+          <text class="st11" transform="translate(270.4 142.1)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">34.5%</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="text14" class="st6" style="isolation: isolate;">
+        <g class="st6" style="isolation: isolate;">
+          <text class="st11" transform="translate(270.4 158.9)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+            <text class="st11" transform="translate(270.4 158.9)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;"/>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g id="text14" class="st6" style="isolation: isolate;">
+        <g class="st6" style="isolation: isolate;">
+          <text class="st11" transform="translate(270.4 158.9)" style="isolation: isolate; font-family: OpenSansBold; font-size: 14px; fill: #00a08a; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+              <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Growth</tspan>
+            </tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g id="text3" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
+        <text class="st7" transform="translate(176.7 122.7)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
+          <text class="st7" transform="translate(176.7 122.7)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st7" transform="translate(176.7 122.7)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2013</tspan>
           </tspan>
         </text>
       </g>
-      <g id="text4-7" class="st6" style="isolation: isolate;">
-        <text class="st7" transform="translate(247.7 123.3) rotate(-45)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
-          <text class="st7" transform="translate(247.7 123.3) rotate(-45)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;"/>
+    </g>
+    <g id="text41" data-name="text4" class="st6" style="isolation: isolate;">
+      <g class="st6" style="isolation: isolate;">
+        <text class="st7" transform="translate(234.7 122.7)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
+          <text class="st7" transform="translate(234.7 122.7)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;"/>
         </text>
-        <text class="st7" transform="translate(247.7 123.3) rotate(-45)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
+      </g>
+      <g class="st6" style="isolation: isolate;">
+        <text class="st7" transform="translate(234.7 122.7)" style="isolation: isolate; font-family: OpenSansBold; fill: #231f20; font-size: 14px; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2022</tspan>
           </tspan>

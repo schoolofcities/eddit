@@ -76,19 +76,23 @@
     <inkscape:grid id="grid23" color="#0099e5" empcolor="#0099e5" empopacity="0.30196078" empspacing="5" enabled="true" opacity="0.14902" originx="0" originy="0" spacingx="1" spacingy="1" units="px" visible="false"/>
   </sodipodi:namedview>
   <g id="text2" class="st7">
-    <text class="st9" transform="translate(20 35)"><tspan x="0" y="0">The population of East Greensboro is growing almost twice as fast</tspan></text>
-    <text class="st9" transform="translate(20 59)"><tspan x="0" y="0">as the rest of the city</tspan></text>
+    <g class="st7">
+      <text class="st9" transform="translate(20 35)"><tspan x="0" y="0">The population of East Greensboro is growing almost twice as fast</tspan></text>
+    </g>
+    <g class="st7">
+      <text class="st9" transform="translate(20 59)"><tspan x="0" y="0">as the rest of the city</tspan></text>
+    </g>
   </g>
   <g id="text3" class="st7">
-    <text class="st8" transform="translate(456.3 91.4)"><tspan x="0" y="0">2013</tspan></text>
+    <g class="st7">
+      <text class="st8" transform="translate(436.3 91.4)"><tspan x="0" y="0">2013</tspan></text>
+    </g>
   </g>
   <g id="text4" class="st7">
-    <text class="st8" transform="translate(526.8 91.4)"><tspan x="0" y="0">2022</tspan></text>
+    <g class="st7">
+      <text class="st8" transform="translate(566.7 91.4)"><tspan x="0" y="0">2022</tspan></text>
+    </g>
   </g>
-  <rect id="rect4" class="st12" x="90" y="100" width="467.1" height="30"/>
-  <rect id="rect5" class="st4" x="90" y="100" width="396.5" height="30"/>
-  <rect id="rect6" class="st12" x="90" y="150" width="508.7" height="30"/>
-  <rect id="rect7" class="st4" x="90" y="150" width="378.3" height="30"/>
   <g id="g12">
     <line id="line7" class="st0" x1="90" y1="200" x2="630" y2="200"/>
     <line id="line8" class="st0" x1="90" y1="194.5" x2="90" y2="205.4"/>
@@ -97,40 +101,68 @@
     <line id="line11" class="st0" x1="225" y1="197" x2="225" y2="202.9"/>
     <line id="line12" class="st0" x1="495" y1="197" x2="495" y2="202.9"/>
   </g>
-  <g id="text12" class="st7">
-    <text class="st5" transform="translate(97.3 170.3)"><tspan x="0" y="0">East Greensboro</tspan></text>
-  </g>
-  <g id="text13" class="st7">
-    <text class="st5" transform="translate(96.5 120.4)"><tspan x="0" y="0">West Greensboro</tspan></text>
-  </g>
   <g id="text14" class="st7">
-    <text class="st10" transform="translate(324.5 247)"><tspan x="0" y="0">Population</tspan></text>
+    <g class="st7">
+      <text class="st10" transform="translate(324.5 247)"><tspan x="0" y="0">Population</tspan></text>
+    </g>
   </g>
   <g id="text15" class="st7">
-    <text class="st10" transform="translate(344.3 221.4)"><tspan x="0" y="0">100K</tspan></text>
+    <g class="st7">
+      <text class="st10" transform="translate(344.3 221.4)"><tspan x="0" y="0">100K</tspan></text>
+    </g>
   </g>
   <g id="text16" class="st7">
-    <text class="st10" transform="translate(85.5 221.4)"><tspan x="0" y="0">0</tspan></text>
+    <g class="st7">
+      <text class="st10" transform="translate(85.5 221.4)"><tspan x="0" y="0">0</tspan></text>
+    </g>
   </g>
   <g id="text17" class="st7">
-    <text class="st10" transform="translate(614.6 221.4)"><tspan x="0" y="0">200K</tspan></text>
-  </g>
-  <g id="text19" class="st7">
-    <text class="st11" transform="translate(607.4 162.5)"><tspan x="0" y="0">34.5%</tspan></text>
-    <text class="st11" transform="translate(607.4 179.3)"><tspan x="0" y="0">Growth</tspan></text>
-  </g>
-  <g id="text19-0" class="st7">
-    <text class="st11" transform="translate(564.7 111.6)"><tspan x="0" y="0">18%</tspan></text>
-    <text class="st11" transform="translate(564.7 128.4)"><tspan x="0" y="0">Growth</tspan></text>
+    <g class="st7">
+      <text class="st10" transform="translate(614.6 221.4)"><tspan x="0" y="0">200K</tspan></text>
+    </g>
   </g>
   <g id="text22" class="st7">
-    <text class="st6" transform="translate(20 290)"><tspan x="0" y="0">Data Source: American Community Survey (2013, 2022)</tspan></text>
+    <g class="st7">
+      <text class="st6" transform="translate(20 290)"><tspan x="0" y="0">Data Source: American Community Survey (2013, 2022)</tspan></text>
+    </g>
   </g>
   <line id="line23" class="st1" x1="20.4" y1="275.5" x2="700" y2="275.5"/>
-  <path id="path23" class="st3" d="M468.3,180v-30"/>
-  <path id="path24" class="st3" d="M486.5,130v-30"/>
-  <path id="path26" class="st2" d="M486.5,98.7v-3.2"/>
-  <path id="path26-3" class="st2" d="M468.3,149.1v-3.2"/>
-  <path id="path26-7" class="st2" d="M598.7,149.1v-3.2"/>
-  <path id="path26-4" class="st2" d="M557.1,98.7v-3.2"/>
+  <rect id="rect4" class="st12" x="89.4" y="150" width="467.1" height="30"/>
+  <rect id="rect5" class="st4" x="89.4" y="150" width="396.5" height="30"/>
+  <g id="text13" class="st7">
+    <g class="st7">
+      <text class="st5" transform="translate(95.9 170.4)"><tspan x="0" y="0">Rest of Greensboro</tspan></text>
+    </g>
+  </g>
+  <g id="text19-0" class="st7">
+    <g class="st7">
+      <text class="st11" transform="translate(564.1 161.6)"><tspan x="0" y="0">18%</tspan></text>
+    </g>
+    <g class="st7">
+      <text class="st11" transform="translate(564.1 178.4)"><tspan x="0" y="0">Growth</tspan></text>
+    </g>
+  </g>
+  <path id="path24" class="st3" d="M485.9,180v-30"/>
+  <path id="path26" class="st2" d="M485.9,148.7v-3.2"/>
+  <path id="path26-4" class="st2" d="M556.5,148.7v-3.2"/>
+  <g>
+    <rect id="rect6" class="st12" x="90" y="100" width="508.7" height="30"/>
+    <rect id="rect7" class="st4" x="90" y="100" width="378.3" height="30"/>
+    <g id="text12" class="st7">
+      <g class="st7">
+        <text class="st5" transform="translate(97.3 120.3)"><tspan x="0" y="0">East Greensboro</tspan></text>
+      </g>
+    </g>
+    <g id="text19" class="st7">
+      <g class="st7">
+        <text class="st11" transform="translate(607.4 112.5)"><tspan x="0" y="0">34.5%</tspan></text>
+      </g>
+      <g class="st7">
+        <text class="st11" transform="translate(607.4 129.3)"><tspan x="0" y="0">Growth</tspan></text>
+      </g>
+    </g>
+    <path id="path23" class="st3" d="M468.3,130v-30"/>
+    <path id="path26-3" class="st2" d="M468.3,99.1v-3.2"/>
+    <path id="path26-7" class="st2" d="M598.7,99.1v-3.2"/>
+  </g>
 </svg>
