@@ -56,7 +56,7 @@
 
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={"Increasing the availability of healthy food"}
