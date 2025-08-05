@@ -30,9 +30,6 @@
 			<a href="./bridgeport-ct">Bridgeport, CT - Increasing tree cover for equity and climate resilience</a>
 		</p>
 		<p class="footer-link">
-			<a href="./albuquerque-nm">Albuquerque, NM</a>
-		</p>
-		<p class="footer-link">
 			<a href="./champaign-il">Champaign, IL</a>
 		</p>
 		<p class="footer-link">
@@ -46,6 +43,9 @@
 		</p>
 		<p class="footer-link">
 			<a href="./halifax-ns">Halifax, NS</a>
+		</p>
+		<p class="footer-link">
+			<a href="./high-point-nc">High Point, NC</a>
 		</p>
 		<p class="footer-link">
 			<a href="./wood-buffalo-ab">Wood Buffalo, AB</a>

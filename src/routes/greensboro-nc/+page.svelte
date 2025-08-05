@@ -144,19 +144,15 @@
 			Lack of food access in low-income and minority communities is the result of decades of segregationist policies that have deterred investments from food retailers. A 2015 study of 202 U.S. cities found that neighbourhoods redlined by the Home Owners’ Loan Corporation (HOLC) in the 1930s — typically because they were home to poor or racial minority populations — still have lower access to food today compared to areas that received higher HOLC ratings.<Footnote id={addFootnote(fns[9])} /> 
 		</p>
 
-	</div>
+		<div class="callout">
 
-	<div class="callout">
+			<h2>From food deserts to areas of limited access</h2>
 
-		<h2>From food deserts to areas of limited access</h2>
+			<p>
+				The term “food desert” is a common way to refer to communities with limited access to food, but policy researchers and community organizations today are moving away from the term. In part, this is because the term suggests that the lack of access to food in some communities is a natural occurrence, rather than a result of specific choices made by planners and retailers over time. It also fails to acknowledge that communities may have an abundance of places, such as convenience stores, where healthy food choices could be made available.<Footnote id={addFootnote(fns[10])} /> Perhaps most importantly, the term overlooks the need for systemic change to address racial and economic inequities that persist in American cities.<Footnote id={addFootnote(fns[11])} /> This case study refers to East Greensboro as an area with limited food access, highlighting that this is a spatial issue, but one that is neither enduring nor natural.
+			</p>
 
-		<p>
-			The term “food desert” is a common way to refer to communities with limited access to food, but policy researchers and community organizations today are moving away from the term. In part, this is because the term suggests that the lack of access to food in some communities is a natural occurrence, rather than a result of specific choices made by planners and retailers over time. It also fails to acknowledge that communities may have an abundance of places, such as convenience stores, where healthy food choices could be made available.<Footnote id={addFootnote(fns[10])} /> Perhaps most importantly, the term overlooks the need for systemic change to address racial and economic inequities that persist in American cities.<Footnote id={addFootnote(fns[11])} /> This case study refers to East Greensboro as an area with limited food access, highlighting that this is a spatial issue, but one that is neither enduring nor natural.
-		</p>
-
-	</div>
-
-	<div class="text">
+		</div>
 
 		<h2>
 			Why local availability matters
