@@ -10,7 +10,7 @@
 	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
 	import ImageSingle from "$lib/ImageSingle.svelte";
 
-	import titleImage from "./assets/high-point-title.png";
+	import titleImage from "./assets/high-point-title.jpg";
 	import kilbyImage from "./assets/Kilby_hotel.png";
 	import ymcaImage from "./assets/YMCA.png";
 	import washstImage from "./assets/img-koonts-mcghee-drug-store.png"
@@ -83,6 +83,8 @@
 
 		<div class="callout">
 
+			<h2>Thrive High Point</h2>
+
 			<p>
 				Business High Point (BHP) launched <a href="https://www.bhpchamber.org/professionals/development/thrivehp/" target="_blank">Thrive High Point</a> in 2021 as a citywide program that provides Black- and women-owned businesses with training, business mentoring services, and access to financing and micro-grants. Since its inception, Thrive High Point has been a beacon for equitable economic development in High Point by supporting hundreds of local entrepreneurs and small businesses. Shop on Washington Street is an initiative of BHP that takes similar principles and ties them to revitalization efforts in the historic district of Washington Street.
 			</p>
@@ -120,51 +122,43 @@
 		<p>
 			As one of several historic concentrations of Black-owned businesses that grew in the United States during this era, Washington Street has long been a centre for entrepreneurship and community in High Point and was once known as the city’s “Black Wall Street.” The corridor boasted 18 Black-owned businesses by 1910 and over 50 by 1940, most of which were clustered along a few blocks. These included law offices, a public library, and accommodations such as The Kilby Hotel, The Henley Hotel, and The Hinton Hotel. Unlike many others in the area, these hotels all primarily served Black guests, who would otherwise have difficulty finding affordable places to stay in the area. 
 		</p>
-		<h3>The Kilby Hotel, 1981</h3>
 	</div>
 
 	<ImageSingle
 		imageURL={kilbyImage}
+		caption='<a href="https://www.highpointdiscovered.org/stories/a-legacy-that-still-stands-the-kilby-hotel-and-arcade/" target="_blank">The Kilby Hotel</a> opened in 1910, and was named after Nannie and John Kilby, who came to High Point to start their lives together in the 1890s. The couple were early investors in High Point real estate, as they built the hotel and High Point’s recreation hall for African Americans, as the city was then operating under Jim Crow laws. Shops were on the first floor, and the nightclub next to the hotel hosted jazz performers, with Nat King Cole and Ella Fitzgerald making appearances. This photograph is from 1981. The hotel was demolished in 2014 due to structural damage.'
 		source="Image credit: High Point Historical Society, High Point, North Carolina. Photograph by Roy Shipman."
+		altText="Historical photograph of the Kilby Hotel, 1981"
 		maxWidth="{680}px"
 		link="Yes"
 	/>
 
 	<div class="text">
-
-		<p>
-			<i><a href="https://www.highpointdiscovered.org/stories/a-legacy-that-still-stands-the-kilby-hotel-and-arcade/" target="_blank">The Kilby Hotel</a> opened in 1910, and was named after Nannie and John Kilby, who came to High Point to start their lives together in the 1890s. The couple were early investors in High Point real estate, as they built the hotel and High Point’s recreation hall for African Americans, as the city was then operating under Jim Crow laws. Shops were on the first floor, and the nightclub next to the hotel hosted jazz performers, with Nat King Cole and Ella Fitzgerald making appearances. The hotel was demolished in 2014 due to structural damage.</i>
-		</p>
 
 		<p>
 			As a Black Main Street, the corridor was also a source of community networks that fostered local culture. The community of Washington Street grew to include private schools that provided quality education for the city’s African American children, at a time when public education was not available to them. Spaces such as the Young Men's Community Club, Odd Fellows Hall, and churches allowed the African American community to host events, social clubs, and civic and religious gatherings, and the neighbourhood’s theatres became bustling entertainment centres. In spite of broader racial and economic inequalities, Washington Street became a vibrant centre for the African American community in High Point, and the entrepreneurial success of its residents built wealth for the Black population and city as a whole. 
 		</p>
-
-		<h3>Women reading booklets at the Washington Street Carl Chavis YMCA, 1951</h3>
 	</div>
 
 	<ImageSingle
 		imageURL={ymcaImage}
+		caption='This photograph shows women reading booklets at the Washington Street Carl Chavis YMCA, 1951. <a href="https://www.hpymca.org/main/our-history/" target="_blank">The YMCA of High Point</a> was established in 1923 on Washington Street, led by Edgar Hartley, with youth-centred programs like sports and Sunday school. It expanded during WWII to serve servicemen and later emphasized teen programs like Hi-Y. The Carl Chavis Branch opened in 1944 for African American youth. It was named after an African American soldier from High Point who sacrificed his life in the war.'
 		source="Image credit: High Point Historical Society, High Point, North Carolina; Chamber of Commerce Collection."
+		altText="Historical photograph of women reading booklets at the Washington Street Carl Chavis YMCA, 1951"
 		maxWidth="{680}px"
 		link="Yes"
 	/>
 
 
 	<div class="text">
-		<p>
-			<i><a href="https://www.hpymca.org/main/our-history/" target="_blank">The YMCA of High Point</a> was established in 1923 on Washington Street, led by Edgar Hartley, with youth-centred programs like sports and Sunday school. It expanded during WWII to serve servicemen and later emphasized teen programs like Hi-Y. The Carl Chavis Branch opened in 1944 for African American youth. It was named after an African American soldier from High Point who sacrificed his life in the war.</i>
-		</p>
 
 		<p>
 			However, the second half of the 20th century brought several challenges for Black Main Streets. Urban renewal programs across the country destroyed neighbourhoods with high concentrations of low-income and Black residents to make way for redevelopment, usually contributing to urban decline despite the intended efforts of “improving” the built environment.<Footnote id={addFootnote(fns[2])} /> In High Point, a new highway bisected Washington Street, and schools, cultural centres, and small businesses in the area closed down as many people moved out to the suburbs in search of more opportunities.<Footnote id={addFootnote(fns[3])} /> Many of the original buildings have been demolished due to structural damage over the years. To show the effects of these changes, the data storytelling team created interactive sliders comparing aerial views of the neighbourhood, highlighting the impacts of urban renewal over a 60-year period. 
 		</p>
 
-		<h3>Aerial view of Washington Street in 1958 and 2023</h3>
-
 	</div>
 
-	<div style="max-width: 680px; margin: 0 auto;">
+	<div style="max-width: 680px; margin: 0 auto; padding-left: 20px; padding-right: 20px;">
 		<CompareImage
 			imageLeftSrc="/eddit/high-point/imagery-1958.png"
 			imageLeftAlt="left"
@@ -174,6 +168,12 @@
 			--slider-color="#fff"
 			--slider-width="5px"
 		/>
+		<div class="caption-container">
+			<p>
+				<span class="caption-text">Aerial view of Washington Street in 1958 (before urban renewal) and 2023 (after buildings demolished). </span>
+				<span class="caption-source">Source: City of High Point.</span>
+			</p>
+		</div>
 	</div>
 
 	<div class="text">
@@ -185,13 +185,12 @@
 		<p>
 			The cyclical nature of trade shows and the dominance of the furniture industry reshaped High Point’s downtown, and Washington Street suffered along with many other businesses as downtown economic diversity rapidly declined.<Footnote id={addFootnote(fns[5])} /> Small businesses moved to the suburbs, and the number of retail shops, personal services, and “third places” such as cafes, pool halls, and community clubs — many of which were Black-owned — decreased by 80 percent.
 		</p>
-
-		<h3>500 Washington Street, 1954 and 2023</h3>
 	
 	</div>
 
 	<ImageSingle
 		imageURL={washstImage}
+		caption={"500 Washington Street, 1954 and 2023."}
 		source={"Image credit: High Point Historical Society, High Point, North Carolina; High Point Enterprise Negative Collection"}
 		maxWidth={"680px"}
 	/>
@@ -213,14 +212,13 @@
 			In the 21st century, High Point has experienced a period of change and revitalization. The downtown core has grown, particularly through redevelopment efforts around the High Point Market, including the live-work-play redevelopment at <a href="https://www.congdonyards.com/" target="_blank">Congdon Yards</a>, a historic factory space. The private High Point University has also seen significant investment and growth in its campus footprint and student population, and some retail and services — typically catering to students — have been built in the surrounding area. This economic growth has not yet reached Washington Street, but there is an opportunity to create a better-connected High Point by investing in the historic and centrally located neighbourhood.
 		</p>
 
-		<h3>Congdon Yards, The Commons</h3>
-
 	</div>
 
 	<ImageSingle
 		imageURL={congdonImage}
+		caption={"Congdon Yards, The Commons."}
 		source={"Image credit: Michelle Zhang (2023)"}
-		maxWidth={"400px"}
+		maxWidth={"365px"}
 	/>
 
 	<div class="text">

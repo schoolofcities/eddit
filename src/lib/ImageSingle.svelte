@@ -11,13 +11,15 @@
 	// adjust left-padding based on if image fits the full screen or not
 	let containerWidth = 0;
 	$: numericMaxWidth = parseInt(maxWidth); // remove "px"
-	$: paddingLeft = containerWidth < numericMaxWidth ? '20px' : '1px';
+	// $: paddingLeft = containerWidth < numericMaxWidth ? '20px' : '1px';
+
+	// $: console.log(caption, maxWidth, paddingLeft);
 
 </script>
 
 <div 
 	class="img-container" 
-	style="max-width: {maxWidth}"
+	style="max-width: {maxWidth};"
 	bind:offsetWidth={containerWidth}
 	>
 	{#if link === 'Yes'}
@@ -27,10 +29,13 @@
 	{:else}
 		<img src={imageURL} alt={altText} loading="lazy" />
 	{/if}
-	<p 
-		class="img-caption" 
-		style="padding-left: {paddingLeft}"
-	>{@html caption} <span id="image-source">{@html source}</span></p>
+	<div class="caption-container">
+		<p>
+			<span class="caption-text">{@html caption}</span>
+			<span class="caption-source">{@html source}</span>
+		</p>
+	</div>
+	
 </div>
 
 <style>
@@ -39,11 +44,13 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		width: 100%;
+		/* width: 100%; */
 		margin: 0 auto;
 		padding-top: 10px;
 		padding-bottom: 0px;
 		margin-bottom: 30px;
+		padding-left: 20px;
+		padding-right: 20px;
 	}
 
 	img {
@@ -71,35 +78,42 @@
 		display: block;
 	}
 
-	p {
-		text-align: left;
-		padding-left: 1px;
-		margin: 0px;
-		box-sizing: border-box;
-		width: 100%;
-	}
 
-	.img-caption {
+
+	/* .caption-container p {
 		font-family: OpenSansBold;
 		font-weight: normal;
-		color: var(--brandGray70);
+		color: var(--brandGray80);
 		font-size: 12px;
 		line-height: 18px;
 		margin-top: 2px;
 		margin-bottom: 0px;
 		padding-top: 0px;
+		padding-right: 5px;
+	}
+
+	#image-caption :global(a)  {
+		font-family: OpenSansBold;
+		font-weight: normal;
+		color: var(--brandGray80);
+	}
+	#image-caption :global(a:hover)  {
+		color: var(--brandMedGreen);
 	}
 
 	#image-source {
 		font-family: OpenSans;
 		font-weight: normal;
-		color: var(--brandGray50);
+		color: var(--brandGray60);
 	}
 
-	@media screen and (max-width: 600px) {
-		p {
-			padding-left: 15px;
-		}
+	#image-source :global(a)  {
+		font-family: OpenSans;
+		font-weight: normal;
+		color: var(--brandGray60);
 	}
+	#image-source :global(a:hover)  {
+		color: var(--brandMedGreen);
+	} */
 
 </style>

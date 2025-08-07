@@ -109,14 +109,15 @@ body {
 	padding: 0px;
 	margin: 0px;
 	background-color: var(--brandWhite);
-	min-width: 360px;
+	min-width: calc(100% - 100dvw + 360px);
+	width: 100%;
 }
 
 main {
 	margin: 0 auto;
 	padding: 0px;
 	width: 100%;
-	min-width: 360px;
+	min-width: calc(100% - 100dvw + 360px);
 	max-width: 100%;
 	position: relative;
 }
@@ -214,7 +215,9 @@ a {
 	color: var(--brandBlack);
 	text-decoration: underline;
 	font-family: SourceSerif;
+	font-weight: normal;
 }
+
 
 a:hover {
 	color: var(--brandMedGreen);
@@ -322,4 +325,49 @@ a:hover {
 		font-size: 15px;
 		line-height: 23px;
 	}
+}
+
+
+.caption-container {
+	margin-top: 2px;
+	margin-bottom: 0px;
+	padding-top: 2px;
+	width: 100%;
+}
+
+.caption-container p {
+	font-family: OpenSansBold;
+	font-weight: normal;
+	color: var(--brandGray80);
+	font-size: 12px;
+	line-height: 18px;
+	text-align: left;
+	padding-left: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.caption-text a  {
+	font-family: OpenSansBold;
+	font-weight: normal;
+	color: var(--brandGray80);
+}
+.caption-text a:hover  {
+	color: var(--brandMedGreen);
+}
+
+.caption-source {
+	font-family: OpenSans;
+	font-weight: normal;
+	color: var(--brandGray60);
+}
+
+.caption-source a  {
+	font-family: OpenSans;
+	font-weight: normal;
+	color: var(--brandGray60);
+}
+.caption-source a:hover  {
+	color: var(--brandMedGreen);
 }
