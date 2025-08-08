@@ -24,7 +24,7 @@
 		</p>
 
 		<p class="footer-link">
-			<a href="./albuquerque-nm">Albuquerque, NM</a>
+			<a href="./albuquerque-nm">Albuquerque, NM - From tracks to trail: Planning for equitable (re)development</a>
 		</p>
 		<p class="footer-link">
 			<a href="./bridgeport-ct">Bridgeport, CT - Increasing tree cover for equity and climate resilience</a>
@@ -45,7 +45,7 @@
 			<a href="./halifax-ns">Halifax, NS</a>
 		</p>
 		<p class="footer-link">
-			<a href="./high-point-nc">High Point, NC</a>
+			<a href="./high-point-nc">High Point, NC - Revitalizing historic main streets through entrepreneurship</a>
 		</p>
 		<p class="footer-link">
 			<a href="./wood-buffalo-ab">Wood Buffalo, AB</a>
