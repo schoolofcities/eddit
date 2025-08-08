@@ -1,333 +1,317 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="0 0 720 320">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #377e9f;
+      }
 
-<svg
-   width="720"
-   height="320"
-   viewBox="0 0 190.5 84.666669"
-   version="1.1"
-   id="svg1"
-   xml:space="preserve"
-   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
-   sodipodi:docname="abq-visitor-chart-720.svg"
-   inkscape:export-filename="visitor-chart-example.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.78456821"
-     inkscape:cx="526.4042"
-     inkscape:cy="441.00691"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"><inkscape:grid
-       id="grid1"
-       units="px"
-       originx="0"
-       originy="0"
-       spacingx="2.6458333"
-       spacingy="2.6458334"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
-       visible="false" /></sodipodi:namedview><defs
-     id="defs1" /><g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"><path
-       stroke="#000000"
-       stroke-width="0.422482"
-       stroke-linecap="butt"
-       stroke-opacity="0"
-       clip-path="url(#id_0)"
-       d="M 39.258456,44.979165 V 31.749999 h 22.88289 v 13.229166 z"
-       fill-rule="nonzero"
-       id="path8"
-       style="fill:none;stroke:none;stroke-miterlimit:10" /><path
-       stroke="#000000"
-       stroke-width="0.422482"
-       stroke-linecap="butt"
-       stroke-opacity="0"
-       clip-path="url(#id_0)"
-       d="M 62.141346,44.979165 V 31.749999 h 89.386244 v 13.229166 z"
-       fill-rule="nonzero"
-       id="path10"
-       style="fill:none;stroke:none;stroke-miterlimit:10" /><path
-       fill="#ea4335"
-       clip-path="url(#id_0)"
-       d="M 43.787359,71.437497 V 63.499995 H 145.09176 v 7.937502 z"
-       fill-rule="nonzero"
-       id="path11"
-       style="fill:#007fa3;fill-opacity:1;stroke:none;stroke-width:0.174194;stroke-linecap:square;stroke-miterlimit:10" /><path
-       stroke="#000000"
-       stroke-width="0.422482"
-       stroke-linecap="butt"
-       stroke-opacity="0"
-       clip-path="url(#id_0)"
-       d="M 151.52759,44.979165 V 31.749999 h 12.51407 v 13.229166 z"
-       fill-rule="nonzero"
-       id="path12"
-       style="fill:none;stroke:none;stroke-miterlimit:10" /><path
-       stroke="#000000"
-       stroke-width="0.422244"
-       stroke-linecap="butt"
-       stroke-opacity="0"
-       clip-path="url(#id_0)"
-       d="M 171.97916,52.916663 V 39.687497 h 14.64281 v 13.229166 z"
-       fill-rule="nonzero"
-       id="path14"
-       style="fill:none;stroke:none;stroke-miterlimit:10" /><path
-       fill="#34a853"
-       clip-path="url(#id_0)"
-       d="M 5.2916665,39.687499 V 31.75 H 21.905582 v 7.937499 z"
-       fill-rule="nonzero"
-       id="path15"
-       style="fill:#1e3765;fill-opacity:1;stroke:none;stroke-width:0.174194;stroke-linecap:square;stroke-miterlimit:10" /><path
-       stroke="#000000"
-       stroke-width="0.422482"
-       stroke-linecap="butt"
-       stroke-opacity="0"
-       clip-path="url(#id_0)"
-       d="M 144.55501,44.979165 V 31.749999 h 18.59235 c 0.39493,0 0.7151,0.111752 0.7151,0.249607 v 12.729952 c 0,0.137855 -0.32017,0.249607 -0.7151,0.249607 z"
-       fill-rule="nonzero"
-       id="path16"
-       style="fill:none;stroke:none;stroke-miterlimit:10" /><path
-       fill="#ff6d01"
-       clip-path="url(#id_0)"
-       d="m 21.905582,55.562495 v -7.9375 h 21.881777 v 7.937502 z"
-       fill-rule="nonzero"
-       id="path17"
-       style="fill:#8dbf2e;fill-opacity:1;stroke:none;stroke-width:0.174194;stroke-linecap:square;stroke-miterlimit:10"
-       sodipodi:nodetypes="ccccc" /><rect
-       style="opacity:1;fill:#f1c500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.437723;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;paint-order:fill markers stroke"
-       id="rect1"
-       width="163.30275"
-       height="7.9374995"
-       x="21.905584"
-       y="31.75" /><rect
-       style="fill:#00a189;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.407342;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;paint-order:fill markers stroke"
-       id="rect1-5"
-       width="141.42097"
-       height="7.9375"
-       x="43.787361"
-       y="47.625" /><rect
-       style="fill:#6fc7ea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.216952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;paint-order:fill markers stroke"
-       id="rect1-5-2"
-       width="40.11657"
-       height="7.9375024"
-       x="145.09177"
-       y="63.5" /><rect
-       style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;stroke-width:0.139617;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;paint-order:fill markers stroke"
-       id="rect1-5-2-0"
-       width="16.613916"
-       height="7.9375024"
-       x="5.2916675"
-       y="47.625" /><rect
-       style="fill:#f2f2f2;fill-rule:evenodd;stroke:none;stroke-width:0.212523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:5;paint-order:fill markers stroke"
-       id="rect1-5-2-0-4"
-       width="38.495693"
-       height="7.9375024"
-       x="5.2916675"
-       y="63.5" /><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="90.887924"
-       y="29.936619"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="90.887924"
-         y="29.936619">New Mexico</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="5.2916665"
-       y="30.002764"
-       id="text1-2"><tspan
-         sodipodi:role="line"
-         id="tspan1-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="5.2916665"
-         y="30.002764">Out of state</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="92.189835"
-       y="46.255112"
-       id="text1-9"><tspan
-         sodipodi:role="line"
-         id="tspan1-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="92.189835"
-         y="46.255112">Bernalillo County</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="137.30222"
-       y="61.468647"
-       id="text1-9-7"><tspan
-         sodipodi:role="line"
-         id="tspan1-4-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="137.30222"
-         y="61.468647">Downtown Albuquerque</tspan></text><text
-       xml:space="preserve"
-       style="font-size:4.7625px;line-height:1.2;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-       x="125.93199"
-       y="84.800415"
-       id="text1-9-7-6"><tspan
-         sodipodi:role="line"
-         id="tspan1-4-3-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;font-family:Afacad;-inkscape-font-specification:Afacad;stroke-width:0.264583"
-         x="125.93199"
-         y="84.800415" /></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="43.528976"
-       y="61.745251"
-       id="text1-9-7-3"><tspan
-         sodipodi:role="line"
-         id="tspan1-4-3-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="43.528976"
-         y="61.745251">Other neighborhoods</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-       x="21.647202"
-       y="46.032845"
-       id="text1-9-1"><tspan
-         sodipodi:role="line"
-         id="tspan1-4-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="21.647202"
-         y="46.032845">Other counties</tspan></text><text
-       xml:space="preserve"
-       style="font-size:6.08542px;line-height:1.2;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-       x="5.2916665"
-       y="9.340518"
-       id="text1-6"><tspan
-         sodipodi:role="line"
-         id="tspan1-64"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="5.2916665"
-         y="9.340518">An average of 79,100 people visit Downtown Albuquerque per day</tspan></text><text
-       xml:space="preserve"
-       style="font-size:5.29167px;line-height:1.2;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-       x="4.8761883"
-       y="16.324123"
-       id="text1-6-1"><tspan
-         sodipodi:role="line"
-         id="tspan1-64-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         x="4.8761883"
-         y="16.324123">Here's where they are visiting from:</tspan></text><text
-       xml:space="preserve"
-       style="font-size:4.23333px;line-height:0.8;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;stroke-width:0.264583"
-       x="8.9698296"
-       y="37.223564"
-       id="text1-6-7"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
-         x="8.9698296"
-         y="37.223564"
-         id="tspan2-5">9.4%</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1a1a1a;fill-opacity:1;stroke-width:0.264583"
-       x="27.464113"
-       y="53.282009"
-       id="text1-6-7-3"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke-width:0.264583"
-         x="27.464113"
-         y="53.282009"
-         id="tspan2-5-1">12.2%</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
-       x="96.762497"
-       y="37.225632"
-       id="text1-6-7-3-2"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#1a1a1a;stroke-width:0.264583"
-         x="96.762497"
-         y="37.225632"
-         id="tspan2-5-1-7">90.6%</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
-       x="103.16383"
-       y="53.412758"
-       id="text1-6-7-3-2-5"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
-         x="103.16383"
-         y="53.412758"
-         id="tspan2-5-1-7-9">78.4%</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
-       x="159.83934"
-       y="69.287758"
-       id="text1-6-7-3-2-5-2"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#1a1a1a;stroke-width:0.264583"
-         x="159.83934"
-         y="69.287758"
-         id="tspan2-5-1-7-9-9">22.0%</tspan></text><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.264583"
-       x="89.076736"
-       y="69.287766"
-       id="text1-6-7-3-2-5-2-8"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:0.8;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#f9f9f9;stroke-width:0.264583"
-         x="89.076736"
-         y="69.287766"
-         id="tspan2-5-1-7-9-9-8">56.4%</tspan></text><path
-       style="fill:none;stroke:#5e5c64;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
-       d="M 5.2916665,21.166667 H 185.20833"
-       id="path3"
-       sodipodi:nodetypes="cc" /><path
-       style="fill:none;stroke:#9a9996;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 5.2916665,76.729169 H 185.20833"
-       id="path3-5"
-       sodipodi:nodetypes="cc" /><text
-       class="cls-8"
-       id="text9"
-       x="4.9800577"
-       y="81.664711"
-       style="font-size:3.175px;font-family:OpenSans, 'Open Sans';fill:#9a9896;stroke-width:0.264583"><tspan
-         x="4.9800577"
-         y="81.664711"
-         id="tspan9"
-         style="stroke-width:0.264583">Data Source: Spectus (2022)</tspan></text><path
-       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.905582,31.75 v 7.9375"
-       id="path7" /><path
-       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 43.787361,47.625 v 7.9375"
-       id="path7-4" /><path
-       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 43.787359,63.499996 v 7.9375"
-       id="path7-4-2" /><path
-       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 145.09177,63.5 v 7.9375"
-       id="path7-4-6" /><path
-       style="fill:none;stroke:#ffffff;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 21.773292,47.625002 v 7.9375"
-       id="path7-4-8" /></g></svg>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        stroke: #fff;
+      }
+
+      .st0, .st8, .st3, .st9, .st5 {
+        stroke-miterlimit: 15.1;
+      }
+
+      .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st8, .st9, .st5 {
+        fill: none;
+      }
+
+      .st11 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st12 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st13 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st14 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st15 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st16 {
+        clip-path: url(#clippath-14);
+      }
+
+      .st17 {
+        clip-path: url(#clippath-12);
+      }
+
+      .st1 {
+        fill: #97be4a;
+      }
+
+      .st1, .st2, .st4, .st6, .st7 {
+        stroke-miterlimit: 10;
+      }
+
+      .st19 {
+        fill: #1a1a1a;
+      }
+
+      .st19, .st20, .st21, .st22, .st23, .st24, .st25 {
+        isolation: isolate;
+      }
+
+      .st19, .st20, .st24, .st25 {
+        font-size: 16px;
+      }
+
+      .st19, .st23, .st24, .st25 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .st26 {
+        fill: #8dbf2e;
+      }
+
+      .st18 {
+        clip-path: url(#clippath);
+      }
+
+      .st20, .st21 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .st8 {
+        stroke: #9a9996;
+      }
+
+      .st8, .st9, .st5 {
+        stroke-width: 1px;
+      }
+
+      .st21 {
+        fill: #9a9896;
+        font-size: 12px;
+      }
+
+      .st27 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st28 {
+        clip-path: url(#clippath-15);
+      }
+
+      .st29 {
+        clip-path: url(#clippath-13);
+      }
+
+      .st30 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st31 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st32 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st33 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st34 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st35 {
+        fill: #1e3765;
+      }
+
+      .st2 {
+        fill: #f1c500;
+      }
+
+      .st23 {
+        font-size: 20px;
+      }
+
+      .st3 {
+        fill: #6fc7ea;
+      }
+
+      .st9 {
+        stroke: #5e5c64;
+      }
+
+      .st24 {
+        fill: #fff;
+      }
+
+      .st36 {
+        fill: #007fa3;
+      }
+
+      .st4 {
+        fill: #00a189;
+      }
+
+      .st5 {
+        stroke-linecap: round;
+      }
+
+      .st6 {
+        fill: #243662;
+      }
+
+      .st25 {
+        fill: #f9f9f9;
+      }
+
+      .st7 {
+        fill: #f2f2f2;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="st18" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <polygon class="st11" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polygon class="st12" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <polygon class="st14" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <polygon class="st13" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon class="st15" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <polygon class="st17" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <polygon class="st16" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    </clipPath>
+  </defs>
+  <rect class="st0" x="171.6" y="240" width="382.9" height="30"/>
+  <sodipodi:namedview id="namedview1" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="526.4042" inkscape:cy="441.00691" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1016" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.78456821" pagecolor="#ffffff" showgrid="false">
+    <inkscape:grid id="grid1" color="#0099e5" dotted="false" empcolor="#0099e5" empopacity="0.30196078" empspacing="5" gridanglex="30" gridanglez="30" opacity="0.14901961" originx="0" originy="0" spacingx="2.6458333" spacingy="2.6458334" units="px" visible="false"/>
+  </sodipodi:namedview>
+  <g class="st30">
+    <path id="path8" class="st10" d="M148.4,170v-50h86.5v50h-86.5Z"/>
+  </g>
+  <g class="st31">
+    <path id="path10" class="st10" d="M234.9,170v-50h337.8v50H234.9Z"/>
+  </g>
+  <g class="st34">
+    <path id="path11" class="st36" d="M165.5,270v-30h382.9v30H165.5Z"/>
+  </g>
+  <g class="st32">
+    <path id="path12" class="st10" d="M572.7,170v-50h47.3v50h-47.3Z"/>
+  </g>
+  <g class="st33">
+    <path id="path14" class="st10" d="M650,200v-50h55.3v50h-55.3Z"/>
+  </g>
+  <g class="st27">
+    <path id="path15" class="st35" d="M20,150v-30h62.8v30H20Z"/>
+  </g>
+  <g class="st29">
+    <path id="path16" class="st10" d="M546.3,170v-50h70.3c1.5,0,2.7.4,2.7.9v48.1c0,.5-1.2.9-2.7.9h-70.3Z"/>
+  </g>
+  <g class="st28">
+    <path id="path17" class="st26" d="M82.8,210v-30h82.7v30h-82.7Z" sodipodi:nodetypes="ccccc"/>
+  </g>
+  <rect id="rect1-5-2-0" class="st7" x="637.2" y="180" width="62.8" height="30"/>
+  <rect id="rect1-5-2-0-4" class="st7" x="554.5" y="240" width="145.5" height="30"/>
+  <g id="text1-9-7-3" class="st22">
+    <text class="st20" transform="translate(277.3 233.4)"><tspan x="0" y="0">Other neighbourhoods</tspan></text>
+  </g>
+  <g id="text1-6" class="st22">
+    <text class="st23" transform="translate(20 35.3)"><tspan x="0" y="0">Many of downtown Albuquerque’s 79,100 daily visitors are locals</tspan></text>
+  </g>
+  <g id="text1-6-1" class="st22">
+    <text class="st20" transform="translate(20 61.7)"><tspan x="0" y="0">Here&apos;s where they are visiting from:</tspan></text>
+  </g>
+  <rect class="st6" x="637.2" y="120" width="62.8" height="30"/>
+  <g id="text1-2" class="st22">
+    <text class="st20" transform="translate(611.9 113.4)"><tspan x="0" y="0">Out of state</tspan></text>
+  </g>
+  <g id="text1-6-7" class="st22">
+    <text class="st24" transform="translate(651.1 140.7)"><tspan x="0" y="0">9.4%</tspan></text>
+  </g>
+  <g id="text1-6-7-3-2-5-2-8" class="st22">
+    <text class="st25" transform="translate(342.8 261.9)"><tspan x="0" y="0">56.4%</tspan></text>
+  </g>
+  <path id="path3" class="st9" d="M20,80h680" sodipodi:nodetypes="cc"/>
+  <path id="path3-5" class="st8" d="M20,290h680" sodipodi:nodetypes="cc"/>
+  <g id="text9" class="st22">
+    <text class="st21" transform="translate(18.8 308.7)"><tspan x="0" y="0">Data Source: Cuebiq (2022)</tspan></text>
+  </g>
+  <path id="path7" class="st5" d="M82.8,120v30"/>
+  <path id="path7-4-2" class="st5" d="M165.5,240v30"/>
+  <rect class="st1" x="554.5" y="180" width="82.7" height="30"/>
+  <g id="text1-9-1" class="st22">
+    <text class="st20" transform="translate(526.4 174)"><tspan x="0" y="0">Other counties</tspan></text>
+  </g>
+  <g id="text1-6-7-3" class="st22">
+    <text class="st19" transform="translate(575.5 201.4)"><tspan x="0" y="0">12.2%</tspan></text>
+  </g>
+  <path id="path7-4-8" class="st5" d="M554,180v30"/>
+  <sodipodi:namedview id="namedview1" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="526.4042" inkscape:cy="441.00691" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1016" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.78456821" pagecolor="#ffffff" showgrid="false">
+    <inkscape:grid id="grid1" color="#0099e5" dotted="false" empcolor="#0099e5" empopacity="0.30196078" empspacing="5" gridanglex="30" gridanglez="30" opacity="0.14901961" originx="0" originy="0" spacingx="2.6458333" spacingy="2.6458334" units="px" visible="false"/>
+  </sodipodi:namedview>
+  <rect id="rect1" class="st2" x="20" y="120" width="617.2" height="30"/>
+  <g id="text1" class="st22">
+    <text class="st20" transform="translate(280.7 113.1)"><tspan x="0" y="0">New Mexico</tspan></text>
+  </g>
+  <g id="text1-6-7-3-2" class="st22">
+    <text class="st19" transform="translate(302.9 140.7)"><tspan x="0" y="0">90.6%</tspan></text>
+  </g>
+  <rect id="rect1-5" class="st4" x="20" y="180" width="534.5" height="30"/>
+  <g id="text1-9" class="st22">
+    <text class="st20" transform="translate(202.9 174.8)"><tspan x="0" y="0">Bernalillo County</tspan></text>
+  </g>
+  <g id="text1-6-7-3-2-5" class="st22">
+    <text class="st24" transform="translate(244.4 201.9)"><tspan x="0" y="0">78.4%</tspan></text>
+  </g>
+  <rect id="rect1-5-2" class="st3" x="20" y="240" width="151.6" height="30"/>
+  <g id="text1-9-7" class="st22">
+    <text class="st20" transform="translate(20 232.3)"><tspan x="0" y="0">Downtown Albuquerque</tspan></text>
+  </g>
+  <g id="text1-6-7-3-2-5-2" class="st22">
+    <text class="st19" transform="translate(77.4 261.9)"><tspan x="0" y="0">22.0%</tspan></text>
+  </g>
+</svg>
