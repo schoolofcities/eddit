@@ -1,156 +1,126 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg1" version="1.1" viewBox="0 0 720 320">
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg1" version="1.1" viewBox="0 0 720 320" sodipodi:docname="abq-visitor-chart-720.svg" inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)">
   <g id="background">
-    <image x="0.0" y="0.0" width="720.0" height="320.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+    <image x="0.0" y="0.0" width="720.0" height="320.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
   </g>
   <g id="foreground">
     <g id="text1-9-7-3" class="st22" style="isolation: isolate;">
-      <text class="st20" transform="translate(277.3 233.4)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <text class="st20" transform="translate(277.3 233.4)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st20" transform="translate(277.3 233.4)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Other neighbourhoods</tspan>
+      <text class="st20" transform="translate(277.3 233.4)" id="text23" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="st20" transform="translate(277.3 233.4)" id="text23" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan23" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan23" style="font-weight: normal; font-style: normal;">Other neighbourhoods</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6" class="st22" style="isolation: isolate;">
-      <text class="st23" transform="translate(20 35.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;">
-        <text class="st23" transform="translate(20 35.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;"/>
-      </text>
-      <text class="st23" transform="translate(20 35.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Many of downtown Albuquerque’s 79,100 daily visitors are locals</tspan>
+      <text class="st23" transform="translate(20 35.3)" id="text24" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;">
+        <text class="st23" transform="translate(20 35.3)" id="text24" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan24" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan24" style="font-weight: normal; font-style: normal;">Many of downtown Albuquerque’s 79,100 daily visitors are locals</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6-1" class="st22" style="isolation: isolate;">
-      <text class="st20" transform="translate(20 61.7)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <text class="st20" transform="translate(20 61.7)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st20" transform="translate(20 61.7)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Here's where they are visiting from:</tspan>
+      <text class="st20" transform="translate(20 61.7)" id="text25" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="st20" transform="translate(20 61.7)" id="text25" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan25" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan25" style="font-weight: normal; font-style: normal;">Here's where they are visiting from:</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-2" class="st22" style="isolation: isolate;">
-      <text class="st20" transform="translate(611.9 113.4)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <text class="st20" transform="translate(611.9 113.4)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st20" transform="translate(611.9 113.4)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Out of state</tspan>
+      <text class="st20" transform="translate(611.9 113.4)" id="text26" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="st20" transform="translate(611.9 113.4)" id="text26" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan26" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan26" style="font-weight: normal; font-style: normal;">Out of state</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6-7" class="st22" style="isolation: isolate;">
-      <text class="st24" transform="translate(651.1 140.7)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;">
-        <text class="st24" transform="translate(651.1 140.7)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;"/>
-      </text>
-      <text class="st24" transform="translate(651.1 140.7)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">9.4%</tspan>
+      <text class="st24" transform="translate(651.1 140.7)" id="text27" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;">
+        <text class="st24" transform="translate(651.1 140.7)" id="text27" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan27" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan27" style="font-weight: normal; font-style: normal;">9.4%</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6-7-3-2-5-2-8" class="st22" style="isolation: isolate;">
-      <text class="st25" transform="translate(342.8 261.9)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #f9f9f9; font-style: normal;">
-        <text class="st25" transform="translate(342.8 261.9)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #f9f9f9; font-style: normal;"/>
-      </text>
-      <text class="st25" transform="translate(342.8 261.9)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #f9f9f9; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">56.4%</tspan>
+      <text class="st25" transform="translate(342.8 261.9)" id="text28" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #f9f9f9; font-style: normal;">
+        <text class="st25" transform="translate(342.8 261.9)" id="text28" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #f9f9f9; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan28" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan28" style="font-weight: normal; font-style: normal;">56.4%</tspan>
         </tspan>
       </text>
     </g>
     <g id="text9" class="st22" style="isolation: isolate;">
-      <text class="st21" transform="translate(18.8 308.7)" style="isolation: isolate; font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
-        <text class="st21" transform="translate(18.8 308.7)" style="isolation: isolate; font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st21" transform="translate(18.8 308.7)" style="isolation: isolate; font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: Cuebiq (2022)</tspan>
+      <text class="st21" transform="translate(18.8 308.7)" id="text29" style="isolation: isolate; font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="st21" transform="translate(18.8 308.7)" id="text29" style="isolation: isolate; font-family: OpenSans; fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan29" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan29" style="font-weight: normal; font-style: normal;">Data Source: Cuebiq (2022)</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-9-1" class="st22" style="isolation: isolate;">
-      <text class="st20" transform="translate(526.4 174)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <text class="st20" transform="translate(526.4 174)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st20" transform="translate(526.4 174)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Other counties</tspan>
+      <text class="st20" transform="translate(526.4 174)" id="text30" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="st20" transform="translate(526.4 174)" id="text30" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan30" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan30" style="font-weight: normal; font-style: normal;">Other counties</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6-7-3" class="st22" style="isolation: isolate;">
-      <text class="st19" transform="translate(575.5 201.4)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
-        <text class="st19" transform="translate(575.5 201.4)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;"/>
-      </text>
-      <text class="st19" transform="translate(575.5 201.4)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">12.2%</tspan>
+      <text class="st19" transform="translate(575.5 201.4)" id="text31" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
+        <text class="st19" transform="translate(575.5 201.4)" id="text31" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan31" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan31" style="font-weight: normal; font-style: normal;">12.2%</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1" class="st22" style="isolation: isolate;">
-      <text class="st20" transform="translate(280.7 113.1)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <text class="st20" transform="translate(280.7 113.1)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st20" transform="translate(280.7 113.1)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">New Mexico</tspan>
+      <text class="st20" transform="translate(280.7 113.1)" id="text32" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="st20" transform="translate(280.7 113.1)" id="text32" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan32" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan32" style="font-weight: normal; font-style: normal;">New Mexico</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6-7-3-2" class="st22" style="isolation: isolate;">
-      <text class="st19" transform="translate(302.9 140.7)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
-        <text class="st19" transform="translate(302.9 140.7)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;"/>
-      </text>
-      <text class="st19" transform="translate(302.9 140.7)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">90.6%</tspan>
+      <text class="st19" transform="translate(302.9 140.7)" id="text33" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
+        <text class="st19" transform="translate(302.9 140.7)" id="text33" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan33" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan33" style="font-weight: normal; font-style: normal;">90.6%</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-9" class="st22" style="isolation: isolate;">
-      <text class="st20" transform="translate(202.9 174.8)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <text class="st20" transform="translate(202.9 174.8)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st20" transform="translate(202.9 174.8)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Bernalillo County</tspan>
+      <text class="st20" transform="translate(202.9 174.8)" id="text34" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="st20" transform="translate(202.9 174.8)" id="text34" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan34" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan34" style="font-weight: normal; font-style: normal;">Bernalillo County</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6-7-3-2-5" class="st22" style="isolation: isolate;">
-      <text class="st24" transform="translate(244.4 201.9)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;">
-        <text class="st24" transform="translate(244.4 201.9)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;"/>
-      </text>
-      <text class="st24" transform="translate(244.4 201.9)" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">78.4%</tspan>
+      <text class="st24" transform="translate(244.4 201.9)" id="text35" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;">
+        <text class="st24" transform="translate(244.4 201.9)" id="text35" style="isolation: isolate; font-size: 16px; font-family: OpenSansBold; fill: #fff; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan35" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan35" style="font-weight: normal; font-style: normal;">78.4%</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-9-7" class="st22" style="isolation: isolate;">
-      <text class="st20" transform="translate(20 232.3)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <text class="st20" transform="translate(20 232.3)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
-      </text>
-      <text class="st20" transform="translate(20 232.3)" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Downtown Albuquerque</tspan>
+      <text class="st20" transform="translate(20 232.3)" id="text36" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <text class="st20" transform="translate(20 232.3)" id="text36" style="isolation: isolate; font-size: 16px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan36" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan36" style="font-weight: normal; font-style: normal;">Downtown Albuquerque</tspan>
         </tspan>
       </text>
     </g>
     <g id="text1-6-7-3-2-5-2" class="st22" style="isolation: isolate;">
-      <text class="st19" transform="translate(77.4 261.9)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
-        <text class="st19" transform="translate(77.4 261.9)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;"/>
-      </text>
-      <text class="st19" transform="translate(77.4 261.9)" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">22.0%</tspan>
+      <text class="st19" transform="translate(77.4 261.9)" id="text37" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;">
+        <text class="st19" transform="translate(77.4 261.9)" id="text37" style="fill: #1a1a1a; isolation: isolate; font-size: 16px; font-family: OpenSansBold; font-style: normal;"/>
+        <tspan x="0" y="0" id="tspan37" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" id="tspan37" style="font-weight: normal; font-style: normal;">22.0%</tspan>
         </tspan>
       </text>
     </g>

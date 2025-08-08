@@ -50,8 +50,8 @@
 	title={"From tracks to trail: Planning for equitable (re)development"}
 	subtitle={"A case study of Albuquerque, New Mexico"}
 	image={titleImage}
-	imageCaption={"caption"}
-	imageSource={"Photo by"}
+	imageCaption={"Underused rail spur in Albuquerque."}
+	imageSource={"Photo by Jeff Allen, August 2023."}
 />
 
 <main>
@@ -59,8 +59,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. SmithKathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a>"}
+			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
+			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Remus Herteg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -91,11 +91,16 @@
 		<p>
 			One of the most famous examples of this kind of adaptive infrastructure reuse is New York City’s High Line, which turned an abandoned elevated rail line in the Chelsea neighbourhood of Manhattan into a 2.3-kilometre (1.4-mile) linear park. Since it opened in 2009, the High Line has become one of the city’s top attractions, with an estimated 8 million visitors each year, and it has spawned a wave of new development in the surrounding area. Property values nearby increased by over 100 percent in the first decade after the project’s announcement.<Footnote id={addFootnote(fns[4])} />
 		</p>
+
+		<h3>
+			Economic impact of selected linear parks in the United States
+		</h3>
+		
 		<p>
 			Linear parks and urban greenways in other cities have seen similar economic benefits. The Indianapolis Cultural Trail in Indiana increased nearby property values by a combined US$1 billion in its first five years and expanded the customer base of businesses along its route, creating new employment opportunities for residents.<Footnote id={addFootnote(fns[5])} /> San Antonio, Texas redeveloped its riverfront over a period of several decades, with a major expansion in 2011 that added 24 kilometres (15 miles) of hiking and biking trails and a series of art installations and public spaces along the river’s downtown stretch. It has become a major attraction for locals and tourists alike, drawing tens of millions of visitors annually and generating billions of dollars in economic activity.<Footnote id={addFootnote(fns[6])} /> The Atlanta Beltline, a 35-kilometre (22-mile) loop trail in Georgia that transformed old rail infrastructure encircling the city into new green spaces, has created an estimated $9 billion in economic impacts for the city as of 2023, and has spurred new investments in transit and affordable housing.<Footnote id={addFootnote(fns[7])} /> There is great potential for these projects to fulfill both economic and equity objectives by serving as connective tissue for communities, spaces for recreation in dense downtowns, and platforms for additional public and private investment.<Footnote id={addFootnote(fns[8])} /> 
 		</p>
 
-		<h2>Economic impact of selected linear parks in the United States</h2>
+		
 
 	</div>
 

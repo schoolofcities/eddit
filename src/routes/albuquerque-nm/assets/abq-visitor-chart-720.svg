@@ -1,8 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" viewBox="0 0 720 320">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg1"
+   version="1.1"
+   viewBox="0 0 720 320"
+   sodipodi:docname="abq-visitor-chart-720.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
-  <defs>
-    <style>
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.00157;stroke-linecap:square;stroke-dasharray:none"
+     id="rect37"
+     width="720"
+     height="320"
+     x="0"
+     y="0" />
+  <defs
+     id="defs16">
+    <style
+       id="style1">
       .st0 {
         fill: #377e9f;
       }
@@ -177,141 +195,517 @@
         fill: #f2f2f2;
       }
     </style>
-    <clipPath id="clippath">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon1" />
     </clipPath>
-    <clipPath id="clippath-1">
-      <polygon class="st18" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-1">
+      <polygon
+         class="st18"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath)"
+         id="polygon2" />
     </clipPath>
-    <clipPath id="clippath-2">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath-2">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon3" />
     </clipPath>
-    <clipPath id="clippath-3">
-      <polygon class="st11" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-3">
+      <polygon
+         class="st11"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath-2)"
+         id="polygon4" />
     </clipPath>
-    <clipPath id="clippath-4">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath-4">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon5" />
     </clipPath>
-    <clipPath id="clippath-5">
-      <polygon class="st12" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-5">
+      <polygon
+         class="st12"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath-4)"
+         id="polygon6" />
     </clipPath>
-    <clipPath id="clippath-6">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath-6">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon7" />
     </clipPath>
-    <clipPath id="clippath-7">
-      <polygon class="st14" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-7">
+      <polygon
+         class="st14"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath-6)"
+         id="polygon8" />
     </clipPath>
-    <clipPath id="clippath-8">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath-8">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon9" />
     </clipPath>
-    <clipPath id="clippath-9">
-      <polygon class="st13" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-9">
+      <polygon
+         class="st13"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath-8)"
+         id="polygon10" />
     </clipPath>
-    <clipPath id="clippath-10">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath-10">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon11" />
     </clipPath>
-    <clipPath id="clippath-11">
-      <polygon class="st15" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-11">
+      <polygon
+         class="st15"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath-10)"
+         id="polygon12" />
     </clipPath>
-    <clipPath id="clippath-12">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath-12">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon13" />
     </clipPath>
-    <clipPath id="clippath-13">
-      <polygon class="st17" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-13">
+      <polygon
+         class="st17"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath-12)"
+         id="polygon14" />
     </clipPath>
-    <clipPath id="clippath-14">
-      <polygon class="st10" points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"/>
+    <clipPath
+       id="clippath-14">
+      <polygon
+         class="st10"
+         points="3.8 3.8 7.6 3.8 3.8 7.6 3.8 3.8"
+         id="polygon15" />
     </clipPath>
-    <clipPath id="clippath-15">
-      <polygon class="st16" points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"/>
+    <clipPath
+       id="clippath-15">
+      <polygon
+         class="st16"
+         points="-3.8 -3.8 -7.6 -3.8 -3.8 -7.6 -3.8 -3.8"
+         clip-path="url(#clippath-14)"
+         id="polygon16" />
     </clipPath>
   </defs>
-  <rect class="st0" x="171.6" y="240" width="382.9" height="30"/>
-  <sodipodi:namedview id="namedview1" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="526.4042" inkscape:cy="441.00691" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1016" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.78456821" pagecolor="#ffffff" showgrid="false">
-    <inkscape:grid id="grid1" color="#0099e5" dotted="false" empcolor="#0099e5" empopacity="0.30196078" empspacing="5" gridanglex="30" gridanglez="30" opacity="0.14901961" originx="0" originy="0" spacingx="2.6458333" spacingy="2.6458334" units="px" visible="false"/>
+  <rect
+     class="st0"
+     x="171.6"
+     y="240"
+     width="382.9"
+     height="30"
+     id="rect16" />
+  <sodipodi:namedview
+     id="namedview1"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:current-layer="svg1"
+     inkscape:cx="407.82409"
+     inkscape:cy="252.80587"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0.0"
+     inkscape:showpageshadow="2"
+     inkscape:window-height="1016"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:zoom="1.109547"
+     pagecolor="#ffffff"
+     showgrid="false"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       color="#0099e5"
+       dotted="false"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       empspacing="5"
+       gridanglex="30"
+       gridanglez="30"
+       opacity="0.14902"
+       originx="0"
+       originy="0"
+       spacingx="2.6458333"
+       spacingy="2.6458334"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
-  <g class="st30">
-    <path id="path8" class="st10" d="M148.4,170v-50h86.5v50h-86.5Z"/>
+  <g
+     class="st30"
+     clip-path="url(#clippath-1)"
+     id="g16">
+    <path
+       id="path8"
+       class="st10"
+       d="M148.4,170v-50h86.5v50h-86.5Z" />
   </g>
-  <g class="st31">
-    <path id="path10" class="st10" d="M234.9,170v-50h337.8v50H234.9Z"/>
+  <g
+     class="st31"
+     clip-path="url(#clippath-3)"
+     id="g17">
+    <path
+       id="path10"
+       class="st10"
+       d="M234.9,170v-50h337.8v50H234.9Z" />
   </g>
-  <g class="st34">
-    <path id="path11" class="st36" d="M165.5,270v-30h382.9v30H165.5Z"/>
+  <g
+     class="st34"
+     clip-path="url(#clippath-5)"
+     id="g18">
+    <path
+       id="path11"
+       class="st36"
+       d="M165.5,270v-30h382.9v30H165.5Z" />
   </g>
-  <g class="st32">
-    <path id="path12" class="st10" d="M572.7,170v-50h47.3v50h-47.3Z"/>
+  <g
+     class="st32"
+     clip-path="url(#clippath-7)"
+     id="g19">
+    <path
+       id="path12"
+       class="st10"
+       d="M572.7,170v-50h47.3v50h-47.3Z" />
   </g>
-  <g class="st33">
-    <path id="path14" class="st10" d="M650,200v-50h55.3v50h-55.3Z"/>
+  <g
+     class="st33"
+     clip-path="url(#clippath-9)"
+     id="g20">
+    <path
+       id="path14"
+       class="st10"
+       d="M650,200v-50h55.3v50h-55.3Z" />
   </g>
-  <g class="st27">
-    <path id="path15" class="st35" d="M20,150v-30h62.8v30H20Z"/>
+  <g
+     class="st27"
+     clip-path="url(#clippath-11)"
+     id="g21">
+    <path
+       id="path15"
+       class="st35"
+       d="M20,150v-30h62.8v30H20Z" />
   </g>
-  <g class="st29">
-    <path id="path16" class="st10" d="M546.3,170v-50h70.3c1.5,0,2.7.4,2.7.9v48.1c0,.5-1.2.9-2.7.9h-70.3Z"/>
+  <g
+     class="st29"
+     clip-path="url(#clippath-13)"
+     id="g22">
+    <path
+       id="path16"
+       class="st10"
+       d="M546.3,170v-50h70.3c1.5,0,2.7.4,2.7.9v48.1c0,.5-1.2.9-2.7.9h-70.3Z" />
   </g>
-  <g class="st28">
-    <path id="path17" class="st26" d="M82.8,210v-30h82.7v30h-82.7Z" sodipodi:nodetypes="ccccc"/>
+  <g
+     class="st28"
+     clip-path="url(#clippath-15)"
+     id="g23">
+    <path
+       id="path17"
+       class="st26"
+       d="M82.8,210v-30h82.7v30h-82.7Z"
+       sodipodi:nodetypes="ccccc" />
   </g>
-  <rect id="rect1-5-2-0" class="st7" x="637.2" y="180" width="62.8" height="30"/>
-  <rect id="rect1-5-2-0-4" class="st7" x="554.5" y="240" width="145.5" height="30"/>
-  <g id="text1-9-7-3" class="st22">
-    <text class="st20" transform="translate(277.3 233.4)"><tspan x="0" y="0">Other neighbourhoods</tspan></text>
+  <rect
+     id="rect1-5-2-0"
+     class="st7"
+     x="637.2"
+     y="180"
+     width="62.8"
+     height="30" />
+  <rect
+     id="rect1-5-2-0-4"
+     class="st7"
+     x="554.5"
+     y="240"
+     width="145.5"
+     height="30" />
+  <g
+     id="text1-9-7-3"
+     class="st22">
+    <text
+       class="st20"
+       transform="translate(277.3 233.4)"
+       id="text23"><tspan
+         x="0"
+         y="0"
+         id="tspan23">Other neighbourhoods</tspan></text>
   </g>
-  <g id="text1-6" class="st22">
-    <text class="st23" transform="translate(20 35.3)"><tspan x="0" y="0">Many of downtown Albuquerque’s 79,100 daily visitors are locals</tspan></text>
+  <g
+     id="text1-6"
+     class="st22">
+    <text
+       class="st23"
+       transform="translate(20 35.3)"
+       id="text24"><tspan
+         x="0"
+         y="0"
+         id="tspan24">Many of downtown Albuquerque’s 79,100 daily visitors are locals</tspan></text>
   </g>
-  <g id="text1-6-1" class="st22">
-    <text class="st20" transform="translate(20 61.7)"><tspan x="0" y="0">Here&apos;s where they are visiting from:</tspan></text>
+  <g
+     id="text1-6-1"
+     class="st22">
+    <text
+       class="st20"
+       transform="translate(20 61.7)"
+       id="text25"><tspan
+         x="0"
+         y="0"
+         id="tspan25">Here's where they are visiting from:</tspan></text>
   </g>
-  <rect class="st6" x="637.2" y="120" width="62.8" height="30"/>
-  <g id="text1-2" class="st22">
-    <text class="st20" transform="translate(611.9 113.4)"><tspan x="0" y="0">Out of state</tspan></text>
+  <rect
+     class="st6"
+     x="637.2"
+     y="120"
+     width="62.8"
+     height="30"
+     id="rect25" />
+  <g
+     id="text1-2"
+     class="st22">
+    <text
+       class="st20"
+       transform="translate(611.9 113.4)"
+       id="text26"><tspan
+         x="0"
+         y="0"
+         id="tspan26">Out of state</tspan></text>
   </g>
-  <g id="text1-6-7" class="st22">
-    <text class="st24" transform="translate(651.1 140.7)"><tspan x="0" y="0">9.4%</tspan></text>
+  <g
+     id="text1-6-7"
+     class="st22">
+    <text
+       class="st24"
+       transform="translate(651.1 140.7)"
+       id="text27"><tspan
+         x="0"
+         y="0"
+         id="tspan27">9.4%</tspan></text>
   </g>
-  <g id="text1-6-7-3-2-5-2-8" class="st22">
-    <text class="st25" transform="translate(342.8 261.9)"><tspan x="0" y="0">56.4%</tspan></text>
+  <g
+     id="text1-6-7-3-2-5-2-8"
+     class="st22">
+    <text
+       class="st25"
+       transform="translate(342.8 261.9)"
+       id="text28"><tspan
+         x="0"
+         y="0"
+         id="tspan28">56.4%</tspan></text>
   </g>
-  <path id="path3" class="st9" d="M20,80h680" sodipodi:nodetypes="cc"/>
-  <path id="path3-5" class="st8" d="M20,290h680" sodipodi:nodetypes="cc"/>
-  <g id="text9" class="st22">
-    <text class="st21" transform="translate(18.8 308.7)"><tspan x="0" y="0">Data Source: Cuebiq (2022)</tspan></text>
+  <path
+     id="path3"
+     class="st9"
+     d="M20,80h680"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="path3-5"
+     class="st8"
+     d="M20,290h680"
+     sodipodi:nodetypes="cc" />
+  <g
+     id="text9"
+     class="st22">
+    <text
+       class="st21"
+       transform="translate(18.8 308.7)"
+       id="text29"><tspan
+         x="0"
+         y="0"
+         id="tspan29">Data Source: Cuebiq (2022)</tspan></text>
   </g>
-  <path id="path7" class="st5" d="M82.8,120v30"/>
-  <path id="path7-4-2" class="st5" d="M165.5,240v30"/>
-  <rect class="st1" x="554.5" y="180" width="82.7" height="30"/>
-  <g id="text1-9-1" class="st22">
-    <text class="st20" transform="translate(526.4 174)"><tspan x="0" y="0">Other counties</tspan></text>
+  <path
+     id="path7"
+     class="st5"
+     d="M82.8,120v30" />
+  <path
+     id="path7-4-2"
+     class="st5"
+     d="M165.5,240v30" />
+  <rect
+     class="st1"
+     x="554.5"
+     y="180"
+     width="82.7"
+     height="30"
+     id="rect29" />
+  <g
+     id="text1-9-1"
+     class="st22">
+    <text
+       class="st20"
+       transform="translate(526.4 174)"
+       id="text30"><tspan
+         x="0"
+         y="0"
+         id="tspan30">Other counties</tspan></text>
   </g>
-  <g id="text1-6-7-3" class="st22">
-    <text class="st19" transform="translate(575.5 201.4)"><tspan x="0" y="0">12.2%</tspan></text>
+  <g
+     id="text1-6-7-3"
+     class="st22">
+    <text
+       class="st19"
+       transform="translate(575.5 201.4)"
+       id="text31"><tspan
+         x="0"
+         y="0"
+         id="tspan31">12.2%</tspan></text>
   </g>
-  <path id="path7-4-8" class="st5" d="M554,180v30"/>
-  <sodipodi:namedview id="namedview1" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="526.4042" inkscape:cy="441.00691" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="1016" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.78456821" pagecolor="#ffffff" showgrid="false">
-    <inkscape:grid id="grid1" color="#0099e5" dotted="false" empcolor="#0099e5" empopacity="0.30196078" empspacing="5" gridanglex="30" gridanglez="30" opacity="0.14901961" originx="0" originy="0" spacingx="2.6458333" spacingy="2.6458334" units="px" visible="false"/>
+  <path
+     id="path7-4-8"
+     class="st5"
+     d="M554,180v30" />
+  <sodipodi:namedview
+     id="namedview31"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="526.4042"
+     inkscape:cy="441.00691"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="0.0"
+     inkscape:showpageshadow="2"
+     inkscape:window-height="1016"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1920"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:zoom="0.78456821"
+     pagecolor="#ffffff"
+     showgrid="false">
+    <inkscape:grid
+       id="grid31"
+       color="#0099e5"
+       dotted="false"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       empspacing="5"
+       gridanglex="30"
+       gridanglez="30"
+       opacity="0.14902"
+       originx="0"
+       originy="0"
+       spacingx="2.6458333"
+       spacingy="2.6458334"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
-  <rect id="rect1" class="st2" x="20" y="120" width="617.2" height="30"/>
-  <g id="text1" class="st22">
-    <text class="st20" transform="translate(280.7 113.1)"><tspan x="0" y="0">New Mexico</tspan></text>
+  <rect
+     id="rect1"
+     class="st2"
+     x="20"
+     y="120"
+     width="617.2"
+     height="30"
+     style="stroke-width:1.00157475;stroke-dasharray:none" />
+  <g
+     id="text1"
+     class="st22">
+    <text
+       class="st20"
+       transform="translate(280.7 113.1)"
+       id="text32"><tspan
+         x="0"
+         y="0"
+         id="tspan32">New Mexico</tspan></text>
   </g>
-  <g id="text1-6-7-3-2" class="st22">
-    <text class="st19" transform="translate(302.9 140.7)"><tspan x="0" y="0">90.6%</tspan></text>
+  <g
+     id="text1-6-7-3-2"
+     class="st22">
+    <text
+       class="st19"
+       transform="translate(302.9 140.7)"
+       id="text33"><tspan
+         x="0"
+         y="0"
+         id="tspan33">90.6%</tspan></text>
   </g>
-  <rect id="rect1-5" class="st4" x="20" y="180" width="534.5" height="30"/>
-  <g id="text1-9" class="st22">
-    <text class="st20" transform="translate(202.9 174.8)"><tspan x="0" y="0">Bernalillo County</tspan></text>
+  <rect
+     id="rect1-5"
+     class="st4"
+     x="20"
+     y="180"
+     width="534.5"
+     height="30" />
+  <g
+     id="text1-9"
+     class="st22">
+    <text
+       class="st20"
+       transform="translate(202.9 174.8)"
+       id="text34"><tspan
+         x="0"
+         y="0"
+         id="tspan34">Bernalillo County</tspan></text>
   </g>
-  <g id="text1-6-7-3-2-5" class="st22">
-    <text class="st24" transform="translate(244.4 201.9)"><tspan x="0" y="0">78.4%</tspan></text>
+  <g
+     id="text1-6-7-3-2-5"
+     class="st22">
+    <text
+       class="st24"
+       transform="translate(244.4 201.9)"
+       id="text35"><tspan
+         x="0"
+         y="0"
+         id="tspan35">78.4%</tspan></text>
   </g>
-  <rect id="rect1-5-2" class="st3" x="20" y="240" width="151.6" height="30"/>
-  <g id="text1-9-7" class="st22">
-    <text class="st20" transform="translate(20 232.3)"><tspan x="0" y="0">Downtown Albuquerque</tspan></text>
+  <rect
+     id="rect1-5-2"
+     class="st3"
+     x="20"
+     y="240"
+     width="151.6"
+     height="30" />
+  <g
+     id="text1-9-7"
+     class="st22">
+    <text
+       class="st20"
+       transform="translate(20 232.3)"
+       id="text36"><tspan
+         x="0"
+         y="0"
+         id="tspan36">Downtown Albuquerque</tspan></text>
   </g>
-  <g id="text1-6-7-3-2-5-2" class="st22">
-    <text class="st19" transform="translate(77.4 261.9)"><tspan x="0" y="0">22.0%</tspan></text>
+  <g
+     id="text1-6-7-3-2-5-2"
+     class="st22">
+    <text
+       class="st19"
+       transform="translate(77.4 261.9)"
+       id="text37"><tspan
+         x="0"
+         y="0"
+         id="tspan37">22.0%</tspan></text>
   </g>
 </svg>
