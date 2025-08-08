@@ -47,7 +47,7 @@
 
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={"Revitalizing historic main streets through entrepreneurship"}
