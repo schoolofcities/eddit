@@ -13,6 +13,9 @@
 	import ImageSingle from "$lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/halifax-title.jpg"
+	import lunchImage from "./assets/lunchtime.jpg"
+	import placemImage from "./assets/lunchtime.jpg"
+	import waterfrontImage from "./assets/waterfront.jpg"
 
 	import Footnote from '$lib/Footnote.svelte';
     import Footnotes from '$lib/Footnotes.svelte';
@@ -139,14 +142,15 @@
 		</p>	
 	</div>
 
-	<!-- <ImageSingle
-		imageURL={TBD}
-		caption='Lunchtime at the Halifax harbourfront'
+	
+	<ImageSingle
+		imageURL={lunchImage}
+		caption='Lunchtime at the Halifax harbourfront.'
 		source="Image credit: Kyle Miller"
 		altText="Photograph of the Halifax harbourfront"
 		maxWidth="{680}px"
 		link="Yes"
-	/> -->
+	/>
 
 	<div class="text">
 
@@ -243,14 +247,14 @@
 	
 	</div>
 
-	<!-- <ImageSingle
-		imageURL={TBD}
-		caption='Placemaking in Downtown Halifax'
+	<ImageSingle
+		imageURL={placemImage}
+		caption='Placemaking in Downtown Halifax.'
 		source="Image credit: T.J. Maguire"
 		altText="Photograph of the Downtown Halifax"
 		maxWidth="{680}px"
 		link="Yes"
-	/> -->
+	/>
 
 	<div class="text">
 
@@ -260,14 +264,14 @@
 	
 	</div>
 
-	<!-- <ImageSingle
-		imageURL={TBD}
-		caption='The Halifax Waterfront'
+	<ImageSingle
+		imageURL={waterfrontImage}
+		caption='The Halifax Waterfront.'
 		source="Image credit: T.J. Maguire"
 		altText="Photograph of the Halifax Waterfront"
 		maxWidth="{680}px"
 		link="Yes"
-	/> -->
+	/>
 
 	<div class="text">
 		<p>
