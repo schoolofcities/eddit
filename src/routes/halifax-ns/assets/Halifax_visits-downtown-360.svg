@@ -99,11 +99,11 @@
     <text class="cls-4" transform="translate(71.74 120.02)"><tspan x="0" y="0">10-25</tspan></text>
     <text class="cls-4" transform="translate(121.74 120.02)"><tspan x="0" y="0">25-75</tspan></text>
     <text class="cls-4" transform="translate(173.99 120.02)"><tspan x="0" y="0">100+</tspan></text>
-    <text class="cls-4" transform="translate(19.98 80.02)"><tspan x="0" y="0">Stops per capita by council district</tspan></text>
+    <text class="cls-4" transform="translate(20 80.02)"><tspan x="0" y="0">Visits to downtown by council district, per capita</tspan></text>
     <g>
-      <text class="cls-2" transform="translate(10 476.23)"><tspan x="0" y="0">Data Source: Spectus (2023), Halifax Regional Municipality</tspan><tspan x="0" y="14.4">(2023)</tspan></text>
+      <text class="cls-2" transform="translate(10 476.23)"><tspan x="0" y="0">Data Source: Cuebiq (2023), Halifax Regional Municipality</tspan><tspan x="0" y="14.4">(2023)</tspan></text>
       <line class="cls-6" x1="10.41" y1="463.77" x2="340" y2="463.77"/>
     </g>
-    <text class="cls-11" transform="translate(20 27.3)"><tspan x="0" y="0">Annual visits to Downtown</tspan><tspan x="0" y="24">Halifax per capita in 2023</tspan></text>
+    <text class="cls-11" transform="translate(20 27.3)"><tspan x="0" y="0">Downtown Halifax draws </tspan><tspan x="0" y="24">visitors from across the region</tspan></text>
   </g>
 </svg>

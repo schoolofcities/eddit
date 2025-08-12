@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="content" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 470.07">
+<svg id="content" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 500">
   <defs>
     <style>
       .cls-1 {
@@ -63,9 +63,9 @@
       }
     </style>
   </defs>
-  <text class="cls-6" transform="translate(20 25.5)"><tspan x="0" y="0">Gas vs electric powered</tspan><tspan x="0" y="24">landscaping equipment for </tspan><tspan x="0" y="48">hearing loss</tspan></text>
+  <text class="cls-6" transform="translate(20 25.5)"><tspan x="0" y="0">Risk of hearing loss with gas- vs </tspan><tspan x="0" y="24">electric-powered landscaping </tspan><tspan x="0" y="48">equipment</tspan></text>
   <g>
-    <text class="cls-9" transform="translate(19.91 460)"><tspan x="0" y="0">Data Source: US Bureau of Labor Statistics (2022)</tspan></text>
+    <text class="cls-9" transform="translate(19.91 460)"><tspan x="0" y="0">Data Source: US Bureau of Labor Statistics (2022), Former </tspan><tspan x="0" y="14.4">deputy director of the Park District of Oak Park, Chris </tspan><tspan x="0" y="28.8">Lindgren</tspan></text>
     <line class="cls-1" x1="20.32" y1="447.54" x2="340" y2="447.54"/>
   </g>
   <g>

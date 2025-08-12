@@ -30,9 +30,9 @@
     </style>
   </defs>
   <g>
-    <text class="cls-4" transform="translate(20 100)"><tspan x="0" y="0">Data Source: US Bureau of Labor Statistics (2022)</tspan><tspan x="0" y="14.4">*Chicagoland includes Cook County and surrounding</tspan><tspan x="0" y="28.8">counties in Illinois, Indiana, and Wisconsin</tspan></text>
+    <text class="cls-4" transform="translate(20 100)"><tspan x="0" y="0">Data Source: US Bureau of Labor Statistics (2022)</tspan><tspan x="0" y="14.4">*Greater Chicago Area includes Cook County and </tspan><tspan x="0" y="28.8">surrounding counties in Illinois, Indiana, and Wisconsin</tspan></text>
     <line class="cls-3" x1="20.41" y1="87.54" x2="340" y2="87.54"/>
   </g>
-  <text class="cls-2" transform="translate(162.93 31.16)"><tspan x="0" y="0">people work in landscape</tspan><tspan x="0" y="16.8">and groundskeeping in</tspan><tspan x="0" y="33.6">the Chicagoland area*</tspan></text>
+  <text class="cls-2" transform="translate(162.93 31.16)"><tspan x="0" y="0">people work in landscape</tspan><tspan x="0" y="16.8">and groundskeeping in</tspan><tspan x="0" y="33.6">the Greater Chicago Area*</tspan></text>
   <text class="cls-1" transform="translate(18.71 60.63)"><tspan x="0" y="0">28,030</tspan></text>
 </svg>

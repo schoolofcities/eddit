@@ -400,7 +400,7 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 from pathlib import Path
 
 def main():
-	city = "albuquerque-nm"
+	city = "cook-county-il"
 	input_dir = "../routes/" + city + "/assets"  
 	output_dir = "../../static/"  + city + "/web-svg"
 

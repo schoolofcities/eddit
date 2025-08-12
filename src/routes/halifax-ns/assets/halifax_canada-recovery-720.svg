@@ -48,7 +48,7 @@
   <rect class="cls-4" x="230.42" y="324.21" width="280" height="20"/>
   <rect class="cls-4" x="230.42" y="353.57" width="268" height="20"/>
   <text class="cls-2" transform="translate(91.25 76.38)"><tspan x="0" y="0">Mississauga, ON</tspan></text>
-  <text class="cls-1" transform="translate(20 21.99)"><tspan x="0" y="0">Recovery ratings of Canadian cities based on 2019 and 2023 activity levels </tspan></text>
+  <text class="cls-1" transform="translate(20 21.99)"><tspan x="0" y="0">Downtown recovery ratings of Canadian cities based on 2019 and 2023 activity levels </tspan></text>
   <text class="cls-2" transform="translate(605.23 76.38)"><tspan x="0" y="0">91%</tspan></text>
   <text class="cls-2" transform="translate(588.94 105.7)"><tspan x="0" y="0">87%</tspan></text>
   <text class="cls-2" transform="translate(581.12 135.02)"><tspan x="0" y="0">85%</tspan></text>
@@ -71,7 +71,7 @@
   <text class="cls-2" transform="translate(120.85 340.63)"><tspan x="0" y="0">Toronto, ON</tspan></text>
   <text class="cls-2" transform="translate(114.64 369.95)"><tspan x="0" y="0">Montreal, QC</tspan></text>
   <g>
-    <text class="cls-5" transform="translate(10 410)"><tspan x="0" y="0">Data Source: Spectus (2019, 2023) </tspan></text>
+    <text class="cls-5" transform="translate(10 410)"><tspan x="0" y="0">Data Source: Cuebiq (2019, 2023) </tspan></text>
     <line class="cls-3" x1="10.41" y1="397.54" x2="700" y2="397.54"/>
   </g>
 </svg>
