@@ -2,7 +2,6 @@
 
 	import "../../assets/global-styles.css"
 
-
 	import Password from "$lib/Password.svelte";
 	import Title from '$lib/Title.svelte';
 	import AuthorDate from "$lib/AuthorDate.svelte";

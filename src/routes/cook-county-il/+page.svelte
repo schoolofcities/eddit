@@ -61,6 +61,7 @@
 		</p>
 
 	</div>
+	
 
 	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/chicago-contextmap-720.svg"}
@@ -122,6 +123,7 @@
 			Though C4 wants to encourage all sorts of GLT practices throughout the region, they chose to focus on encouraging the transition to electric lawn equipment for this data story because it is underfunded and needs more attention, but could easily be implemented with the proper policies. Municipalities in the United States have already started adopting such practices. Some local governments, mostly in Illinois and California, have <a href="https://pirg.org/edfund/resources/interactive-map-of-lawn-mower-and-leaf-blower-policies/" target="_blank">implemented</a> bans or restrictions on leaf blowers and gas-powered lawn equipment, while others have introduced voluntary incentives for transitioning to electronic equipment.
 		</p>
 	</div>
+
 	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/cook-county_GLT-policy-chart-720.svg"}
 		svg360={"./cook-county-il/web-svg/cook-county_GLT-policy-chart-360.svg"}
@@ -134,6 +136,8 @@
 		<p>
 			Advocacy efforts should also highlight the long-term health benefits of electric equipment for landscape workers, such as reduced air and noise pollution from cleaner and quieter equipment. The chart below reveals that electric lawn equipment overall produces 25 percent lower dBA than gas-powered equipment and is much less likely to cause hearing loss with long and repeated exposure. Given that 77 percent of landscape workers in Illinois work in the Greater Chicago Area, there are thousands of workers who could potentially benefit from this transition.
 		</p>
+
+	</div>
 
 	<GraphicSingle
 		svg720={"./cook-county-il/web-svg/cook-county_landscape-contract-stat-720.svg"}

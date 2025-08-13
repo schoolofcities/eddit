@@ -19,9 +19,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.0986111"
-     inkscape:cx="392.76865"
-     inkscape:cy="190.69532"
+     inkscape:zoom="4.3944444"
+     inkscape:cx="552.62958"
+     inkscape:cy="293.21113"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -158,10 +158,11 @@
          id="tspan6">Halifax Regional Municipality (HRM)</tspan></text>
     <text
        class="cls-3"
-       transform="translate(173.29 239.61)"
-       id="text7"><tspan
-         x="0"
-         y="0"
+       id="text7"
+       x="167.14587"
+       y="233.89781"><tspan
+         x="167.14587"
+         y="233.89781"
          id="tspan7">Yarmouth</tspan></text>
     <circle
        class="cls-10"
@@ -190,16 +191,10 @@
          y="0"
          id="tspan9">Boston</tspan></text>
     <circle
-       class="cls-9"
-       cx="233.95"
-       cy="236.72"
-       r="2.33"
-       id="circle9" />
-    <circle
        class="cls-10"
-       cx="233.95"
-       cy="236.72"
-       r="2.33"
+       cx="227.80588"
+       cy="231.00781"
+       r="2.3299999"
        id="circle10" />
     <text
        class="cls-2"
@@ -210,13 +205,14 @@
          id="tspan10">Atlantic Ocean</tspan></text>
     <text
        class="cls-1"
-       transform="translate(305.16 156.54)"
-       id="text12"><tspan
-         x="0"
-         y="0"
+       id="text12"
+       x="288.88947"
+       y="153.80928"><tspan
+         x="288.88947"
+         y="153.80928"
          id="tspan11">NOVA</tspan><tspan
-         x="-3.81"
-         y="14.4"
+         x="285.07947"
+         y="168.20927"
          id="tspan12">SCOTIA</tspan></text>
     <polygon
        class="cls-10"
@@ -246,6 +242,22 @@
            y="0"
            id="tspan14">503,037</tspan></text>
     </g>
+    <text
+       class="cls-4"
+       id="text5-3"
+       x="384.39117"
+       y="135.71947"
+       style="font-size:12px;font-family:OpenSans, 'Open Sans';fill:#0d534d"><tspan
+         x="384.39117"
+         y="135.71947"
+         id="tspan5-1">Sydney</tspan></text>
+    <circle
+       class="cls-6"
+       cx="421.94006"
+       cy="124.27226"
+       r="2.3299999"
+       id="circle6"
+       style="fill:#0d534d" />
   </g>
   <g
      id="white_trim"
