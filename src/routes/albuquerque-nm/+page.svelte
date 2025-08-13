@@ -43,7 +43,7 @@
 </script>
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={"From tracks to trail: Planning for equitable (re)development"}

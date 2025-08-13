@@ -1,73 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="360" height="310" viewBox="0 0 95.249998 82.020832" version="1.1" id="svg1" inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)" sodipodi:docname="abq-example-indy-360.svg">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg1" viewBox="0 0 360 320">
   <g id="background">
-    <image x="0.0" y="0.0" width="95.249998" height="82.020832" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAJsCAYAAADUX5SSAAAABmJLR0QA/wD/AP+gvaeTAAAKpUlEQVR4nO3YwUnEUABF0UywLTsJswoKFiQoLqcSta/YgeEuJj/KORW85eVNEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANzDZfSAPcuyPo7eAADAcW63j6/RG37zMHrAnnmaPkdvAADgUKc+eU8f0NO0fY9eAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/9V1Wbfrsm6jdwDAPHoAAAD8JQIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA93EZPWDP+9vrNnoDAADHeXp+OXWjzqMHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAw3A/1+RIVwATvBAAAAABJRU5ErkJggg=="/>
+    <image x="0.0" y="0.0" width="360.0" height="320.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
   </g>
   <g id="foreground">
-    <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
-      <text xml:space="preserve" style="font-size: 6.08542px; line-height: 1.2; font-family: Ubuntu; stroke-width: 0.264583; font-weight: normal; font-style: normal;" x="4.8162432" y="9.340517" id="text1-6">
-        <text xml:space="preserve" style="font-size: 6.08542px; line-height: 1.2; font-family: Ubuntu; stroke-width: 0.264583; font-weight: normal; font-style: normal;" x="4.8162432" y="9.340517" id="text1-6"/>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 5.29167px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; stroke-width: 0.264583;" x="4.8162432" y="9.340517" id="tspan8">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 5.29167px; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; stroke-width: 0.264583;" x="4.8162432" y="9.340517" id="tspan8">Indianapolis Cultural Trail</tspan>
-        </tspan>
+    <g id="text1-6" class="cls-2" style="isolation: isolate;">
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-3" transform="translate(18.2 35.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;">
+          <text class="cls-3" transform="translate(18.2 35.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-3" transform="translate(18.2 35.3)" style="isolation: isolate; font-family: OpenSansBold; font-size: 20px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Indianapolis, IN – Cultural Trail</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="text1-6-1-8" class="cls-2" style="isolation: isolate;">
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-1" transform="translate(150 80)" style="fill: #007fa3; isolation: isolate; font-family: OpenSansBold; font-size: 18px; font-style: normal;">
+          <text class="cls-1" transform="translate(150 80)" style="fill: #007fa3; isolation: isolate; font-family: OpenSansBold; font-size: 18px; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-1" transform="translate(150 80)" style="fill: #007fa3; isolation: isolate; font-family: OpenSansBold; font-size: 18px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">13 km / 8.1 mi</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="text1-6-1-8-7" class="cls-2" style="isolation: isolate;">
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-4" transform="translate(150.4 110)" style="isolation: isolate; font-family: OpenSansBold; font-size: 18px; fill: #6d247a; font-style: normal;">
+          <text class="cls-4" transform="translate(150.4 110)" style="isolation: isolate; font-family: OpenSansBold; font-size: 18px; fill: #6d247a; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-4" transform="translate(150.4 110)" style="isolation: isolate; font-family: OpenSansBold; font-size: 18px; fill: #6d247a; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">2012</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="text1-6-1-8-7-3" class="cls-2" style="isolation: isolate;">
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-5" transform="translate(150.3 140)" style="isolation: isolate; font-family: OpenSansBold; font-size: 18px; fill: #00a189; font-style: normal;">
+          <text class="cls-5" transform="translate(150.3 140)" style="isolation: isolate; font-family: OpenSansBold; font-size: 18px; fill: #00a189; font-style: normal;"/>
+        </text>
+      </g>
+      <g class="cls-2" style="isolation: isolate;">
+        <text class="cls-5" transform="translate(150.3 140)" style="isolation: isolate; font-family: OpenSansBold; font-size: 18px; fill: #00a189; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$63 million USD</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(81.9 80.1)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(81.9 80.1)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;"/>
       </text>
-      <text xml:space="preserve" style="font-size: 3.96875px; line-height: 7.95073px; font-family: Ubuntu; fill: #3d3846; stroke-width: 0.264583; font-weight: normal; font-style: normal;" x="4.9281225" y="21.335135" id="text1-6-1">
-        <text xml:space="preserve" style="font-size: 3.96875px; line-height: 7.95073px; font-family: Ubuntu; fill: #3d3846; stroke-width: 0.264583; font-weight: normal; font-style: normal;" x="4.9281225" y="21.335135" id="text1-6-1"/>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" x="4.9281225" y="21.335135" id="tspan1">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" x="4.9281225" y="21.335135" id="tspan1">Length (miles)</tspan>
-        </tspan>
-        <tspan style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" sodipodi:role="line" id="tspan19" x="4.9281225" y="29.470186">
-          <tspan style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" sodipodi:role="line" id="tspan19" x="4.9281225" y="29.470186">Date completed</tspan>
-        </tspan>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" x="4.9281225" y="37.605236" id="tspan3">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" x="4.9281225" y="37.605236" id="tspan3">Cost</tspan>
-        </tspan>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" x="4.9281225" y="45.740288" id="tspan18">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 7.95073px; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #3d3846; stroke-width: 0.264583;" x="4.9281225" y="45.740288" id="tspan18">Economic activity</tspan>
-        </tspan>
-      </text>
-      <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #007fa3; fill-opacity: 1; stroke-width: 0.264583;" x="42.165901" y="21.773092" id="text1-6-1-8">
-        <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #007fa3; fill-opacity: 1; stroke-width: 0.264583;" x="42.165901" y="21.773092" id="text1-6-1-8"/>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #007fa3; fill-opacity: 1; stroke-width: 0.264583;" x="42.165901" y="21.773092" id="tspan5-7">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #007fa3; fill-opacity: 1; stroke-width: 0.264583;" x="42.165901" y="21.773092" id="tspan5-7">8.1</tspan>
-        </tspan>
-      </text>
-      <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #6d247a; fill-opacity: 1; stroke-width: 0.264583;" x="42.265896" y="29.664566" id="text1-6-1-8-7">
-        <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #6d247a; fill-opacity: 1; stroke-width: 0.264583;" x="42.265896" y="29.664566" id="text1-6-1-8-7"/>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #6d247a; fill-opacity: 1; stroke-width: 0.264583;" x="42.265896" y="29.664566" id="tspan5-7-9">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #6d247a; fill-opacity: 1; stroke-width: 0.264583;" x="42.265896" y="29.664566" id="tspan5-7-9">2012</tspan>
-        </tspan>
-      </text>
-      <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #00a189; fill-opacity: 1; stroke-width: 0.264583;" x="42.242641" y="38.16988" id="text1-6-1-8-7-3">
-        <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #00a189; fill-opacity: 1; stroke-width: 0.264583;" x="42.242641" y="38.16988" id="text1-6-1-8-7-3"/>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #00a189; fill-opacity: 1; stroke-width: 0.264583;" x="42.242641" y="38.16988" id="tspan5-7-9-7">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 4.7625px; line-height: 2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #00a189; fill-opacity: 1; stroke-width: 0.264583;" x="42.242641" y="38.16988" id="tspan5-7-9-7">$63 million</tspan>
-        </tspan>
-      </text>
-      <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="46.10133" id="text1-6-1-8-7-3-0-6">
-        <text xml:space="preserve" style="font-style: normal; font-variant: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSansBold; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="46.10133" id="text1-6-1-8-7-3-0-6"/>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="46.10133" id="tspan5-7-9-7-2-2">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="46.10133" id="tspan5-7-9-7-2-2">$1 billion increase in</tspan>
-        </tspan>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="50.863831" id="tspan10-1">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="50.863831" id="tspan10-1">assessed property values</tspan>
-        </tspan>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="55.626331" id="tspan11-9">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="55.626331" id="tspan11-9">within 500 feet of trail</tspan>
-        </tspan>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="60.388832" id="tspan14-6">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="60.388832" id="tspan14-6">(148% increase from </tspan>
-        </tspan>
-        <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="65.151329" id="tspan15-4">
-          <tspan sodipodi:role="line" style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 3.96875px; line-height: 1.2; font-family: OpenSans; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: normal; font-variant-east-asian: normal; fill: #1e3765; fill-opacity: 1; stroke-width: 0.264583;" x="42.447281" y="65.151329" id="tspan15-4">2008-2014)</tspan>
-        </tspan>
-      </text>
-      <text class="cls-8" id="text9" x="4.9800591" y="79.018883" style="font-size: 3.175px; font-family: OpenSans; fill: #9a9896; stroke-width: 0.264583; font-weight: normal; font-style: normal;">
-        <text class="cls-8" id="text9" x="4.9800591" y="79.018883" style="font-size: 3.175px; font-family: OpenSans; fill: #9a9896; stroke-width: 0.264583; font-weight: normal; font-style: normal;"/>
-        <tspan x="4.9800591" y="79.018883" id="tspan9" style="stroke-width: 0.264583; font-weight: normal; font-style: normal;">
-          <tspan x="4.9800591" y="79.018883" id="tspan9" style="stroke-width: 0.264583; font-weight: normal; font-style: normal;">Source: Name of author or report?</tspan>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(81.9 80.1)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Length</tspan>
         </tspan>
       </text>
     </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(18.7 110)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(18.7 110)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(18.7 110)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Date completed</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(99 140)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(99 140)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(99 140)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Cost</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(62.3 170)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(62.3 170)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(62.3 170)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Economic</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(81.3 188)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <text class="cls-6" transform="translate(81.3 188)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g class="cls-2" style="isolation: isolate;">
+      <text class="cls-6" transform="translate(81.3 188)" style="isolation: isolate; font-size: 15px; font-family: OpenSans; fill: #3d3846; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">activity</tspan>
+        </tspan>
+      </text>
+    </g>
+    <text class="cls-13" transform="translate(19.3 290.98)" style="fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+      <text class="cls-13" transform="translate(19.3 290.98)" style="fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-13" transform="translate(19.3 290.98)" style="fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan class="cls-9" x="0" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan class="cls-9" x="0" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">Source: Majors and Burow, </tspan>
+      </tspan>
+    </text>
+    <text class="cls-13" transform="translate(19.3 290.98)" style="fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan class="cls-10" x="153.57" y="0" style="font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; font-weight: normal;">
+        <tspan class="cls-10" x="153.57" y="0" style="font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; font-weight: normal;">Assessment of the Impact of </tspan>
+      </tspan>
+    </text>
+    <text class="cls-13" transform="translate(19.3 290.98)" style="fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan class="cls-10" style="font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; font-weight: normal;">
+        <tspan class="cls-10" style="font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; font-weight: normal;"/>
+      </tspan>
+    </text>
+    <text class="cls-13" transform="translate(19.3 290.98)" style="fill: #9a9896; font-size: 12px; font-weight: normal; font-style: normal;">
+      <tspan class="cls-10" style="font-family: OpenSansItalic; font-variation-settings: 'wght' 400, 'wdth' 100; font-weight: normal;">
+        <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">the Indianapolis Cultural Trail</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(161.79 170.16)" style="fill: #1e3765; font-size: 15px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text class="cls-7" transform="translate(161.79 170.16)" style="fill: #1e3765; font-size: 15px; font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-7" transform="translate(161.79 170.16)" style="fill: #1e3765; font-size: 15px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">$1 billion increase in </tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(161.79 170.16)" style="fill: #1e3765; font-size: 15px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="18" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="18" style="font-weight: normal; font-style: normal;">assessed property values </tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(161.79 170.16)" style="fill: #1e3765; font-size: 15px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="36" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="36" style="font-weight: normal; font-style: normal;">(148%) within 500 feet of </tspan>
+      </tspan>
+    </text>
+    <text class="cls-7" transform="translate(161.79 170.16)" style="fill: #1e3765; font-size: 15px; font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="54" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="54" style="font-weight: normal; font-style: normal;">trail, 2008-2014</tspan>
+      </tspan>
+    </text>
   </g>
 </svg>
