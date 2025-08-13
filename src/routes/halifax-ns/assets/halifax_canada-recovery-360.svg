@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 440">
   <defs>
     <style>
       .cls-1, .cls-2 {
@@ -40,42 +40,42 @@
       }
     </style>
   </defs>
-  <rect class="cls-5" x="20.15" y="60" width="284.85" height="20"/>
-  <rect class="cls-5" x="20.15" y="89.36" width="272.33" height="20"/>
-  <rect class="cls-5" x="20.15" y="118.71" width="266.07" height="20"/>
-  <rect class="cls-5" x="20.15" y="148.07" width="266.07" height="20"/>
-  <rect class="cls-7" x="20.15" y="177.43" width="266.07" height="20"/>
-  <rect class="cls-5" x="20.15" y="206.78" width="256.68" height="20"/>
-  <rect class="cls-5" x="20.15" y="236.14" width="250.42" height="20"/>
-  <rect class="cls-5" x="20.15" y="265.5" width="247.29" height="20"/>
-  <rect class="cls-5" x="20.15" y="294.85" width="237.9" height="20"/>
-  <rect class="cls-5" x="20.15" y="324.21" width="219.12" height="20"/>
-  <rect class="cls-5" x="20.15" y="353.57" width="209.73" height="20"/>
-  <text class="cls-3" transform="translate(308.7 76.38)"><tspan x="0" y="0">91%</tspan></text>
-  <text class="cls-3" transform="translate(296.16 105.7)"><tspan x="0" y="0">87%</tspan></text>
-  <text class="cls-3" transform="translate(289.9 135.02)"><tspan x="0" y="0">85%</tspan></text>
-  <text class="cls-3" transform="translate(289.9 164.34)"><tspan x="0" y="0">85%</tspan></text>
-  <text class="cls-1" transform="translate(289.9 193.66)"><tspan x="0" y="0">85%</tspan></text>
-  <text class="cls-3" transform="translate(280.41 223.36)"><tspan x="0" y="0">82%</tspan></text>
-  <text class="cls-3" transform="translate(274.26 252.68)"><tspan x="0" y="0">80%</tspan></text>
-  <text class="cls-3" transform="translate(270.96 282.16)"><tspan x="0" y="0">79%</tspan></text>
-  <text class="cls-3" transform="translate(261.62 311.32)"><tspan x="0" y="0">76%</tspan></text>
-  <text class="cls-3" transform="translate(242.77 340.63)"><tspan x="0" y="0">70%</tspan></text>
-  <text class="cls-3" transform="translate(233.53 370)"><tspan x="0" y="0">67%</tspan></text>
-  <text class="cls-3" transform="translate(29.55 76.38)"><tspan x="0" y="0">Mississauga, ON</tspan></text>
-  <text class="cls-3" transform="translate(29.55 105.7)"><tspan x="0" y="0">Quebec, QC</tspan></text>
-  <text class="cls-3" transform="translate(29.55 135.02)"><tspan x="0" y="0">Vancouver, BC</tspan></text>
-  <text class="cls-3" transform="translate(29.55 164.34)"><tspan x="0" y="0">Calgary, AB</tspan></text>
-  <text class="cls-2" transform="translate(29.55 193.66)"><tspan x="0" y="0">Halifax, NS</tspan></text>
-  <text class="cls-3" transform="translate(29.55 223.36)"><tspan x="0" y="0">Ottawa, ON</tspan></text>
-  <text class="cls-3" transform="translate(29.55 252.68)"><tspan x="0" y="0">Edmonton, AB</tspan></text>
-  <text class="cls-3" transform="translate(29.55 282)"><tspan x="0" y="0">London, ON</tspan></text>
-  <text class="cls-3" transform="translate(29.55 311.32)"><tspan x="0" y="0">Winnipeg, MB</tspan></text>
-  <text class="cls-3" transform="translate(29.55 340.63)"><tspan x="0" y="0">Toronto, ON</tspan></text>
-  <text class="cls-3" transform="translate(29.55 369.95)"><tspan x="0" y="0">Montreal, QC</tspan></text>
-  <text class="cls-1" transform="translate(20 21.99)"><tspan x="0" y="0">Recovery ratings of Canadian cities</tspan><tspan x="0" y="19.2">based on 2019 and 2023 activity levels </tspan></text>
+  <rect class="cls-5" x="20.15" y="80" width="284.85" height="20"/>
+  <rect class="cls-5" x="20.15" y="109.36" width="272.33" height="20"/>
+  <rect class="cls-5" x="20.15" y="138.71" width="266.07" height="20"/>
+  <rect class="cls-5" x="20.15" y="168.07" width="266.07" height="20"/>
+  <rect class="cls-7" x="20.15" y="197.43" width="266.07" height="20"/>
+  <rect class="cls-5" x="20.15" y="226.78" width="256.68" height="20"/>
+  <rect class="cls-5" x="20.15" y="256.14" width="250.42" height="20"/>
+  <rect class="cls-5" x="20.15" y="285.5" width="247.29" height="20"/>
+  <rect class="cls-5" x="20.15" y="314.85" width="237.9" height="20"/>
+  <rect class="cls-5" x="20.15" y="344.21" width="219.12" height="20"/>
+  <rect class="cls-5" x="20.15" y="373.57" width="209.73" height="20"/>
+  <text class="cls-3" transform="translate(308.7 96.38)"><tspan x="0" y="0">91%</tspan></text>
+  <text class="cls-3" transform="translate(296.16 125.7)"><tspan x="0" y="0">87%</tspan></text>
+  <text class="cls-3" transform="translate(289.9 155.02)"><tspan x="0" y="0">85%</tspan></text>
+  <text class="cls-3" transform="translate(289.9 184.34)"><tspan x="0" y="0">85%</tspan></text>
+  <text class="cls-1" transform="translate(289.9 213.66)"><tspan x="0" y="0">85%</tspan></text>
+  <text class="cls-3" transform="translate(280.41 243.36)"><tspan x="0" y="0">82%</tspan></text>
+  <text class="cls-3" transform="translate(274.26 272.68)"><tspan x="0" y="0">80%</tspan></text>
+  <text class="cls-3" transform="translate(270.96 302.16)"><tspan x="0" y="0">79%</tspan></text>
+  <text class="cls-3" transform="translate(261.62 331.32)"><tspan x="0" y="0">76%</tspan></text>
+  <text class="cls-3" transform="translate(242.77 360.63)"><tspan x="0" y="0">70%</tspan></text>
+  <text class="cls-3" transform="translate(233.53 390)"><tspan x="0" y="0">67%</tspan></text>
+  <text class="cls-3" transform="translate(29.55 96.38)"><tspan x="0" y="0">Mississauga, ON</tspan></text>
+  <text class="cls-3" transform="translate(29.55 125.7)"><tspan x="0" y="0">Quebec, QC</tspan></text>
+  <text class="cls-3" transform="translate(29.55 155.02)"><tspan x="0" y="0">Vancouver, BC</tspan></text>
+  <text class="cls-3" transform="translate(29.55 184.34)"><tspan x="0" y="0">Calgary, AB</tspan></text>
+  <text class="cls-2" transform="translate(29.55 213.66)"><tspan x="0" y="0">Halifax, NS</tspan></text>
+  <text class="cls-3" transform="translate(29.55 243.36)"><tspan x="0" y="0">Ottawa, ON</tspan></text>
+  <text class="cls-3" transform="translate(29.55 272.68)"><tspan x="0" y="0">Edmonton, AB</tspan></text>
+  <text class="cls-3" transform="translate(29.55 302)"><tspan x="0" y="0">London, ON</tspan></text>
+  <text class="cls-3" transform="translate(29.55 331.32)"><tspan x="0" y="0">Winnipeg, MB</tspan></text>
+  <text class="cls-3" transform="translate(29.55 360.63)"><tspan x="0" y="0">Toronto, ON</tspan></text>
+  <text class="cls-3" transform="translate(29.55 389.95)"><tspan x="0" y="0">Montreal, QC</tspan></text>
+  <text class="cls-1" transform="translate(20 21.99)"><tspan x="0" y="0">Downtown recovery ratings of Canadian </tspan><tspan x="0" y="19.2">cities based on 2019 and 2023 activity </tspan><tspan x="0" y="38.4">levels </tspan></text>
   <g>
-    <text class="cls-6" transform="translate(10 410)"><tspan x="0" y="0">Data Source: Spectus (2019, 2023) </tspan></text>
-    <line class="cls-4" x1="10.41" y1="397.54" x2="340" y2="397.54"/>
+    <text class="cls-6" transform="translate(10 430)"><tspan x="0" y="0">Data Source: Cuebiq (2019, 2023) </tspan></text>
+    <line class="cls-4" x1="10.41" y1="417.54" x2="340" y2="417.54"/>
   </g>
 </svg>

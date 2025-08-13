@@ -94,24 +94,24 @@
     <text class="cls-10" transform="translate(224.2 345)"><tspan x="0" y="0">2021</tspan></text>
     <g>
       <text class="cls-10" transform="translate(44.65 324.47)"><tspan x="0" y="0">0</tspan></text>
-      <text class="cls-10" transform="translate(21.44 271.58)"><tspan x="0" y="0">100k</tspan></text>
-      <text class="cls-10" transform="translate(21.44 218.69)"><tspan x="0" y="0">200k</tspan></text>
-      <text class="cls-10" transform="translate(21.44 165.8)"><tspan x="0" y="0">300k</tspan></text>
-      <text class="cls-10" transform="translate(21.44 112.91)"><tspan x="0" y="0">400k</tspan></text>
+      <text class="cls-10" transform="translate(20.2 271.58)"><tspan x="0" y="0">100K</tspan></text>
+      <text class="cls-10" transform="translate(20.2 218.69)"><tspan x="0" y="0">200K</tspan></text>
+      <text class="cls-10" transform="translate(20.2 165.8)"><tspan x="0" y="0">300K</tspan></text>
+      <text class="cls-10" transform="translate(20.2 112.91)"><tspan x="0" y="0">400K</tspan></text>
     </g>
     <g>
       <text class="cls-13" transform="translate(10 375.5)"><tspan x="0" y="0">Data Source: Statistics Canada (1981, 1986, 1991, 1996, </tspan><tspan x="0" y="14.4">2001, 2006, 2011, 2016, 2021)</tspan></text>
       <line class="cls-1" x1="10.41" y1="363.04" x2="330.5" y2="363.04"/>
     </g>
-    <line class="cls-2" x1="240.25" y1="322.9" x2="240.25" y2="316.28"/>
+    <line class="cls-2" x1="240.25" y1="325.39" x2="240.25" y2="316.28"/>
     <line class="cls-2" x1="220.21" y1="322.9" x2="220.21" y2="316.28"/>
-    <line class="cls-2" x1="200.18" y1="322.9" x2="200.18" y2="316.28"/>
+    <line class="cls-2" x1="200.18" y1="325.39" x2="200.18" y2="316.28"/>
     <line class="cls-2" x1="180.14" y1="322.9" x2="180.14" y2="316.28"/>
-    <line class="cls-2" x1="160.1" y1="322.9" x2="160.1" y2="316.28"/>
+    <line class="cls-2" x1="160.1" y1="325.39" x2="160.1" y2="316.28"/>
     <line class="cls-2" x1="140.06" y1="322.9" x2="140.06" y2="316.28"/>
-    <line class="cls-2" x1="120.02" y1="322.9" x2="120.02" y2="316.28"/>
+    <line class="cls-2" x1="120.02" y1="325.39" x2="120.02" y2="316.28"/>
     <line class="cls-2" x1="99.99" y1="322.9" x2="99.99" y2="316.28"/>
-    <line class="cls-2" x1="79.95" y1="322.9" x2="79.95" y2="316.28"/>
+    <line class="cls-2" x1="79.95" y1="325.39" x2="79.95" y2="316.28"/>
     <text class="cls-8" transform="translate(250.44 261.23)"><tspan x="0" y="0">23%</tspan></text>
     <text class="cls-8" transform="translate(41.3 286.02)"><tspan x="0" y="0">30%</tspan></text>
     <g>

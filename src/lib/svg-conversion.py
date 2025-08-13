@@ -414,8 +414,10 @@ from pathlib import Path
 
 
 def main():
-	input_dir = "../assets/landing/map" 
-	output_dir = "../../static/landing/"
+	city = "halifax-ns"
+	input_dir = "../routes/" + city + "/assets"  
+	output_dir = "../../static/"  + city + "/web-svg"
+
 
 	for svg_file in Path(input_dir).glob("*.svg"):
 		output_path = Path(output_dir) / svg_file.name
