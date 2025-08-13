@@ -8,11 +8,13 @@
 	export let image = '';
 	export let imageCaption = '';
 	export let imageSource = '';
+	export let backgroundColour = 'var(--brandDarkBlue)';
 
 </script>
 
 <div class="container">
-	<div class="left">
+
+	<div class="left" style="background-color: {backgroundColour};">
 		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-top" />
 		<div class="title-text-container">
 			<h1>{title}</h1>
@@ -46,7 +48,6 @@
 
 	.left {
 		flex: 1;
-		background-color: var(--brandDarkBlue);
 		border-right: solid 1px var(--brandGray);
 		display: flex;
 		justify-content: center;

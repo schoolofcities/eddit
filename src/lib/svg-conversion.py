@@ -399,10 +399,23 @@ def process_svg(input_svg_path, output_svg_path, font_map):
 
 from pathlib import Path
 
+# def main():
+# 	city = "albuquerque-nm"
+# 	input_dir = "../routes/" + city + "/assets"  
+# 	output_dir = "../../static/"  + city + "/web-svg"
+
+# 	for svg_file in Path(input_dir).glob("*.svg"):
+# 		output_path = Path(output_dir) / svg_file.name
+# 		process_svg(svg_file, output_path, FONT_MAP)
+
+# if __name__ == "__main__":
+# 	main()
+
+
+
 def main():
-	city = "albuquerque-nm"
-	input_dir = "../routes/" + city + "/assets"  
-	output_dir = "../../static/"  + city + "/web-svg"
+	input_dir = "../assets/landing/map" 
+	output_dir = "../../static/landing/"
 
 	for svg_file in Path(input_dir).glob("*.svg"):
 		output_path = Path(output_dir) / svg_file.name
