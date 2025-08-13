@@ -58,8 +58,8 @@
 	title={'Becoming “Canada’s Favourite Downtown”: Encouraging investments in the core'}
 	subtitle={"A case study of Halifax, Nova Scotia"} 
 	image={titleImage}
-	imageCaption={"..."}
-	imageSource={"Photo by Kyle Miller"}
+	imageCaption={"Halifax Waterfront."}
+	imageSource={"Photo by Kyle Miller."}
 />
 
 <main>
@@ -68,7 +68,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a> & <a href='' target='_blank'>Jeff Allen</a>"}
 			date={"August 2025"}
 		/>
 
