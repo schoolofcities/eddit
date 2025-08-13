@@ -18,49 +18,49 @@
 			image: "https://picsum.photos/id/1035/320/270",
 			title: "City Lights",
 			subtitle: "The beauty of urban nights",
-			url: "/city-lights"
+			url: "/eddit/bridgeport-ct"
 		},
 		{
 			image: "https://picsum.photos/id/1045/320/270",
 			title: "Forest Path",
 			subtitle: "Wander through the woods",
-			url: "/forest-path"
+			url: "/eddit/bridgeport-ct"
 		},
 		{
 			image: "https://picsum.photos/id/1055/320/270",
 			title: "Desert Dunes",
 			subtitle: "Adventure in the sand",
-			url: "/desert-dunes"
+			url: "/eddit/bridgeport-ct"
 		},
 		{
 			image: "https://picsum.photos/id/1065/320/270",
 			title: "Snowy Peaks",
 			subtitle: "A winter wonderland",
-			url: "/snowy-peaks"
+			url: "/eddit/bridgeport-ct"
 		},
 		{
 			image: "https://picsum.photos/id/1075/320/270",
 			title: "Golden Sunset",
 			subtitle: "End your day with warmth",
-			url: "/golden-sunset"
+			url: "/eddit/bridgeport-ct"
 		},
 		{
 			image: "https://picsum.photos/id/1085/320/270",
 			title: "Autumn Leaves",
 			subtitle: "A palette of fall colors",
-			url: "/autumn-leaves"
+			url: "/eddit/bridgeport-ct"
 		},
 		{
 			image: "https://picsum.photos/id/1095/320/270",
 			title: "Lakeside Cabin",
 			subtitle: "Tranquility by the water",
-			url: "/lakeside-cabin"
+			url: "/eddit/bridgeport-ct"
 		},
 		{
 			image: "https://picsum.photos/id/1105/320/270",
 			title: "Countryside Road",
 			subtitle: "Journey through the fields",
-			url: "/countryside-road"
+			url: "/eddit/bridgeport-ct"
 		}
 	];
 </script>

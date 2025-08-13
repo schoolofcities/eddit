@@ -1,0 +1,1 @@
+import{f as h,X as k,u as S,D as T,Y}from"./7Y-9FkcX.js";function t(r,f){return r===f||(r==null?void 0:r[Y])===f}function x(r={},f,a,c){return h(()=>{var i,s;return k(()=>{i=s,s=[],S(()=>{r!==a(...s)&&(f(r,...s),i&&t(a(...i),r)&&f(null,...i))})}),()=>{T(()=>{s&&t(a(...s),r)&&f(null,...s)})}}),r}export{x as b};
