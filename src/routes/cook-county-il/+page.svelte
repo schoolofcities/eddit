@@ -36,7 +36,7 @@
 
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={"Cross-community Approaches to Climate Action: Transitioning to sustainable landscape practices"}

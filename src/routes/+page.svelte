@@ -24,6 +24,8 @@
 
 
 
+<Password/>
+
 <Title 
 	title={"Equitable Development Data Insight Training"}
 	subtitle={"Case studies from the 2023-24 cohort"} 

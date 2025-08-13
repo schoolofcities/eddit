@@ -52,7 +52,7 @@
 
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title 
 	title={'Becoming “Canada’s Favourite Downtown”: Encouraging investments in the core'}
