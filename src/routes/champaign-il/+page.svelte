@@ -44,7 +44,7 @@
 
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={"Building safe communities: Infrastructure investments for gun violence prevention"}
