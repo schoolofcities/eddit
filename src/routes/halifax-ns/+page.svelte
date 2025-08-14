@@ -14,7 +14,7 @@
 
 	import titleImage from "./assets/halifax-title.jpg"
 	import lunchImage from "./assets/lunchtime.jpg"
-	import placemImage from "./assets/lunchtime.jpg"
+	import placemImage from "./assets/placemaking.jpg"
 	import waterfrontImage from "./assets/waterfront.jpg"
 
 	import Footnote from '$lib/Footnote.svelte';
@@ -26,26 +26,26 @@
 
 	const fns = [
 		'David Downey and Cathy Lin, “The Evolution of Business Improvement Districts: From Place Management to Place Leadership,” *Journal of Urban Regeneration & Renewal* 18, no. 4 (2025): 322–35.',
-		'Statistics Canada (table), Census Profile, 2021 Census of Population, Statistics Canada Catalogue no. 98-316-X2021001 (Ottawa) Released November 15, 2023 https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E (accessed August 8, 2025); Nova Scotia Department of Finance, GDP by Census Metropolitan Area 2021 (2024), https://novascotia.ca/finance/statistics/news.asp?id=20491.',
-		'Halifax Partnership, “Halifax People - Demographics, Population and Education,” Halifax Partnership, accessed August 8, 2025, https://halifaxpartnership.com/research-strategy/halifax-index/people/',
+		'Statistics Canada (table), Census Profile, 2021 Census of Population, Statistics Canada Catalogue no. 98-316-X2021001 (Ottawa) Released November 15, 2023 , (accessed August 8, 2025),  [URL](https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/index.cfm?Lang=E); Nova Scotia Department of Finance, GDP by Census Metropolitan Area 2021 (2024), [URL](https://novascotia.ca/finance/statistics/news.asp?id=20491).',
+		'Halifax Partnership, “Halifax People - Demographics, Population and Education,” Halifax Partnership, accessed August 8, 2025, [URL](https://halifaxpartnership.com/research-strategy/halifax-index/people/).',
 		'Halifax Partnership, “Halifax People.”',
 		'Eugenie L. Birch, “Who Lives Downtown?,” in *Redefining Urban and Suburban America: Evidence from Census 2000*, ed. Alan Berube et al. (Brookings Institution Press, 2007).',
-		'Canadian Urban Institute, *The Value of Investing in Canadian Downtowns* (2012), https://canurb.org/wp-content/uploads/120523_The-Value-of-Investing-in-Canadian-Downtowns-compressed.pdf',
-		'Canadian Urban Institute, *The Case for the Core* (2021), https://canurb.org/publications/case-for-the-core/; Donovan D. Rypkema, “The Importance of Downtown in the 21st Century,” *Journal of the American Planning Association* (Chicago) 69, no. 1 (2003): 9–15, https://doi.org/10.1080/01944360308976290.',
-		'Gilles Duranton and Diego Puga, “The Growth of Cities,” SSRN Scholarly Paper 2309234, Rochester, NY, August 1, 2013, https://papers.ssrn.com/abstract=2309234',
-		'Downtown Halifax Business Commission, *State of the Downtown Report 2025* (2025), https://issuu.com/downtownhalifax/docs/sotd_2025_digital_spreads',
-		'Tracy Hadden Loh and Hanna Love, “Breaking the ‘Urban Doom Loop’: The Future of Downtowns Is Shared Prosperity,” *Brookings*, March 23, 2023, https://www.brookings.edu/articles/breaking-the-urban-doom-loop-the-future-of-downtowns-is-shared-prosperity/',
+		'Canadian Urban Institute, *The Value of Investing in Canadian Downtowns* (2012), [URL](https://canurb.org/wp-content/uploads/120523_The-Value-of-Investing-in-Canadian-Downtowns-compressed.pdf).',
+		'Canadian Urban Institute, *The Case for the Core* (2021), [URL](https://canurb.org/publications/case-for-the-core/); Donovan D. Rypkema, “The Importance of Downtown in the 21st Century,” *Journal of the American Planning Association* (Chicago) 69, no. 1 (2003): 9–15, [URL](https://doi.org/10.1080/01944360308976290).',
+		'Gilles Duranton and Diego Puga, “The Growth of Cities,” SSRN Scholarly Paper 2309234, Rochester, NY, August 1, 2013, [URL](https://papers.ssrn.com/abstract=2309234).',
+		'Downtown Halifax Business Commission, *State of the Downtown Report 2025* (2025), [URL](https://issuu.com/downtownhalifax/docs/sotd_2025_digital_spreads).',
+		'Tracy Hadden Loh and Hanna Love, “Breaking the ‘Urban Doom Loop’: The Future of Downtowns Is Shared Prosperity,” *Brookings*, March 23, 2023, [URL](https://www.brookings.edu/articles/breaking-the-urban-doom-loop-the-future-of-downtowns-is-shared-prosperity/).',
 		'Canadian Urban Institute, *The Case for the Core*.',
-		'Gary Sands et al., “Planning for Post-Pandemic Downtowns of Mid-Size Urban Areas,” *Planning, Practice & Research* (Abingdon) 37, no. 3 (2022): 393–405, https://doi.org/10.1080/02697459.2021.2016200.',
+		'Gary Sands et al., “Planning for Post-Pandemic Downtowns of Mid-Size Urban Areas,” *Planning, Practice & Research* (Abingdon) 37, no. 3 (2022): 393–405, [URL](https://doi.org/10.1080/02697459.2021.2016200).',
 		'Karen Chapple et al., *The Death of Downtown? Pandemic Recovery Trajectories across 62 North American Cities* (Research Brief) (School of Cities, University of Toronto, 2022).',
-		'Fran H. Norris et al., “Community Resilience as a Metaphor, Theory, Set of Capacities, and Strategy for Disaster Readiness,” *American Journal of Community Psychology* (Boston) 41, nos. 1–2 (2008): 127–50, https://doi.org/10.1007/s10464-007-9156-6.',
-		'Halifax Partnership, “Halifax Economy – Growth, Innovation, and Confidence,” Halifax Partnership, accessed August 8, 2025, https://halifaxpartnership.com/research-strategy/halifax-index/economy/.',
-		'Arpit Gupta et al., “Work From Home and the Office Real Estate Apocalypse,” Working Paper 30526, Working Paper Series (National Bureau of Economic Research, September 2022), https://doi.org/10.3386/w30526.',
+		'Fran H. Norris et al., “Community Resilience as a Metaphor, Theory, Set of Capacities, and Strategy for Disaster Readiness,” *American Journal of Community Psychology* (Boston) 41, nos. 1–2 (2008): 127–50, [URL](https://doi.org/10.1007/s10464-007-9156-6).',
+		'Halifax Partnership, “Halifax Economy – Growth, Innovation, and Confidence,” Halifax Partnership, accessed August 8, 2025, [URL](https://halifaxpartnership.com/research-strategy/halifax-index/economy/).',
+		'Arpit Gupta et al., “Work From Home and the Office Real Estate Apocalypse,” Working Paper 30526, Working Paper Series (National Bureau of Economic Research, September 2022), [URL](https://doi.org/10.3386/w30526).',
 		'Aggregated mobility data are provided by Cuebiq, a location intelligence platform. Data are collected from anonymized users who have opted in to provide access to their location data anonymously, through a CCPA- and GDPR-compliant framework. Through its Social Impact program, Cuebiq provides mobility insights for academic research and humanitarian initiatives. The Cuebiq responsible data sharing framework enables research partners to query anonymized and privacy enhanced data, by providing access to an auditable, on-premise Data Cleanroom environment. All final outputs provided to partners are aggregated in order to preserve privacy.',
-		'Haley Ryan, “Halifax Remains ‘Canadian Comeback City’ for Downtown Activity,” *CBC News*, February 26, 2025, https://www.cbc.ca/news/canada/nova-scotia/halifax-best-downtown-recovery-activity-canada-pandemic-covid-19-1.7467172; Karen Chapple et al., “Downtown Recovery Rankings,” October 16, 2023, https://downtownrecovery.com/.',
-		'Tristan Cleveland, “How Halifax Built the Most Vibrant Waterfront in Canada: Decades of Small Changes,” *Happy Cities*, October 26, 2023, https://happycities.com/blog/halifax-waterfront-power-of-placemaking.',
-		'Downtown Halifax Business Commission, “Downtown Halifax’s Art Tour (Self-Guided),” https://www.google.com/maps/d/viewer?mid=1XuL-8aX9Wto1Nix3AWYqj9wwVditZjg',
-		'Build Nova Scotia, *The Story of Halifax Waterfront*, May 30, 2023, https://buildns.ca/archive-pages/success-stories/the-story-of-halifax-waterfront/.'
+		'Haley Ryan, “Halifax Remains ‘Canadian Comeback City’ for Downtown Activity,” *CBC News*, February 26, 2025, [URL](https://www.cbc.ca/news/canada/nova-scotia/halifax-best-downtown-recovery-activity-canada-pandemic-covid-19-1.7467172; Karen Chapple et al., “Downtown Recovery Rankings,” October 16, 2023, https://downtownrecovery.com/).',
+		'Tristan Cleveland, “How Halifax Built the Most Vibrant Waterfront in Canada: Decades of Small Changes,” *Happy Cities*, October 26, 2023, [URL](https://happycities.com/blog/halifax-waterfront-power-of-placemaking).',
+		'Downtown Halifax Business Commission, “Downtown Halifax’s Art Tour (Self-Guided),” [URL](https://www.google.com/maps/d/viewer?mid=1XuL-8aX9Wto1Nix3AWYqj9wwVditZjg).',
+		'Build Nova Scotia, *The Story of Halifax Waterfront*, May 30, 2023, [URL](https://buildns.ca/archive-pages/success-stories/the-story-of-halifax-waterfront/).'
 	];
 
 </script>
