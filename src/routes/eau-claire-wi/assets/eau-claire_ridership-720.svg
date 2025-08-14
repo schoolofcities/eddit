@@ -3,109 +3,97 @@
   <defs>
     <style>
       .cls-1 {
-        font-size: 16px;
-      }
-
-      .cls-1, .cls-2, .cls-3 {
-        font-family: OpenSans-Bold, 'Open Sans';
-        font-weight: 700;
-      }
-
-      .cls-4 {
         stroke: #999795;
       }
 
-      .cls-4, .cls-5 {
+      .cls-1, .cls-2 {
         fill: none;
       }
 
-      .cls-4, .cls-5, .cls-6 {
+      .cls-1, .cls-2, .cls-3 {
         stroke-miterlimit: 10;
       }
 
-      .cls-2 {
+      .cls-4 {
+        font-family: OpenSans-Bold, 'Open Sans';
         font-size: 20px;
+        font-weight: 700;
       }
 
-      .cls-7, .cls-3 {
+      .cls-5 {
         fill: #dc4732;
       }
 
-      .cls-8 {
+      .cls-6 {
         fill: #999795;
         font-size: 12px;
       }
 
-      .cls-8, .cls-9 {
+      .cls-6, .cls-7 {
         font-family: OpenSans, 'Open Sans';
       }
 
-      .cls-5 {
+      .cls-2 {
         stroke: #000;
       }
 
-      .cls-9 {
+      .cls-7 {
         font-size: 14px;
       }
 
       .cls-3 {
-        font-size: 40px;
-      }
-
-      .cls-6 {
         fill: #bcbec0;
         stroke: #d1d3d4;
         stroke-width: .25px;
       }
     </style>
   </defs>
-  <line class="cls-5" x1="120.92" y1="305.17" x2="636.84" y2="305.17"/>
+  <rect class="cls-5" x="616.83" y="154.86" width="29.16" height="150.31"/>
   <g>
-    <text class="cls-9" transform="translate(105.35 309.89)"><tspan x="0" y="0">0</tspan></text>
-    <text class="cls-9" transform="translate(101.62 268.74)"><tspan x="0" y="0">.2</tspan></text>
-    <text class="cls-9" transform="translate(101.62 227.59)"><tspan x="0" y="0">.4</tspan></text>
-    <text class="cls-9" transform="translate(101.62 186.43)"><tspan x="0" y="0">.6</tspan></text>
-    <text class="cls-9" transform="translate(101.62 145.28)"><tspan x="0" y="0">.8</tspan></text>
-    <text class="cls-9" transform="translate(93.62 104.13)"><tspan x="0" y="0">1.0</tspan></text>
-    <text class="cls-9" transform="translate(93.62 62.98)"><tspan x="0" y="0">1.2</tspan></text>
+    <text class="cls-7" transform="translate(105.35 309.89)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-7" transform="translate(93.62 268.74)"><tspan x="0" y="0">0.2</tspan></text>
+    <text class="cls-7" transform="translate(93.62 227.59)"><tspan x="0" y="0">0.4</tspan></text>
+    <text class="cls-7" transform="translate(93.62 186.43)"><tspan x="0" y="0">0.6</tspan></text>
+    <text class="cls-7" transform="translate(93.62 145.28)"><tspan x="0" y="0">0.8</tspan></text>
+    <text class="cls-7" transform="translate(93.62 104.13)"><tspan x="0" y="0">1.0</tspan></text>
+    <text class="cls-7" transform="translate(93.62 62.98)"><tspan x="0" y="0">1.2</tspan></text>
   </g>
-  <rect class="cls-7" x="574.95" y="165.76" width="27.93" height="139.42"/>
-  <rect class="cls-7" x="533.07" y="183.67" width="27.93" height="121.51"/>
-  <rect class="cls-7" x="491.19" y="210.08" width="27.93" height="95.1"/>
-  <rect class="cls-7" x="449.31" y="210.12" width="27.93" height="95.06"/>
-  <rect class="cls-7" x="407.42" y="115.89" width="27.93" height="189.29"/>
-  <rect class="cls-7" x="365.54" y="105.28" width="27.93" height="199.89"/>
-  <rect class="cls-7" x="323.66" y="112.79" width="27.93" height="192.38"/>
-  <rect class="cls-7" x="281.78" y="110.92" width="27.93" height="194.26"/>
-  <rect class="cls-7" x="239.9" y="110.39" width="27.93" height="194.78"/>
-  <rect class="cls-7" x="198.02" y="88.88" width="27.93" height="216.29"/>
-  <rect class="cls-7" x="156.14" y="83.04" width="27.93" height="222.14"/>
+  <rect class="cls-5" x="574.95" y="165.76" width="27.93" height="139.42"/>
+  <rect class="cls-5" x="533.07" y="183.67" width="27.93" height="121.51"/>
+  <rect class="cls-5" x="491.19" y="210.08" width="27.93" height="95.1"/>
+  <rect class="cls-5" x="449.31" y="210.12" width="27.93" height="95.06"/>
+  <rect class="cls-5" x="407.42" y="115.89" width="27.93" height="189.29"/>
+  <rect class="cls-5" x="365.54" y="105.28" width="27.93" height="199.89"/>
+  <rect class="cls-5" x="323.66" y="112.79" width="27.93" height="192.38"/>
+  <rect class="cls-5" x="281.78" y="110.92" width="27.93" height="194.26"/>
+  <rect class="cls-5" x="239.9" y="110.39" width="27.93" height="194.78"/>
+  <rect class="cls-5" x="198.02" y="88.88" width="27.93" height="216.29"/>
+  <rect class="cls-5" x="156.14" y="83.04" width="27.93" height="222.14"/>
   <g>
-    <line class="cls-6" x1="120.92" y1="263.73" x2="636.84" y2="263.73"/>
-    <line class="cls-6" x1="120.92" y1="222.3" x2="636.84" y2="222.3"/>
-    <line class="cls-6" x1="120.92" y1="180.86" x2="636.84" y2="180.86"/>
-    <line class="cls-6" x1="120.92" y1="139.42" x2="636.84" y2="139.42"/>
-    <line class="cls-6" x1="120.92" y1="97.98" x2="449.31" y2="97.98"/>
-    <line class="cls-6" x1="120.92" y1="56.54" x2="449.31" y2="56.54"/>
+    <line class="cls-3" x1="120.92" y1="263.73" x2="680" y2="263.73"/>
+    <line class="cls-3" x1="120.92" y1="222.3" x2="680" y2="222.3"/>
+    <line class="cls-3" x1="120.92" y1="180.86" x2="680" y2="180.86"/>
+    <line class="cls-3" x1="120.92" y1="139.42" x2="680" y2="139.42"/>
+    <line class="cls-3" x1="120.92" y1="97.98" x2="680" y2="97.98"/>
+    <line class="cls-3" x1="120.92" y1="56.54" x2="680" y2="56.54"/>
   </g>
-  <text class="cls-9" transform="translate(44.71 165.76)"><tspan x="0" y="0">Annual</tspan><tspan x="3.77" y="16.8">transit</tspan><tspan x="-12.83" y="33.6">ridership</tspan><tspan x="-13.23" y="50.4">(millions)</tspan></text>
-  <text class="cls-9" transform="translate(154.09 323.04)"><tspan x="0" y="0">2013</tspan></text>
-  <text class="cls-9" transform="translate(237.85 323.04)"><tspan x="0" y="0">2015</tspan></text>
-  <text class="cls-9" transform="translate(321.62 323.04)"><tspan x="0" y="0">2017</tspan></text>
-  <text class="cls-9" transform="translate(405.38 323.04)"><tspan x="0" y="0">2019</tspan></text>
-  <text class="cls-9" transform="translate(489.14 323.04)"><tspan x="0" y="0">2021</tspan></text>
-  <text class="cls-9" transform="translate(572.9 323.04)"><tspan x="0" y="0">2023</tspan></text>
-  <line class="cls-5" x1="588.91" y1="307.38" x2="588.91" y2="302.97"/>
-  <line class="cls-5" x1="505.15" y1="307.38" x2="505.15" y2="302.97"/>
-  <line class="cls-5" x1="421.39" y1="307.38" x2="421.39" y2="302.97"/>
-  <line class="cls-5" x1="337.63" y1="307.38" x2="337.63" y2="302.97"/>
-  <line class="cls-5" x1="253.86" y1="307.38" x2="253.86" y2="302.97"/>
-  <line class="cls-5" x1="170.1" y1="307.38" x2="170.1" y2="302.97"/>
-  <text class="cls-1" transform="translate(460 101.15)"><tspan x="0" y="0">used public transportation</tspan><tspan x="0" y="19.2">to commute to work in 2023</tspan></text>
-  <text class="cls-3" transform="translate(460 79.73)"><tspan x="0" y="0">1.04%</tspan></text>
+  <text class="cls-7" transform="translate(34.04 165.76)"><tspan x="0" y="0">Annual</tspan><tspan x="3.77" y="16.8">transit</tspan><tspan x="-12.83" y="33.6">ridership</tspan><tspan x="-13.23" y="50.4">(millions)</tspan></text>
+  <text class="cls-7" transform="translate(154.09 323.04)"><tspan x="0" y="0">2013</tspan></text>
+  <text class="cls-7" transform="translate(237.85 323.04)"><tspan x="0" y="0">2015</tspan></text>
+  <text class="cls-7" transform="translate(321.62 323.04)"><tspan x="0" y="0">2017</tspan></text>
+  <text class="cls-7" transform="translate(405.38 323.04)"><tspan x="0" y="0">2019</tspan></text>
+  <text class="cls-7" transform="translate(489.14 323.04)"><tspan x="0" y="0">2021</tspan></text>
+  <text class="cls-7" transform="translate(572.9 323.04)"><tspan x="0" y="0">2023</tspan></text>
+  <line class="cls-2" x1="588.91" y1="307.38" x2="588.91" y2="302.97"/>
+  <line class="cls-2" x1="505.15" y1="307.38" x2="505.15" y2="302.97"/>
+  <line class="cls-2" x1="421.39" y1="307.38" x2="421.39" y2="302.97"/>
+  <line class="cls-2" x1="337.63" y1="307.38" x2="337.63" y2="302.97"/>
+  <line class="cls-2" x1="253.86" y1="307.38" x2="253.86" y2="302.97"/>
+  <line class="cls-2" x1="170.1" y1="307.38" x2="170.1" y2="302.97"/>
   <g>
-    <text class="cls-8" transform="translate(10 360)"><tspan x="0" y="0">Data Source: Eau Claire Transit (2013, 2014, 2015, 2016, 2017, 2018, 2019), American Community Survey (2023)</tspan></text>
-    <line class="cls-4" x1="10.41" y1="347.54" x2="700" y2="347.54"/>
+    <text class="cls-6" transform="translate(10 360)"><tspan x="0" y="0">Data Source: Federal Transit Administration (2025)</tspan></text>
+    <line class="cls-1" x1="10.41" y1="347.54" x2="700" y2="347.54"/>
   </g>
-  <text class="cls-2" transform="translate(20 27.14)"><tspan x="0" y="0">Transit ridership in Eau Claire</tspan></text>
+  <text class="cls-4" transform="translate(20 27.14)"><tspan x="0" y="0">Transit ridership in Eau Claire</tspan></text>
+  <line class="cls-2" x1="120.92" y1="305.17" x2="680" y2="305.17"/>
 </svg>

@@ -31,7 +31,7 @@
 
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title 
 	title={"Connecting the Dots: Showcasing the Benefits of Public Transportation "}
@@ -103,6 +103,11 @@
 	<GraphicSingle
 		svg360={"./eau-claire-wi/web-svg/eau-claire_ridership-360.svg"}
 		svg720={"./eau-claire-wi/web-svg/eau-claire_ridership-720.svg"}
+	/>
+
+	<GraphicSingle
+		svg360={"./eau-claire-wi/web-svg/eau-claire_ridership-map-360.svg"}
+		svg720={"./eau-claire-wi/web-svg/eau-claire_ridership-map-720.svg"}
 	/>
 
 	<div class="text">
