@@ -2,67 +2,68 @@
 	import "../assets/global-styles.css";
 
 	const cards = [
-		{
-			image: "./landing/card-images/abq-title.jpg",
-			title: "From tracks to trail: Planning for equitable (re)development",
-			subtitle: "Albuquerque, New Mexico.",
-			url: "/eddit/albuquerque-nm" 
-		},
-		{
-			image: "./landing/card-images/bridgeport-title.jpg",
-			title: "Increasing tree cover for equity and climate resilience",
-			subtitle: "Bridgeport, Connecticut",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1035/320/270",
-			title: "City Lights",
-			subtitle: "The beauty of urban nights",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1045/320/270",
-			title: "Forest Path",
-			subtitle: "Wander through the woods",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1055/320/270",
-			title: "Desert Dunes",
-			subtitle: "Adventure in the sand",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1065/320/270",
-			title: "Snowy Peaks",
-			subtitle: "A winter wonderland",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1075/320/270",
-			title: "Golden Sunset",
-			subtitle: "End your day with warmth",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1085/320/270",
-			title: "Autumn Leaves",
-			subtitle: "A palette of fall colors",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1095/320/270",
-			title: "Lakeside Cabin",
-			subtitle: "Tranquility by the water",
-			url: "/eddit/bridgeport-ct"
-		},
-		{
-			image: "https://picsum.photos/id/1105/320/270",
-			title: "Countryside Road",
-			subtitle: "Journey through the fields",
-			url: "/eddit/bridgeport-ct"
-		}
-	];
+    {
+        image: "./landing/card-images/abq-title.jpg",
+        title: "From tracks to trail: Planning for equitable (re)development",
+        subtitle: "Albuquerque, New Mexico",
+        url: "/eddit/albuquerque-nm"
+    },
+    {
+        image: "./landing/card-images/bridgeport-title.jpg",
+        title: "Increasing tree cover for equity and climate resilience",
+        subtitle: "Bridgeport, Connecticut",
+        url: "/eddit/bridgeport-ct"
+    },
+    {
+        image: "./landing/card-images/champaign-title.jpg",
+        title: "Building safe communities: Infrastructure investments for gun violence prevention",
+        subtitle: "Champaign, Illinois",
+        url: "/eddit/champaign-il"
+    },
+    {
+        image: "./landing/card-images/cook-title.jpg",
+        title: "Cross-community Approaches to Climate Action: Transitioning to sustainable landscape practices",
+        subtitle: "Cook County, Illinois",
+        url: "/eddit/cook-county-il"
+    },
+    {
+        image: "./landing/card-images/eauclaire-title.jpg",
+        title: "Connecting the Dots: Showcasing the Benefits of Public Transportation",
+        subtitle: "Eau Claire, Wisconsin",
+        url: "/eddit/eau-claire-wi"
+    },
+    {
+        image: "./landing/card-images/greensboro-title.jpg",
+        title: "Increasing the availability of healthy food",
+        subtitle: "Greensboro, North Carolina",
+        url: "/eddit/greensboro-nc"
+    },
+    {
+        image: "./landing/card-images/halifax-title.jpg",
+        title: "Becoming “Canada’s Favourite Downtown”: Encouraging investments in the core",
+        subtitle: "Halifax, Nova Scotia",
+        url: "/eddit/halifax-ns"
+    },
+    {
+        image: "./landing/card-images/highpoint-title.jpg",
+        title: "Revitalizing historic main streets through entrepreneurship",
+        subtitle: "High Point, North Carolina",
+        url: "/eddit/high-point-nc"
+    },
+    {
+        image: "./landing/card-images/woodbuffalo-title.jpg",
+        title: "Seeking a new definition of affordability in a resource economy",
+        subtitle: "Wood Buffalo, Alberta",
+        url: "/eddit/wood-buffalo-ab"
+    },
+    {
+        image: "./landing/card-images/worcester-title.jpg",
+        title: "Investing in affordable housing to support inclusive downtowns",
+        subtitle: "Worcester, Massachusetts",
+        url: "/eddit/worcester-ma"
+    }
+];
+
 </script>
 
 <div class="cards-container">
@@ -107,12 +108,12 @@
 
 	.card img {
 		width: 100%;
-		height: 60%;
+		height: 65%;
 		object-fit: cover;
 	}
 
 	.card-text {
-		height: 40%;
+		height: 35%;
 		background-color: var(--brandDarkBlue);
 		color: white;
 		padding: 15px;
@@ -128,7 +129,7 @@
 	.card-text h2 {
 		font-family: TradeGothicBold;
 		font-weight: normal;
-		font-size: 28px;
+		font-size: 23px;
 		margin-bottom: 5px;
 		color: var(--brandWhite);
 		padding-bottom: 10px;
@@ -138,7 +139,7 @@
 	.card-text h3 {
 		font-family: SourceSerifItalic;
 		font-weight: normal;
-		font-size: 20px;
+		font-size: 18px;
 		opacity: 1;
 		color: var(--brandWhite);
 	}
