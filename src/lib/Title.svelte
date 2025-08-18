@@ -162,10 +162,27 @@
 		}
 	}
 
+	@media (max-width: 1500px) {
+		h1 {
+			font-size: 42px; 
+			line-height: 50px;
+		}
+
+		h2 {
+			font-size: 20px; 
+		}
+		/* .logo-top {
+			width: 225px;
+		}
+		.logo-bottom {
+			width: 150px;
+		} */
+	}
+
 	@media (max-width: 800px) {
 		h1 {
-			font-size: 36px; 
-			line-height: 42px;
+			font-size: 32px; 
+			line-height: 38px;
 		}
 
 		h2 {

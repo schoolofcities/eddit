@@ -24,11 +24,11 @@
 
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title 
-	title={"Equitable Development Data Insight Training"}
-	subtitle={"Case studies from the 2023-24 cohort"} 
+	title={"Data Storytelling for Equitable Development"}
+	subtitle={"Case studies from the 2023-24 EDDIT cohorts"} 
 	image={titleImage}
 	imageCaption={""}
 	imageSource={""}
@@ -61,7 +61,7 @@
 
 	<div class="right">
 
-		{#if width >= 1430}
+		{#if width >= 1500}
 
 			<div class="svg-container" style="--svg-width: 720px;">
 				{@html map720}
@@ -103,4 +103,7 @@
 	</p>
 
 </div>
+
+
+<Footer/>
 
