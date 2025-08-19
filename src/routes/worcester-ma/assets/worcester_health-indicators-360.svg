@@ -56,15 +56,15 @@
     <rect class="cls-7" x="180" y="283" width="120" height="17"/>
     <rect class="cls-6" x="180" y="260" width="112.56" height="17"/>
     <rect class="cls-6" x="180" y="180" width="98.76" height="17"/>
-    <text class="cls-4" transform="translate(20 24.8)"><tspan x="0" y="0">Health indicators for Plumley vs </tspan><tspan x="0" y="24">Downtown in 2022</tspan></text>
+    <text class="cls-4" transform="translate(20 24.8)"><tspan x="0" y="0">Health indicators for Plumley </tspan><tspan x="0" y="24">Village vs Downtown in 2022</tspan></text>
     <text class="cls-2" transform="translate(64.51 89.55)"><tspan x="0" y="0">Visits to doctor</tspan><tspan x="-32.89" y="16.8">for routine checkup</tspan><tspan x="-.7" y="33.6">within the past</tspan><tspan x="-24.64" y="50.4">year among adults</tspan></text>
     <text class="cls-2" transform="translate(66.97 187.47)"><tspan x="0" y="0">Good or better</tspan><tspan x="-14.02" y="16.8">self-rated health</tspan><tspan x="-40.26" y="33.6">status among adults</tspan></text>
     <text class="cls-2" transform="translate(49.83 266.38)"><tspan x="0" y="0">Health insurance</tspan><tspan x="24.3" y="16.8">among adults</tspan><tspan x="46.09" y="33.6">aged 18-64</tspan></text>
     <g>
-      <rect class="cls-6" x="90" y="330" width="10" height="10"/>
-      <rect class="cls-7" x="200" y="330" width="10" height="10"/>
-      <text class="cls-5" transform="translate(110 340)"><tspan x="0" y="0">Downtown</tspan></text>
-      <text class="cls-5" transform="translate(220 340)"><tspan x="0" y="0">Plumley</tspan></text>
+      <rect class="cls-6" x="70" y="330" width="10" height="10"/>
+      <rect class="cls-7" x="180" y="330" width="10" height="10"/>
+      <text class="cls-5" transform="translate(90 340)"><tspan x="0" y="0">Downtown</tspan></text>
+      <text class="cls-5" transform="translate(200 340)"><tspan x="0" y="0">Plumley Village</tspan></text>
     </g>
     <text class="cls-3" transform="translate(291.76 126.93)"><tspan x="0" y="0">90.0%</tspan></text>
     <text class="cls-1" transform="translate(276.24 104.24)"><tspan x="0" y="0">77.2%</tspan></text>
