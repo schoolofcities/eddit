@@ -41,7 +41,7 @@
 </script>
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={"Investing in affordable housing to support inclusive downtowns"}
