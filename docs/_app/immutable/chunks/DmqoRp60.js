@@ -1,0 +1,1 @@
+import{c as s,a as i}from"./DQ_xfRpL.js";import{h as f,E as p,w as c,K as d,L as h,i as m,y as l,M as u}from"./SuqSDftd.js";function v(t,e,...a){var r=t,o=d,n;f(()=>{o!==(o=e())&&(n&&(h(n),n=null),n=c(()=>o(r,...a)))},p),m&&(r=l)}function E(t,e){var a=s(),r=u(a);v(r,()=>e.children),i(t,a)}export{E as L};
