@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 100">
+  <g id="background">
+    <image x="0.0" y="0.0" width="720.0" height="100.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAADICAYAAAAeP0ZYAAAABmJLR0QA/wD/AP+gvaeTAAAEtklEQVR4nO3YsQ2DMBRAQYPpU+Askb2QIibyPNmBObyBwwagFNEH6W6CV7+UAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODOhuiAM7XWV079E90BAAAAAHA1y3st0Q1HpuiAM7n36TumOboDAAAAAIDfXH5AP0rZWmvP6A4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP5mB3/EDA+faF5BAAAAAElFTkSuQmCC"/>
+  </g>
+  <g id="foreground">
+    <g id="Layer_1" data-name="Layer 1">
+      <g>
+        <text class="cls-5" transform="translate(20 90)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+          <text class="cls-5" transform="translate(20 90)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        </text>
+      </g>
+      <g>
+        <text class="cls-5" transform="translate(20 90)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Source: National Low Income Housing Coalition, “The Gap: A Shortage of Affordable Homes" (2025)</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <text class="cls-5" transform="translate(20 90)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan class="cls-1" x="550.73" y="0" style="letter-spacing: 1.85em; font-weight: normal; font-style: normal;">
+            <tspan class="cls-1" x="550.73" y="0" style="letter-spacing: 1.85em; font-weight: normal; font-style: normal;">	</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <text class="cls-5" transform="translate(20 90)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+          <tspan class="cls-2" x="576" y="0" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">
+            <tspan class="cls-2" x="576" y="0" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">	</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Layer_5" data-name="Layer 5">
+      <g>
+        <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
+          <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;"/>
+        </text>
+      </g>
+      <g>
+        <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">households in the U.S. are severely cost-burdened, </tspan>
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
+          <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">spending over half their income on rent and utilities</tspan>
+          </tspan>
+        </text>
+      </g>
+      <g>
+        <text class="cls-4" transform="translate(124.9 54.74)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 37px; font-style: normal;">
+          <text class="cls-4" transform="translate(124.9 54.74)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 37px; font-style: normal;"/>
+        </text>
+      </g>
+      <g>
+        <text class="cls-4" transform="translate(124.9 54.74)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 37px; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1 in 4</tspan>
+          </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

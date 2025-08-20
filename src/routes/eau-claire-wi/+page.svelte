@@ -31,7 +31,7 @@
 
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title 
 	title={"Connecting the Dots: Showcasing the Benefits of Public Transportation "}

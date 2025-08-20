@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 130">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        font-size: 13px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #00a28a;
+        font-size: 34px;
+      }
+
+      .cls-3 {
+        letter-spacing: 2.74em;
+      }
+
+      .cls-4 {
+        fill: #9a9896;
+        font-family: OpenSans, 'Open Sans';
+        font-size: 12px;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #9a9896;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        letter-spacing: -.26em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <text class="cls-4" transform="translate(20 100)"><tspan x="0" y="0">Source: National Low Income Housing Coalition, “The </tspan><tspan x="0" y="14.4">Gap: A Shortage of Affordable Homes&quot; (2025)</tspan><tspan class="cls-6" x="251.99" y="14.4">	</tspan><tspan class="cls-3" x="252" y="14.4">	</tspan></text>
+      <line class="cls-5" x1="20.41" y1="87.54" x2="339.98" y2="87.54"/>
+    </g>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <text class="cls-1" transform="translate(114.19 35)"><tspan x="0" y="0">households in the U.S. are severely </tspan><tspan x="0" y="15.6">cost-burdened, spending over half</tspan><tspan x="0" y="31.2">their income on rent and utilities </tspan></text>
+    <text class="cls-2" transform="translate(17.77 50.72)"><tspan x="0" y="0">1 in 4</tspan></text>
+  </g>
+</svg>

@@ -13,7 +13,7 @@
       <g>
         <text class="cls-8" transform="translate(20 310)" style="fill: #9a9896; font-size: 12px; font-family: OpenSans; font-weight: normal; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: TCB Site Data (2022)?, CDC Places (2022)</tspan>
+            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Data Source: TCB Site Data (2022), CDC Places (2022)</tspan>
           </tspan>
         </text>
       </g>
@@ -83,7 +83,7 @@
       </text>
       <text class="cls-4" transform="translate(20 24.8)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
         <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Health indicators for Plumley vs Downtown in 2022</tspan>
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Health indicators for Plumley Village vs Downtown in 2022</tspan>
         </tspan>
       </text>
       <text class="cls-3" transform="translate(540 96.75)" style="font-family: OpenSansBold; font-size: 14px; fill: #00a28a; font-style: normal;">
@@ -151,7 +151,12 @@
       </text>
       <text class="cls-5" transform="translate(630 94.36)" style="font-size: 14px; fill: #231f20; font-family: OpenSans; font-weight: normal; font-style: normal;">
         <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Plumley</tspan>
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Plumley </tspan>
+        </tspan>
+      </text>
+      <text class="cls-5" transform="translate(630 94.36)" style="font-size: 14px; fill: #231f20; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">Village</tspan>
         </tspan>
       </text>
     </g>
