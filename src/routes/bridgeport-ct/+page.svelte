@@ -62,8 +62,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Author Name</a>"}
-			graphics={"<a href='' target='_blank'>Author Name</a> & <a href='' target='_blank'>Author Name</a>"}
+			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
+			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 

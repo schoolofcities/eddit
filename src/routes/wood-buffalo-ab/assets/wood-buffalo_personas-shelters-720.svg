@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 14px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-6 {
+        fill: #ab2069;
+      }
+
+      .cls-7 {
+        fill: #9a9896;
+      }
+
+      .cls-7, .cls-5 {
+        font-family: OpenSans, 'Open Sans';
+        font-size: 12px;
+      }
+
+      .cls-8 {
+        fill: #00a28a;
+      }
+
+      .cls-4 {
+        font-size: 20px;
+      }
+
+      .cls-2 {
+        stroke: #9a9896;
+      }
+    </style>
+  </defs>
+  <text class="cls-5" transform="translate(20 40)"><tspan x="0" y="0">Approximate percentage of housing units available in Wood Buffalo within 30% of average monthly income</tspan></text>
+  <text class="cls-3" transform="translate(69.18 90.03)"><tspan x="0" y="0">Oil and Gas Well Driller</tspan></text>
+  <text class="cls-3" transform="translate(373.93 209.07)"><tspan x="0" y="0">20%</tspan></text>
+  <text class="cls-3" transform="translate(373.93 169.16)"><tspan x="0" y="0">20%</tspan></text>
+  <text class="cls-3" transform="translate(543.81 129.49)"><tspan x="0" y="0">48%</tspan></text>
+  <text class="cls-3" transform="translate(587.62 89.25)"><tspan x="0" y="0">55%</tspan></text>
+  <text class="cls-3" transform="translate(331.05 248.99)"><tspan x="0" y="0">13%</tspan></text>
+  <text class="cls-3" transform="translate(278.97 289.25)"><tspan x="0" y="0">4%</tspan></text>
+  <text class="cls-3" transform="translate(71.48 210.03)"><tspan x="0" y="0">Construction Labourer</tspan></text>
+  <text class="cls-3" transform="translate(80.23 170.03)"><tspan x="0" y="0">Social Service Worker</tspan></text>
+  <text class="cls-3" transform="translate(143.23 130.03)"><tspan x="0" y="0">Truck Driver</tspan></text>
+  <text class="cls-3" transform="translate(54.25 250.03)"><tspan x="0" y="0">Early Childhood Educator</tspan></text>
+  <text class="cls-3" transform="translate(147.55 290.03)"><tspan x="0" y="0">Food Server</tspan></text>
+  <g>
+    <text class="cls-7" transform="translate(20 350)"><tspan x="0" y="0">Sources: Alberta Wage &amp; Salary Survey (2023)</tspan></text>
+    <line class="cls-2" x1="20.41" y1="337.54" x2="690" y2="337.54"/>
+  </g>
+  <text class="cls-4" transform="translate(20 25)"><tspan x="0" y="0">Affordable shelter across professions</tspan></text>
+  <rect class="cls-8" x="250.07" y="77.53" width="332.22" height="15"/>
+  <rect class="cls-6" x="250.07" y="157.43" width="118.38" height="15"/>
+  <rect class="cls-6" x="250.07" y="197.35" width="118.38" height="15"/>
+  <rect class="cls-6" x="250.07" y="237.27" width="75.78" height="15"/>
+  <rect class="cls-6" x="250.07" y="277.53" width="22.8" height="15"/>
+  <rect class="cls-6" x="250.07" y="117.77" width="288" height="15"/>
+  <line class="cls-1" x1="250.07" y1="59.97" x2="250.07" y2="309.97"/>
+</svg>

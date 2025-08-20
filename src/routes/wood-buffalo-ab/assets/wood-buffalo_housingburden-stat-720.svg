@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ab2069;
+        font-size: 44px;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-size: 16px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #9a9896;
+        font-size: 12px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #9a9896;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-4" transform="translate(155.41 90)"><tspan x="0" y="0">Sources: Statistics Canada (2021) </tspan></text>
+    <line class="cls-6" x1="155.82" y1="77.54" x2="560.43" y2="77.54"/>
+  </g>
+  <text class="cls-1" transform="translate(156.03 50)"><tspan class="cls-3" x="0" y="0">46</tspan><tspan class="cls-5" x="50.32" y="0">%</tspan></text>
+  <text class="cls-2" transform="translate(250.34 30.73)"><tspan x="0" y="0">of households that earn less than 100K </tspan><tspan x="0" y="19.2">spend more than 30% on shelter costs</tspan></text>
+</svg>
