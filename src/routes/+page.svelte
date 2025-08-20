@@ -24,7 +24,7 @@
 
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title 
 	title={"Data Storytelling for Equitable Development"}
