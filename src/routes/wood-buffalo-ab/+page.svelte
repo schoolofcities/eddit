@@ -2,244 +2,295 @@
 
 	import "../../assets/global-styles.css"
 
-	import Title from '$lib/Title.svelte';
-	import Footer from "$lib/Footer.svelte";
 	import Password from "$lib/Password.svelte";
+	import Title from '$lib/Title.svelte';
+	import AuthorDate from "$lib/AuthorDate.svelte";
+	import Footer from "$lib/Footer.svelte";
 	import GraphicSingle from "$lib/GraphicSingle.svelte";
 	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
 	import ImageSingle from "$lib/ImageSingle.svelte";
 
-	import titleImage from "./assets/wood-buffalo-title-img-2.jpg";
+	import titleImage from "./assets/wood-buffalo-title-img.jpg";
+	import syncrudeImage from "./assets/syncrude.jpeg";
+
+	import Footnote from '$lib/Footnote.svelte';
+    import Footnotes from '$lib/Footnotes.svelte';
+    import { createFootnoteStore } from '$lib/footnoteUtils';
+
+	const footnoteStore = createFootnoteStore();
+    const { footnotes, addFootnote } = footnoteStore;
+
+	const fns = ['Robson Fletcher, “Canmore Deemed Least Affordable Housing Market in Alberta, Fort McMurray the Most,” CBC News, August 28, 2018. [URL](https://www.cbc.ca/news/canada/calgary/canmore-fort-mcmurray-housing-affordability-june-2018-zoocasa-1.4801781); Daniel Tencer, “Fort McMurray Now Most Affordable City On Global Housing Ranking,” HuffPost, January 21, 2020. [URL](https://www.huffpost.com/archive/ca/entry/affordable-housing-canadian-cities_ca_5e262200c5b673621f7a72b9).',
+		'Regional Municipality of Wood Buffalo, *Municipal Development Plan, Bylaw No. 24/105* (2024).',
+		'Laura Ryser et al., “Moving from Government to Governance: Addressing Housing Pressures during Rapid Industrial Development in Kitimat, BC, Canada,” *Housing Studies* 36, no. 10 (2021): 1618–43. [URL](https://doi.org/10.1080/02673037.2020.1789564).',
+		'Government of Alberta, *Alberta Wage and Salary Survey 2023* (2025). [URL](https://open.alberta.ca/publications/alberta-wage-and-salary-survey-average-wages-by-industry-and-economic-region/resource/a59a02ab-cb96-41c2-bd1c-eb05dc563a7a).',
+		'Reed des Roches, *Alternative Governance Models for Managing Rapid Growth,* 2015.',
+		'Sinikka Okkola and Cédric Brunelle, “Has the Oil Boom Generated New Problems of Housing Affordability in Resource-Driven Agglomerations in Canada? A Case Study of St. John’s, Saskatoon, Calgary, Edmonton, and Fort McMurray, 1991–2011,” *Urban Geography* 39, no. 2 (2017): 299–327. [URL](https://doi.org/10.1080/02723638.2017.1314174); Sinikka Okkola and Cédric Brunelle, “The Changing Determinants of Housing Affordability in Oil-Booming Agglomerations: A Quantile Regression Investigation from Canada, 1991–2011,” *Housing Studies* 33, no. 6 (2018): 902–37. [URL](https://doi.org/10.1080/02673037.2017.1408784).',
+		'Laura Ryser and Greg Halseth, “Housing Costs in an Oil and Gas Boom Town: Issues for Low-Income Senior Women Living Alone,” *Journal of Housing for the Elderly* 25, no. 3 (2011): 306–25. [URL](https://doi.org/10.1080/02763893.2011.595618).',
+		'Ryser and Halseth, “Housing Costs in an Oil and Gas Boom Town.”',
+		'Susan Christopherson et al., “Regional Resilience: Theoretical and Empirical Perspectives,” *Cambridge Journal of Regions, Economy and Society* 3, no. 1 (2010): 3–10. [URL](https://doi.org/10.1093/cjres/rsq004); Hamideh Mahdiani et al., “Resilience in Times of Economic Boom and Bust: A Narrative Study of a Rural Population Dependent upon the Oil and Gas Industry,” *Journal of Adult Development* 28, no. 2 (2021): 149–61. [URL](https://doi.org/10.1007/s10804-020-09363-z).',
+		'Government of Alberta - Treasury Board and Finance, *Alberta Spatial Price Survey* (2019). [URL](https://open.alberta.ca/dataset/0254b2ba-1c7d-4b9d-a1c7-c74a9ad46eb4/resource/d6814234-f1b0-48f8-a075-e60aa1903566/download/2019-09-19_abspatialpricesurvey.pdf).',
+		'“Canada Wildfire: 20% of Fort McMurray Homes Destroyed, Says MP,” BBC News, May 8, 2016. [URL](https://www.bbc.com/news/world-us-canada-36244499).',
+		'Wallis Snowdon, “Warmer Weather Only Possible Weapon against Northern Alberta Ice-Jam Flooding,” CBC News, April 28, 2020. [URL](https://www.cbc.ca/news/canada/edmonton/fort-mcmurray-wood-buffalo-flooding-1.5547546).',
+		'Alberta Living Wage Network, *Alberta Living Wage Report* (2024). [URL](https://www.livingwagealberta.ca/news/alberta-living-wage-network-releases-2024-living-wage-rates-in-partnership-with-21-communities).',
+		'Shelter costs refer to the average monthly total expenses paid by owners or renters, and total household before-tax income of all household members, including employment income, market income (e.g., capital gains), government subsidies, and pensions.',
+		'Kristof Heylen and Marietta Haffner, “A Ratio or Budget Benchmark for Comparing Affordability across Countries?,” *Journal of Housing and the Built Environment* 28, no. 3 (2013): 547–65. [URL](https://doi.org/10.1007/s10901-012-9325-2).',
+		'Government of Alberta, *Alberta Spatial Price Survey.*',
+		'Ryser and Halseth, “Housing Costs in an Oil and Gas Boom Town.”',
+		'Felix N. Fernando and Robert Hearne, “Housing for Essential Service Workers during an Oil Boom: Opportunities and Policy Implications,” *Journal of Housing and the Built Environment* 32, no. 4 (2017): 755–86. [URL](https://doi.org/10.1007/s10901-016-9539-9).',
+		'Canadian Energy Centre, *The Wealth of Oil and Gas Workers: Interprovincial Employees in Alberta’s Oil and Gas Industry and Their Contribution to the Canadian Economy* (2020). [URL](https://www.canadianenergycentre.ca/wp-content/uploads/2020/08/FS-14-Wealth-of-Oil-Gas-Workers-FINAL.pdf).',
+		'Gretchen Ennis et al., “Expecting a Boomtown? Exploring Potential Housing-Related Impacts of Large Scale Resource Developments in Darwin,” *Human Geographies* 7, no. 1 (2013): 33–42. [URL](https://doi.org/10.5719/hgeo.2013.71.33).',
+		'Felix Fernando and Dennis Cooley, “Socioeconomic System of the Oil Boom and Rural Community Development in Western North Dakota,” *Rural Sociology* 81, no. 3 (2016). [URL](https://onlinelibrary.wiley.com/doi/abs/10.1111/ruso.12100).',
+		'Regional Municipality of Wood Buffalo, *Responding to the Truth and Reconciliation Commission’s Calls to Action: Principles for a Collaborative Pathway Forward in Wood Buffalo* (2023). [URL](https://www.rmwb.ca/en/truth-and-reconciliation/calls-to-action.aspx).',
+		'Canada Mortgage and Housing Corporation, “Understanding Core Housing Need,” August 14, 2019. [URL](https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-research/core-housing-need).',
+		'Wood Buffalo Housing, *Wood Buffalo Housing Needs Assessment* (2019).',
+		'Statistics Canada, “Core Housing Need in Canada,” September 21, 2022. [URL](https://www150.statcan.gc.ca/n1/pub/11-627-m/11-627-m2022056-eng.htm).'
+	];
 
 </script>
-
-
-
 
 <Password/>
 
 <Title
-	title={"Wood Buffalo, AB"}
-	subtitle={"Ceramic Bison, BA"}
+	title={"Seeking a new definition of affordability in a resource economy"}
+	subtitle={"A case study of Wood Buffalo, Alberta"}
 	image={titleImage}
+	imageCaption={"Housing options in Fort McMurray."}
+	imageSource={"Photo by Julia Greenberg"}
 />
 
 <main>
 
 	<div class="text">
 
-		<h1>Lorem ipsum title</h1>
+		<AuthorDate
+			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a> & <a href='' target='_blank'>Jeff Allen</a>"}
+			date={"August 2025"}
+		/>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			The Regional Municipality of Wood Buffalo has the reputation of being “the most affordable place to live in Canada.”<Footnote id={addFootnote(fns[0])} /> Located in northern Alberta and centred on the city of Fort McMurray, the region is at the heart of Canada’s oil and gas industry. It is rich in natural resources, with an abundance of high-paying jobs and one of the highest median family incomes in the country at C$208,000.<Footnote id={addFootnote(fns[1])} />
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_contextmap-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_contextmap-360.svg"}
 	/>
 
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Housing affordability is typically defined as a ratio of housing cost to median income. Wood Buffalo’s headline-grabbing figure, however, obscures the day-to-day reality for many of the region’s lower- and middle-income residents, who struggle to find adequate or affordable housing in a constrained market. The contrast between the region’s reputation and realities on the ground brought a team of municipal staff from the Regional Municipality of Wood Buffalo to <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT</a> to learn how data storytelling could offer a different perspective on affordability.
 		</p>
 		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			This case study explores the challenge of bringing housing precarity to light through data storytelling, calling attention to individuals whose experiences are hidden by oversimplified statistics. Given Wood Buffalo’s relatively sparse population, it also discusses the challenges of analyzing demographic information in a region that lacks fine-grained data, and which has significant seasonal shifts in population because of the boom-and-bust nature of its main industry.
 		</p>
 
-	</div>
+		<div class="callout">
+			<h2>Connecting the dots within government</h2>
 
+			<p>
+				While many municipal departments in Wood Buffalo deal with the effects of housing affordability in some way, there is no single department that explicitly addresses it. The Wood Buffalo team for this project consisted of staff from various departments, including urban planning, homeless and social services support, housing, Indigenous relations, and economic development. This cross-functional approach is common with complex municipal problems, and finding ways to connect the dots within government organizations is critical for policy coherence and sustained effectiveness.<Footnote id={addFootnote(fns[2])} /> A key part of developing this data story was using common data sources and language so the team could show the interdependencies between their areas of work and share a consistent message with external audiences, which include elected officials, members of the business community, such as the oil and construction industries, and other partners. The advantage of a team working across departments is the ability to tap into multiple data sources, and to share the combined outputs with a broader audience.
+			</p>
 
-	<div class="callout">
+		</div>
 
-		<h3>Wood Buffalo Buffalo Buffalo</h3>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-	</div>
-
-	<div class="text">
+		<h2>The making of an affordability crisis</h2>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Wood Buffalo is a remote area in the far northeast of Alberta, located over 400 kilometres (250 miles) from Edmonton, but it has one of the fastest-growing economies in Canada. It attracts people from across the country and around the world, most of whom come to work in the area’s leading industry: oil and gas. The region is the site of the Athabasca oil sands, one of the largest oil reserves in the world, and home to two-thirds of Alberta’s oil production.
 		</p>
 		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			The high demand for skilled labour has increased wages not just in oil and gas, but in adjacent industries, such as construction. Yet while the oil industry employs the greatest number of people in the area, many Wood Buffalo residents work in retail, food services, or transportation, earning half as much on average.<Footnote id={addFootnote(fns[3])} />
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-wages-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-wages-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_personas-wages-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_personas-wages-360.svg"}
 	/>
 
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Many resource-driven communities like this one are subject to boom-and-bust cycles, where periods of rapid economic growth are followed by sharp downturns. These cycles are typically driven by fluctuations in global commodity prices, which directly influence the cost and profitability of resource extraction.<Footnote id={addFootnote(fns[4])} /> When prices are high, companies ramp up production, triggering job creation and housing demand. This drives home prices higher and prevents first-time buyers from entering the market.<Footnote id={addFootnote(fns[5])} /> The resulting market instability affects renters and also worsens affordability for mortgaged homeowners as commodity prices drop and incomes shrink.<Footnote id={addFootnote(fns[6])} /> As home values inflate, property taxes rise accordingly, posing challenges for elderly homeowners or those on fixed incomes.<Footnote id={addFootnote(fns[7])} /> These combined effects deepen affordability issues and widen the gap between income levels and housing costs.
 		</p>
 
 	</div>
 
-	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-360.svg"}
+	<ImageSingle
+		imageURL={syncrudeImage}
+		caption='A Synecrude plant in the Athabasca Oil Sands.'
+		source="Image credit: The Interior."
+		altText="Aerial photograph of a Synecrude plant."
+		maxWidth="{680}px"
+		link="Yes"
 	/>
 
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			When global prices fall due to shifts in supply and demand or geopolitical factors, resource extraction becomes less profitable. Economic downturns, in contrast to boom phases, can lead to widespread layoffs, followed by out-migration of local populations. These periods of stagnation can slow development, leaving communities unprepared for the next growth phase. This instability is compounded by a lack of industry diversification, which leaves resource-producing regions more exposed to economic shocks and less resilient to rapid changes in fortune.<Footnote id={addFootnote(fns[8])} />
 		</p>
-		<h3>
-			Lorem ipsum subtitle
-		</h3>
 		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			While housing prices may drop during downturns, reduced incomes and fewer job opportunities offset any gains in affordability. Conversely, during boom periods, surging demand can drive up housing costs, pricing out many residents. Demand for skilled labour also increases the price of services such as home repair or construction.<Footnote id={addFootnote(fns[9])} /> Without stable economic foundations or diversified employment options, affordability remains uncertain and uneven across economic cycles.
+		</p>
+		<p>
+			Compounding the effects of this volatility are geographic factors, as many resource-driven economies are in remote locations, which can drive up the cost of transporting building materials and labour. Climate change also plays a role, with remote communities particularly at risk. Wood Buffalo has experienced this first-hand: a devastating fire tore through the region in 2016, damaging or destroying thousands of homes in Fort McMurray and further constraining supply.<Footnote id={addFootnote(fns[10])} /> Flooding downtown in 2020 forced thousands more to evacuate and caused considerable damage to homes and businesses.<Footnote id={addFootnote(fns[11])} />
+		</p>
+		<h2>Wage gaps and affordability: the people being left behind</h2>
+		<p>
+			It is common to hear people say that there is no affordability crisis in Wood Buffalo. Yet the municipal team knew that many community members could identify the effects of the precarious housing situation, from not being able to find staff to work in retail positions, to having to lend family members money to cover housing debts, though the available regional data obscure these issues from view.<Footnote id={addFootnote(fns[12])} /> Working with EDDIT, the team sought to create a more robust picture of who is affected by housing precarity and how, supported by new ways of showing the data.
+		</p>
+		<p>
+			Tracking the wage gap between low and high earners is one approach to showing the challenge of keeping lower-wage workers in the region. This gap is significantly higher in Wood Buffalo than in other big cities in the province, meaning the region is comparatively less affordable for those in industries like retail and food services. The imbalance not only affects individual workers but also puts pressure on local businesses that can struggle to compete against employers in higher-paying industries. The growing disparity suggests that without targeted measures to improve affordability and support for lower-income earners, the region risks deepening economic inequality and further limiting its workforce diversity. 
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-shelters-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-personas-shelters-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_cities-wages-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_cities-wages-chart-360.svg"}
 	/>
 
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<h3>
-			Lorem ipsum subtitle
-		</h3>
-		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			The implications of the wage gap for housing availability and affordability are significant. One way to define affordability is via the <strong>shelter cost-to-income ratio</strong>.<Footnote id={addFootnote(fns[13])} /> Using this method, housing is typically considered “affordable” when the cost of shelter is no more than 30 percent of household income.<Footnote id={addFootnote(fns[14])} />
 		</p>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Data from Statistics Canada and provincial salary trackers show that based on the shelter cost-to-income ratio, only 13 percent of the region’s housing is affordable at a typical early childhood educator’s wage, and only 4 percent is affordable to food service workers. Even mid-wage workers struggle to find options, with less than half of the housing in the region affordable for the average truck driver. Competition for these homes is fierce, despite high overall vacancy rates. Since the majority of vacant units are only suitable for one- or two-person households, larger families have few options.
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-expenses-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-expenses-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_personas-shelters-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_personas-shelters-360.svg"}
 	/>
 
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<h3>
-			Lorem ipsum subtitle
-		</h3>
-		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Steep shelter costs can have a large impact on a family’s annual budget, significantly affecting their financial stability. In Wood Buffalo, the average family of four spends over 30 percent of their annual household income on shelter costs, and most low-income families likely pay much more. The situation is even more difficult for lone-parent families, who spend nearly 40 percent of their income on shelter. This means less is left over for food and childcare, which are also more expensive in Wood Buffalo because of its remote location.<Footnote id={addFootnote(fns[15])} />
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-migration-chart-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-migration-chart-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_expenses-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_expenses-360.svg"}
+	/>
+
+	<div class="text">
+
+		<p>
+			The ripple effects of these high living costs spread throughout the region. With fewer affordable options open to them, early-career workers are likely to leave the area. The higher cost of living makes it challenging to recruit essential workers like drivers, cooks, or care providers. Single-parent households or people on a fixed income, like seniors, find few housing options in their price range, and must manage fluctuating rents.<Footnote id={addFootnote(fns[16])} /> 
+		</p>
+		<p>
+			And since communities like these are deeply interconnected, the problem of affordability affects everyone in Wood Buffalo, even high-income earners. Strong communities have diverse economies, including artists who brighten their streets with murals, daycare workers who foster childhood development, and — especially important in Canada — people who brew the coffee at Tim Hortons. In affordable communities, families of all kinds can thrive, small businesses can take chances, and there is less risk in volatile economic times.<Footnote id={addFootnote(fns[17])} /> Without targeted measures to improve affordability and support for lower-income earners, the region risks limiting its workforce diversity and losing some of these potential residents.
+		</p>
+
+	</div>
+
+	<GraphicSingle
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_housingburden-stat-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_housingburden-stat-720.svg"}
+	/>
+
+	<div class="text">
+		<h2>Tracking a transitory population</h2>
+
+		<p>
+			Staff at government and community organizations in Wood Buffalo frequently report hearing that people have chosen to leave the region because they cannot find suitable and affordable housing to settle and grow a family. Yet it is difficult to accurately measure economic precarity or population turnover. Resource economies in particular tend to have rapid cycles of in- and out-migration, but these are only captured by census population counts every five years in Canada, missing the nuances in rapid population change. 
+		</p>
+		<p>
+			Despite these data limitations, it is possible to illustrate some of the population churn using census data. The figure below shows how many people moved into Alberta’s largest cities in 2021-2022 compared to how many moved out, alongside the same information for Wood Buffalo. Of the five locations, only Wood Buffalo experienced more out-migration than in-migration, confirming municipal staff’s anecdotal evidence that people are leaving the region.
+		</p>
+
+	</div>
+
+	<GraphicSingle
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_migration-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_migration-chart-360.svg"}
 	/>
 
 	
 	<div class="text">
 
 		<p>
-			Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			An additional complication for data collection arises with Wood Buffalo’s “shadow population,” the roughly 30,000 workers who are not permanent residents of the region but who live there temporarily or on rotation to work in the oilfields or supporting industries.<Footnote id={addFootnote(fns[18])} /> Many of these workers are housed on-site in trailers and pre-made units provided by their employers, which are difficult to capture in census housing unit counts. It is unclear how much of this type of housing exists, the degree to which it can absorb housing pressure, and what spillover effects it has on the rest of the region’s housing.<Footnote id={addFootnote(fns[19])} /> Further analysis using municipal census data shows that while the region’s population is declining overall, variations in the shadow population have contributed even more to population fluctuation in recent years. The presence of the shadow population has significant implications for the region’s finances, as many highly paid employees in the oil and gas industry maintain permanent residences elsewhere, and much of their income tax and spending flows back to their home jurisdictions rather than to Wood Buffalo or Alberta.
+		</p>
+		<p>
+			The cyclical in- and outflow of people also influences planning for housing and infrastructure, as it can be challenging to predict population from one year to the next. Fluctuations in the shadow population have direct implications for the local economy and affordability, affecting everything from labour demand and housing costs to municipal revenues, but it is difficult to plan for this population without the ability to forecast how many of them will live in the region.<Footnote id={addFootnote(fns[20])} /> Wood Buffalo has attempted to augment their data by issuing a municipal census every 3-4 years, but this still fails to capture the seasonal migration patterns of temporary workers.
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-shadowpop-vert-chart-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-shadowpop-vert-chart-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_shadowpop-vert-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_shadowpop-vert-chart-360.svg"}
+	/>
+
+	<div class="text">
+
+		<h2>Rural housing: the communities being left behind</h2>
+
+		<p>
+			Affordability challenges in the region affect not only individuals but, in some cases, entire communities. Wood Buffalo is a vast region, covering the largest geographic area of any municipal jurisdiction in Canada. While 90 percent of its population lives in Fort McMurray, there are many smaller hamlets in the region that rely on municipal services and support. Many of these are Indigenous communities, or have large Indigenous populations, including several First Nations reserves and Métis nations. This adds a layer of governance complexity, as part of the regional government’s commitment to reconciliation is through partnerships with Indigenous nations to develop culturally appropriate housing and supports.<Footnote id={addFootnote(fns[21])} />
+		</p>
+		<p>
+			As with many rural and remote communities, data collection and analysis for the region’s smaller areas is challenging. Because sample sizes are so small, it is often not possible to collect census data that are fine-grained enough to be useful due to privacy reasons. It is also difficult to tell a coherent story about the region since it is so large and contains many disparate geographies.
+		</p>
+		<p>
+			However, it is still possible to tell a story about housing in the region as a whole using aggregate data from the census showing core housing need, a metric of households that cannot afford adequate or suitable housing in their community.<Footnote id={addFootnote(fns[22])} />
+		</p>
+
+	</div>
+
+
+	<GraphicSingle
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_housingadequacy-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_housingadequacy-360.svg"}
 	/>
 
 	<div class="text">
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<h3>
-			Lorem ipsum subtitle
-		</h3>
-		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			The figure below, which compares percentages of households struggling with core housing need in different communities across the Wood Buffalo region, highlights that housing precarity is not just a Fort McMurray issue, but a rural one as well.<Footnote id={addFootnote(fns[23])} /> In all communities in Wood Buffalo, at least 20 percent of households experience core housing need, double the national rate.<Footnote id={addFootnote(fns[24])} /> In the communities of Fort Chipewyan and Janvier, that number is as high as 50 percent. 
 		</p>
 
 	</div>
 
 	<GraphicSingle
-		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-stat-360.svg"}
-		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-stat-720.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_housingburden-map-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_housingburden-map-360.svg"}
 	/>
 
 	<div class="text">
+		<h2>Creating a vision of Wood Buffalo for all</h2>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			Wood Buffalo’s residents are proud of their community and its many resources, including strong educational, healthcare, and recreational facilities. The collective vision of the region is a place where many different people can choose to come to and stay. Yet a thriving community with robust artistic, entrepreneurial, and community sectors depends on workers at all income levels being able to afford to live in the region, which requires an abundance of housing options.  
+		</p>
+		<p>
+			Data analysis and visualizations that reflect the lived experiences of people struggling to afford suitable housing make a strong case for reconsidering Fort McMurray’s reputation as Canada’s “most affordable city” by changing the conversation to consider who is left out of these statistics. Ideally, local organizations can use this evidence to gain support for more innovative housing policies and robust support services for those living in precarious circumstances. This data story can be used by a broad team and adapted to different audiences, from elected officials, provincial and federal housing ministries, community members, and allied organizations. Ultimately, more abundant affordable housing allows for greater economic diversification, which is critical to the longevity of a region that is dependent upon a single industry. The first step is building local capacity to communicate this vision and advocate for change. 
 		</p>
 
 	</div>
 
-	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingadequacy-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingadequacy-360.svg"}
-	/>
+	<Footnotes footnotes={footnotes} />
 
-	<div class="text">
+	<div class="details">
 
-		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-
-	</div>
-
-	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-map-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-housingburden-map-360.svg"}
-	/>
-
-	<div class="text">
+		<h2>Additional resources</h2>
 
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<h3>
-			Lorem ipsum subtitle
-		</h3>
-		<p>
-			Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-		</p>
-		<p>
-			Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+			
 		</p>
 
 	</div>

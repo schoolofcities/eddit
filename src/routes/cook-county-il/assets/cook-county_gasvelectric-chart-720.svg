@@ -93,14 +93,12 @@
   <text class="cls-7" transform="translate(59.79 152.93)"><tspan x="0" y="0">FS 91 String</tspan><tspan x="19.35" y="16.8">Trimmer</tspan></text>
   <text class="cls-7" transform="translate(32.53 212.65)"><tspan x="0" y="0">R 600 Backpack</tspan><tspan x="58.51" y="16.8">Blower</tspan></text>
   <text class="cls-7" transform="translate(29.34 272.36)"><tspan x="0" y="0">BG 50 Handheld</tspan><tspan x="61.7" y="16.8">Blower</tspan></text>
-  <g>
-    <text class="cls-10" transform="translate(156 328.35)"><tspan x="0" y="0">0</tspan></text>
-    <text class="cls-10" transform="translate(238.89 328.35)"><tspan x="0" y="0">20</tspan></text>
-    <text class="cls-10" transform="translate(325.78 328.35)"><tspan x="0" y="0">40</tspan></text>
-    <text class="cls-10" transform="translate(499.56 328.35)"><tspan x="0" y="0">80</tspan></text>
-    <text class="cls-10" transform="translate(582.46 328.35)"><tspan x="0" y="0">100</tspan></text>
-    <text class="cls-10" transform="translate(412.66 328.35)"><tspan x="0" y="0">60</tspan></text>
-  </g>
+  <text class="cls-10" transform="translate(156 328.35)"><tspan x="0" y="0">0</tspan></text>
+  <text class="cls-10" transform="translate(231.8 328.35)"><tspan x="0" y="0">20</tspan></text>
+  <text class="cls-10" transform="translate(311.6 328.35)"><tspan x="0" y="0">40</tspan></text>
+  <text class="cls-10" transform="translate(471.2 328.35)"><tspan x="0" y="0">80</tspan></text>
+  <text class="cls-10" transform="translate(546.99 328.35)"><tspan x="0" y="0">100</tspan></text>
+  <text class="cls-10" transform="translate(391.4 328.35)"><tspan x="0" y="0">60</tspan></text>
   <g>
     <line class="cls-4" x1="160" y1="310.02" x2="160" y2="59.58"/>
     <line class="cls-4" x1="239.8" y1="310.02" x2="239.8" y2="59.58"/>

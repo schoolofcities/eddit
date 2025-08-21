@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 465.3">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #1e3864;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-7, .cls-10 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-6, .cls-7, .cls-11 {
+        fill: #1e3864;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-7 {
+        opacity: .75;
+      }
+
+      .cls-14 {
+        font-size: 12px;
+      }
+
+      .cls-14, .cls-8 {
+        fill: #9a9896;
+      }
+
+      .cls-14, .cls-8, .cls-9 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-15 {
+        fill: #00a28a;
+      }
+
+      .cls-10 {
+        font-size: 20px;
+      }
+
+      .cls-10, .cls-9 {
+        fill: #231f20;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #9a9896;
+      }
+
+      .cls-5 {
+        stroke-width: .5px;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="125.96" y="97.37" width="24" height="96.94"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-1" x="168.09" y="127.3" width="24" height="82.53"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-1" x="210.04" y="140.06" width="24" height="68.63"/>
+    </clipPath>
+  </defs>
+  <text class="cls-14" transform="translate(20 440)"><tspan x="0" y="0">Sources: Regional Municipality of Wood Buffalo Census </tspan><tspan x="0" y="14.4">Report (2015, 2018, 2021)</tspan></text>
+  <line class="cls-4" x1="20.41" y1="427.54" x2="340" y2="427.54"/>
+  <text class="cls-10" transform="translate(20 25)"><tspan x="0" y="0">The falling shadow population </tspan><tspan x="0" y="24">exacerbates population decline </tspan><tspan x="0" y="48">in Wood Buffalo</tspan></text>
+  <text class="cls-6" transform="translate(240 290)"><tspan x="0" y="0">Permanent</tspan><tspan x="0" y="16.8">Population</tspan></text>
+  <text class="cls-7" transform="translate(65.12 141.37)"><tspan x="0" y="0">Shadow</tspan><tspan x="-21.59" y="16.8">Population</tspan></text>
+  <text class="cls-8" transform="translate(255.46 214.49)"><tspan x="0" y="0">75K</tspan></text>
+  <text class="cls-8" transform="translate(255.46 158.04)"><tspan x="0" y="0">100K</tspan></text>
+  <text class="cls-8" transform="translate(255.46 101.59)"><tspan x="0" y="0">125K</tspan></text>
+  <text class="cls-8" transform="translate(255.46 270.94)"><tspan x="0" y="0">50K</tspan></text>
+  <text class="cls-8" transform="translate(256.43 327.39)"><tspan x="0" y="0">25K</tspan></text>
+  <rect class="cls-11" x="125.96" y="194.31" width="24" height="184.38"/>
+  <g class="cls-16">
+    <g>
+      <line class="cls-2" x1="124.75" y1="98.75" x2="153.04" y2="66.93"/>
+      <line class="cls-2" x1="124.75" y1="103.92" x2="153.04" y2="72.1"/>
+      <line class="cls-2" x1="124.75" y1="109.09" x2="153.04" y2="77.27"/>
+      <line class="cls-2" x1="124.75" y1="114.26" x2="153.04" y2="82.44"/>
+      <line class="cls-2" x1="124.75" y1="119.43" x2="153.04" y2="87.61"/>
+      <line class="cls-2" x1="124.75" y1="124.6" x2="153.04" y2="92.78"/>
+      <line class="cls-2" x1="124.75" y1="129.77" x2="153.04" y2="97.95"/>
+      <line class="cls-2" x1="124.75" y1="134.94" x2="153.04" y2="103.12"/>
+      <line class="cls-2" x1="124.75" y1="140.11" x2="153.04" y2="108.29"/>
+      <line class="cls-2" x1="124.75" y1="145.28" x2="153.04" y2="113.46"/>
+      <line class="cls-2" x1="124.75" y1="150.45" x2="153.04" y2="118.63"/>
+      <line class="cls-2" x1="124.75" y1="155.62" x2="153.04" y2="123.8"/>
+      <line class="cls-2" x1="124.75" y1="160.79" x2="153.04" y2="128.97"/>
+      <line class="cls-2" x1="124.75" y1="165.96" x2="153.04" y2="134.14"/>
+      <line class="cls-2" x1="124.75" y1="171.13" x2="153.04" y2="139.31"/>
+      <line class="cls-2" x1="124.75" y1="176.3" x2="153.04" y2="144.48"/>
+      <line class="cls-2" x1="124.75" y1="181.47" x2="153.04" y2="149.65"/>
+      <line class="cls-2" x1="124.75" y1="186.64" x2="153.04" y2="154.82"/>
+      <line class="cls-2" x1="124.75" y1="191.81" x2="153.04" y2="159.99"/>
+      <line class="cls-2" x1="124.75" y1="196.98" x2="153.04" y2="165.16"/>
+      <line class="cls-2" x1="124.75" y1="202.15" x2="153.04" y2="170.33"/>
+      <line class="cls-2" x1="124.75" y1="207.32" x2="153.04" y2="175.5"/>
+      <line class="cls-2" x1="124.75" y1="212.49" x2="153.04" y2="180.67"/>
+      <line class="cls-2" x1="124.75" y1="217.66" x2="153.04" y2="185.84"/>
+      <line class="cls-2" x1="124.75" y1="222.83" x2="153.04" y2="191.01"/>
+      <line class="cls-2" x1="124.75" y1="228" x2="153.04" y2="196.18"/>
+      <line class="cls-2" x1="124.75" y1="233.17" x2="153.04" y2="201.35"/>
+    </g>
+  </g>
+  <text class="cls-9" transform="translate(121.95 400)"><tspan x="0" y="0">2015</tspan></text>
+  <line class="cls-3" x1="137.96" y1="375.74" x2="137.96" y2="384.55"/>
+  <rect class="cls-11" x="168" y="209.92" width="24" height="168.77"/>
+  <g class="cls-12">
+    <g>
+      <line class="cls-2" x1="166.94" y1="128.55" x2="195.23" y2="96.73"/>
+      <line class="cls-2" x1="166.94" y1="133.72" x2="195.23" y2="101.9"/>
+      <line class="cls-2" x1="166.94" y1="138.88" x2="195.23" y2="107.07"/>
+      <line class="cls-2" x1="166.94" y1="144.05" x2="195.23" y2="112.24"/>
+      <line class="cls-2" x1="166.94" y1="149.22" x2="195.23" y2="117.41"/>
+      <line class="cls-2" x1="166.94" y1="154.39" x2="195.23" y2="122.58"/>
+      <line class="cls-2" x1="166.94" y1="159.56" x2="195.23" y2="127.74"/>
+      <line class="cls-2" x1="166.94" y1="164.73" x2="195.23" y2="132.91"/>
+      <line class="cls-2" x1="166.94" y1="169.9" x2="195.23" y2="138.08"/>
+      <line class="cls-2" x1="166.94" y1="175.07" x2="195.23" y2="143.25"/>
+      <line class="cls-2" x1="166.94" y1="180.24" x2="195.23" y2="148.42"/>
+      <line class="cls-2" x1="166.94" y1="185.41" x2="195.23" y2="153.59"/>
+      <line class="cls-2" x1="166.94" y1="190.58" x2="195.23" y2="158.76"/>
+      <line class="cls-2" x1="166.94" y1="195.75" x2="195.23" y2="163.93"/>
+      <line class="cls-2" x1="166.94" y1="200.92" x2="195.23" y2="169.1"/>
+      <line class="cls-2" x1="166.94" y1="206.09" x2="195.23" y2="174.27"/>
+      <line class="cls-2" x1="166.94" y1="211.26" x2="195.23" y2="179.44"/>
+      <line class="cls-2" x1="166.94" y1="216.43" x2="195.23" y2="184.61"/>
+      <line class="cls-2" x1="166.94" y1="221.6" x2="195.23" y2="189.78"/>
+      <line class="cls-2" x1="166.94" y1="226.77" x2="195.23" y2="194.95"/>
+      <line class="cls-2" x1="166.94" y1="231.94" x2="195.23" y2="200.12"/>
+      <line class="cls-2" x1="166.94" y1="237.11" x2="195.23" y2="205.29"/>
+      <line class="cls-2" x1="166.94" y1="242.28" x2="195.23" y2="210.46"/>
+      <line class="cls-2" x1="166.94" y1="247.45" x2="195.23" y2="215.63"/>
+      <line class="cls-2" x1="166.94" y1="252.62" x2="195.23" y2="220.8"/>
+      <line class="cls-2" x1="166.94" y1="257.79" x2="195.23" y2="225.97"/>
+      <line class="cls-2" x1="166.94" y1="262.96" x2="195.23" y2="231.14"/>
+    </g>
+  </g>
+  <text class="cls-9" transform="translate(163.99 400)"><tspan x="0" y="0">2018</tspan></text>
+  <line class="cls-3" x1="180" y1="375.74" x2="180" y2="384.55"/>
+  <polygon class="cls-11" points="234.04 378.69 210.04 378.69 210.04 208.69 221.62 208.69 234.04 208.69 234.04 378.69"/>
+  <g class="cls-13">
+    <g>
+      <line class="cls-2" x1="209.02" y1="141.19" x2="237.3" y2="109.37"/>
+      <line class="cls-2" x1="209.02" y1="146.36" x2="237.3" y2="114.54"/>
+      <line class="cls-2" x1="209.02" y1="151.53" x2="237.3" y2="119.71"/>
+      <line class="cls-2" x1="209.02" y1="156.7" x2="237.3" y2="124.88"/>
+      <line class="cls-2" x1="209.02" y1="161.87" x2="237.3" y2="130.05"/>
+      <line class="cls-2" x1="209.02" y1="167.04" x2="237.3" y2="135.22"/>
+      <line class="cls-2" x1="209.02" y1="172.21" x2="237.3" y2="140.39"/>
+      <line class="cls-2" x1="209.02" y1="177.38" x2="237.3" y2="145.56"/>
+      <line class="cls-2" x1="209.02" y1="182.55" x2="237.3" y2="150.73"/>
+      <line class="cls-2" x1="209.02" y1="187.72" x2="237.3" y2="155.9"/>
+      <line class="cls-2" x1="209.02" y1="192.89" x2="237.3" y2="161.07"/>
+      <line class="cls-2" x1="209.02" y1="198.06" x2="237.3" y2="166.24"/>
+      <line class="cls-2" x1="209.02" y1="203.23" x2="237.3" y2="171.41"/>
+      <line class="cls-2" x1="209.02" y1="208.4" x2="237.3" y2="176.58"/>
+      <line class="cls-2" x1="209.02" y1="213.57" x2="237.3" y2="181.75"/>
+      <line class="cls-2" x1="209.02" y1="218.74" x2="237.3" y2="186.92"/>
+      <line class="cls-2" x1="209.02" y1="223.91" x2="237.3" y2="192.09"/>
+      <line class="cls-2" x1="209.02" y1="229.08" x2="237.3" y2="197.26"/>
+      <line class="cls-2" x1="209.02" y1="234.25" x2="237.3" y2="202.43"/>
+      <line class="cls-2" x1="209.02" y1="239.42" x2="237.3" y2="207.6"/>
+      <line class="cls-2" x1="209.02" y1="244.59" x2="237.3" y2="212.77"/>
+      <line class="cls-2" x1="209.02" y1="249.76" x2="237.3" y2="217.94"/>
+      <line class="cls-2" x1="209.02" y1="254.93" x2="237.3" y2="223.11"/>
+      <line class="cls-2" x1="209.02" y1="260.1" x2="237.3" y2="228.28"/>
+      <line class="cls-2" x1="209.02" y1="265.27" x2="237.3" y2="233.45"/>
+      <line class="cls-2" x1="209.02" y1="270.44" x2="237.3" y2="238.62"/>
+      <line class="cls-2" x1="209.02" y1="275.61" x2="237.3" y2="243.79"/>
+    </g>
+  </g>
+  <text class="cls-9" transform="translate(206.03 400)"><tspan x="0" y="0">2021</tspan></text>
+  <line class="cls-3" x1="222.04" y1="375.74" x2="222.04" y2="384.55"/>
+  <rect class="cls-15" x="44.93" y="378.69" width="270.13" height="2.91"/>
+  <g>
+    <line class="cls-5" x1="108.73" y1="322.44" x2="251.27" y2="322.44"/>
+    <line class="cls-5" x1="108.73" y1="266.19" x2="251.27" y2="266.19"/>
+    <line class="cls-5" x1="108.73" y1="209.94" x2="251.27" y2="209.94"/>
+  </g>
+  <g>
+    <line class="cls-5" x1="122.93" y1="153.67" x2="251.27" y2="153.67"/>
+    <line class="cls-5" x1="108.73" y1="97.42" x2="251.27" y2="97.42"/>
+  </g>
+</svg>
