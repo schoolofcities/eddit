@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 360 100">
+  <g id="background">
+    <image x="0.0" y="0.0" width="360.0" height="100.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAADICAYAAADBTdZDAAAABmJLR0QA/wD/AP+gvaeTAAACh0lEQVR4nO3WQQ2DQBBA0Slw58DWBL5ImipaPXiojnWwrQMIl05I3lPwjz8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuI9HdsCZWus6Rt+zOwAA+I/t9S7ZDUem7IAzY+/Td4gluwMAACJuMNBzKZ/W2jO7AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALvoBQ0IMDy1l48UAAAAASUVORK5CYII="/>
+  </g>
+  <g id="foreground">
+    <text class="cls-2" transform="translate(20 90)" style="font-family: OpenSans; font-size: 12px; fill: #9a9896; font-weight: normal; font-style: normal;">
+      <text class="cls-2" transform="translate(20 90)" style="font-family: OpenSans; font-size: 12px; fill: #9a9896; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-2" transform="translate(20 90)" style="font-family: OpenSans; font-size: 12px; fill: #9a9896; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Sources: Statistics Canada (2021) </tspan>
+      </tspan>
+    </text>
+    <text class="cls-3" transform="translate(20.41 45)" style="fill: #ab2069; font-size: 35px; font-weight: normal; font-style: normal;">
+      <text class="cls-3" transform="translate(20.41 45)" style="fill: #ab2069; font-size: 35px; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text class="cls-3" transform="translate(20.41 45)" style="fill: #ab2069; font-size: 35px; font-weight: normal; font-style: normal;">
+      <tspan class="cls-5" x="0" y="0" style="font-family: OpenSansBold; font-style: normal;">
+        <tspan class="cls-5" x="0" y="0" style="font-family: OpenSansBold; font-style: normal;">46</tspan>
+      </tspan>
+    </text>
+    <text class="cls-3" transform="translate(20.41 45)" style="fill: #ab2069; font-size: 35px; font-weight: normal; font-style: normal;">
+      <tspan class="cls-1" x="40.02" y="0" style="letter-spacing: 0em; font-family: OpenSans; font-weight: normal; font-style: normal;">
+        <tspan class="cls-1" x="40.02" y="0" style="letter-spacing: 0em; font-family: OpenSans; font-weight: normal; font-style: normal;">%</tspan>
+      </tspan>
+    </text>
+    <text class="cls-4" transform="translate(100 30)" style="fill: #231f20; font-family: OpenSansBold; font-size: 12px; font-style: normal;">
+      <text class="cls-4" transform="translate(100 30)" style="fill: #231f20; font-family: OpenSansBold; font-size: 12px; font-style: normal;"/>
+    </text>
+    <text class="cls-4" transform="translate(100 30)" style="fill: #231f20; font-family: OpenSansBold; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">of households that earn less than 100K </tspan>
+      </tspan>
+    </text>
+    <text class="cls-4" transform="translate(100 30)" style="fill: #231f20; font-family: OpenSansBold; font-size: 12px; font-style: normal;">
+      <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">spend more than 30% on shelter costs</tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>

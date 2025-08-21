@@ -49,7 +49,7 @@
 
 </script>
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={"Seeking a new definition of affordability in a resource economy"}
