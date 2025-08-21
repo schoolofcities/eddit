@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 440">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #231f20;
+      }
+
+      .cls-7 {
+        opacity: .1;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #067fa3;
+      }
+
+      .cls-9 {
+        font-family: OpenSans-Italic, 'Open Sans';
+        font-style: italic;
+        font-variation-settings: 'wght' 400, 'wdth' 100;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #bcbec0;
+        font-size: 10px;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: #231f20;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: .75px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #bcbec0;
+      }
+
+      .cls-3 {
+        stroke: #067fa3;
+      }
+
+      .cls-12, .cls-15, .cls-16, .cls-17, .cls-14 {
+        font-size: 12px;
+      }
+
+      .cls-12, .cls-15, .cls-13 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
+      }
+
+      .cls-15 {
+        fill: #3698b5;
+      }
+
+      .cls-10, .cls-16, .cls-17, .cls-14 {
+        font-family: OpenSans, 'Open Sans';
+      }
+
+      .cls-4 {
+        stroke-width: .5px;
+      }
+
+      .cls-18 {
+        fill: #fff;
+      }
+
+      .cls-19 {
+        fill: #ab2069;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-16 {
+        fill: #9a9896;
+      }
+
+      .cls-20 {
+        fill: #dc4732;
+      }
+
+      .cls-20, .cls-21 {
+        opacity: .9;
+      }
+
+      .cls-13 {
+        font-size: 20px;
+      }
+
+      .cls-6 {
+        stroke: #9a9896;
+      }
+
+      .cls-21, .cls-22 {
+        fill: #0e534d;
+      }
+    </style>
+  </defs>
+  <rect class="cls-7" x="121.62" y="217.6" width="124.54" height="15"/>
+  <rect class="cls-7" x="120.29" y="157.59" width="129.32" height="15"/>
+  <text class="cls-12" transform="translate(55.5 169.89)"><tspan x="0" y="0">Calgary</tspan></text>
+  <text class="cls-12" transform="translate(19.61 289.89)"><tspan x="0" y="0">Wood Buffalo</tspan></text>
+  <text class="cls-12" transform="translate(38.42 229.89)"><tspan x="0" y="0">Edmonton</tspan></text>
+  <line class="cls-1" x1="105" y1="130" x2="105" y2="320"/>
+  <rect class="cls-7" x="120.38" y="277.6" width="202.17" height="15"/>
+  <circle class="cls-19" cx="206.06" cy="285.1" r="5"/>
+  <circle class="cls-19" cx="163.89" cy="225.1" r="5"/>
+  <circle class="cls-19" cx="163.71" cy="165.09" r="5"/>
+  <text class="cls-10" transform="translate(153.92 330)"><tspan x="0" y="0">$20</tspan></text>
+  <text class="cls-10" transform="translate(268.92 330)"><tspan x="0" y="0">$60</tspan></text>
+  <text class="cls-10" transform="translate(211.42 330)"><tspan x="0" y="0">$40</tspan></text>
+  <text class="cls-10" transform="translate(171.36 350)"><tspan x="0" y="0">Average hourly wage</tspan></text>
+  <text class="cls-10" transform="translate(326.42 330)"><tspan x="0" y="0">$80</tspan></text>
+  <text class="cls-9" transform="translate(122.39 188.25)"><tspan x="0" y="0">Low income</tspan></text>
+  <text class="cls-9" transform="translate(251.25 188.37)"><tspan x="0" y="0">High income</tspan></text>
+  <line class="cls-2" x1="249.61" y1="172.6" x2="249.61" y2="188.25"/>
+  <line class="cls-2" x1="120.63" y1="172.6" x2="120.63" y2="188.25"/>
+  <line class="cls-4" x1="133.75" y1="313.21" x2="133.75" y2="318.22"/>
+  <line class="cls-4" x1="162.5" y1="311.34" x2="162.5" y2="320.1"/>
+  <line class="cls-4" x1="191.25" y1="313.21" x2="191.25" y2="318.22"/>
+  <line class="cls-4" x1="220" y1="311.34" x2="220" y2="320.1"/>
+  <line class="cls-4" x1="248.75" y1="313.21" x2="248.75" y2="318.22"/>
+  <line class="cls-4" x1="277.5" y1="311.34" x2="277.5" y2="320.1"/>
+  <line class="cls-4" x1="306.25" y1="313.21" x2="306.25" y2="318.22"/>
+  <line class="cls-4" x1="335" y1="311.34" x2="335" y2="320.1"/>
+  <rect class="cls-20" x="117.29" y="161.25" width="6" height="6"/>
+  <rect class="cls-20" x="118.62" y="222.1" width="6" height="6"/>
+  <rect class="cls-20" x="117.29" y="282.1" width="6" height="6"/>
+  <rect class="cls-21" x="246.61" y="161.25" width="6" height="6"/>
+  <rect class="cls-21" x="243.16" y="222.1" width="6" height="6"/>
+  <rect class="cls-21" x="319.62" y="282.1" width="5.87" height="6"/>
+  <g>
+    <line class="cls-3" x1="120.66" y1="263.48" x2="326.22" y2="263.48"/>
+    <rect class="cls-8" x="120.28" y="261.04" width=".75" height="4.88"/>
+    <rect class="cls-8" x="325.84" y="261.04" width=".75" height="4.88"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="122.3" y1="203.75" x2="248.41" y2="203.75"/>
+    <rect class="cls-8" x="121.93" y="201.31" width=".75" height="4.88"/>
+    <rect class="cls-8" x="248.03" y="201.31" width=".75" height="4.88"/>
+  </g>
+  <rect class="cls-18" x="198.56" y="256.7" width="45.43" height="11.3"/>
+  <text class="cls-15" transform="translate(202.55 268.01) scale(.98 1)"><tspan x="0" y="0">$70.32</tspan></text>
+  <line class="cls-5" x1="189.52" y1="235.9" x2="189.52" y2="214.31"/>
+  <g>
+    <circle class="cls-19" cx="49.01" cy="381.67" r="5"/>
+    <text class="cls-14" transform="translate(59.62 386.67)"><tspan x="0" y="0">Median income</tspan></text>
+    <text class="cls-14" transform="translate(184.31 379.54)"><tspan x="0" y="0">Wage to afford median </tspan><tspan x="0" y="14.4">shelter cost in region</tspan></text>
+    <line class="cls-5" x1="173.7" y1="392.47" x2="173.7" y2="370.88"/>
+  </g>
+  <line class="cls-5" x1="237.52" y1="295.9" x2="237.52" y2="274.31"/>
+  <line class="cls-5" x1="194.4" y1="175.04" x2="194.4" y2="153.45"/>
+  <g>
+    <line class="cls-3" x1="120.6" y1="143.57" x2="252.32" y2="143.57"/>
+    <rect class="cls-8" x="120.22" y="141.14" width=".75" height="4.88"/>
+    <rect class="cls-8" x="251.94" y="141.14" width=".75" height="4.88"/>
+  </g>
+  <rect class="cls-18" x="165.81" y="137.85" width="38.31" height="11.44"/>
+  <text class="cls-15" transform="translate(166.48 148.48) scale(.98 1)"><tspan x="0" y="0">$44.98</tspan></text>
+  <rect class="cls-18" x="164" y="198.03" width="39.78" height="11.44"/>
+  <text class="cls-15" transform="translate(165.4 208.66) scale(.98 1)"><tspan x="0" y="0">$44.52</tspan></text>
+  <text class="cls-13" transform="translate(20 28.4)"><tspan x="0" y="0">Wood Buffalo has the largest </tspan><tspan x="0" y="24">wage gap among Alberta’s </tspan><tspan x="0" y="48">major cities</tspan></text>
+  <text class="cls-17" transform="translate(20 94.14)"><tspan class="cls-11" x="0" y="0">Estimated wage distribution shown at the </tspan><tspan class="cls-20" x="235.01" y="0">10th (low </tspan><tspan class="cls-20" x="0" y="14.4">income)</tspan><tspan class="cls-11" x="44.81" y="14.4">, </tspan><tspan class="cls-19" x="50.87" y="14.4">50th (median)</tspan><tspan class="cls-11" x="128.73" y="14.4">, and </tspan><tspan class="cls-22" x="159.3" y="14.4">90th (high income)</tspan><tspan class="cls-11" x="263.55" y="14.4"> </tspan><tspan class="cls-11"><tspan x="0" y="28.8">percentiles</tspan></tspan></text>
+  <text class="cls-16" transform="translate(20 430)"><tspan x="0" y="0">Source: Statistics Canada (2021) </tspan></text>
+  <line class="cls-6" x1="20.41" y1="417.54" x2="340" y2="417.54"/>
+</svg>

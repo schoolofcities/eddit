@@ -76,8 +76,8 @@
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/woodbuffalo-contextmap-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_contextmap-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_contextmap-360.svg"}
 	/>
 
 	<div class="text">
@@ -153,8 +153,8 @@
 	</div>
 
 	<GraphicSingle
-		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-720.svg"}
-		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo-cities-wages-chart-360.svg"}
+		svg720={"./wood-buffalo-ab/web-svg/wood-buffalo_cities-wages-chart-720.svg"}
+		svg360={"./wood-buffalo-ab/web-svg/wood-buffalo_cities-wages-chart-360.svg"}
 	/>
 
 	<div class="text">
