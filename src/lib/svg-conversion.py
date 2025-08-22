@@ -414,7 +414,7 @@ from pathlib import Path
 
 
 def main():
-	city = "eau-claire-wi"
+	city = "cook-county-il"
 	input_dir = "../routes/" + city + "/assets"  
 	output_dir = "../../static/"  + city + "/web-svg"
 	# input_dir = "../assets/landing/map"

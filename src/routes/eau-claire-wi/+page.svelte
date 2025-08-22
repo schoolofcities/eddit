@@ -52,7 +52,7 @@
 
 </script>
 
-<!-- <Password/> -->
+<Password/>
 
 <Title 
 	title={"Connecting the Dots: Showcasing the benefits of public transportation "}
@@ -261,7 +261,9 @@
 		<h2>Additional resources</h2>
 
 		<p>
-			
+			<a href="https://volumeone.org/articles/2023/08/24/325006-all-aboard-trolley" target="_blank">History of the Eau Claire Trolley</a>
+			<br><br>
+			<a href="https://www.eauclairewi.gov/government/our-divisions/transit/transit-administration/transit-development-plan" target="_blank">Eau Claire Transit Development Plan (2020)</a>
 		</p>
 
 	</div>
