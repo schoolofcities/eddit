@@ -3,21 +3,21 @@
   <defs>
     <style>
       .cls-1 {
-        letter-spacing: 1.85em;
+        fill: #00a28a;
+        font-size: 56px;
       }
 
-      .cls-2 {
-        letter-spacing: 2.74em;
+      .cls-1, .cls-2 {
+        font-family: OpenSans-Bold, 'Open Sans';
+        font-weight: 700;
       }
 
       .cls-3 {
-        fill: #231f20;
-        font-size: 14px;
+        letter-spacing: 1.85em;
       }
 
-      .cls-3, .cls-4 {
-        font-family: OpenSans-Bold, 'Open Sans';
-        font-weight: 700;
+      .cls-4 {
+        letter-spacing: 2.74em;
       }
 
       .cls-5 {
@@ -26,28 +26,26 @@
         font-size: 12px;
       }
 
+      .cls-2 {
+        fill: #231f20;
+        font-size: 20px;
+      }
+
       .cls-6 {
         fill: none;
         stroke: #9a9896;
         stroke-miterlimit: 10;
       }
-
-      .cls-4 {
-        fill: #00a28a;
-        font-size: 37px;
-      }
     </style>
   </defs>
   <g id="Layer_1" data-name="Layer 1">
     <g>
-      <text class="cls-5" transform="translate(20 90)"><tspan x="0" y="0">Source: National Low Income Housing Coalition, “The Gap: A Shortage of Affordable Homes&quot; (2025)</tspan><tspan class="cls-1" x="550.73" y="0">	</tspan><tspan class="cls-2" x="576" y="0">	</tspan></text>
+      <text class="cls-5" transform="translate(20 90)"><tspan x="0" y="0">Source: National Low Income Housing Coalition, “The Gap: A Shortage of Affordable Homes&quot; (2025)</tspan><tspan class="cls-3" x="550.73" y="0">	</tspan><tspan class="cls-4" x="576" y="0">	</tspan></text>
       <line class="cls-6" x1="20.41" y1="77.54" x2="700" y2="77.54"/>
     </g>
   </g>
   <g id="Layer_5" data-name="Layer 5">
-    <g>
-      <text class="cls-3" transform="translate(230.36 38.11)"><tspan x="0" y="0">households in the U.S. are severely cost-burdened, </tspan><tspan x="0" y="16.8">spending over half their income on rent and utilities</tspan></text>
-      <text class="cls-4" transform="translate(124.9 54.74)"><tspan x="0" y="0">1 in 4</tspan></text>
-    </g>
+    <text class="cls-2" transform="translate(180.6 35)"><tspan x="0" y="0">households in the U.S. are severely cost-burdened, </tspan><tspan x="0" y="24">spending over half their income on rent and utilities</tspan></text>
+    <text class="cls-1" transform="translate(17.72 60.04)"><tspan x="0" y="0">1 in 4</tspan></text>
   </g>
 </svg>

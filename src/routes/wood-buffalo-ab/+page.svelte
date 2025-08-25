@@ -20,7 +20,7 @@
 	const footnoteStore = createFootnoteStore();
     const { footnotes, addFootnote } = footnoteStore;
 
-	const fns = ['Robson Fletcher, “Canmore Deemed Least Affordable Housing Market in Alberta, Fort McMurray the Most,” CBC News, August 28, 2018. [URL](https://www.cbc.ca/news/canada/calgary/canmore-fort-mcmurray-housing-affordability-june-2018-zoocasa-1.4801781); Daniel Tencer, “Fort McMurray Now Most Affordable City On Global Housing Ranking,” HuffPost, January 21, 2020. [URL](https://www.huffpost.com/archive/ca/entry/affordable-housing-canadian-cities_ca_5e262200c5b673621f7a72b9).',
+	const fns = ['Robson Fletcher, “Canmore Deemed Least Affordable Housing Market in Alberta, Fort McMurray the Most,” *CBC News*, August 28, 2018. [URL](https://www.cbc.ca/news/canada/calgary/canmore-fort-mcmurray-housing-affordability-june-2018-zoocasa-1.4801781); Daniel Tencer, “Fort McMurray Now Most Affordable City On Global Housing Ranking,” *HuffPost*, January 21, 2020. [URL](https://www.huffpost.com/archive/ca/entry/affordable-housing-canadian-cities_ca_5e262200c5b673621f7a72b9).',
 		'Regional Municipality of Wood Buffalo, *Municipal Development Plan, Bylaw No. 24/105* (2024).',
 		'Laura Ryser et al., “Moving from Government to Governance: Addressing Housing Pressures during Rapid Industrial Development in Kitimat, BC, Canada,” *Housing Studies* 36, no. 10 (2021): 1618–43. [URL](https://doi.org/10.1080/02673037.2020.1789564).',
 		'Government of Alberta, *Alberta Wage and Salary Survey 2023* (2025). [URL](https://open.alberta.ca/publications/alberta-wage-and-salary-survey-average-wages-by-industry-and-economic-region/resource/a59a02ab-cb96-41c2-bd1c-eb05dc563a7a).',
@@ -30,8 +30,8 @@
 		'Ryser and Halseth, “Housing Costs in an Oil and Gas Boom Town.”',
 		'Susan Christopherson et al., “Regional Resilience: Theoretical and Empirical Perspectives,” *Cambridge Journal of Regions, Economy and Society* 3, no. 1 (2010): 3–10. [URL](https://doi.org/10.1093/cjres/rsq004); Hamideh Mahdiani et al., “Resilience in Times of Economic Boom and Bust: A Narrative Study of a Rural Population Dependent upon the Oil and Gas Industry,” *Journal of Adult Development* 28, no. 2 (2021): 149–61. [URL](https://doi.org/10.1007/s10804-020-09363-z).',
 		'Government of Alberta - Treasury Board and Finance, *Alberta Spatial Price Survey* (2019). [URL](https://open.alberta.ca/dataset/0254b2ba-1c7d-4b9d-a1c7-c74a9ad46eb4/resource/d6814234-f1b0-48f8-a075-e60aa1903566/download/2019-09-19_abspatialpricesurvey.pdf).',
-		'“Canada Wildfire: 20% of Fort McMurray Homes Destroyed, Says MP,” BBC News, May 8, 2016. [URL](https://www.bbc.com/news/world-us-canada-36244499).',
-		'Wallis Snowdon, “Warmer Weather Only Possible Weapon against Northern Alberta Ice-Jam Flooding,” CBC News, April 28, 2020. [URL](https://www.cbc.ca/news/canada/edmonton/fort-mcmurray-wood-buffalo-flooding-1.5547546).',
+		'“Canada Wildfire: 20% of Fort McMurray Homes Destroyed, Says MP,” *BBC News*, May 8, 2016. [URL](https://www.bbc.com/news/world-us-canada-36244499).',
+		'Wallis Snowdon, “Warmer Weather Only Possible Weapon against Northern Alberta Ice-Jam Flooding,” *CBC News*, April 28, 2020. [URL](https://www.cbc.ca/news/canada/edmonton/fort-mcmurray-wood-buffalo-flooding-1.5547546).',
 		'Alberta Living Wage Network, *Alberta Living Wage Report* (2024). [URL](https://www.livingwagealberta.ca/news/alberta-living-wage-network-releases-2024-living-wage-rates-in-partnership-with-21-communities).',
 		'Shelter costs refer to the average monthly total expenses paid by owners or renters, and total household before-tax income of all household members, including employment income, market income (e.g., capital gains), government subsidies, and pensions.',
 		'Kristof Heylen and Marietta Haffner, “A Ratio or Budget Benchmark for Comparing Affordability across Countries?,” *Journal of Housing and the Built Environment* 28, no. 3 (2013): 547–65. [URL](https://doi.org/10.1007/s10901-012-9325-2).',
@@ -56,7 +56,7 @@
 	subtitle={"A case study of Wood Buffalo, Alberta"}
 	image={titleImage}
 	imageCaption={"Housing options in Fort McMurray."}
-	imageSource={"Photo by Julia Greenberg"}
+	imageSource={"Photo by Julia Greenberg."}
 />
 
 <main>
@@ -247,7 +247,7 @@
 			As with many rural and remote communities, data collection and analysis for the region’s smaller areas is challenging. Because sample sizes are so small, it is often not possible to collect census data that are fine-grained enough to be useful due to privacy reasons. It is also difficult to tell a coherent story about the region since it is so large and contains many disparate geographies.
 		</p>
 		<p>
-			However, it is still possible to tell a story about housing in the region as a whole using aggregate data from the census showing core housing need, a metric of households that cannot afford adequate or suitable housing in their community.<Footnote id={addFootnote(fns[22])} />
+			However, it is still possible to tell a story about housing in the region as a whole using aggregate data from the census showing <strong>core housing need</strong>, a metric of households that cannot afford adequate or suitable housing in their community.<Footnote id={addFootnote(fns[22])} />
 		</p>
 
 	</div>

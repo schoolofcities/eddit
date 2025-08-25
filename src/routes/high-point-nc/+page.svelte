@@ -54,7 +54,7 @@
 	subtitle={"A case study of High Point, North Carolina"}
 	image={titleImage}
 	imageCaption={"Washington Street mural, '...and still I rise.'"}
-	imageSource={"Photo by Michelle Zhang, 2023"}
+	imageSource={"Photo by Michelle Zhang"}
 />
 
 <main>
@@ -81,6 +81,9 @@
 
 	<div class="text">
 
+		<p>
+			One such intervention is Shop on Washington Street, an initiative run by <a href="https://www.bhpchamber.org/" target="_blank">Business High Point (BHP)</a>, the chamber of commerce for the city, and <a href="https://changeoftenllc.com/home" target="_blank">Change Often</a>, a local social innovation firm. This program aims to equitably redevelop the historic Washington Street business district by facilitating the placement of Black- and women-owned businesses into new and existing brick-and-mortar spaces along this historic commercial corridor. This case study highlights how these organizations worked with the <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT data storytelling team</a> to share the legacy of Washington Street through data. It demonstrates that revitalizing this historic district presents a valuable opportunity that has the potential to stimulate local economic growth while advancing social equity and representation.
+		</p>
 		<div class="callout">
 
 			<h2>Thrive High Point</h2>
@@ -90,10 +93,6 @@
 			</p>
 
 		</div>
-
-		<p>
-			One such intervention is Shop on Washington Street, an initiative run by <a href="https://www.bhpchamber.org/" target="_blank">Business High Point (BHP)</a>, the chamber of commerce for the city, and <a href="https://changeoftenllc.com/home" target="_blank">Change Often</a>, a local social innovation firm. This program aims to equitably redevelop the historic Washington Street business district by facilitating the placement of Black- and women-owned businesses into new and existing brick-and-mortar spaces along this historic commercial corridor. This case study highlights how these organizations worked with the <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT data storytelling team</a> to share the legacy of Washington Street through data.* It demonstrates that revitalizing this historic district presents a valuable opportunity that has the potential to stimulate local economic growth while advancing social equity and representation.
-		</p>
 		<p>
 			Renowned as the “Furniture Capital of the World,” and home to one of the fastest-growing universities in the American South, High Point has experienced significant economic development in recent years. However, the growth has not been evenly distributed, exacerbating disparities in access to economic opportunities, amenities, and high-quality infrastructure in the city’s less wealthy neighbourhoods. These disparities are especially visible along the Washington Street corridor, which has been left behind in the city’s broader revitalization despite its location between two of High Point's bustling commercial hubs: the High Point Market downtown, and High Point University.
 		</p>
@@ -120,7 +119,7 @@
 			Jim Crow racial segregation throughout the American South gave rise to the development of vibrant African American centres in cities across the U.S., showcasing the economic ingenuity and resilience of African American communities during an era of racial segregation and systemic exclusion. Business districts and commercial corridors became known as “Black Wall Streets,” with Greenwood Avenue in Tulsa, Oklahoma being the most iconic. More broadly, Black Main Streets emerged as widespread corridors that served the daily needs of African American communities, providing essential goods, services, financial institutions, lodging, places of worship, and cultural spaces. Black Wall Streets and Black Main Streets both surfaced in response to exclusion from white-owned businesses and played an important role in fostering economic independence, cultural pride, and community cohesion.
 		</p>
 		<p>
-			As one of several historic concentrations of Black-owned businesses that grew in the United States during this era, Washington Street has long been a centre for entrepreneurship and community in High Point and was once known as the city’s “Black Wall Street.” The corridor boasted 18 Black-owned businesses by 1910 and over 50 by 1940, most of which were clustered along a few blocks. These included law offices, a public library, and accommodations such as The Kilby Hotel, The Henley Hotel, and The Hinton Hotel. Unlike many others in the area, these hotels all primarily served Black guests, who would otherwise have difficulty finding affordable places to stay in the area. 
+			As one of several historic concentrations of Black-owned businesses that grew in the United States during this era, Washington Street has long been a centre for entrepreneurship and community in High Point and was once known as the city’s Black Wall Street. The corridor boasted 18 Black-owned businesses by 1910 and over 50 by 1940, most of which were clustered along a few blocks. These included law offices, a public library, and accommodations such as The Kilby Hotel, The Henley Hotel, and The Hinton Hotel. Unlike many others in the area, these hotels all primarily served Black guests, who would otherwise have difficulty finding affordable places to stay in the area. 
 		</p>
 	</div>
 
@@ -199,7 +198,7 @@
 	<div class="text">
 
 		<p>
-			Despite these challenges, the neighbourhood continues to evolve. The building at <a href="http://itstime2dup.com/brick" target="_blank">500 Washington Street</a>, shown in the interactive slider above, was a two-story brick commercial structure notable for its evolving architectural features and diverse tenants. Initially hosting professionals like hairdressers and insurance agents on the second floor, it was home to successive grocery stores on the first floor throughout the 1920s and 1930s. By the mid-20th century, it housed medical offices and small businesses, including the practices of Dr. J.C. Morgan, a prominent Jamaican-born dentist and civic leader. Over time, the building’s appearance changed, including a rear extension built in 1924. The building slowly fell out of use, resulting in it being demolished in early 2025. 
+			Despite these challenges, the neighbourhood continues to evolve. The building at <a href="http://itstime2dup.com/brick" target="_blank">500 Washington Street</a>, shown in the photos above, was a two-story brick commercial structure notable for its evolving architectural features and diverse tenants. Initially hosting professionals like hairdressers and insurance agents on the second floor, it was home to successive grocery stores on the first floor throughout the 1920s and 1930s. By the mid-20th century, it housed medical offices and small businesses, including the practices of Dr. J.C. Morgan, a prominent Jamaican-born dentist and civic leader. Over time, the building’s appearance changed, including a rear extension built in 1924. The building slowly fell out of use, resulting in it being demolished in early 2025. 
 
 		</p>
 		<p>
@@ -239,7 +238,7 @@
 		</p>
 		<h2>Investing in entrepreneurship</h2>
 		<p>
-			Reviving Black Main Streets, which have suffered from decline since the 1950s, requires a multifaceted approach which focuses not only on historical preservation, but investing in opportunities for Black businesses to thrive. Main streets can act as a launchpad for entrepreneurs by offering more than just physical space: they provide a built-in community, steady foot traffic, and a strong sense of place that helps new businesses gain visibility and traction.<Footnote id={addFootnote(fns[7])} /> For example, in Chicago, organizations have been working hard to bring new life to the roaring hub of Black culture and business in the Bronzeville neighbourhood, with a focus on historical preservation and economic development. From these efforts, there has been a resurgence of Black-owned businesses, many supported by organizations such as the <a href="https://www.bronzevillechamber.com/orginial-home" target="_blank">Bronzeville Chamber of Commerce</a> and the <a href="https://chiul.org/" target="_blank">Chicago Urban League</a>.<Footnote id={addFootnote(fns[8])} /> With access to local support networks such as these, entrepreneurs are empowered to experiment, collaborate, and thrive, which fosters a culture of innovation and contributes to a resilient local economy.
+			Reviving Black Main Streets, which have suffered from decline since the 1950s, requires a multifaceted approach which focuses not only on historical preservation, but investing in opportunities for Black businesses to thrive. Main streets can act as a launchpad for entrepreneurs by offering more than just physical space: they provide a built-in community, steady foot traffic, and a strong sense of place that helps new businesses gain visibility and traction.<Footnote id={addFootnote(fns[7])} /> For example, in Chicago, organizations have been working hard to bring new life to the roaring hub of Black culture and business in the Bronzeville neighbourhood, with a focus on historical preservation and economic development. From these efforts, there has been a resurgence of Black-owned businesses, many supported by organizations such as the <a href="https://www.bronzevillechamber.com/" target="_blank">Bronzeville Chamber of Commerce</a> and the <a href="https://chiul.org/" target="_blank">Chicago Urban League</a>.<Footnote id={addFootnote(fns[8])} /> With access to local support networks such as these, entrepreneurs are empowered to experiment, collaborate, and thrive, which fosters a culture of innovation and contributes to a resilient local economy.
 		</p>
 		<p>
 			In a similar fashion, BHP and their Shop on Washington Street initiative is centred on establishing Black- and women-owned businesses and supporting them with training, business mentoring services, and grants. Facilitating the success of Black and female entrepreneurs is essential not only for equity but also for building community wealth. Yet these underrepresented groups face significant barriers, including limited access to capital, networks, and skill-building programs.<Footnote id={addFootnote(fns[9])} /> As the U.S. becomes more diverse, empowering these entrepreneurs is crucial for increasing overall business ownership, creating jobs, and fostering a more inclusive and resilient economy.

@@ -21,7 +21,7 @@
     const { footnotes, addFootnote } = footnoteStore;
 
 	const fns = ['The Community Builders (TCB) is a non-profit real estate developer that manages over 30,000 mixed-income housing units in 30 metro areas across the United States.',
-		'Steve Pomeroy and Maude Marquis-Bissonnette, *Non-Housing Outcomes of Affordable Housing* (Focus Consulting Inc. and Carleton University Centre for Urban Research and Education (CURE): March 2016). [URL](https://carleton.ca/cure/wp-content/uploads/Non_Housing_Outcomes_of_Affordable_Housing.pdf); Matthew A. Thomas, “On the Benefits of Affordable Housing: An Assessment of Recent Literature for Municipalities,” Table de Quartier Sud de l’Ouest-de-l’Île, 2017. [URL](https://tqsoi.org/wp-content/uploads/2018/03/On-the-benefits-of-affordable-housing.pdf); “Investments in Affordable Housing,” HomelessHub, 2017. [URL](https://homelesshub.ca/resource/place-call-home-case-increased-federal-investments-affordable-housing/); Michael Buzzelli, “Is it possible to measure the value of social housing?” Canadian Policy Research Networks: Social Housing Services Corporation, 2009. [URL](https://www.cubiq.ribg.gouv.qc.ca/notice?id=p%3A%3Ausmarcdef_0001228271&locale=fr); Canada Mortgage and Housing Corporation (CMHC), *Affordable Housing for Families: Assessing the Outcomes* (Government of Canada: 2010). [URL](https://publications.gc.ca/site/eng/9.620010/publication.html).',
+		'Steve Pomeroy and Maude Marquis-Bissonnette, *Non-Housing Outcomes of Affordable Housing* (Focus Consulting Inc. and Carleton University Centre for Urban Research and Education (CURE): March 2016). [URL](https://carleton.ca/cure/wp-content/uploads/Non_Housing_Outcomes_of_Affordable_Housing.pdf); Matthew A. Thomas, “On the Benefits of Affordable Housing: An Assessment of Recent Literature for Municipalities,” Table de Quartier Sud de l’Ouest-de-l’Île, 2017. [URL](https://tqsoi.org/wp-content/uploads/2018/03/On-the-benefits-of-affordable-housing.pdf); “A Place to Call Home: The Case for Increased Federal Investments in Affordable Housing,” HomelessHub, 2017. [URL](https://homelesshub.ca/resource/place-call-home-case-increased-federal-investments-affordable-housing/); Michael Buzzelli, “Is it possible to measure the value of social housing?” Canadian Policy Research Networks: Social Housing Services Corporation, 2009. [URL](https://www.cubiq.ribg.gouv.qc.ca/notice?id=p%3A%3Ausmarcdef_0001228271&locale=fr); Canada Mortgage and Housing Corporation (CMHC), *Affordable Housing for Families: Assessing the Outcomes* (Government of Canada: 2010). [URL](https://publications.gc.ca/site/eng/9.620010/publication.html).',
 		'CMHC, *Affordable Housing for Families.*',
 		'Thomas, “On the Benefits of Affordable Housing.”',
 		'Thomas, “On the Benefits of Affordable Housing.”',
@@ -32,7 +32,7 @@
 		'National Low Income Housing Coalition, *The Gap: A Shortage of Affordable Homes* (March 2025). [URL](https://nlihc.org/gap).',
 		'National Low Income Housing Coalition, *The Gap.*',
 		'See, for example: Brian An et al., "Factors affecting spillover impacts of LIHTC developments: An analysis of Los Angeles," *Cityscape: A Journal of Policy Development and Research* 25, no. 2: 309–364; Ingrid Gould Ellen et al., “Does federally subsidized rental housing depress neighborhood property values?” *Journal of Policy Analysis and Management* 26, no. 2: 257–280. [URL](https://doi.org/10.1002/pam.20247); George Galster, Peter Tatian, and Kathryn Pettit, "Supportive housing and neighborhood property value externalities," *Land Economics* 80, no. 1 (2004): 33–54. [URL](https://doi.org/10.2307/3147143); Henry O. Pollakowski, David Ritchay, and Zoe Weinrobe, *Effects of Mixed-Income, Multi-Family Rental Housing Developments on Single-Family Housing Values* (Cambridge, MA: Center for Real Estate, Massachusetts Institute of Technology, 2005).',
-		'Michael Buzzelli, “Is it possible to measure the value of social housing?”',
+		'Buzzelli, “Is it possible to measure the value of social housing?”',
 		'Corianne Payton Scally, “Beyond NIMBY and poverty deconcentration: reframing the outcomes of affordable rental housing development,” *Housing Policy Debate* 22, no. 3 (2012): 435–461. [URL](https://www.tandfonline.com/doi/full/10.1080/10511482.2012.680477#d1e1107).',
 		'David Amborski and Diana Petramala, *Governments in Ontario Making Headway in Using Surplus Lands for Housing* (Centre for Urban Research and Land Development (CUR), 2019). [URL](https://www.ohba.ca/cur-report-surplus-and-underutilized-government-lands-key-to-home-ownership/).'
 	];
@@ -46,8 +46,8 @@
 	title={"Investing in affordable housing to support inclusive downtowns"}
 	subtitle={"A case study of Worcester, Massachusetts"}
 	image={titleImage}
-	imageCaption={""}
-	imageSource={"Photo by Michelle Zhang"}
+	imageCaption={"Community Gardens at Plumley Village."}
+	imageSource={"Photo by Michelle Zhang."}
 />
 
 <main>
@@ -56,7 +56,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Isabeaux Graham</a> & <a href='' target='_blank'>Julia Greenberg</a>"}
 			date={"August 2025"}
 		/>
 
@@ -107,10 +107,10 @@
 		</p>
 	</div>
 
-	<!-- <GraphicSingle
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_1in4stat-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_1in4stat-360.svg"}
-	/> -->
+	/>
 
 	<div class="text">
 
@@ -119,10 +119,10 @@
 		</p>
 	</div>
 
-	<!-- <GraphicSingle
+	<GraphicSingle
 		svg720={"./worcester-ma/web-svg/worcester_35affordable-stat-720.svg"}
 		svg360={"./worcester-ma/web-svg/worcester_35affordable-stat-360.svg"}
-	/> -->
+	/>
 
 	<div class="text">
 
@@ -134,7 +134,7 @@
 			TCB wanted to build support for their work and explore the spillover impact of Plumley Village on the broader neighbourhood and city. Subsidized housing, for example, has been found to increase property values and tax revenues in surrounding neighbourhoods, as a result of the removal of blight and an influx of population.<Footnote id={addFootnote(fns[11])} /> These findings suggest that strategically targeted, place-based housing subsidies can revitalize neighbourhoods while also delivering affordable housing. While TCB initially wanted to replicate these kinds of studies by exploring Plumley Village’s impact on the surrounding area, this kind of analysis is often done over a period of several years, and requires more complex econometric methods and data than were within the scope of this project.<Footnote id={addFootnote(fns[12])} /> An evaluation of the relationship between Plumley Village and the surrounding neighbourhood would also need to account for many other factors, such as the housing market, the local economy, and income and racial diversity.<Footnote id={addFootnote(fns[13])} />
 		</p>
 		<p>
-			Instead, the EDDIT team took a simpler approach and compared data for the tract that contains downtown Worcester with the block group that contains Plumley Village to highlight the value of affordable housing and supportive services to these communities. These data are from data collected by TCB, the <a href="https://experience.arcgis.com/experience/22c7182a162d45788dd52a2362f8ed65" target="_blank">CDC’s PLACES</a> national health data portal, and the U.S. Census Bureau.
+			Instead, the EDDIT team took a simpler approach and compared data for the tract that contains downtown Worcester with the block group that contains Plumley Village to highlight the value of affordable housing and supportive services to these communities. This analysis is supported by data collected by TCB, the <a href="https://experience.arcgis.com/experience/22c7182a162d45788dd52a2362f8ed65" target="_blank">CDC’s PLACES</a> national health data portal, and the U.S. Census Bureau.
 		</p>
 		<p>
 			Plumley Village is located in central Worcester, directly adjacent to the city’s main commercial and business district, and is considered part of downtown in the city’s <a href="https://www.worcesterma.gov/planning-regulatory/document-center/now-next-final-plan.pdf" target="_blank">2024 citywide plan</a>. Residents of Plumley Village account for approximately a quarter of downtown’s total residential population. Any public or private investments in Plumley Village — whether in housing, transportation, public space, or social infrastructure — directly impact the vitality and success of the downtown as a whole. Similarly, changes in the downtown’s economic activity, cultural programming, or urban planning have immediate and tangible effects on the daily lives of Plumley Village residents. However, despite their interconnectedness, Plumley Village is located in a different census tract than the one that includes the downtown area.
@@ -147,7 +147,7 @@
 
 	<div class="text">
 		<p>
-			Assessing income-to-poverty ratios across geographies can give a better understanding of the need for affordable housing in downtown neighbourhoods. In many American cities, suburbanization, racially-segregated redevelopment, and renewal projects have led to disproportionately high poverty rates in downtown areas. Worcester exemplifies this trend, with a significantly higher percentage of residents downtown living below the poverty line than in the city as a whole, as defined by the American Community Survey’s income-to-poverty ratio metric. Plumley Village has an even higher percentage of residents living in poverty. Downtown Worcester, including Plumely Village, would benefit from investments in existing affordable housing, and arguably even more affordable housing is needed.
+			Assessing income-to-poverty ratios across geographies can give a better understanding of the need for affordable housing in downtown neighbourhoods. In many American cities, suburbanization, racially-segregated redevelopment, and renewal projects have led to disproportionately high poverty rates in downtown areas. Worcester exemplifies this trend, with a significantly higher percentage of residents downtown living below the poverty line than in the city as a whole, as defined by the American Community Survey’s income-to-poverty ratio metric. Plumley Village has an even higher percentage of residents living in poverty. Downtown Worcester, including Plumley Village, would benefit from investments in existing affordable housing, and arguably even more affordable housing is needed.
 		</p>
 	</div>
 
@@ -202,7 +202,7 @@
 		<h2>Additional resources</h2>
 
 		<p>
-			<a href="https://experience.arcgis.com/experience/22c7182a162d45788dd52a2362f8ed65" target="_blank">CDC's Places</a>
+			<a href="https://experience.arcgis.com/experience/22c7182a162d45788dd52a2362f8ed65" target="_blank">CDC's PLACES</a>
 			<br><br>
 			<a href="https://downtownrecovery.com/" target="_blank">Downtown Recovery</a>
 			<br><br>

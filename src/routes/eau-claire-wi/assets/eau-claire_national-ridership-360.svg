@@ -389,10 +389,10 @@
       <text class="cls-20" transform="translate(20 565.74)"><tspan x="0" y="0" xml:space="preserve">Data Source: American Public Transportation Association  </tspan><tspan x="0" y="14.4">(2025) </tspan></text>
       <line class="cls-1" x1="20.41" y1="553.28" x2="340" y2="553.28"/>
     </g>
-    <text class="cls-13" transform="translate(20 530.55)"><tspan x="0" y="0">Under 500k</tspan></text>
+    <text class="cls-13" transform="translate(18.63 530.71)"><tspan x="0" y="0">Under 500K</tspan></text>
     <text class="cls-17" transform="translate(115.1 510.55)"><tspan x="0" y="0">Transit system sizes</tspan></text>
-    <text class="cls-10" transform="translate(110.94 530.55)"><tspan x="0" y="0">500k - 1.99M</tspan></text>
-    <text class="cls-14" transform="translate(248.51 530.55)"><tspan x="0" y="0">National (US)</tspan></text>
-    <text class="cls-11" transform="translate(207.96 530.55)"><tspan x="0" y="0">2M+</tspan></text>
+    <text class="cls-10" transform="translate(108.01 530.55)"><tspan x="0" y="0">500k - 1.99M</tspan></text>
+    <text class="cls-14" transform="translate(241.22 530.55)"><tspan x="0" y="0">National (U.S.)</tspan></text>
+    <text class="cls-11" transform="translate(202.85 530.55)"><tspan x="0" y="0">2M+</tspan></text>
   </g>
 </svg>

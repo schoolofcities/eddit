@@ -34,8 +34,6 @@
 </script>
 
 
-
-
 <Password/>
 
 <Title
@@ -43,7 +41,7 @@
 	subtitle={"A case study of Cook County, Illinois"}
 	image={titleImage}
 	imageCaption={"Landscaper with leaf blower."}
-	imageSource={"Photo by TBD"}
+	imageSource={"Photo by Sóc Năng Động."}
 />
 
 <main>
@@ -52,7 +50,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Julia Greenberg</a>"}
 			date={"August 2025"}
 		/>
 
