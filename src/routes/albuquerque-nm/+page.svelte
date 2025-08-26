@@ -46,7 +46,7 @@
 <Password/>
 
 <Title
-	title={"From tracks to trail: Planning for equitable (re)development"}
+	title={"From Tracks to Trail: Planning for equitable (re)development"}
 	subtitle={"A case study of Albuquerque, New Mexico"}
 	image={titleImage}
 	imageCaption={"Underused rail spur in Albuquerque."}
@@ -67,7 +67,7 @@
 			Dormant and underused infrastructure represents both a challenge and an opportunity for cities. Vacant lots, aging transit corridors, and decommissioned industrial sites can be redeveloped to create vibrant and popular spaces that reflect and serve local communities. However, economic changes brought about by infrastructure redevelopment projects can lead to gentrification, which has prompted demands for more anti-displacement protections for nearby residents.
 		</p>
 		<p>
-			In the city of Albuquerque, New Mexico, plans are underway to transform a former rail corridor running through the downtown into an 11-kilometre (7-mile) multi-use urban trail that will connect downtown neighbourhoods, businesses, and cultural sites. The city’s Metropolitan Redevelopment Agency is leading the effort to fundraise and mobilize the community around this social infrastructure investment and ensure that the development of the trail is beneficial, not detrimental, for nearby residents. The agency worked with the <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT team</a> to create a data story about the benefits of the rail trail as a social investment that can enhance rather than displace the surrounding communities.
+			In the city of Albuquerque, New Mexico, plans are underway to transform a former rail corridor running through the downtown into an 11-kilometre (7-mile) multi-use urban trail that will connect downtown neighbourhoods, businesses, and cultural sites. The city’s <a href="https://www.cabq.gov/mra" target="_blank">Metropolitan Redevelopment Agency</a> is leading the effort to fundraise and mobilize the community around this social infrastructure investment and ensure that the development of the trail is beneficial, not detrimental, for nearby residents. The agency worked with the <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT team</a> to create a data story about the benefits of the rail trail as a social investment that can enhance rather than displace the surrounding communities.
 		</p>
 
 	</div>
