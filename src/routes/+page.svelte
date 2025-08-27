@@ -18,7 +18,6 @@
 	import map360 from "../../static/landing/landing-map-360.svg?raw"
 
 	let width;
-	$: console.log(width);
 
 	let title = "Data Storytelling for Equitable Development"
 	let subTitle = "Case studies from the 2023-24 EDDIT cohorts"

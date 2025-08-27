@@ -392,8 +392,8 @@ a:hover {
 	text-align: left;
 	position: relative;
 
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 .half-half-container .right {
