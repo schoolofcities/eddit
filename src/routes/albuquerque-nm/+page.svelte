@@ -40,14 +40,40 @@
 		'Metra Sheshbaradaran, “Rail to Trail & Green Gentrification” (2024), [URL](https://storymaps.arcgis.com/stories/78fb72ee7e8a45bdae2eb685e21385e8).'
    	];
 
+	let title = "From Tracks to Trail: Planning for equitable (re)development"
+	let subTitle = "A case study of Albuquerque, New Mexico"
+
 </script>
+
+
+<svelte:head>
+
+	<title>{title}  | School of Cities</title>
+
+	<meta name="description" content={subTitle} />
+	<meta name="author" content="School of Cities, University of Toronto">
+
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={subTitle} />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" />
+	<meta property="og:locale" content="en_CA">
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={subTitle} />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/eddit/" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" /> 
+
+</svelte:head>
 
 
 <Password/>
 
 <Title
-	title={"From Tracks to Trail: Planning for equitable (re)development"}
-	subtitle={"A case study of Albuquerque, New Mexico"}
+	title={title}
+	subtitle={subTitle}
 	image={titleImage}
 	imageCaption={"Underused rail spur in Albuquerque."}
 	imageSource={"Photo by Jeff Allen, August 2023."}

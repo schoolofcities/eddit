@@ -31,7 +31,7 @@
 	<title>{title}  | School of Cities</title>
 
 	<meta name="description" content={subTitle} />
-	<meta name="author" content="Jeff Allen">
+	<meta name="author" content="School of Cities, University of Toronto">
 
 	<meta property="og:title" content={title} />
 	<meta property="og:description" content={subTitle} />
