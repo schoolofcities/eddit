@@ -18,7 +18,7 @@
 		on:mouseenter={() => isHovered = true}
 		on:mouseleave={() => isHovered = false}
 	>
-		[{id[0]}]
+		<span style="margin-left: -4px;">&nbsp;[{id[0]}]</span>
 	</a>
 
 	{#if isHovered}
