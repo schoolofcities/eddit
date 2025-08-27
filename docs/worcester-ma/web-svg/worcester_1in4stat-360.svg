@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 130">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 135">
   <g id="background">
-    <image x="0.0" y="0.0" width="360.0" height="130.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAEECAYAAAABEAM4AAAABmJLR0QA/wD/AP+gvaeTAAADQElEQVR4nO3WsQ3CQBAAwTN2REKASSmAxkBU9PXQA3U4I7H0pgM+eh2SZyrYcCMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGDvhuyAllLKbYz6yu4AAKC/GvG5P57X7I5fpuyAlrHWaTvEObsDAID+hohjdkPL3w/0aZ7fy7JcsjsAAOhvXdctuwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB26gtsHxIKyJob1QAAAABJRU5ErkJggg=="/>
+    <image x="0.0" y="0.0" width="360.0" height="135.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAtAAAAEOCAYAAACgiyBeAAAABmJLR0QA/wD/AP+gvaeTAAADXElEQVR4nO3WoRHCQBBA0Q2JwiAIlgJoDIaKUk96oI44zM1c6IAz3CzivQq+/BEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0MOQHdCyLMttjLpmdwAA0F+NeN8fz2t2xzdTdkDLWOu0H+Kc3QEAQH9DxDG7oeXvB/o0z69t2y7ZHQAA9FdK2bMbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAH/oAvN0SCka9qUAAAAAASUVORK5CYII="/>
   </g>
   <g id="foreground">
     <g id="Layer_1" data-name="Layer 1">
       <g>
-        <text class="cls-4" transform="translate(20 100)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
-          <text class="cls-4" transform="translate(20 100)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
+        <text class="cls-4" transform="translate(20 110)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+          <text class="cls-4" transform="translate(20 110)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;"/>
         </text>
       </g>
       <g>
-        <text class="cls-4" transform="translate(20 100)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="cls-4" transform="translate(20 110)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Source: National Low Income Housing Coalition, “The </tspan>
           </tspan>
         </text>
       </g>
       <g>
-        <text class="cls-4" transform="translate(20 100)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="cls-4" transform="translate(20 110)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
           <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">
             <tspan x="0" y="14.4" style="font-weight: normal; font-style: normal;">Gap: A Shortage of Affordable Homes" (2025)</tspan>
           </tspan>
         </text>
       </g>
       <g>
-        <text class="cls-4" transform="translate(20 100)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="cls-4" transform="translate(20 110)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
           <tspan class="cls-6" x="251.99" y="14.4" style="letter-spacing: -.26em; font-weight: normal; font-style: normal;">
             <tspan class="cls-6" x="251.99" y="14.4" style="letter-spacing: -.26em; font-weight: normal; font-style: normal;">	</tspan>
           </tspan>
         </text>
       </g>
       <g>
-        <text class="cls-4" transform="translate(20 100)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
+        <text class="cls-4" transform="translate(20 110)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
           <tspan class="cls-3" x="252" y="14.4" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">
             <tspan class="cls-3" x="252" y="14.4" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">	</tspan>
           </tspan>
@@ -40,28 +40,33 @@
       </g>
     </g>
     <g id="Layer_5" data-name="Layer 5">
-      <text class="cls-1" transform="translate(114.19 35)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
-        <text class="cls-1" transform="translate(114.19 35)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;"/>
+      <text class="cls-1" transform="translate(160 30)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
+        <text class="cls-1" transform="translate(160 30)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;"/>
       </text>
-      <text class="cls-1" transform="translate(114.19 35)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
+      <text class="cls-1" transform="translate(160 30)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
         <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">households in the U.S. are severely </tspan>
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">households in the U.S. are </tspan>
         </tspan>
       </text>
-      <text class="cls-1" transform="translate(114.19 35)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
+      <text class="cls-1" transform="translate(160 30)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
         <tspan x="0" y="15.6" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="15.6" style="font-weight: normal; font-style: normal;">cost-burdened, spending over half</tspan>
+          <tspan x="0" y="15.6" style="font-weight: normal; font-style: normal;">severely cost-burdened, </tspan>
         </tspan>
       </text>
-      <text class="cls-1" transform="translate(114.19 35)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
+      <text class="cls-1" transform="translate(160 30)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
         <tspan x="0" y="31.2" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="31.2" style="font-weight: normal; font-style: normal;">their income on rent and utilities </tspan>
+          <tspan x="0" y="31.2" style="font-weight: normal; font-style: normal;">spending over half their </tspan>
         </tspan>
       </text>
-      <text class="cls-2" transform="translate(17.77 50.72)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 34px; font-style: normal;">
-        <text class="cls-2" transform="translate(17.77 50.72)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 34px; font-style: normal;"/>
+      <text class="cls-1" transform="translate(160 30)" style="fill: #231f20; font-size: 13px; font-family: OpenSansBold; font-style: normal;">
+        <tspan x="0" y="46.8" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="46.8" style="font-weight: normal; font-style: normal;">income on rent and utilities </tspan>
+        </tspan>
       </text>
-      <text class="cls-2" transform="translate(17.77 50.72)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 34px; font-style: normal;">
+      <text class="cls-2" transform="translate(17.77 65.36)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 50px; font-style: normal;">
+        <text class="cls-2" transform="translate(17.77 65.36)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 50px; font-style: normal;"/>
+      </text>
+      <text class="cls-2" transform="translate(17.77 65.36)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 50px; font-style: normal;">
         <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
           <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1 in 4</tspan>
         </tspan>

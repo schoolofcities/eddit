@@ -19,51 +19,41 @@
       </g>
       <g>
         <text class="cls-5" transform="translate(20 90)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
-          <tspan class="cls-1" x="550.73" y="0" style="letter-spacing: 1.85em; font-weight: normal; font-style: normal;">
-            <tspan class="cls-1" x="550.73" y="0" style="letter-spacing: 1.85em; font-weight: normal; font-style: normal;">	</tspan>
+          <tspan class="cls-3" x="550.73" y="0" style="letter-spacing: 1.85em; font-weight: normal; font-style: normal;">
+            <tspan class="cls-3" x="550.73" y="0" style="letter-spacing: 1.85em; font-weight: normal; font-style: normal;">	</tspan>
           </tspan>
         </text>
       </g>
       <g>
         <text class="cls-5" transform="translate(20 90)" style="fill: #9a9896; font-family: OpenSans; font-size: 12px; font-weight: normal; font-style: normal;">
-          <tspan class="cls-2" x="576" y="0" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">
-            <tspan class="cls-2" x="576" y="0" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">	</tspan>
+          <tspan class="cls-4" x="576" y="0" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">
+            <tspan class="cls-4" x="576" y="0" style="letter-spacing: 2.74em; font-weight: normal; font-style: normal;">	</tspan>
           </tspan>
         </text>
       </g>
     </g>
     <g id="Layer_5" data-name="Layer 5">
-      <g>
-        <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
-          <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;"/>
-        </text>
-      </g>
-      <g>
-        <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">households in the U.S. are severely cost-burdened, </tspan>
-          </tspan>
-        </text>
-      </g>
-      <g>
-        <text class="cls-3" transform="translate(230.36 38.11)" style="fill: #231f20; font-size: 14px; font-family: OpenSansBold; font-style: normal;">
-          <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="16.8" style="font-weight: normal; font-style: normal;">spending over half their income on rent and utilities</tspan>
-          </tspan>
-        </text>
-      </g>
-      <g>
-        <text class="cls-4" transform="translate(124.9 54.74)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 37px; font-style: normal;">
-          <text class="cls-4" transform="translate(124.9 54.74)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 37px; font-style: normal;"/>
-        </text>
-      </g>
-      <g>
-        <text class="cls-4" transform="translate(124.9 54.74)" style="font-family: OpenSansBold; fill: #00a28a; font-size: 37px; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-            <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1 in 4</tspan>
-          </tspan>
-        </text>
-      </g>
+      <text class="cls-2" transform="translate(180.6 35)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+        <text class="cls-2" transform="translate(180.6 35)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;"/>
+      </text>
+      <text class="cls-2" transform="translate(180.6 35)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">households in the U.S. are severely cost-burdened, </tspan>
+        </tspan>
+      </text>
+      <text class="cls-2" transform="translate(180.6 35)" style="font-family: OpenSansBold; fill: #231f20; font-size: 20px; font-style: normal;">
+        <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="24" style="font-weight: normal; font-style: normal;">spending over half their income on rent and utilities</tspan>
+        </tspan>
+      </text>
+      <text class="cls-1" transform="translate(17.72 60.04)" style="fill: #00a28a; font-size: 56px; font-family: OpenSansBold; font-style: normal;">
+        <text class="cls-1" transform="translate(17.72 60.04)" style="fill: #00a28a; font-size: 56px; font-family: OpenSansBold; font-style: normal;"/>
+      </text>
+      <text class="cls-1" transform="translate(17.72 60.04)" style="fill: #00a28a; font-size: 56px; font-family: OpenSansBold; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">1 in 4</tspan>
+        </tspan>
+      </text>
     </g>
   </g>
 </svg>
