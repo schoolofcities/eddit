@@ -33,7 +33,7 @@
 		'Wilson, “Why Transit Reliability Is Difficult in Midsized Cities.”',
 		'American Public Transportation Association (APTA), “Ridership Trends,” July 2025, [URL](https://transitapp.com/apta).',
 		'Leah Binkovitz, “What Makes Transit Successful? Survey Says It’s Frequency, Reliability and Shorter Travel Times,” Kinder Institute for Urban Research, Rice University, July 12, 2016, [URL](https://kinder.rice.edu/urbanedge/what-makes-transit-successful-survey-says-its-frequency-reliability-and-shorter-travel).',
-		'Dristi Neog and Jeffrey Brown, “Transit Ridership Growth in Small Urbanized Areas: Lessons from Seven US Transit Systems,” *Journal of Urban Planning and Development* 148, no. 1 (2022): 05021051, [URL](https://doi.org/10.1061/(ASCE)UP.1943-5444.0000771).',
+		'Dristi Neog and Jeffrey Brown, “Transit Ridership Growth in Small Urbanized Areas: Lessons from Seven US Transit Systems,” *Journal of Urban Planning and Development* 148, no. 1 (2022): 05021051, [URL](https://doi.org/10.1061/%28ASCE%29UP.1943-5444.0000771).',
 		'Wilson, “Why Transit Reliability Is Difficult in Midsized Cities.”',
 		'APTA, “Ridership Trends.”',
 		'Elizabeth Deakin et al., *Reviving Public Transit Ridership to Downtowns and Employment Centers: Public Official, Business Leader, and Commuter Perspectives and Strategies for Moving Forward* (Institute of Transportation Studies, University of California, Berkeley, in press).',
@@ -68,7 +68,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'> Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Isabeaux Graham</a>, & <a href='' target='_blank'>Michelle Zhang</a>"}
 			date={"August 2025"}
 		/>
 

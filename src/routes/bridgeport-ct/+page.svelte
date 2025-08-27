@@ -54,7 +54,7 @@
 	subtitle={"A case study of Bridgeport, Connecticut"} 
 	image={titleImage}
 	imageCaption={"Helen Street Greenspace in Bridgeport, CT."}
-	imageSource={"Photo by Michelle Zhang on June 12, 2023 at 10:57am"}
+	imageSource={"Photo by Michelle Zhang, 2023."}
 />
 
 <main>
@@ -198,7 +198,7 @@
 	<div class="text">
 
 		<p>
-			Another benefit of trees and other green spaces is that they absorb water, reducing the risk of flooding, erosion, and the degradation of urban waterways. They also help to <a href="https://www.vibrantcitieslab.com/research/stormwater-mitigation/" target="_blank">break up soil</a>, allowing it to retain more water. Trees combat nutrient runoff in stormwater by <a href="https://www.vibrantcitieslab.com/research/water-quality/" target="_blank">absorbing phosphorous and nitrogen</a> from lawn fertilizers and pet waste, preventing them from entering waterways and leaching into groundwater. This reduction in stormwater nutrient runoff has been linked with decreased municipal water treatment costs.
+			Another benefit of trees and other green spaces is that they absorb water, reducing the risk of flooding, erosion, and the degradation of urban waterways. They also help to <a href="https://www.vibrantcitieslab.com/trees-to-offset-stormwater/" target="_blank">break up soil</a>, allowing it to retain more water. Trees combat nutrient runoff in stormwater by <a href="https://www.vibrantcitieslab.com/research/water-quality/" target="_blank">absorbing phosphorous and nitrogen</a> from lawn fertilizers and pet waste, preventing them from entering waterways and leaching into groundwater. This reduction in stormwater nutrient runoff has been linked with decreased municipal water treatment costs.
 		</p>
 
 	</div>
