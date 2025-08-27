@@ -20,10 +20,10 @@
     const { footnotes, addFootnote } = footnoteStore;
 
 	const fns = ['Christopher W. Tessum et al., “PM2.5 polluters disproportionately and systemically affect people of color in the United States,” *Science Advances*, Vol 7, Issue 18 (2021). DOI: 10.1126/sciadv.abf4491.',
-		'Bruno Dupeyron, Andrea Noferini and Tony Payan, *Agents and Structures in Cross-Border Governance*, (Toronto: University of Toronto Press, 2023). [URL](https://utppublishing.com/doi/book/10.3138/9781487502881.)',
+		'Bruno Dupeyron, Andrea Noferini and Tony Payan, *Agents and Structures in Cross-Border Governance*, (Toronto: University of Toronto Press, 2023). [URL](https://utppublishing.com/doi/book/10.3138/9781487502881)',
 		'J. T. Lyle, *Regenerative Design for Sustainable Development* (United Kingdom: Wiley, 1994).',
 		'J. T. Lyle, *Regenerative Design for Sustainable Development*.',
-		'L.V. Gibbons, “Regenerative—The New Sustainable?” *Sustainability*, 12(13), 2020: 5483. [URL](https://doi.org/10.3390/su12135483).',
+		'Leah V. Gibbons, “Regenerative—The New Sustainable?” *Sustainability*, 12(13), 2020: 5483. [URL](https://doi.org/10.3390/su12135483).',
 		'Christopher David Ruiz Cameron, “The rakes of wrath: urban agricultural workers and the struggle against Los Angeles\'s ban on gas-powered leaf blowers,” *U.C. Davis Law Review*, 33(4), 2000: 1087–1104. [URL](https://lawreview.law.ucdavis.edu/archives/33/4/rakes-wrath-urban-agricultural-workers-and-struggle-against-los-angeless-ban-gas); Jules Boykoff, “The Leaf Blower, Capitalism, and the Atomization of Everyday Life,” *Capitalism Nature Socialism*, 22(3), 2011: 95–113. [URL](https://doi.org/10.1080/10455752.2011.593896).',
 		'Donald Miller, "Methods for Assessing Environmental Justice in Planning Evaluation – an Approach and an Application," in *New Principles in Planning Evaluation* (London: Routledge, 2008).',
 		'Nefeli Maria Bompoti, Nicholas Coelho, and Lauren Pawlowski, “Is inclusive more elusive? An impact assessment analysis on designating environmental justice communities in the US,” *Environmental Impact Assessment Review*, 104 (2024): 107354. [URL](https://doi.org/10.1016/j.eiar.2023.107354).',
@@ -34,8 +34,6 @@
 </script>
 
 
-
-
 <Password/>
 
 <Title
@@ -43,7 +41,7 @@
 	subtitle={"A case study of Cook County, Illinois"}
 	image={titleImage}
 	imageCaption={"Landscaper with leaf blower."}
-	imageSource={"Photo by TBD"}
+	imageSource={"Photo by Sóc Năng Động."}
 />
 
 <main>
@@ -52,7 +50,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Julia Greenberg</a>"}
 			date={"August 2025"}
 		/>
 

@@ -54,7 +54,7 @@
 	subtitle={"A case study of Bridgeport, Connecticut"} 
 	image={titleImage}
 	imageCaption={"Helen Street Greenspace in Bridgeport, CT."}
-	imageSource={"Photo by Michelle Zhang on June 12, 2023 at 10:57am"}
+	imageSource={"Photo by Michelle Zhang, 2023."}
 />
 
 <main>
@@ -198,7 +198,7 @@
 	<div class="text">
 
 		<p>
-			Another benefit of trees and other green spaces is that they absorb water, reducing the risk of flooding, erosion, and the degradation of urban waterways. They also help to <a href="https://www.vibrantcitieslab.com/research/stormwater-mitigation/" target="_blank">break up soil</a>, allowing it to retain more water. Trees combat nutrient runoff in stormwater by <a href="https://www.vibrantcitieslab.com/research/water-quality/" target="_blank">absorbing phosphorous and nitrogen</a> from lawn fertilizers and pet waste, preventing them from entering waterways and leaching into groundwater. This reduction in stormwater nutrient runoff has been linked with decreased municipal water treatment costs.
+			Another benefit of trees and other green spaces is that they absorb water, reducing the risk of flooding, erosion, and the degradation of urban waterways. They also help to <a href="https://www.vibrantcitieslab.com/trees-to-offset-stormwater/" target="_blank">break up soil</a>, allowing it to retain more water. Trees combat nutrient runoff in stormwater by <a href="https://www.vibrantcitieslab.com/research/water-quality/" target="_blank">absorbing phosphorous and nitrogen</a> from lawn fertilizers and pet waste, preventing them from entering waterways and leaching into groundwater. This reduction in stormwater nutrient runoff has been linked with decreased municipal water treatment costs.
 		</p>
 
 	</div>
@@ -230,7 +230,7 @@
 	<div class="text">
 
 		<p>
-			Urban green spaces with tree cover also improve physical health outcomes by providing safe, shaded, attractive places to walk, run, and play, offering both health and lifestyle benefits. Physical activity is linked with extended life expectancy and more outdoor playing time for children.<Footnote id={addFootnote(fns[9])}/> In addition to physical health outcomes, trees also have a positive impact on mental health. One study found that people who lived within 100m (325 feet) of street trees had lower levels of stress and anxiety, and less need for antidepressants, with stronger effects in lower-income communities.<Footnote id={addFootnote(fns[10])}/> Trees and green spaces have also been linked to stronger community trust and collective efficacy, as attractive outdoor areas encourage more neighbourhood interaction and positive social engagement.<Footnote id={addFootnote(fns[11])}/> Organizations looking to show what effects trees can have in their communities can use the Centers for Disease Control and Prevenstion (CDC) <a href="https://www.cdc.gov/places/index.html" target="_blank"> Places dataset</a>, which tracks many health metrics at the census block group level and which can be mapped and analyzed relative to Tree Equity Score data.
+			Urban green spaces with tree cover also improve physical health outcomes by providing safe, shaded, attractive places to walk, run, and play, offering both health and lifestyle benefits. Physical activity is linked with extended life expectancy and more outdoor playing time for children.<Footnote id={addFootnote(fns[9])}/> In addition to physical health outcomes, trees also have a positive impact on mental health. One study found that people who lived within 100 metres (325 feet) of street trees had lower levels of stress and anxiety, and less need for antidepressants, with stronger effects in lower-income communities.<Footnote id={addFootnote(fns[10])}/> Trees and green spaces have also been linked to stronger community trust and collective efficacy, as attractive outdoor areas encourage more neighbourhood interaction and positive social engagement.<Footnote id={addFootnote(fns[11])}/> Organizations looking to show what effects trees can have in their communities can use the Centers for Disease Control and Prevenstion (CDC) <a href="https://www.cdc.gov/places/index.html" target="_blank"> Places dataset</a>, which tracks many health metrics at the census block group level and which can be mapped and analyzed relative to Tree Equity Score data.
 		</p>
 
 	</div>

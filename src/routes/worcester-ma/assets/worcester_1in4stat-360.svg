@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 130">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 135">
   <defs>
     <style>
       .cls-1 {
@@ -10,11 +10,6 @@
       .cls-1, .cls-2 {
         font-family: OpenSans-Bold, 'Open Sans';
         font-weight: 700;
-      }
-
-      .cls-2 {
-        fill: #00a28a;
-        font-size: 34px;
       }
 
       .cls-3 {
@@ -36,16 +31,21 @@
       .cls-6 {
         letter-spacing: -.26em;
       }
+
+      .cls-2 {
+        fill: #00a28a;
+        font-size: 50px;
+      }
     </style>
   </defs>
   <g id="Layer_1" data-name="Layer 1">
     <g>
-      <text class="cls-4" transform="translate(20 100)"><tspan x="0" y="0">Source: National Low Income Housing Coalition, “The </tspan><tspan x="0" y="14.4">Gap: A Shortage of Affordable Homes&quot; (2025)</tspan><tspan class="cls-6" x="251.99" y="14.4">	</tspan><tspan class="cls-3" x="252" y="14.4">	</tspan></text>
-      <line class="cls-5" x1="20.41" y1="87.54" x2="339.98" y2="87.54"/>
+      <text class="cls-4" transform="translate(20 110)"><tspan x="0" y="0">Source: National Low Income Housing Coalition, “The </tspan><tspan x="0" y="14.4">Gap: A Shortage of Affordable Homes&quot; (2025)</tspan><tspan class="cls-6" x="251.99" y="14.4">	</tspan><tspan class="cls-3" x="252" y="14.4">	</tspan></text>
+      <line class="cls-5" x1="20.41" y1="97.54" x2="339.98" y2="97.54"/>
     </g>
   </g>
   <g id="Layer_5" data-name="Layer 5">
-    <text class="cls-1" transform="translate(114.19 35)"><tspan x="0" y="0">households in the U.S. are severely </tspan><tspan x="0" y="15.6">cost-burdened, spending over half</tspan><tspan x="0" y="31.2">their income on rent and utilities </tspan></text>
-    <text class="cls-2" transform="translate(17.77 50.72)"><tspan x="0" y="0">1 in 4</tspan></text>
+    <text class="cls-1" transform="translate(160 30)"><tspan x="0" y="0">households in the U.S. are </tspan><tspan x="0" y="15.6">severely cost-burdened, </tspan><tspan x="0" y="31.2">spending over half their </tspan><tspan x="0" y="46.8">income on rent and utilities </tspan></text>
+    <text class="cls-2" transform="translate(17.77 65.36)"><tspan x="0" y="0">1 in 4</tspan></text>
   </g>
 </svg>

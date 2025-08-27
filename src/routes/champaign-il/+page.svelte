@@ -20,21 +20,21 @@
 	const footnoteStore = createFootnoteStore();
     const { footnotes, addFootnote } = footnoteStore;
 
-	const fns = ['Erin Grinshteyn and David Hemenway, “Violent death rates in the US compared to those of the other high-income countries, 2015,” *Preventive Medicine* 123 (2019): 20–26. DOI: 10.1016/j.ypmed.2019.02.026.',
+	const fns = ['Erin Grinshteyn and David Hemenway, “Violent death rates in the US compared to those of the other high-income countries, 2015,” *Preventive Medicine* 123 (2019): 20–26. [URL](https://pubmed.ncbi.nlm.nih.gov/30817955/)',
 		'Magic M. Wade, “Not as Bad as the ‘90s”? Firearm Violence in Small, Mid-Size, and Large US Cities, 2015–2021,” *Homicide Studies* 0 (2023). [URL](https://doi.org/10.1177/10887679231163287).',
 		'Wade, “Not as Bad as the ‘90s”?',
 		'City of Champaign, “PL-25-19 Amendment to the Comprehensive Plan - Garden Hills Strategic Neighborhood Action Plan,” May 2025. [URL](https://engagechampaign.org/18229/widgets/57761/documents/67786).',
 		'City of Champaign, “Garden Hills Strategic Neighborhood Action Plan.”',
-		'Elizabeth Griffiths and Jorge M. Chavez, “Communities, street guns and homicide trajectories in Chicago, 1980–1995: Merging methods for examining homicide trends across space and time,” *Criminology* 42, no. 4 (2004): 941–978; Patrick Sharkey, *Uneasy Peace: The Great Crime Decline, the Renewal of City Life, and the Next War on Violence* (WW Norton & Company, 2018).',
+		'Elizabeth Griffiths and Jorge M. Chavez, “Communities, street guns and homicide trajectories in Chicago, 1980–1995: Merging methods for examining homicide trends across space and time,” *Criminology* 42, no. 4 (2006): 941–978. [URL](https://doi.org/10.1111/j.1745-9125.2004.tb00541.x); Patrick Sharkey, *Uneasy Peace: The Great Crime Decline, the Renewal of City Life, and the Next War on Violence* (WW Norton & Company, 2018).',
 		'David Weisburd et al., “Understanding the Mechanisms Underlying Broken Windows Policing: The Need for Evaluation Evidence,” *Journal of Research in Crime and Delinquency* 52, no. 4 (2015): 589–608. [URL](https://doi.org/10.1177/0022427815577837).',
 		'Ngozi C. Kamalu and Emmanuel C. Onyeozili, "A Critical Analysis of the ‘Broken Windows’ Policing in New York City and Its Impact: Implications for the Criminal Justice System and the African American Community," *African Journal of Criminology and Justice Studies* Vol. 11: Iss. 1, Article 6 (2018). [URL](https://digitalscholarship.tsu.edu/ajcjs/vol11/iss1/6).',
 		'Jane Jacobs, *The Death and Life of Great American Cities* (New York: Random House, 1961).',
-		'Beth E. Molnar et al., “Neighborhood Predictors of Concealed Firearm Carrying Among Children and Adolescents: Results From the Project on Human Development in Chicago Neighborhoods,” *Archives of Pediatrics & Adolescent Medicine* 158, no. 7 (2004): 657–664. [URL](doi:10.1001/archpedi.158.7.657).',
+		'Beth E. Molnar et al., “Neighborhood Predictors of Concealed Firearm Carrying Among Children and Adolescents: Results From the Project on Human Development in Chicago Neighborhoods,” *Archives of Pediatrics & Adolescent Medicine* 158, no. 7 (2004): 657–664. [URL](https://pubmed.ncbi.nlm.nih.gov/15237065/)',
 		'Yusuf Bicer et al., “Influence of urban layout on crime incidence using UAV images,” *Spatial Information Research* 33, article 20 (2025). [URL](https://doi.org/10.1007/s41324-025-00618-z).',
 		'Brandon Welsh and David P. Farrington, *The Oxford Handbook of Crime Prevention* (Oxford University Press, 2012).',
-		'Robert J. Sampson, Stephen W. Raudenbush, and Felton Earls, “Neighborhoods and violent crime: A multilevel study of collective efficacy,” *Science* 277 (1997): 918–924; Richard P. Taub, Garth Taylor, and Jan D. Dunham, *Paths of Neighborhood Change: Race and Crime in Urban America* (University of Chicago Press, 1984); R. B. Taylor and S. Gottfredson, “Environmental design, crime and prevention: An examination of community dynamics,” in *Communities and Crime*, eds. A. J. Reiss & M. Tonry (University of Chicago Press, 1986).',
+		'Robert J. Sampson, Stephen W. Raudenbush, and Felton Earls, “Neighborhoods and violent crime: A multilevel study of collective efficacy,” *Science* 277 (1997): 918–924. [URL](https://pubmed.ncbi.nlm.nih.gov/9252316/); Richard P. Taub, Garth Taylor, and Jan D. Dunham, *Paths of Neighborhood Change: Race and Crime in Urban America* (University of Chicago Press, 1984); R. B. Taylor and S. Gottfredson, “Environmental design, crime and prevention: An examination of community dynamics,” in *Communities and Crime*, eds. A. J. Reiss & M. Tonry (University of Chicago Press, 1986).',
 		'Gregory Breetzke et al., “Greenspace and gun violence in Detroit, USA,” *International Journal of Criminal Justice Sciences* 15, no. 2 (2020): 248–265. [URL](https://doi.org/10.5281/zenodo.3865608).',
-		'Charles C. Branas et al., “Urban blight remediation as a cost-beneficial solution to firearm violence,” *American Journal of Public Health* 106, no. 12 (2016): 2158–2164.',
+		'Charles C. Branas et al., “Urban blight remediation as a cost-beneficial solution to firearm violence,” *American Journal of Public Health* 106, no. 12 (2016): 2158–2164. [URL](https://pubmed.ncbi.nlm.nih.gov/27736217/).',
 		'Justin E. Heinze et al., “Busy Streets Theory: The Effects of Community-engaged Greening on Violence,” *American Journal of Community Psychology* 62, no. 1–2 (2018): 101–109. [URL](https://doi.org/10.1002/ajcp.12270).',
 		'Branas et al., “Urban blight remediation.”'
 	];
@@ -48,7 +48,7 @@
 	subtitle={"A case study of Champaign, Illinois"}
 	image={titleImage}
 	imageCaption={"Beginning phase of improvements in Garden Hills, 2024."}
-	imageSource={"Photo by Evelyne St-Louis"}
+	imageSource={"Photo by Evelyne St-Louis."}
 />
 
 <main>
@@ -125,7 +125,7 @@
 	<ImageSingle
 		imageURL={streetlightImage}
 		caption={"Streetlight improvements in Garden Hills."}
-		source={"Image credit: Julia Greenberg"}
+		source={"Photo credit: Julia Greenberg."}
 		maxWidth={"365px"}
 	/>
 

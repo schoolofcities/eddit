@@ -28,12 +28,12 @@
 		'Brian D. Taylor and Eric A. Morris, “Public Transportation Objectives and Rider Demographics: Are Transit’s Priorities Poor Public Policy?,” *Transportation* 42, no. 2 (2015): 347–67, [URL](https://doi.org/10.1007/s11116-014-9547-0).',
 		'Jonathan Skolnik and Richard Schreiner, “Benefits of Transit in Small Urban Areas: A Case Study,” *Transportation Research Record* 1623, no. 1 (1998): 47–56, [URL](https://doi.org/10.3141/1623-07).',
 		'Dagney Faulk and Michael Hicks, “The Economic Effects of Bus Transit in Small Cities,” *Public Finance Review* 38, no. 5 (2010): 513–39, [URL](https://doi.org/10.1177/1091142110373611).',
-		'Kea Wilson, “Why Transit Reliability Is Difficult in Midsized Cities,” Streetsblog USA, January 17, 2024, [URL](https://usa.streetsblog.org/2024/01/17/why-transit-reliability-is-tough-in-midsized-cities); Diana Ionescu, “Mid-Size Cities Struggle to Provide Reliable Transit,” Planetizen News, January 18, 2024, [URL](https://www.planetizen.com/news/2024/01/127087-mid-size-cities-struggle-provide-reliable-transit).',
+		'Kea Wilson, “Why Transit Reliability Is Difficult in Midsized Cities,” *Streetsblog USA*, January 17, 2024, [URL](https://usa.streetsblog.org/2024/01/17/why-transit-reliability-is-tough-in-midsized-cities); Diana Ionescu, “Mid-Size Cities Struggle to Provide Reliable Transit,” *Planetizen News*, January 18, 2024, [URL](https://www.planetizen.com/news/2024/01/127087-mid-size-cities-struggle-provide-reliable-transit).',
 		'Todd Litman, *Transportation Economics Simplified: An Introduction to Cost and Benefit Analysis for Transport Planning and Policy Evaluation* (Victoria Transport Policy Institute, 2021).',
 		'Wilson, “Why Transit Reliability Is Difficult in Midsized Cities.”',
 		'American Public Transportation Association (APTA), “Ridership Trends,” July 2025, [URL](https://transitapp.com/apta).',
 		'Leah Binkovitz, “What Makes Transit Successful? Survey Says It’s Frequency, Reliability and Shorter Travel Times,” Kinder Institute for Urban Research, Rice University, July 12, 2016, [URL](https://kinder.rice.edu/urbanedge/what-makes-transit-successful-survey-says-its-frequency-reliability-and-shorter-travel).',
-		'Dristi Neog and Jeffrey Brown, “Transit Ridership Growth in Small Urbanized Areas: Lessons from Seven US Transit Systems,” *Journal of Urban Planning and Development* 148, no. 1 (2022): 05021051, [URL](https://doi.org/10.1061/(ASCE)UP.1943-5444.0000771).',
+		'Dristi Neog and Jeffrey Brown, “Transit Ridership Growth in Small Urbanized Areas: Lessons from Seven US Transit Systems,” *Journal of Urban Planning and Development* 148, no. 1 (2022): 05021051, [URL](https://doi.org/10.1061/%28ASCE%29UP.1943-5444.0000771).',
 		'Wilson, “Why Transit Reliability Is Difficult in Midsized Cities.”',
 		'APTA, “Ridership Trends.”',
 		'Elizabeth Deakin et al., *Reviving Public Transit Ridership to Downtowns and Employment Centers: Public Official, Business Leader, and Commuter Perspectives and Strategies for Moving Forward* (Institute of Transportation Studies, University of California, Berkeley, in press).',
@@ -68,7 +68,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'> Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Isabeaux Graham</a>, & <a href='' target='_blank'>Michelle Zhang</a>"}
 			date={"August 2025"}
 		/>
 
@@ -223,7 +223,7 @@
 			Here, transit is positioned as a way to expand transportation choices and provide a convenient means of reaching major destinations throughout the city. It also shows how transit can mean independence for those who do not have the option to drive or own a car, including seniors, youth, newcomers, or those without a license, raising awareness of its importance for these groups. The city aims to provide fare-free transit for veterans and children as an additional incentive. For those outside of the coverage area, it will also launch a micro transfer pilot program, in which smaller vehicles pick people up at their door and take them to the central transfer station or elsewhere within the zone for the standard fare.<Footnote id={addFootnote(fns[20])} />
 		</p>
 		<p>
-			The second element of the campaign shows the direct financial benefit of using transit rather than a personal vehicle. In a city where many households are struggling with living costs, using transit for some trips can help reduce reliance on multiple vehicles and ease financial pressure.<Footnote id={addFootnote(fns[21])} /> When car payments, maintenance, fuel, and insurance are included, these savings can be substantial. For lower- and middle-income households especially, the savings associated with shifting some travel to public transit can free up resources for other necessities and improve overall financial stability. The Eau Claire team calculated that redirecting this spending locally could put over $2 million back into the local economy each year, an additional collective benefit.
+			The second element of the campaign shows the direct financial benefit of using transit rather than a personal vehicle. In a city where many households are struggling with living costs, using transit for some trips can help reduce reliance on multiple vehicles and ease financial pressure.<Footnote id={addFootnote(fns[21])} /> When car payments, maintenance, fuel, and insurance are included, these savings can be substantial. For lower- and middle-income households especially, the savings associated with shifting some travel to public transit can free up resources for other necessities and improve overall financial stability. The Eau Claire team calculated that redirecting this spending locally could put over US$2 million back into the local economy each year, an additional collective benefit.
 		</p>
 
 	</div>
@@ -236,7 +236,7 @@
 	<div class="text">
 
 		<p>
-			Taking transit can also have broader community benefits, including reducing traffic congestion and improving air quality by lowering emissions.<Footnote id={addFootnote(fns[22])} /> When people take transit instead of driving, they reduce the number of miles travelled in personal vehicles, and the associated levels of carbon dioxide (CO2) and other particulates. To show these environmental effects, the team calculated that returning to pre-pandemic ridership levels could lower CO2 emissions in the area by over 800,000 pounds per year. That is the same amount of CO2 that can be absorbed by 36,000 trees, or a forest the size of 180 football fields.<Footnote id={addFootnote(fns[23])} />
+			Taking transit can also have broader community benefits, including reducing traffic congestion and improving air quality by lowering emissions.<Footnote id={addFootnote(fns[22])} /> When people take transit instead of driving, they reduce the number of miles travelled in personal vehicles, and the associated levels of carbon dioxide (CO<sub>2</sub>) and other particulates. To show these environmental effects, the team calculated that returning to pre-pandemic ridership levels could lower CO<sub>2</sub> emissions in the area by over 800,000 pounds per year. That is the same amount of CO<sub>2</sub> that can be absorbed by 36,000 trees, or a forest the size of 180 football fields.<Footnote id={addFootnote(fns[23])} />
 		</p>
 
 	</div>

@@ -32,17 +32,17 @@
 		'Kelly M Bower et al., “The Intersection of Neighborhood Racial Segregation, Poverty, and Urbanicity and Its Impact on Food Store Availability in the United States,” *Preventive Medicine* 58 (January 2014): 33–39, [URL](https://doi.org/10.1016/j.ypmed.2013.10.010).',
 		'Angela Odoms-Young et al., “Food Insecurity, Neighborhood Food Environment, and Health Disparities: State of the Science, Research Gaps and Opportunities,” *The American Journal of Clinical Nutrition* 119, no. 3 (2024): 850–61, [URL](https://doi.org/10.1016/j.ajcnut.2023.12.019).',
 		'Bower et al., “The Intersection of Neighborhood Racial Segregation, Poverty, and Urbanicity.”',
-		'Healthy Food Policy Project, Towards Equitable and Just Food Systems: Exploring Food Justice, Food Sovereignty, and Ending Food Apartheid Policy & Practice (2022).',
-		'Michael J. Widener, “Spatial Access to Food: Retiring the Food Desert Metaphor,” *Physiology & Behavior* 193 (2018): 257–60, [URL](https://doi-org./10.1016/j.physbeh.2018.02.032).',
+		'Healthy Food Policy Project, *Towards Equitable and Just Food Systems: Exploring Food Justice, Food Sovereignty, and Ending Food Apartheid Policy & Practice* (2022), [URL](https://healthyfoodpolicyproject.org/wp-content/uploads/HFPP-Food-Justice.pdf).',
+		'Michael J. Widener, “Spatial Access to Food: Retiring the Food Desert Metaphor,” *Physiology & Behavior* 193 (2018): 257–60, [URL](https://doi.org/10.1016/j.physbeh.2018.02.032).',
 		'P. B. Ford and D. A. Dzewaltowski, “Geographic, Racial, Ethnic, and Socioeconomic Disparities in the Availability of Grocery Stores and Supermarkets Among Low-Income Women Across the Urban–Rural Continuum,” *Journal of Hunger & Environmental Nutrition* 5, no. 2 (2010): 216–33, [URL](https://doi.org/10.1080/19320241003800276); Kathryn M. Janda et al., “Who Shops at Their Nearest Grocery Store? A Cross-Sectional Exploration of Disparities in Geographic Food Access among a Low-Income, Racially/Ethnically Diverse Cohort in Central Texas,” *Journal of Hunger & Environmental Nutrition* 19, no. 3 (2024): 355–75, [URL](https://doi.org/10.1080/19320248.2022.2128962).',
-		'James D. Wright et al., “Food Deserts: What Is the Problem? What Is the Solution?,” *Society* 53, no. 2 (2016): 171–81, [URL](https://doi.org/10.1007/s12115-016-9993-8); The Annie E. Casey Foundation, Food Deserts in America: Understanding The Impact on Communities with Limited Food Access, February 14, 2021, [URL](https://www.aecf.org/blog/food-deserts-in-america).',
+		'James D. Wright et al., “Food Deserts: What Is the Problem? What Is the Solution?,” *Society* 53, no. 2 (2016): 171–81, [URL](https://doi.org/10.1007/s12115-016-9993-8); The Annie E. Casey Foundation, *Communities with Limited Food Access in the United States*, February 14, 2021, [URL](https://www.aecf.org/blog/food-deserts-in-america).',
 		'Eli Zigas, *Healthy Food Within Reach* (SPUR, 2015), [URL](https://www.spur.org/sites/default/files/2021-05/SPUR_Healthy_Food_Within_Reach_Report.pdf); Michael J. Widener et al., “How Do Changes in the Daily Food and Transportation Environments Affect Grocery Store Accessibility?,” *Applied Geography* 83 (2017): 46–62.',
 		'Nadra Hashim, “Reversing Food Desertification: Examining Urban Farming in Louisville, Chicago and Detroit,” *Local Environment* 20, no. 6 (2015): 611–36, [URL](https://doi.org/10.1080/13549839.2014.931364).',
 		'Michael Widener et al., “Developing a Mobile Produce Distribution System for Low-Income Urban Residents in Food Deserts,” *Journal of Urban Health: Bulletin of the New York Academy of Medicine* 89, no. 5 (2012), [URL](https://doi.org/10.1007/s11524-012-9677-7); Bellian, “Food Deserts in Urban Areas.”',
 		'Aggregated mobility data are provided by Cuebiq, a location intelligence platform. Data is collected from anonymized users who have opted-in to provide access to their location data anonymously, through a CCPA and GDPR-compliant framework. Through its Social Impact program, Cuebiq provides mobility insights for academic research and humanitarian initiatives. The Cuebiq responsible data sharing framework enables research partners to query anonymized and privacy enhanced data, by providing access to an auditable, on-premise Data Cleanroom environment. All final outputs provided to partners are aggregated in order to preserve privacy.',
 		'Zigas, *Healthy Food Within Reach*.',
 		'Elizabeth Egan, “Triad’s First Piggly Wiggly Set to Open in Greensboro This Summer after Years of Delays,” *Triad Business Journal*, January 9, 2025, [URL](https://www.bizjournals.com/triad/news/2025/01/09/piggly-wiggly-greensboro-triad-retail-grocery-nc.html); Jeremy Vernon, “Opening of Greensboro Piggly Wiggly — First in the Triad — Delayed, New Date TBA,” *WFMY News*, April 3, 2025, [URL](https://www.wfmynews2.com/article/money/business/greensboro-piggly-wiggly-opening-delayed/83-29682696-e014-4a54-ace4-e28a453c0b20).',
-		'Joe Killian, “In One of NC’s Many Food Deserts, a Co-Op Grocery Store Closes • NC Newsline,” *NC Newsline*, January 14, 2019, [URL](https://ncnewsline.com/briefs/in-one-of-ncs-many-food-deserts-a-co-op-grocery-store-closes/).',
+		'Joe Killian, “In One of NC’s Many Food Deserts, a Co-Op Grocery Store Closes,” *NC Newsline*, January 14, 2019, [URL](https://ncnewsline.com/briefs/in-one-of-ncs-many-food-deserts-a-co-op-grocery-store-closes/).',
 		'Melissa N. Laska and Jennifer E. Pelletier, *Minimum Stocking Levels and Marketing Strategies of Healthful Foods for Small Retail Food Stores* (Healthy Eating Research, 2016), [URL](https://healthyeatingresearch.org/wp-content/uploads/2016/02/her_minimum_stocking_final.pdf).',
 		'Elizabeth F. Racine et al., “Availability of Foods and Beverages in Supplemental Nutrition Assistance Program−Authorized Dollar Stores in a Region of North Carolina,” *Journal of the Academy of Nutrition and Dietetics* 116, no. 10 (2016): 1613–20, [URL](https://doi.org/10.1016/j.jand.2016.03.014).',
 		'Society for Public Health Education (SOPHE), *Increasing Access to Healthy Foods Community Toolkit* (2015), [URL](https://www.sophe.org/wp-content/uploads/2017/02/Access-to-Healthy-Foods-Toolkit_April.pdf).',
@@ -52,17 +52,13 @@
 
 </script>
 
-
-
-
-
 <Password/>
 
 <Title
 	title={"Increasing the availability of healthy food"}
 	subtitle={"A case study of Greensboro, North Carolina"}
 	image={titleImage}
-	imageCaption={"___"}
+	imageCaption={"Mural fragment in downtown Greensboro."}
 	imageSource={"___"}
 />
 
@@ -72,7 +68,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -93,7 +89,7 @@
 			In Greensboro, North Carolina, the <a href="https://conehealthfoundation.com" target="_blank">Cone Health Foundation</a>, the philanthropic arm of a large network of healthcare providers, is driven by a desire to address the root causes of health inequities in the city. Recognizing that health is closely tied to economics, transportation, and housing, the foundation has partnered with the City of Greensboro’s Department of Housing and Neighborhood Development and <a href="https://www.eastgreensboronow.com/" target="_blank">East Greensboro NOW</a>, a community economic development agency.
 		</p>
 		<p>
-			This coalition partnered with the <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT data storytelling team</a> with the goal of expanding the availability of healthy and affordable food options throughout the city, particularly in East Greensboro, a historically underserved and economically disadvantaged area.* Greensboro has been a hub for textiles, furniture, and more recently automobile manufacturing, but the city’s growth has been uneven. East Greensboro is still experiencing the effects of 1960s urban renewal policies, and in recent decades development in East Greensboro has lagged behind the rest of the city.
+			This coalition partnered with the <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT data storytelling team</a> with the goal of expanding the availability of healthy and affordable food options throughout the city, particularly in East Greensboro, a historically underserved and economically disadvantaged area. Greensboro has been a hub for textiles, furniture, and more recently automobile manufacturing, but the city’s growth has been uneven. East Greensboro is still experiencing the effects of 1960s urban renewal policies, and in recent decades development in East Greensboro has lagged behind the rest of the city.
 		</p>
 
 	</div>

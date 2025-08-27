@@ -42,7 +42,7 @@
 		'Halifax Partnership, “Halifax Economy – Growth, Innovation, and Confidence,” Halifax Partnership, accessed August 8, 2025, [URL](https://halifaxpartnership.com/research-strategy/halifax-index/economy/).',
 		'Arpit Gupta et al., “Work From Home and the Office Real Estate Apocalypse,” Working Paper 30526, Working Paper Series (National Bureau of Economic Research, September 2022), [URL](https://doi.org/10.3386/w30526).',
 		'Aggregated mobility data are provided by Cuebiq, a location intelligence platform. Data are collected from anonymized users who have opted in to provide access to their location data anonymously, through a CCPA- and GDPR-compliant framework. Through its Social Impact program, Cuebiq provides mobility insights for academic research and humanitarian initiatives. The Cuebiq responsible data sharing framework enables research partners to query anonymized and privacy enhanced data, by providing access to an auditable, on-premise Data Cleanroom environment. All final outputs provided to partners are aggregated in order to preserve privacy.',
-		'Haley Ryan, “Halifax Remains ‘Canadian Comeback City’ for Downtown Activity,” *CBC News*, February 26, 2025, [URL](https://www.cbc.ca/news/canada/nova-scotia/halifax-best-downtown-recovery-activity-canada-pandemic-covid-19-1.7467172; Karen Chapple et al., “Downtown Recovery Rankings,” October 16, 2023, https://downtownrecovery.com/).',
+		'Haley Ryan, “Halifax Remains ‘Canadian Comeback City’ for Downtown Activity,” *CBC News*, February 26, 2025, [URL](https://www.cbc.ca/news/canada/nova-scotia/halifax-best-downtown-recovery-activity-canada-pandemic-covid-19-1.7467172); Karen Chapple et al., “Downtown Recovery Rankings,” October 16, 2023, [URL](https://downtownrecovery.com/).',
 		'Tristan Cleveland, “How Halifax Built the Most Vibrant Waterfront in Canada: Decades of Small Changes,” *Happy Cities*, October 26, 2023, [URL](https://happycities.com/blog/halifax-waterfront-power-of-placemaking).',
 		'Downtown Halifax Business Commission, “Downtown Halifax’s Art Tour (Self-Guided),” [URL](https://www.google.com/maps/d/viewer?mid=1XuL-8aX9Wto1Nix3AWYqj9wwVditZjg).',
 		'Build Nova Scotia, *The Story of Halifax Waterfront*, May 30, 2023, [URL](https://buildns.ca/archive-pages/success-stories/the-story-of-halifax-waterfront/).'
@@ -106,7 +106,7 @@
 			</p>
 
 			<p>
-				BIDS play an important role in local planning efforts, but their scope is limited, and they must form strong partnerships to be successful. For the bold aims of Vision 2030 to be achieved, the DHBC knew they needed to find other local champions to support and implement its components, particularly the city’s elected representatives. To do this, they needed to demonstrate how downtown is the key to unlocking regional prosperity and quality of life improvements.
+				BIDs play an important role in local planning efforts, but their scope is limited, and they must form strong partnerships to be successful. For the bold aims of Vision 2030 to be achieved, the DHBC knew they needed to find other local champions to support and implement its components, particularly the city’s elected representatives. To do this, they needed to demonstrate how downtown is the key to unlocking regional prosperity and quality of life improvements.
 			</p>
 
 		</div>
@@ -276,6 +276,9 @@
 	<div class="text">
 		<p>
 			Investing in the Vision 2030 plan today has the potential to increase vibrancy and revenue-generating activity in Halifax’s urban core, which will ultimately lead to better-funded services and infrastructure for the region as whole. A more connected and accessible downtown rewards the whole region, providing opportunities for more people to benefit from the renewed energy and beautiful spaces in the city’s historic centre. By highlighting downtown’s existing assets, data stories like this one can advance the momentum for positive change and create a virtuous cycle of confidence, optimism, and growth.
+		</p>
+		<p>
+			The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions in editing and informing this case study, and Jennifer Barrett and Abigail Moriah for their research and advisory support.
 		</p>
 	</div>
 
