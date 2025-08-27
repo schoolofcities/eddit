@@ -58,8 +58,8 @@
 	title={"Increasing the availability of healthy food"}
 	subtitle={"A case study of Greensboro, North Carolina"}
 	image={titleImage}
-	imageCaption={"Mural fragment in downtown Greensboro."}
-	imageSource={"___"}
+	imageCaption={"Mural fragment in downtown Greensboro, North Carolina."}
+	imageSource={"Photo by Michelle Zhang, September 2023."}
 />
 
 <main>
@@ -67,8 +67,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a>"}
+			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -248,21 +248,27 @@
 			Ultimately, building an ecosystem of healthy food options requires long-term investments in housing, infrastructure, and transportation so that residents are able to access places like grocery stores. In the meantime, cities can get creative in expanding food access to places that need it through non-traditional means. Partnerships like the one between the Cone Health Foundation, the City of Greensboro, and East Greensboro NOW can help ensure that food systems are equitable and take a holistic approach to accessibility. By using maps to show the opportunities in East Greensboro, this data story allows them to make an even stronger case for food equity to municipal officials, and ensure the community has a sustainable food system for years to come. 
 		</p>
 
-	</div>
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
-	<Footnotes footnotes={footnotes} />
+		<Footnotes footnotes={footnotes} />
 
-	<div class="details">
+		<div class="details">
 
-		<h2>Additional resources</h2>
+			<h2>Additional resources</h2>
 
-		<p>
-			<a href="https://blackfarmersindex.com/about-bfi" target="_blank">Black Farmers Index</a>
-			<br><br>
-			<a href="https://conehealthfoundation.com/" target="_blank">Cone Health Foundation</a>
-			<br><br>
-			<a href="https://www.eastgreensboronow.com/" target="_blank">East Greensboro NOW</a>
-		</p>
+			<p>
+				<a href="https://blackfarmersindex.com/about-bfi" target="_blank">Black Farmers Index</a>
+				<br><br>
+				<a href="https://conehealthfoundation.com/" target="_blank">Cone Health Foundation</a>
+				<br><br>
+				<a href="https://www.eastgreensboronow.com/" target="_blank">East Greensboro NOW</a>
+			</p>
+
+		</div>
 
 	</div>
 	

@@ -195,23 +195,31 @@
 			The C4 initiative represents a promising model for how cross-community governance can address the intertwined challenges of climate change, equity, and environmental justice. By representing 14 interconnected municipalities through data, this story demonstrates how collaborative policymaking can work to mitigate climate change and its effects on residents. This case study uses maps of environmental justice communities to show how these policies can be approached and implemented in an equitable way. Climate change will continue to affect all communities, but C4’s approach offers a vital example of how collective action rooted in justice can create a healthier, more sustainable future for all.
 		</p>
 
-	<Footnotes footnotes={footnotes} />
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
-	<div class="details">
+		<Footnotes footnotes={footnotes} />
 
-		<h2>Additional resources</h2>
+		<div class="details">
 
-		<p>
-			<a href="https://sga-staging.cloudaccess.host/wp-content/uploads/2025/06/C4-Guidebook-1.pdf" target="_blank">C4 Guidebook</a>
-			<br><br>
-			<a href="https://www.illinoissfa.com/environmental-justice-communities-map/" target="_blank">Environmental Justice Communities Map</a>
-			<br><br>
-			<a href="https://experience.arcgis.com/experience/aa364c77db684dfa92afa5094b69f6ff" target="_blank">Illinois EPA EJ Start Map</a>
-			<br><br>
-			<a href="https://epa.illinois.gov/topics/environmental-justice/ej-policy.html" target="_blank">Illinois EPA - Environmental Justice (EJ) Policy</a>
-			<br><br>
-			<a href="https://pirg.org/edfund/resources/interactive-map-of-lawn-mower-and-leaf-blower-policies/" target="_blank">Interactive map of lawn mower and leaf blower policies in the United States</a>
-		</p>
+			<h2>Additional resources</h2>
+
+			<p>
+				<a href="https://sga-staging.cloudaccess.host/wp-content/uploads/2025/06/C4-Guidebook-1.pdf" target="_blank">C4 Guidebook</a>
+				<br><br>
+				<a href="https://www.illinoissfa.com/environmental-justice-communities-map/" target="_blank">Environmental Justice Communities Map</a>
+				<br><br>
+				<a href="https://experience.arcgis.com/experience/aa364c77db684dfa92afa5094b69f6ff" target="_blank">Illinois EPA EJ Start Map</a>
+				<br><br>
+				<a href="https://epa.illinois.gov/topics/environmental-justice/ej-policy.html" target="_blank">Illinois EPA - Environmental Justice (EJ) Policy</a>
+				<br><br>
+				<a href="https://pirg.org/edfund/resources/interactive-map-of-lawn-mower-and-leaf-blower-policies/" target="_blank">Interactive map of lawn mower and leaf blower policies in the United States</a>
+			</p>
+
+		</div>
 
 	</div>
 

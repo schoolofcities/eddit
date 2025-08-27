@@ -62,8 +62,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			writing={"<a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a> & <a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a>"}
+			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -270,32 +270,38 @@
 			With historical images that connect the revitalization of Washington Street with its profound legacy, and maps and data charts that show the state of business equity and areas of opportunity, this case study highlights the potential of historic main streets. Programs like Shop on Washington Street are continuing a trailblazing legacy by working to bring more Black- and women-owned businesses back into this community, promoting entrepreneurship and job creation. Initiatives like these highlight the broader economic value of supporting historically underrepresented communities in business, which not only promotes social equity but also fuels local and regional growth.
 		</p>
 
-	</div>
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
-	<Footnotes footnotes={footnotes} />
+		<Footnotes footnotes={footnotes} />
 
-	<div class="details">
+		<div class="details">
 
-		<h2>Additional resources</h2>
+			<h2>Additional resources</h2>
 
-		<p>
-			<a href="https://www.itstime2dup.com/about" target="_blank">About D-UP Inc.</a>
-			<br><br>
-			<a href="https://changeoftenllc.com/home" target="_blank">Change Often</a>
-			<br><br>
-			<a href="https://www.congdonyards.com/" target="_blank">Congdon Yards</a>
-			<br><br>
-			<a href="https://www.bhpchamber.org/" target="_blank">High Point Chamber of Commerce</a>
-			<br><br>
-			<a href="https://www.highpointmarket.org/2025/Fall/RegistrationOpen" target="_blank">High Point Market</a>
-			<br><br>
-			<a href="https://www.highpointnc.gov/3078/Museum" target="_blank">Muesum | High Point, NC</a>
-			<br><br>
-			<a href="https://www.bhpchamber.org/professionals/development/thrivehp/" target="_blank">Thrive High Point 2.0 | Business High Point</a>
-			<br><br>
-			<a href="https://www.brookings.edu/articles/who-is-driving-black-business-growth-insights-from-the-latest-data-on-black-owned-businesses/" target="_blank">Who is driving Black business growth? Insights from the latest data on Black-owned businesses</a>
+			<p>
+				<a href="https://www.itstime2dup.com/about" target="_blank">About D-UP Inc.</a>
+				<br><br>
+				<a href="https://changeoftenllc.com/home" target="_blank">Change Often</a>
+				<br><br>
+				<a href="https://www.congdonyards.com/" target="_blank">Congdon Yards</a>
+				<br><br>
+				<a href="https://www.bhpchamber.org/" target="_blank">High Point Chamber of Commerce</a>
+				<br><br>
+				<a href="https://www.highpointmarket.org/2025/Fall/RegistrationOpen" target="_blank">High Point Market</a>
+				<br><br>
+				<a href="https://www.highpointnc.gov/3078/Museum" target="_blank">Muesum | High Point, NC</a>
+				<br><br>
+				<a href="https://www.bhpchamber.org/professionals/development/thrivehp/" target="_blank">Thrive High Point 2.0 | Business High Point</a>
+				<br><br>
+				<a href="https://www.brookings.edu/articles/who-is-driving-black-business-growth-insights-from-the-latest-data-on-black-owned-businesses/" target="_blank">Who is driving Black business growth? Insights from the latest data on Black-owned businesses</a>
 
-		</p>
+			</p>
+
+		</div>
 
 	</div>
 

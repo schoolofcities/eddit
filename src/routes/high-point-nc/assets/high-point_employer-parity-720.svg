@@ -1,7 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300.4">
-  <defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 720 320.00001"
+   version="1.1"
+   sodipodi:docname="high-point_employer-parity-720.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   width="720"
+   height="320"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.2784722"
+     inkscape:cx="329.69039"
+     inkscape:cy="274.15535"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1">
+    <inkscape:grid
+       id="grid21"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="5.0000001"
+       spacingy="5.0000001"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
       .cls-1 {
         fill: #fff;
       }
@@ -57,37 +105,249 @@
       }
     </style>
   </defs>
-  <text class="cls-3" transform="translate(49.32 220)"><tspan x="0" y="0">White</tspan></text>
-  <text class="cls-3" transform="translate(39.98 100)"><tspan x="0" y="0">Female</tspan></text>
-  <text class="cls-3" transform="translate(52.67 160.18)"><tspan x="0" y="0">Black</tspan></text>
-  <rect class="cls-11" x="100.14" y="200" width="380.44" height="15"/>
-  <rect class="cls-9" x="100.14" y="214.95" width="286.26" height="15"/>
-  <rect class="cls-9" x="100.14" y="94.77" width="409.19" height="15"/>
-  <rect class="cls-9" x="100.14" y="155" width="309.57" height="15"/>
-  <rect class="cls-11" x="100.14" y="79.77" width="327.76" height="15"/>
-  <rect class="cls-11" x="100.14" y="140" width="213.02" height="15"/>
-  <text class="cls-4" transform="translate(20 27.14)"><tspan x="0" y="0">Reaching parity in business ownership in High Point</tspan></text>
-  <g>
-    <text class="cls-5" transform="translate(20 290)"><tspan x="0" y="0">Data Sources: American Community Survey (2023), Annual Business Survey (2022) </tspan></text>
-    <line class="cls-8" x1="20.41" y1="277.54" x2="700" y2="277.54"/>
+  <text
+     class="cls-3"
+     id="text1"
+     x="49.32"
+     y="235"><tspan
+       x="49.32"
+       y="235"
+       id="tspan1">White</tspan></text>
+  <text
+     class="cls-3"
+     id="text2"
+     x="39.98"
+     y="100"><tspan
+       x="39.98"
+       y="100"
+       id="tspan2">Female</tspan></text>
+  <text
+     class="cls-3"
+     id="text3"
+     x="52.669998"
+     y="170.1311"><tspan
+       x="52.669998"
+       y="170.1311"
+       id="tspan3">Black</tspan></text>
+  <rect
+     class="cls-11"
+     x="100"
+     y="215"
+     width="380.44"
+     height="19.999994"
+     id="rect3"
+     style="stroke-width:1.1547" />
+  <rect
+     class="cls-9"
+     x="100"
+     y="235"
+     width="286.26001"
+     height="19.7257"
+     id="rect4"
+     style="stroke-width:1.14675" />
+  <rect
+     class="cls-9"
+     x="100"
+     y="95"
+     width="409.19"
+     height="19.999998"
+     id="rect5"
+     style="stroke-width:1.1547" />
+  <rect
+     class="cls-9"
+     x="100"
+     y="165.04889"
+     width="309.57001"
+     height="19.902218"
+     id="rect6"
+     style="stroke-width:1.15187" />
+  <rect
+     class="cls-11"
+     x="100"
+     y="75"
+     width="327.76001"
+     height="20.000004"
+     id="rect7"
+     style="stroke-width:1.1547" />
+  <rect
+     class="cls-11"
+     x="100"
+     y="144.95111"
+     width="213.02"
+     height="20.09778"
+     id="rect8"
+     style="stroke-width:1.15752" />
+  <text
+     class="cls-4"
+     id="text8"
+     x="20"
+     y="27.139999"><tspan
+       x="20"
+       y="27.139999"
+       id="tspan8">Reaching parity in business ownership in High Point</tspan></text>
+  <g
+     id="g9"
+     transform="translate(0,17.959982)">
+    <text
+       class="cls-5"
+       transform="translate(20,290)"
+       id="text9"><tspan
+         x="0"
+         y="0"
+         id="tspan9">Data Sources: American Community Survey (2023), Annual Business Survey (2022)</tspan></text>
+    <line
+       class="cls-8"
+       x1="20.41"
+       y1="277.54001"
+       x2="700"
+       y2="277.54001"
+       id="line9" />
   </g>
-  <text class="cls-6" transform="translate(20 50)"><tspan x="0" y="0">A demographic reaches parity when its share of the population equals its share of business ownership.</tspan></text>
-  <text class="cls-3" transform="translate(415.17 249.31)"><tspan x="0" y="0">+12%</tspan></text>
-  <text class="cls-10" transform="translate(570 149.97)"><tspan x="0" y="0">Ownership share</tspan></text>
-  <text class="cls-10" transform="translate(570 170.04)"><tspan x="0" y="0">Population share</tspan></text>
-  <rect class="cls-11" x="550" y="139.96" width="10" height="10"/>
-  <polyline class="cls-9" points="550 169.75 560 169.75 560 159.75 550 159.75 550 169.75"/>
-  <line class="cls-7" x1="386.39" y1="233.85" x2="480.58" y2="233.85"/>
-  <text class="cls-3" transform="translate(344.86 188.69)"><tspan x="0" y="0">-12%</tspan></text>
-  <line class="cls-7" x1="313.15" y1="173.23" x2="409.7" y2="173.23"/>
-  <text class="cls-3" transform="translate(452.25 128.82)"><tspan x="0" y="0">-10%</tspan></text>
-  <line class="cls-7" x1="427.89" y1="113" x2="509.32" y2="113"/>
-  <g>
-    <text class="cls-2" transform="translate(358.86 226.95)"><tspan x="0" y="0">36%</tspan></text>
-    <text class="cls-1" transform="translate(400.36 91.77)"><tspan x="0" y="0">42%</tspan></text>
-    <text class="cls-2" transform="translate(481.79 107)"><tspan x="0" y="0">52%</tspan></text>
-    <text class="cls-1" transform="translate(285.62 152)"><tspan x="0" y="0">27%</tspan></text>
-    <text class="cls-2" transform="translate(382.17 167)"><tspan x="0" y="0">39%</tspan></text>
-    <text class="cls-1" transform="translate(453.04 212)"><tspan x="0" y="0">48%</tspan></text>
+  <text
+     class="cls-6"
+     id="text10"
+     x="20"
+     y="50"
+     style="font-size:14px"><tspan
+       x="20"
+       y="50"
+       id="tspan10"
+       style="font-size:14px">A demographic reaches parity when its share of the population equals its share of business ownership.</tspan></text>
+  <text
+     class="cls-3"
+     id="text11"
+     x="415.17001"
+     y="274.95999"><tspan
+       x="415.17001"
+       y="274.95999"
+       id="tspan11">+12%</tspan></text>
+  <text
+     class="cls-10"
+     id="text12"
+     x="564.14551"
+     y="144.55276"><tspan
+       x="564.14551"
+       y="144.55276"
+       id="tspan12">Ownership share</tspan></text>
+  <text
+     class="cls-10"
+     id="text13"
+     x="563.36298"
+     y="170"><tspan
+       x="563.36298"
+       y="170"
+       id="tspan13">Population share</tspan></text>
+  <rect
+     class="cls-11"
+     x="545.16046"
+     y="130.14404"
+     width="14.839514"
+     height="19.815964"
+     id="rect13"
+     style="stroke-width:1.71482" />
+  <polyline
+     class="cls-9"
+     points="550 169.75 560 169.75 560 159.75 550 159.75 550 169.75"
+     id="polyline13"
+     transform="matrix(1.4839539,0,0,2.0370387,-271.01416,-170.41694)" />
+  <line
+     class="cls-7"
+     x1="386.39001"
+     y1="259.5"
+     x2="480.57999"
+     y2="259.5"
+     id="line13" />
+  <text
+     class="cls-3"
+     id="text14"
+     x="344.85999"
+     y="205.08881"><tspan
+       x="344.85999"
+       y="205.08881"
+       id="tspan14">-12%</tspan></text>
+  <line
+     class="cls-7"
+     x1="313.14999"
+     y1="189.6288"
+     x2="409.70001"
+     y2="189.6288"
+     id="line14" />
+  <text
+     class="cls-3"
+     id="text15"
+     x="452.25"
+     y="135.15137"><tspan
+       x="452.25"
+       y="135.15137"
+       id="tspan15">-10%</tspan></text>
+  <line
+     class="cls-7"
+     x1="427.89001"
+     y1="119.33137"
+     x2="509.32001"
+     y2="119.33137"
+     id="line15" />
+  <g
+     id="g21">
+    <text
+       class="cls-2"
+       id="text16"
+       x="358.85999"
+       y="249.14899"><tspan
+         x="358.85999"
+         y="249.14899"
+         id="tspan16">36%</tspan></text>
+    <text
+       class="cls-1"
+       id="text17"
+       x="400.35999"
+       y="89.291992"><tspan
+         x="400.35999"
+         y="89.291992"
+         id="tspan17">42%</tspan></text>
+    <text
+       class="cls-2"
+       id="text18"
+       x="481.79001"
+       y="109.88281"><tspan
+         x="481.79001"
+         y="109.88281"
+         id="tspan18">52%</tspan></text>
+    <text
+       class="cls-1"
+       id="text19"
+       x="285.62"
+       y="158.68945"><tspan
+         x="285.62"
+         y="158.68945"
+         id="tspan19">27%</tspan></text>
+    <text
+       class="cls-2"
+       id="text20"
+       x="382.17001"
+       y="179.28613"><tspan
+         x="382.17001"
+         y="179.28613"
+         id="tspan20">39%</tspan></text>
+    <text
+       class="cls-1"
+       id="text21"
+       x="453.04001"
+       y="228.68945"><tspan
+         x="453.04001"
+         y="228.68945"
+         id="tspan21">48%</tspan></text>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100,95 H 509.19"
+       id="path21" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100,164.54889 H 509.19"
+       id="path21-5" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 100,235 H 509.19"
+       id="path21-6" />
   </g>
 </svg>

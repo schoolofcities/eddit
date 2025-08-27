@@ -67,8 +67,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Isabeaux Graham</a> & <a href='' target='_blank'>Jeff Allen</a>"}
+			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a> & <a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>"}
 			date={"August 2025"}
 		/>
 
@@ -277,22 +277,26 @@
 		<p>
 			Investing in the Vision 2030 plan today has the potential to increase vibrancy and revenue-generating activity in Halifax’s urban core, which will ultimately lead to better-funded services and infrastructure for the region as whole. A more connected and accessible downtown rewards the whole region, providing opportunities for more people to benefit from the renewed energy and beautiful spaces in the city’s historic centre. By highlighting downtown’s existing assets, data stories like this one can advance the momentum for positive change and create a virtuous cycle of confidence, optimism, and growth.
 		</p>
-		<p>
-			The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions in editing and informing this case study, and Jennifer Barrett and Abigail Moriah for their research and advisory support.
-		</p>
-	</div>
 
-	<Footnotes footnotes={footnotes} />
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions in editing and informing this case study, and Jennifer Barrett and Abigail Moriah for their research and advisory support.</i>
+			</p>
+		</div>
 
-	<div class="details">
+		<Footnotes footnotes={footnotes} />
 
-		<h2>Additional resources</h2>
+		<div class="details">
 
-		<p>
-			<a href="https://downtownhalifax.ca/" target="_blank">Downtown Halifax Business Commission</a>
-			<br><br>
-			<a href="https://downtownhalifax.ca/vision2030" target="_blank">Downtown Halifax Vision 2030 plan</a>
-		</p>
+			<h2>Additional resources</h2>
+
+			<p>
+				<a href="https://downtownhalifax.ca/" target="_blank">Downtown Halifax Business Commission</a>
+				<br><br>
+				<a href="https://downtownhalifax.ca/vision2030" target="_blank">Downtown Halifax Vision 2030 plan</a>
+			</p>
+
+		</div>
 
 	</div>
 

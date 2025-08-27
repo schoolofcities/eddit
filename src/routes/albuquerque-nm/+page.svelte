@@ -58,8 +58,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Remus Herteg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a>"}
+			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>, <a href='https://www.linkedin.com/in/remus-herteg-150402235/' target='_blank'>Remus Herteg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -202,18 +202,25 @@
 			Urban adaptive reuse initiatives are often described as having both environmental and social benefits, but planners and community members must take care to ensure that they do not induce speculation, exclusion, and displacement. With proactive policies that ensure affordability, protect existing communities, and foster inclusive civic life, recreational infrastructure can be a benefit, rather than deepening socioeconomic inequality. Albuquerque’s data story shows the potential for the Rail Trail — and the democratization of data that accompanies its development — to connect communities safely, expand economic opportunity, elevate the city’s culture and history, and increase transparency, while giving community members the tools to ensure these opportunities benefit all of the city’s residents.
 		</p>
 
-	</div>
+	
 
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
-	<Footnotes footnotes={footnotes} />
+		<Footnotes footnotes={footnotes} />
 
-	<div class="details">
+		<div class="details">
 
-		<h2>Additional resources</h2>
+			<h2>Additional resources</h2>
 
-		<p>
-			<a href="https://www.cabq.gov/mra/rail-trail" target="_blank">Albuquerque Rail Trail</a>
-		</p>
+			<p>
+				<a href="https://www.cabq.gov/mra/rail-trail" target="_blank">Albuquerque Rail Trail</a>
+			</p>
+
+		</div>
 
 	</div>
 

@@ -56,7 +56,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Isabeaux Graham</a> & <a href='' target='_blank'>Julia Greenberg</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Jeff Allen</a>"}
 			date={"August 2025"}
 		/>
 
@@ -193,27 +193,34 @@
 		<p>
 			The COVID-19 pandemic caused an exodus of workers from urban centres, and many cities re-evaluated the role their downtowns should play. The dramatic shift in the flow of people in downtowns gave rise to a moment of reflection, sparking demand for change across the country. This has created a unique opportunity to prioritize investments in affordable housing as a key strategy for urban revitalization. Integrating affordable housing construction and preservation into community development and neighbourhood planning processes can help make cities more inclusive, resilient, and equitable. Preserving affordable housing should also be accompanied by investments in wraparound services and amenities that support residents’ health, education, and economic stability. This case study has used data to showcase the value of investing in affordable housing and neighbourhood amenities, and possible sites to expand them in downtown Worcester. A holistic, data-informed approach that connects housing with supportive infrastructure offers a path forward for building stronger, more connected communities.
 		</p>
-	</div>
+	
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
-	<Footnotes footnotes={footnotes} />
+		<Footnotes footnotes={footnotes} />
 
-	<div class="details">
+		<div class="details">
 
-		<h2>Additional resources</h2>
+			<h2>Additional resources</h2>
 
-		<p>
-			<a href="https://experience.arcgis.com/experience/22c7182a162d45788dd52a2362f8ed65" target="_blank">CDC's PLACES</a>
-			<br><br>
-			<a href="https://downtownrecovery.com/" target="_blank">Downtown Recovery</a>
-			<br><br>
-			<a href="https://www.openstreetmap.org/#map=5/38.01/-95.84" target="_blank">OpenStreetMap (OSM)</a>
-			<br><br>
-			<a href="https://apps.urban.org/features/cost-of-affordable-housing/" target="_blank">The cost of affordable housing: Does it pencil out?</a>
-			<br><br>
-			<a href="https://tcbinc.org/" target="_blank">The Community Builders, Inc.</a>
-			<br><br>
-			<a href="https://www.worcesterma.gov/planning-regulatory/document-center/now-next-final-plan.pdf" target="_blank">Worcester citywide plan</a>
-		</p>
+			<p>
+				<a href="https://experience.arcgis.com/experience/22c7182a162d45788dd52a2362f8ed65" target="_blank">CDC's PLACES</a>
+				<br><br>
+				<a href="https://downtownrecovery.com/" target="_blank">Downtown Recovery</a>
+				<br><br>
+				<a href="https://www.openstreetmap.org/#map=5/38.01/-95.84" target="_blank">OpenStreetMap (OSM)</a>
+				<br><br>
+				<a href="https://apps.urban.org/features/cost-of-affordable-housing/" target="_blank">The cost of affordable housing: Does it pencil out?</a>
+				<br><br>
+				<a href="https://tcbinc.org/" target="_blank">The Community Builders, Inc.</a>
+				<br><br>
+				<a href="https://www.worcesterma.gov/planning-regulatory/document-center/now-next-final-plan.pdf" target="_blank">Worcester citywide plan</a>
+			</p>
+
+		</div>
 
 	</div>
 

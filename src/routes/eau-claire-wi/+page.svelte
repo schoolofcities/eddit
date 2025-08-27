@@ -68,7 +68,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'> Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Isabeaux Graham</a>, & <a href='' target='_blank'>Michelle Zhang</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Michelle Zhang</a>, & <a href='' target='_blank'>Jeff Allen</a>"}
 			date={"August 2025"}
 		/>
 
@@ -252,19 +252,27 @@
 			At a time of expansion and change in Eau Claire, creating a city of public transit champions is the first step in raising awareness and support for an even more robust and connected system, one that serves the whole population and drives economic growth and equity. With these data, the team can make the benefits of transit more visible, both for individuals and for the community as a whole. Their next step is to focus on targeted outreach strategies and public education to increase ridership and create a virtuous cycle that will generate an even greater presence for public transit for the agency’s next fifty years.
 		</p>
 
-	</div>
+	
 
-	<Footnotes footnotes={footnotes} />
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
-	<div class="details">
+		<Footnotes footnotes={footnotes} />
 
-		<h2>Additional resources</h2>
+		<div class="details">
 
-		<p>
-			<a href="https://volumeone.org/articles/2023/08/24/325006-all-aboard-trolley" target="_blank">History of the Eau Claire Trolley</a>
-			<br><br>
-			<a href="https://www.eauclairewi.gov/government/our-divisions/transit/transit-administration/transit-development-plan" target="_blank">Eau Claire Transit Development Plan (2020)</a>
-		</p>
+			<h2>Additional resources</h2>
+
+			<p>
+				<a href="https://volumeone.org/articles/2023/08/24/325006-all-aboard-trolley" target="_blank">History of the Eau Claire Trolley</a>
+				<br><br>
+				<a href="https://www.eauclairewi.gov/government/our-divisions/transit/transit-administration/transit-development-plan" target="_blank">Eau Claire Transit Development Plan (2020)</a>
+			</p>
+
+		</div>
 
 	</div>
 		

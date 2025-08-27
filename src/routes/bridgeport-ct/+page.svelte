@@ -62,8 +62,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'>Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a>"}
+			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -81,7 +81,7 @@
 	<div class="text">
 
 		<p>
-			In Bridgeport, Connecticut, community organizations are working with the municipal government to plant more trees and nurture them to ensure they reach maturity. Bridgeport, a port city on the rail line between New York City and Boston, was once a hub of Connecticut’s manufacturing industry. However, like many former industrial cities, its economy declined in the late twentieth century. The city’s East Side in particular suffered the effects of suburbanization and 1960s urban renewal policies, which demolished many Black and immigrant neighbourhoods to make way for highway projects and new development, some of which never materialized. One legacy of this era is significantly lower tree cover and less access to green spaces on the East Side, where the population is more diverse, and less wealthy, than the city as a whole.
+			In Bridgeport, Connecticut, community organizations are working with the municipal government to plant more trees and nurture them to ensure they reach maturity. Bridgeport, a port city on the rail line between New York City and Boston, was once a hub of Connecticut’s manufacturing industry. However, like many former industrial cities, its economy declined in the late 20th century. The city’s East Side in particular suffered the effects of suburbanization and 1960s urban renewal policies, which demolished many Black and immigrant neighbourhoods to make way for highway projects and new development, some of which never materialized. One legacy of this era is significantly lower tree cover and less access to green spaces on the East Side, where the population is more diverse, and less wealthy, than the city as a whole.
 		</p>
 
 	
@@ -109,7 +109,7 @@
 			</p>
 
 			<p>
-				A key part of the organization’s mission is improving the overall well-being of residents in communities that have historically been neglected, or denied resources, or otherwise ignored over the years. One of their priorities is mobilizing volunteers and partners in the East Side neighborhood to advocate for more green spaces. In addition to telling their story with the data, the organization has focused on their local roots and role in building connections to encourage greater community involvement in environmental stewardship.
+				A key part of the organization’s mission is improving the overall well-being of residents in communities that have historically been neglected, denied resources, or otherwise ignored over the years. One of their priorities is mobilizing volunteers and partners in the East Side neighbourhood to advocate for more green spaces. In addition to telling their story with the data, the organization has focused on their local roots and role in building connections to encourage greater community involvement in environmental stewardship.
 			</p>
 
 		</div>
@@ -140,7 +140,7 @@
 	<div class="text">
 
 		<p>
-			Variation in tree cover reflects the legacy of historic government disinvestment in communities with more racial minorities.<Footnote id={addFootnote(fns[2])} /> Neighbourhoods in Bridgeport that were historically redlined have less tree cover today than neighbouring areas. Redlining was the practice of withholding loans and other financial resources from neighbourhoods based on their racial or ethnic characteristics, and was common in American cities in the 1930s through the 1960s.<Footnote id={addFootnote(fns[3])} />.
+			Variation in tree cover reflects the legacy of historic government disinvestment in communities with more racial minorities.<Footnote id={addFootnote(fns[2])} /> Neighbourhoods in Bridgeport that were historically redlined have less tree cover today than neighbouring areas. Redlining was the practice of withholding loans and other financial resources from neighbourhoods based on their racial or ethnic characteristics, and was common in American cities in the 1930s through the 1960s.<Footnote id={addFootnote(fns[3])} />
 		</p>
 
 	</div>
@@ -198,7 +198,7 @@
 	<div class="text">
 
 		<p>
-			Another benefit of trees and other green spaces is that they absorb water, reducing the risk of flooding, erosion, and the degradation of urban waterways. They also help to <a href="https://www.vibrantcitieslab.com/trees-to-offset-stormwater/" target="_blank">break up soil</a>, allowing it to retain more water. Trees combat nutrient runoff in stormwater by <a href="https://www.vibrantcitieslab.com/research/water-quality/" target="_blank">absorbing phosphorous and nitrogen</a> from lawn fertilizers and pet waste, preventing them from entering waterways and leaching into groundwater. This reduction in stormwater nutrient runoff has been linked with decreased municipal water treatment costs.
+			Another benefit of trees and other green spaces is that they absorb water, reducing the risk of flooding, erosion, and the degradation of urban waterways. They also help to <a href="https://www.vibrantcitieslab.com/trees-to-offset-stormwater/" target="_blank">break up soil</a>, allowing it to retain more water. Trees combat nutrient runoff in stormwater by <a href="https://pubmed.ncbi.nlm.nih.gov/27755753/" target="_blank">absorbing phosphorous and nitrogen</a> from lawn fertilizers and pet waste, preventing them from entering waterways and leaching into groundwater. This reduction in stormwater nutrient runoff has been linked with decreased municipal water treatment costs.
 		</p>
 
 	</div>
@@ -208,8 +208,6 @@
 		svg720={"./bridgeport-ct/web-svg/tree-canopy-benefits-720.svg"}
 	/>
 
-
-	
 	<div class="text">
 
 		<h2>
@@ -230,7 +228,7 @@
 	<div class="text">
 
 		<p>
-			Urban green spaces with tree cover also improve physical health outcomes by providing safe, shaded, attractive places to walk, run, and play, offering both health and lifestyle benefits. Physical activity is linked with extended life expectancy and more outdoor playing time for children.<Footnote id={addFootnote(fns[9])}/> In addition to physical health outcomes, trees also have a positive impact on mental health. One study found that people who lived within 100 metres (325 feet) of street trees had lower levels of stress and anxiety, and less need for antidepressants, with stronger effects in lower-income communities.<Footnote id={addFootnote(fns[10])}/> Trees and green spaces have also been linked to stronger community trust and collective efficacy, as attractive outdoor areas encourage more neighbourhood interaction and positive social engagement.<Footnote id={addFootnote(fns[11])}/> Organizations looking to show what effects trees can have in their communities can use the Centers for Disease Control and Prevenstion (CDC) <a href="https://www.cdc.gov/places/index.html" target="_blank"> Places dataset</a>, which tracks many health metrics at the census block group level and which can be mapped and analyzed relative to Tree Equity Score data.
+			Urban green spaces with tree cover also improve physical health outcomes by providing safe, shaded, attractive places to walk, run, and play, offering both health and lifestyle benefits. Physical activity is linked with extended life expectancy and more outdoor playing time for children.<Footnote id={addFootnote(fns[9])}/> In addition to physical health outcomes, trees also have a positive impact on mental health. One study found that people who lived within 100 metres (325 feet) of street trees had lower levels of stress and anxiety, and less need for antidepressants, with stronger effects in lower-income communities.<Footnote id={addFootnote(fns[10])}/> Trees and green spaces have also been linked to stronger community trust and collective efficacy, as attractive outdoor areas encourage more neighbourhood interaction and positive social engagement.<Footnote id={addFootnote(fns[11])}/> Organizations looking to show what effects trees can have in their communities can use the Centers for Disease Control and Prevention (CDC) <a href="https://www.cdc.gov/places/index.html" target="_blank"> Places dataset</a>, which tracks many health metrics at the census block group level and which can be mapped and analyzed relative to Tree Equity Score data.
 		</p>
 
 	</div>
@@ -294,31 +292,40 @@
 		svg720={"./bridgeport-ct/web-svg/bridgeport-schematic_opportunities-720.svg"}
 	/>
 
+	<div class="text">
 
-	<Footnotes footnotes={footnotes} />
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
-	<div class="details">
+		<Footnotes footnotes={footnotes} />
 
-		<h2>Additional resources</h2>
+		<div class="details">
 
-		<p>
-			<a href="https://www.cityplants.org/wp-content/uploads/2021/05/LA-Urban-Forest_Streets-Guidebook_FINAL_REVISED.pdf" target="_blank">CAPA Strategies Los Angeles Urban Forest Equity Streets Guidebook</a>
-			<br><br>
-			<a href="https://www.cdc.gov/places/index.html" target="_blank">CDC Places dataset</a>
-			<br><br>
-			<a href="https://www.epa.gov/outdoor-air-quality-data" target="_blank">EPA Air Quality data</a>
-			<br><br>
-			<a href="https://www.groundworkbridgeport.org/" target="_blank">Groundwork Bridgeport</a>
-			<br><br>
-			<a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Mapping Inequality: Redlining in New Deal America</a>
-			<br><br>
-			<a href="https://www.treeequityscore.org/" target="_blank">Tree Equity Score</a>
-			<br><br>
-			<a href="https://holdenfg.org/resource/series/tree-resources/" target="_blank">Tree Planting Resources</a>
-			<br><br>
-			<a href="https://vibrantcitieslab.com/" target="_blank">Vibrant Cities Lab Tree Research and Case Studies</a>
+			<h2>Additional resources</h2>
 
-		</p>
+			<p>
+				<a href="https://www.cityplants.org/wp-content/uploads/2021/05/LA-Urban-Forest_Streets-Guidebook_FINAL_REVISED.pdf" target="_blank">CAPA Strategies Los Angeles Urban Forest Equity Streets Guidebook</a>
+				<br><br>
+				<a href="https://www.cdc.gov/places/index.html" target="_blank">CDC Places dataset</a>
+				<br><br>
+				<a href="https://www.epa.gov/outdoor-air-quality-data" target="_blank">EPA Air Quality data</a>
+				<br><br>
+				<a href="https://www.groundworkbridgeport.org/" target="_blank">Groundwork Bridgeport</a>
+				<br><br>
+				<a href="https://dsl.richmond.edu/panorama/redlining/" target="_blank">Mapping Inequality: Redlining in New Deal America</a>
+				<br><br>
+				<a href="https://www.treeequityscore.org/" target="_blank">Tree Equity Score</a>
+				<br><br>
+				<a href="https://holdenfg.org/resource/series/tree-resources/" target="_blank">Tree Planting Resources</a>
+				<br><br>
+				<a href="https://vibrantcitieslab.com/" target="_blank">Vibrant Cities Lab Tree Research and Case Studies</a>
+
+			</p>
+
+		</div>
 
 	</div>
 		

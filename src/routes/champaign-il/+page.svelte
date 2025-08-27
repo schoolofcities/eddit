@@ -57,7 +57,7 @@
 
 		<AuthorDate
 			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Jeff Allen</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Jeff Allen</a>"}
 			date={"August 2025"}
 		/>
 
@@ -126,7 +126,7 @@
 		imageURL={streetlightImage}
 		caption={"Streetlight improvements in Garden Hills."}
 		source={"Photo credit: Julia Greenberg."}
-		maxWidth={"365px"}
+		maxWidth={"450px"}
 	/>
 
 	<div class="text">
@@ -189,26 +189,31 @@
 			These clear and accessible charts and maps are tools the city can use to build public trust, validate its prevention-focused approach, and galvanize continued support for long-term investment in community-driven solutions. The City of Champaign’s experience illustrates how targeted investments can serve as a powerful tool for gun violence prevention and neighbourhood transformation, particularly in historically disinvested communities. By moving beyond traditional enforcement models and focusing instead on the physical and social environments where violence takes root, the city has embraced a holistic approach that centres equity and long-term impact. The combination of improved lighting, new green spaces, and community engagement has fostered a renewed sense of safety and connection in Garden Hills. As cities across the U.S. seek to address the complex drivers of gun violence, they can learn from Champaign’s approach to improving public safety through enhancing public infrastructure.
 		</p>
 
-	</div>
+		<div class="details">
+			<p>
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+			</p>
+		</div>
 
+		<Footnotes footnotes={footnotes} />
 
-	<Footnotes footnotes={footnotes} />
+		<div class="details">
 
-	<div class="details">
+			<h2>Additional resources</h2>
 
-		<h2>Additional resources</h2>
+			<p>
+				<a href="https://www.brookings.edu/articles/a-new-community-safety-blueprint-how-the-federal-government-can-address-violence-and-harm-through-a-public-health-approach/#:~:text=Another%20promising%20model%2C%20Advance%20Peace%2C%20contributed%20to,drop%20in%20gun%20homicides%20in%20Stockton%2C%20Calif" target="_blank">A new community safety blueprint</a>
+				<br><br>
+				<a href="https://www.congress.gov/bill/117th-congress/house-bill/1319" target="_blank">American Rescue Plan Act (ARPA)</a>
+				<br><br>
+				<a href="https://champaignil.gov/equity-and-engagement-department/community-safety-and-justice-division/blueprint/" target="_blank">Community Gun Violence Reduction Blueprint, City of Champaign</a>
+				<br><br>
+				<a href="https://www.urban.org/research/publication/engaging-communities-reducing-gun-violence-road-map-safer-communities" target="_blank">Engaging Communities in Reducing Gun Violence: A Road Map for Safer Communities</a>
+				<br><br>
+				<a href="https://engagechampaign.org/garden-hills-strategic-neighborhood-action-plan" target="_blank">Garden Hills Strategic Neighborhood Action Plan</a>
+			</p>
 
-		<p>
-			<a href="https://www.brookings.edu/articles/a-new-community-safety-blueprint-how-the-federal-government-can-address-violence-and-harm-through-a-public-health-approach/#:~:text=Another%20promising%20model%2C%20Advance%20Peace%2C%20contributed%20to,drop%20in%20gun%20homicides%20in%20Stockton%2C%20Calif" target="_blank">A new community safety blueprint</a>
-			<br><br>
-			<a href="https://www.congress.gov/bill/117th-congress/house-bill/1319" target="_blank">American Rescue Plan Act (ARPA)</a>
-			<br><br>
-			<a href="https://champaignil.gov/equity-and-engagement-department/community-safety-and-justice-division/blueprint/" target="_blank">Community Gun Violence Reduction Blueprint, City of Champaign</a>
-			<br><br>
-			<a href="https://www.urban.org/research/publication/engaging-communities-reducing-gun-violence-road-map-safer-communities" target="_blank">Engaging Communities in Reducing Gun Violence: A Road Map for Safer Communities</a>
-			<br><br>
-			<a href="https://engagechampaign.org/garden-hills-strategic-neighborhood-action-plan" target="_blank">Garden Hills Strategic Neighborhood Action Plan</a>
-		</p>
+		</div>
 
 	</div>
 

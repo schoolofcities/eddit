@@ -13,11 +13,7 @@
 
         <div id={`footnote-${footnote.id}`} class="footnote-item">
 
-            <sup>{footnote.id}</sup>
-
-            <p style="display:inline">{@html footnote.text}
-
-                <a href={`#footnote-ref-${footnote.id}`} class="backlink" on:click|preventDefault={() => {
+            <sup><a href={`#footnote-ref-${footnote.id}`} class="backlink" on:click|preventDefault={() => {
                     const element = document.getElementById(`footnote-ref-${footnote.id}`);
                     const yOffset = -100;
                     if (element) {
@@ -25,10 +21,23 @@
                         window.scrollTo({ top: y, behavior: 'auto' });
                     }
                 }}>
-                    ↩
-                </a>
+                    <b>[{footnote.id}]</b>
+                </a> </sup> 
+
+            <p style="display:inline">{@html footnote.text}
 
             </p>
+
+            <a href={`#footnote-ref-${footnote.id}`} class="backlink" on:click|preventDefault={() => {
+                    const element = document.getElementById(`footnote-ref-${footnote.id}`);
+                    const yOffset = -100;
+                    if (element) {
+                        const y = element.getBoundingClientRect().top + window.pageYOffset + yOffset;
+                        window.scrollTo({ top: y, behavior: 'auto' });
+                    }
+                }}>
+                    ⮝
+                </a>
 
         </div>
 
@@ -61,7 +70,7 @@
     }
     
     .footnote-item {
-        padding-left: 21px;
+        padding-left: 32px;
         margin-bottom: 10px;
         position: relative;
     }
@@ -87,7 +96,7 @@
         font-family: SourceSerif, serif;
         font-weight: normal;
         text-decoration: none;
-        color: var(--brandPink);
+        color: var(--brandMedGreen);
     }
 
     @media screen and (max-width: 600px) {
