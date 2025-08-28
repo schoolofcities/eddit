@@ -89,7 +89,7 @@
 		<AuthorDate
 			writing={"<a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a> & <a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a>"}
 			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a> & <a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>"}
-			date={"August 2025"}
+			date={"September 2025"}
 		/>
 
 		<p>

@@ -87,7 +87,7 @@
 		<AuthorDate
 			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a>"}
 			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>, <a href='https://www.linkedin.com/in/remus-herteg-150402235/' target='_blank'>Remus Herteg</a>, & <a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>"}
-			date={"August 2025"}
+			date={"September 2025"}
 		/>
 
 		<p>
@@ -235,20 +235,9 @@
 		
 		<!-- <div class="details">
 			<p>
-				
+				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
 			</p>
 		</div> -->
-
-		<h2>Hear from the City of Albuquerque team</h2>
-
-		<VideoSingle
-			videoURL="https://www.youtube.com/embed/qP0t7ghleKk?si=gZX0PY2OWlQqLVN8"
-			caption=""
-			source=""
-			altText="EDDIT 2023 Spotlight: City of Albuquerque Rail Trail"
-			maxWidth="{680}px"
-		/>
-
 
 		<Footnotes footnotes={footnotes} />
 
@@ -261,6 +250,16 @@
 			</p>
 
 		</div>
+
+		<h2>Hear from the City of Albuquerque team</h2>
+
+		<VideoSingle
+			videoURL="https://www.youtube.com/embed/qP0t7ghleKk?si=gZX0PY2OWlQqLVN8"
+			caption=""
+			source=""
+			altText="EDDIT 2023 Spotlight: City of Albuquerque Rail Trail"
+			maxWidth="{680}px"
+		/>
 
 	</div>
 

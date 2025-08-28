@@ -9,6 +9,7 @@
 	import GraphicSingle from "$lib/GraphicSingle.svelte";
 	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
 	import ImageSingle from "$lib/ImageSingle.svelte";
+	import VideoSingle from "$lib/VideoSingle.svelte";
 
 	import titleImage from "./assets/wood-buffalo-title-img.jpg";
 	import syncrudeImage from "./assets/syncrude.jpeg";
@@ -93,7 +94,7 @@
 		<AuthorDate
 			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a>"}
 			graphics={"<a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a> & <a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>"}
-			date={"August 2025"}
+			date={"September 2025"}
 		/>
 
 		<p>
@@ -316,17 +317,17 @@
 			</p>
 		</div>
 
+		<!-- <h2>Hear from the Regional Municipality of Wood Buffalo team</h2>
+
+		<VideoSingle
+			videoURL=""
+			caption=""
+			source=""
+			altText="EDDIT 2023 Spotlight: Regional Municipality of Wood Buffalo"
+			maxWidth="{680}px"
+		/> -->
+
 		<Footnotes footnotes={footnotes} />
-
-		<!-- <div class="details">
-
-			<h2>Additional resources</h2>
-
-			<p>
-				
-			</p>
-
-		</div> -->
 
 	</div>
 
