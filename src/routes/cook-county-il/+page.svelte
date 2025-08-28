@@ -60,7 +60,7 @@
 </svelte:head>
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={"Cross-community Approaches to Climate Action: Transitioning to sustainable landscape practices"}
@@ -221,12 +221,11 @@
 			The C4 initiative represents a promising model for how cross-community governance can address the intertwined challenges of climate change, equity, and environmental justice. By representing 14 interconnected municipalities through data, this story demonstrates how collaborative policymaking can work to mitigate climate change and its effects on residents. This case study uses maps of environmental justice communities to show how these policies can be approached and implemented in an equitable way. Climate change will continue to affect all communities, but C4’s approach offers a vital example of how collective action rooted in justice can create a healthier, more sustainable future for all.
 		</p>
 
-		<div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
-			</p>
-		</div>
-
+		<br>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		</p>
+		<br>
 		<Footnotes footnotes={footnotes} />
 
 		<div class="details">

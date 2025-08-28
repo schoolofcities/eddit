@@ -76,7 +76,7 @@
 
 </svelte:head>
 
-<Password/>
+<!-- <Password/> -->
 
 <Title 
 	title={'Becoming “Canada’s Favourite Downtown”: Encouraging investments in the core'}
@@ -302,11 +302,11 @@
 			Investing in the Vision 2030 plan today has the potential to increase vibrancy and revenue-generating activity in Halifax’s urban core, which will ultimately lead to better-funded services and infrastructure for the region as whole. A more connected and accessible downtown rewards the whole region, providing opportunities for more people to benefit from the renewed energy and beautiful spaces in the city’s historic centre. By highlighting downtown’s existing assets, data stories like this one can advance the momentum for positive change and create a virtuous cycle of confidence, optimism, and growth.
 		</p>
 
-		<div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions in editing and informing this case study, and Jennifer Barrett and Abigail Moriah for their research and advisory support.</i>
-			</p>
-		</div>
+		<br>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions in editing and informing this case study, and Jennifer Barrett and Abigail Moriah for their research and advisory support.</i>
+		</p>
+		<br>
 
 		<Footnotes footnotes={footnotes} />
 

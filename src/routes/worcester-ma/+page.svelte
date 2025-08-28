@@ -64,7 +64,7 @@
 
 </svelte:head>
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={"Investing in affordable housing to support inclusive downtowns"}
@@ -218,11 +218,11 @@
 			The COVID-19 pandemic caused an exodus of workers from urban centres, and many cities re-evaluated the role their downtowns should play. The dramatic shift in the flow of people in downtowns gave rise to a moment of reflection, sparking demand for change across the country. This has created a unique opportunity to prioritize investments in affordable housing as a key strategy for urban revitalization. Integrating affordable housing construction and preservation into community development and neighbourhood planning processes can help make cities more inclusive, resilient, and equitable. Preserving affordable housing should also be accompanied by investments in wraparound services and amenities that support residents’ health, education, and economic stability. This case study has used data to showcase the value of investing in affordable housing and neighbourhood amenities, and possible sites to expand them in downtown Worcester. A holistic, data-informed approach that connects housing with supportive infrastructure offers a path forward for building stronger, more connected communities.
 		</p>
 	
-		<div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
-			</p>
-		</div>
+		<br>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		</p>
+		<br>
 
 		<Footnotes footnotes={footnotes} />
 

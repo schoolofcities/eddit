@@ -78,7 +78,7 @@
 </svelte:head>
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={"Increasing the availability of healthy food"}
@@ -274,11 +274,11 @@
 			Ultimately, building an ecosystem of healthy food options requires long-term investments in housing, infrastructure, and transportation so that residents are able to access places like grocery stores. In the meantime, cities can get creative in expanding food access to places that need it through non-traditional means. Partnerships like the one between the Cone Health Foundation, the City of Greensboro, and East Greensboro NOW can help ensure that food systems are equitable and take a holistic approach to accessibility. By using maps to show the opportunities in East Greensboro, this data story allows them to make an even stronger case for food equity to municipal officials, and ensure the community has a sustainable food system for years to come. 
 		</p>
 
-		<div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
-			</p>
-		</div>
+		<br>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		</p>
+		<br>
 
 		<Footnotes footnotes={footnotes} />
 

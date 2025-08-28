@@ -77,7 +77,7 @@
 </svelte:head>
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={"Seeking a new definition of affordability in a resource economy"}
@@ -309,13 +309,11 @@
 			Data analysis and visualizations that reflect the lived experiences of people struggling to afford suitable housing make a strong case for reconsidering Fort McMurray’s reputation as Canada’s “most affordable city” by changing the conversation to consider who is left out of these statistics. Ideally, local organizations can use this evidence to gain support for more innovative housing policies and robust support services for those living in precarious circumstances. This data story can be used by a broad team and adapted to different audiences, from elected officials, provincial and federal housing ministries, community members, and allied organizations. Ultimately, more abundant affordable housing allows for greater economic diversification, which is critical to the longevity of a region that is dependent upon a single industry. The first step is building local capacity to communicate this vision and advocate for change. 
 		</p>
 
-	
-
-		<div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
-			</p>
-		</div>
+		<br>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		</p>
+		<br>
 
 		<!-- <h2>Hear from the Regional Municipality of Wood Buffalo team</h2>
 

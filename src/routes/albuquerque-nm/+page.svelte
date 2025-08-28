@@ -70,7 +70,7 @@
 </svelte:head>
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={title}
@@ -230,15 +230,21 @@
 		</p>
 
 		<br>
-		<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		</p>
 		<br>
-		
-		<!-- <div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
-			</p>
-		</div> -->
 
+		<h3>Hear from the City of Albuquerque team</h3>
+
+		<VideoSingle
+			videoURL="https://www.youtube.com/embed/qP0t7ghleKk?si=gZX0PY2OWlQqLVN8"
+			caption=""
+			source=""
+			altText="EDDIT 2023 Spotlight: City of Albuquerque Rail Trail"
+			maxWidth="{680}px"
+		/>
+		
 		<Footnotes footnotes={footnotes} />
 
 		<div class="details">
@@ -250,16 +256,6 @@
 			</p>
 
 		</div>
-
-		<h2>Hear from the City of Albuquerque team</h2>
-
-		<VideoSingle
-			videoURL="https://www.youtube.com/embed/qP0t7ghleKk?si=gZX0PY2OWlQqLVN8"
-			caption=""
-			source=""
-			altText="EDDIT 2023 Spotlight: City of Albuquerque Rail Trail"
-			maxWidth="{680}px"
-		/>
 
 	</div>
 

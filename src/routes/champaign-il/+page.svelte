@@ -68,7 +68,7 @@
 </svelte:head>
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={"Building Safe Communities: Infrastructure investments for gun violence prevention"}
@@ -216,11 +216,11 @@
 			These clear and accessible charts and maps are tools the city can use to build public trust, validate its prevention-focused approach, and galvanize continued support for long-term investment in community-driven solutions. The City of Champaign’s experience illustrates how targeted investments can serve as a powerful tool for gun violence prevention and neighbourhood transformation, particularly in historically disinvested communities. By moving beyond traditional enforcement models and focusing instead on the physical and social environments where violence takes root, the city has embraced a holistic approach that centres equity and long-term impact. The combination of improved lighting, new green spaces, and community engagement has fostered a renewed sense of safety and connection in Garden Hills. As cities across the U.S. seek to address the complex drivers of gun violence, they can learn from Champaign’s approach to improving public safety through enhancing public infrastructure.
 		</p>
 
-		<div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
-			</p>
-		</div>
+		<br>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		</p>
+		<br>
 
 		<Footnotes footnotes={footnotes} />
 

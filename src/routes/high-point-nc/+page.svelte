@@ -72,7 +72,7 @@
 </svelte:head>
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={"Revitalizing historic main streets through entrepreneurship"}
@@ -295,18 +295,15 @@
 			With historical images that connect the revitalization of Washington Street with its profound legacy, and maps and data charts that show the state of business equity and areas of opportunity, this case study highlights the potential of historic main streets. Programs like Shop on Washington Street are continuing a trailblazing legacy by working to bring more Black- and women-owned businesses back into this community, promoting entrepreneurship and job creation. Initiatives like these highlight the broader economic value of supporting historically underrepresented communities in business, which not only promotes social equity but also fuels local and regional growth.
 		</p>
 
-		<!-- <div class="details">
-			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
-			</p>
-		</div> -->
 
 		<br>
-		<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		<p style="font-size: 16px; line-height: 25px;">
+			<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		</p>
 		<br>
 		
 
-		<h2>Hear from the High Point team</h2>
+		<h3>Hear from the High Point team</h3>
 
 		<VideoSingle
 			videoURL="https://www.youtube.com/embed/JV-JWvlVZK8?si=X_GVlJ-Knlc5Wn5c"
