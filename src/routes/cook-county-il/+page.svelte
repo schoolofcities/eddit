@@ -31,7 +31,33 @@
 		'Shkembi and Neitzel, “Historical Redlining.”'
 	];
 
+	let title = "Cross-community Approaches to Climate Action: Transitioning to sustainable landscape practices"
+	let subTitle = "A case study of Cook County, Illinois"
+
 </script>
+
+
+<svelte:head>
+
+	<title>{title}  | School of Cities</title>
+
+	<meta name="description" content={subTitle} />
+	<meta name="author" content="School of Cities, University of Toronto">
+
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={subTitle} />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" />
+	<meta property="og:locale" content="en_CA">
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={subTitle} />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/eddit/" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" /> 
+
+</svelte:head>
 
 
 <Password/>
@@ -49,9 +75,9 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Julia Greenberg</a>"}
-			date={"August 2025"}
+			writing={"<a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a> & <a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a>"}
+			graphics={"<a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>, <a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a> & <a href='https://www.linkedin.com/in/julia-greenberg-23114a130/' target='_blank'>Julia Greenberg</a>"}
+			date={"September 2025"}
 		/>
 
 		<p>

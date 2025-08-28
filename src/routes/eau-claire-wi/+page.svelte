@@ -49,13 +49,40 @@
 		'Ross Bernet, “How Much CO2 Does A Tree Absorb?,” One Tree Planted, July 25, 2023, [URL](https://onetreeplanted.org/blogs/stories/how-much-co2-does-tree-absorb).'
 	];
 
+	let title = "Connecting the Dots: Showcasing the benefits of public transportation"
+	let subTitle = "A case study of Eau Claire, Wisconsin"
 
 </script>
+
+
+<svelte:head>
+
+	<title>{title}  | School of Cities</title>
+
+	<meta name="description" content={subTitle} />
+	<meta name="author" content="School of Cities, University of Toronto">
+
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={subTitle} />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" />
+	<meta property="og:locale" content="en_CA">
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={subTitle} />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/eddit/" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" /> 
+
+</svelte:head>
+
+
 
 <Password/>
 
 <Title 
-	title={"Connecting the Dots: Showcasing the benefits of public transportation "}
+	title={"Connecting the Dots: Showcasing the benefits of public transportation"}
 	subtitle={"A case study of Eau Claire, Wisconsin"} 
 	image={titleImage}
 	imageCaption={"A friendly bus in Eau Claire."}
@@ -67,9 +94,9 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Kathryn Exon Smith</a> & <a href='' target='_blank'> Sarah A. Smith</a>"}
-			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Michelle Zhang</a>, & <a href='' target='_blank'>Jeff Allen</a>"}
-			date={"August 2025"}
+			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'> Sarah A. Smith</a>"}
+			graphics={"<a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>, <a href='https://www.linkedin.com/in/michellez-yy' target='_blank'>Michelle Zhang</a>, & <a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>"}
+			date={"September 2025"}
 		/>
 
 		<p>

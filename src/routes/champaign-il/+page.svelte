@@ -39,12 +39,39 @@
 		'Branas et al., “Urban blight remediation.”'
 	];
 
+	let title = "Building Safe Communities: Infrastructure investments for gun violence prevention"
+	let subTitle = "A case study of Champaign, Illinois"
+
 </script>
+
+
+<svelte:head>
+
+	<title>{title}  | School of Cities</title>
+
+	<meta name="description" content={subTitle} />
+	<meta name="author" content="School of Cities, University of Toronto">
+
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={subTitle} />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" />
+	<meta property="og:locale" content="en_CA">
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={subTitle} />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/eddit/" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" /> 
+
+</svelte:head>
+
 
 <Password/>
 
 <Title
-	title={"Building safe communities: Infrastructure investments for gun violence prevention"}
+	title={"Building Safe Communities: Infrastructure investments for gun violence prevention"}
 	subtitle={"A case study of Champaign, Illinois"}
 	image={titleImage}
 	imageCaption={"Beginning phase of improvements in Garden Hills, 2024."}
@@ -56,9 +83,9 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Jeff Allen</a>"}
-			date={"August 2025"}
+			writing={"<a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a> & <a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a>"}
+			graphics={"<a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>, <a href='https://www.linkedin.com/in/julia-greenberg-23114a130/' target='_blank'>Julia Greenberg</a>, & <a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>"}
+			date={"September 2025"}
 		/>
 
 		<p>
@@ -91,7 +118,7 @@
 		</p>
 		<h2>Advocating for gun violence prevention</h2>
 		<p>
-			In response to the sharp increase in urban gun violence in the U.S., a new policing philosophy known as the “broken windows” approach gained national traction.<Footnote id={addFootnote(fns[5])} /> The theory suggested that neglecting minor forms of disorder, such as vandalism or public loitering, could create an environment that fosters more serious crime. This led to widespread adoption of aggressive policing strategies that emphasized arrests for low-level offenses as a means of deterring larger crimes.<Footnote id={addFootnote(fns[6])} /> However, this approach disproportionately targeted communities of colour, especially youth, who bore the brunt of intensified surveillance and punitive enforcement.<Footnote id={addFootnote(fns[7])} /> 
+			In response to the sharp increase in urban gun violence in the U.S. in the 1970s and 1980s, a new policing philosophy known as the “broken windows” approach gained national traction.<Footnote id={addFootnote(fns[5])} /> The theory suggested that neglecting minor forms of disorder, such as vandalism or public loitering, could create an environment that fosters more serious crime. This led to widespread adoption of aggressive policing strategies that emphasized arrests for low-level offenses as a means of deterring larger crimes.<Footnote id={addFootnote(fns[6])} /> However, this approach disproportionately targeted communities of colour, especially youth, who bore the brunt of intensified surveillance and punitive enforcement.<Footnote id={addFootnote(fns[7])} /> 
 		</p>
 		<p>
 			Today, advocacy around gun violence prevention calls for a fundamental shift away from these reactive enforcement models and toward proactive, community-driven strategies that address the root causes of violence. Many cities have approached this through a <a href="https://www.brookings.edu/articles/a-new-community-safety-blueprint-how-the-federal-government-can-address-violence-and-harm-through-a-public-health-approach/#:~:text=Another%20promising%20model%2C%20Advance%20Peace%2C%20contributed%20to,drop%20in%20gun%20homicides%20in%20Stockton%2C%20Calif" target="_blank">public health lens</a> by creating policies and programs that are focused on stopping violence before it happens, and are structured to improve residents’ overall quality of life. These interventions have focused on economic and housing security, youth education and workforce development, and the creation of welcoming community spaces. By prioritizing prevention over punishment, cities such as <a href="https://philadelphiaskills.org/" target="_blank">Philadelphia</a>, <a href="https://www.boston.gov/departments/youth-employment-and-opportunity" target="_blank">Boston</a>, and <a href="https://www.kansascityfed.org/research/research-working-papers/the-effect-of-housing-first-programs-on-future-homelessness-and-socioeconomic-outcomes/" target="_blank">Los Angeles</a> have moved toward community investment strategies that promote healthier and safer cities.
@@ -132,7 +159,7 @@
 	<div class="text">
 
 		<p>
-			As mentioned previously, the Garden Hills community has suffered from an infrastructure deficit, including minimal streetlighting. One of the infrastructure improvements the city made in the Garden Hills neighbourhood was an extensive community lighting upgrade that aimed to improve residents’ sense of safety. The initiative involved two programs, one for installing new streetlights and one for providing exterior lights to residential homes. As of 2024, the city will have installed 388 home exterior lights and 288 streetlights throughout the community. The map below shows the locations of these lights in Garden Hills. With more extensive coverage, violence is being prevented, and residents walking through the neighbourhood can feel safer.
+			As mentioned previously, the Garden Hills community has suffered from an infrastructure deficit, including minimal streetlighting. One of the infrastructure improvements the city made in the Garden Hills neighbourhood was an extensive community lighting upgrade that aimed to improve residents’ sense of safety. The initiative involved two programs, one for installing new streetlights and one for providing exterior lights to residential homes. As of 2024, the city has installed 388 home exterior lights and 288 streetlights throughout the community. The map below shows the locations of these lights in Garden Hills. With more extensive coverage, violence is being prevented, and residents walking through the neighbourhood can feel safer.
 		</p>
 
 	</div>
@@ -153,7 +180,7 @@
 			Parks, community gardens, and open recreational areas provide safe, accessible environments where residents can gather, build relationships, and engage in healthy activities. Research has shown that well-maintained green spaces can reduce stress, foster social cohesion, and even lower crime rates through informal community supervision.<Footnote id={addFootnote(fns[13])} /> A 2016 study found that cleaning, greening, and maintaining vacant lots led to significant reductions in gun violence.<Footnote id={addFootnote(fns[14])} /> In Flint, Michigan, neighbourhoods that cleaned and maintained vacant lots in their communities through the <a href="https://www.thelandbank.org/cleanandgreen.asp" target="_blank">Clean & Green program</a> saw 40 percent fewer violent crimes than other neighbourhoods.<Footnote id={addFootnote(fns[15])} /> 
 		</p>
 		<p>
-			It can often be challenging to find room in municipal budgets for this kind of infrastructure maintenance, but research has indicated that these improvements can yield sufficient economic benefits to make the investment worthwhile. Urban blight remediation programs have been shown to have a return on investment between US$79 and US$333 for every dollar spent in the first year, when accounting for the decrease in costs to the criminal justice system that result from reductions in firearm crimes.<Footnote id={addFootnote(fns[16])} /> These findings highlight how targeted investments in the built environment can serve as cost-effective strategies for violence prevention and broader community well-being.
+			It can often be challenging to find room in municipal budgets for this kind of infrastructure maintenance, but research has indicated that these improvements can yield sufficient economic benefits to make the investment worthwhile. Urban blight remediation programs have been shown to have a return on investment between US$79 and $333 for every dollar spent in the first year, when accounting for the decrease in costs to the criminal justice system that result from reductions in firearm crimes.<Footnote id={addFootnote(fns[16])} /> These findings highlight how targeted investments in the built environment can serve as cost-effective strategies for violence prevention and broader community well-being.
 		</p>
 		<p>
 			Building on the evidence that creating new green spaces and activating vacant areas can reduce violence and improve community well-being, the City of Champaign embraced this kind of community investment through projects like the Safe Places/Active Spaces – Hedge POP! Park. This pop-up park was intended to be temporary while land was being cleared for the Garden Hills Drainage Improvements project, serving to activate and beautify the space while final engineering work was underway. More than just a stopgap, Hedge POP! Park quickly revealed a deeper, unmet need for accessible recreational areas in the neighbourhood. The park not only provided a safe and welcoming place for residents to gather, play, and relax, but it also became a valuable touchpoint for city staff to build relationships and engage with the community. Through regular on-site interactions, staff were able to hear directly from residents about their needs, ideas, and concerns, making the park both a recreational asset and a platform for participatory planning.
