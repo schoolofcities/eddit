@@ -405,7 +405,7 @@ import{t as c,a as d}from"../chunks/Bysh06kv.js";import"../chunks/B9yZbh3V.js";i
 		Sarah A. Smith,
 		Jeff Allen Ph.D,
 		Isabeaux Graham,
-		Julia Greenberg
+		Julia Greenberg,
 		Michelle Zhang,
 		Evelyne St-Louis</p> <h3>The EDDIT Project Team</h3> <p><i>University of Toronto & University of California, Berkeley</i> <br> Karen Chapple Ph.D.,
 		Evelyne St-Louis,
