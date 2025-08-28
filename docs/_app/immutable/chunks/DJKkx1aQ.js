@@ -1,0 +1,1 @@
+import{f as S,y as h,u as k,z as T,S as c}from"./CO6voo78.js";function t(r,f){return r===f||(r==null?void 0:r[c])===f}function y(r={},f,a,q){return S(()=>{var i,s;return h(()=>{i=s,s=[],k(()=>{r!==a(...s)&&(f(r,...s),i&&t(a(...i),r)&&f(null,...i))})}),()=>{T(()=>{s&&t(a(...s),r)&&f(null,...s)})}}),r}export{y as b};
