@@ -9,6 +9,7 @@
 	import GraphicSingle from "$lib/GraphicSingle.svelte";
 	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
 	import ImageSingle from "$lib/ImageSingle.svelte";
+	import VideoSingle from "$lib/VideoSingle.svelte";
 
 	import titleImage from "./assets/abq-title.jpg";
 
@@ -30,10 +31,10 @@
 		'Christopher Coutts and Rebecca Miles, "Greenways as Green Magnets: The Relationship Between the Race of Greenway Users and Race in Proximal Neighborhoods," *Journal of Leisure Research* 43, no. 3 (2011): 317–333, [URL](https://www.tandfonline.com/doi/abs/10.1080/00222216.2011.11950239).',
 		'Kevin Loughran, “Parks for Profit: The High Line, Growth Machines, and the Uneven Development of Urban Public Spaces,” *City & Community* 13, no. 1 (2013), [URL](https://journals.sagepub.com/doi/abs/10.1111/cico.12050); Jeremy Williams, “Fear and Loathing on the High Line: Notes from the Spatial Frontline of Spectacle Techno-Capitalism,” in *Contours of the Illiberal State: Governing Circulation in the Smart Economy*, ed. Boris Vormann and Christian Lammert (Campus Verlag, 2019), [URL](https://www.gbv.de/dms/zbw/1040154778.pdf).',
 		'Dan Immergluck, “Atlanta’s BeltLine Shows How Urban Parks Can Drive ‘Green Gentrification’ If Cities Don’t Think about Affordable Housing at the Start,” *The Conversation*, January 25, 2023, [URL](http://theconversation.com/atlantas-beltline-shows-how-urban-parks-can-drive-green-gentrification-if-cities-dont-think-about-affordable-housing-at-the-start-193204); Dan Immergluck and Tharunya Balan, “Sustainable for Whom? Green Urban Development, Environmental Gentrification, and the Atlanta Beltline,” *Urban Geography* (August 4, 2017), 1–17, [URL](https://doi.org/10.1080/02723638.2017.1360041).',
-		'Greg Lindsey et al., “Neighborhood Change and Gentrification Near Three Urban Trails,” *Findings Press*, October 22, 2021, [URL](https://doi.org/10.32866/001c.29521); *Business North Carolina*, “How Charlotte’s South End Got So Hot,” November 1, 2019, [URL](https://businessnc.com/how-charlottes-south-end-got-so-hot/).',
+		'Greg Lindsey et al., “Neighborhood Change and Gentrification Near Three Urban Trails,” *Findings*, October 22, 2021, [URL](https://doi.org/10.32866/001c.29521); Business NC, “How Charlotte’s South End Got So Hot,” *Business North Carolina*, November 1, 2019, [URL](https://businessnc.com/how-charlottes-south-end-got-so-hot/).',
 		'Karen Chapple and Miriam Zuk, “Forewarned: The Use of Neighborhood Early Warning Systems for Gentrification and Displacement,” *Cityscape: A Journal of Policy Development and Research* 18, no. 3 (2016).',
 		'Aggregated mobility data are provided by Cuebiq, a location intelligence platform. Data is collected from anonymized users who have opted-in to provide access to their location data anonymously, through a CCPA and GDPR-compliant framework. Through its Social Impact program, Cuebiq provides mobility insights for academic research and humanitarian initiatives. The Cuebiq responsible data sharing framework enables research partners to query anonymized and privacy enhanced data, by providing access to an auditable, on-premise Data Cleanroom environment. All final outputs provided to partners are aggregated in order to preserve privacy.',
-		'Albuquerque Vision Zero, *Year in Review* (2023), [URL](https://www.cabq.gov/municipaldevelopment/documents/albuquerque-vision-zero-year-in-review-2023-_final.pdf); *Consumer Affairs*, “Most Dangerous Cities for Pedestrians and Cyclists [2025],” July 22, 2025, [URL](https://www.consumeraffairs.com/automotive/most-dangerous-cities-for-pedestrians-and-cyclists.html); National Safety Council, “Motor-Vehicle Deaths by State (2023),” accessed August 4, 2025, [URL](https://injuryfacts.nsc.org/state-data/motor-vehicle-deaths-by-state/).',
+		'Albuquerque Vision Zero, *Year in Review* (2023), [URL](https://www.cabq.gov/municipaldevelopment/documents/albuquerque-vision-zero-year-in-review-2023-_final.pdf); Consumer Affairs, “Most Dangerous Cities for Pedestrians and Cyclists [2025],” July 22, 2025, [URL](https://www.consumeraffairs.com/automotive/most-dangerous-cities-for-pedestrians-and-cyclists.html); National Safety Council, “Motor-Vehicle Deaths by State (2023),” accessed August 4, 2025, [URL](https://injuryfacts.nsc.org/state-data/motor-vehicle-deaths-by-state/).',
 		'Min Jiao et al., “Optimizing the Shade Potential of Trees by Accounting for Landscape Context,” *Sustainable Cities and Society* 70 (July 1, 2021): 102905, [URL](https://doi.org/10.1016/j.scs.2021.102905).',
 		'Karen Chapple and Miriam Zuk, “Forewarned.”',
 		'Laura Bliss, “The High Line’s Biggest Issue—And How Its Creators Are Learning From Their Mistakes,” *Bloomberg.com*, February 7, 2017, [URL](https://www.bloomberg.com/news/articles/2017-02-07/the-high-line-and-equity-in-adaptive-reuse).',
@@ -85,7 +86,7 @@
 
 		<AuthorDate
 			writing={"<a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a> & <a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a>"}
-			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>, <a href='https://www.linkedin.com/in/remus-herteg-150402235/' target='_blank'>Remus Herteg</a>, & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>, <a href='https://www.linkedin.com/in/remus-herteg-150402235/' target='_blank'>Remus Herteg</a>, & <a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -156,7 +157,7 @@
 			The trail development team in Albuquerque is well aware of the potential for displacement along the trail and has centred equitable development in their plans. Working with the EDDIT data storytelling team, they wanted to proactively communicate to city leadership and the public that the trail is an opportunity to improve connectivity around downtown and provide more community spaces for residents, while also creating economic opportunity.
 		</p>
 		<p>
-			Reflecting the common concern that public infrastructure improvements like Rail Trails are primarily for tourists, the team emphasized how the trail would expand locals’ sense of community. Murals and art along the trail will connect residents to their cultural history and provide public spaces to gather and linger, contributing to a more vibrant downtown. More downtown activation can also create new economic opportunities that may help to prevent locals from relocating to faster-growing regions, preserving generational knowledge and networks in the city.
+			Reflecting the common concern that public infrastructure improvements like rail trails are primarily for tourists, the team emphasized how the trail would expand locals’ sense of community. Murals and art along the trail will connect residents to their cultural history and provide public spaces to gather and linger, contributing to a more vibrant downtown. More downtown activation can also create new economic opportunities that may help to prevent locals from relocating to faster-growing regions, preserving generational knowledge and networks in the city.
 		</p>
 		<p>
 			The data storytelling team worked to highlight the extent to which downtown is already a place well used by Burqueños, and that new green space there would serve residents. The graph below, which uses anonymized and aggregated cell phone mobility data from Cuebiq, shows that in 2022, nearly 80 percent of average daily activity downtown was from visitors who live in the Albuquerque metropolitan area (Bernalillo County), and 22 percent of downtown activity was generated by residents who live downtown.<Footnote id={addFootnote(fns[13])} /> The new trail has the potential create even more activity from the growth of new businesses, creating an environment that both residents and visitors can enjoy.
@@ -203,7 +204,7 @@
 		<h2>Empowering the community with data</h2>
 
 		<p>
-			Emphasizing the benefits of developing new social infrastructure like parks and Rail Trails is important because the long-term success of the multi-use trail project depends on community support. If Albuquerque residents see the value of the project, they will be more likely to use the trail, visit nearby local businesses, and advocate for it politically. To address community concerns around gentrification and displacement, the Albuquerque team has developed metrics to monitor neighbourhood change in the surrounding areas. Research suggests that “early warning systems” tracking investment, disinvestment, and population changes at a small scale are a useful tool for democratizing data, and help communities advocate for policies that protect them against displacement.<Footnote id={addFootnote(fns[16])} /> By tracking various housing and community well-being metrics over time in neighbourhoods adjoining the planned Rail Trail development, the Albuquerque team can work with the community to build trust and support for the project, stay accountable to the public, and ensure that new development benefits everyone.
+			Emphasizing the benefits of developing new social infrastructure like parks and rail trails is important because the long-term success of the multi-use trail project depends on community support. If Albuquerque residents see the value of the project, they will be more likely to use the trail, visit nearby local businesses, and advocate for it politically. To address community concerns around gentrification and displacement, the Albuquerque team has developed metrics to monitor neighbourhood change in the surrounding areas. Research suggests that “early warning systems” tracking investment, disinvestment, and population changes at a small scale are a useful tool for democratizing data, and help communities advocate for policies that protect them against displacement.<Footnote id={addFootnote(fns[16])} /> By tracking various housing and community well-being metrics over time in neighbourhoods adjoining the planned Rail Trail development, the Albuquerque team can work with the community to build trust and support for the project, stay accountable to the public, and ensure that new development benefits everyone.
 		</p>
 		<p>
 			Common neighbourhood characteristics that signal gentrification risk include rising home sale prices, proximity to areas with higher housing costs, good transit access, historic architecture, and large housing units. In neighbourhoods at risk of gentrification, it is especially important to monitor changes in property values, rents, tenure, and demographics with a dashboard or other data tool. Doing so can alert local leaders to the need for targeted anti-displacement policies, such as the preservation of existing affordable units and robust incentives to develop housing across a spectrum of price points. Additional policies include community benefits agreements that include residents in the construction or operations of infrastructure projects, which ensure the local community benefits financially.<Footnote id={addFootnote(fns[17])} /> Data dashboards are one way to show the need for these policies and direct municipal leaders to where they can be most effective. 
@@ -228,13 +229,26 @@
 			Urban adaptive reuse initiatives are often described as having both environmental and social benefits, but planners and community members must take care to ensure that they do not induce speculation, exclusion, and displacement. With proactive policies that ensure affordability, protect existing communities, and foster inclusive civic life, recreational infrastructure can be a benefit, rather than deepening socioeconomic inequality. Albuquerque’s data story shows the potential for the Rail Trail — and the democratization of data that accompanies its development — to connect communities safely, expand economic opportunity, elevate the city’s culture and history, and increase transparency, while giving community members the tools to ensure these opportunities benefit all of the city’s residents.
 		</p>
 
-	
-
-		<div class="details">
+		<br>
+		<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		<br>
+		
+		<!-- <div class="details">
 			<p>
-				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+				
 			</p>
-		</div>
+		</div> -->
+
+		<h2>Hear from the City of Albuquerque team</h2>
+
+		<VideoSingle
+			videoURL="https://www.youtube.com/embed/qP0t7ghleKk?si=gZX0PY2OWlQqLVN8"
+			caption=""
+			source=""
+			altText="EDDIT 2023 Spotlight: City of Albuquerque Rail Trail"
+			maxWidth="{680}px"
+		/>
+
 
 		<Footnotes footnotes={footnotes} />
 

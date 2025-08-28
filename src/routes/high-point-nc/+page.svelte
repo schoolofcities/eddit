@@ -9,6 +9,7 @@
 	import GraphicSingle from "$lib/GraphicSingle.svelte";
 	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
 	import ImageSingle from "$lib/ImageSingle.svelte";
+	import VideoSingle from "$lib/VideoSingle.svelte";
 
 	import titleImage from "./assets/high-point-title.jpg";
 	import kilbyImage from "./assets/Kilby_hotel.png";
@@ -42,9 +43,33 @@
 		'Michael A. Stoll, Steven Raphael, and Harry J. Holzer, “Why Are Black Employers More Likely than White Employers to Hire Blacks?,” *Institute for Research on Poverty Discussion Paper*, no. 1236-01 (2001), [URL](https://www.irp.wisc.edu/publications/dps/pdfs/dp123601.pdf).'
     ];
 
+    let title = "Revitalizing historic main streets through entrepreneurship"
+	let subTitle = "A case study of High Point, North Carolina"
+
 </script>
 
 
+<svelte:head>
+
+	<title>{title}  | School of Cities</title>
+
+	<meta name="description" content={subTitle} />
+	<meta name="author" content="School of Cities, University of Toronto">
+
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={subTitle} />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" />
+	<meta property="og:locale" content="en_CA">
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={subTitle} />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/eddit/" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" /> 
+
+</svelte:head>
 
 
 <Password/>
@@ -63,7 +88,7 @@
 
 		<AuthorDate
 			writing={"<a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a> & <a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a> & <a href='' target='_blank'>Isabeaux Graham</a>"}
+			graphics={"<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a> & <a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>"}
 			date={"August 2025"}
 		/>
 
@@ -270,11 +295,26 @@
 			With historical images that connect the revitalization of Washington Street with its profound legacy, and maps and data charts that show the state of business equity and areas of opportunity, this case study highlights the potential of historic main streets. Programs like Shop on Washington Street are continuing a trailblazing legacy by working to bring more Black- and women-owned businesses back into this community, promoting entrepreneurship and job creation. Initiatives like these highlight the broader economic value of supporting historically underrepresented communities in business, which not only promotes social equity but also fuels local and regional growth.
 		</p>
 
-		<div class="details">
+		<!-- <div class="details">
 			<p>
 				<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
 			</p>
-		</div>
+		</div> -->
+
+		<br>
+		<i>The authors would like to thank Karen Chapple, Michelle Zhang, Julia Greenberg, and Evelyne St-Louis for their contributions to editing and informing this case study.</i>
+		<br>
+		
+
+		<h2>Hear from the High Point team</h2>
+
+		<VideoSingle
+			videoURL="https://www.youtube.com/embed/JV-JWvlVZK8?si=X_GVlJ-Knlc5Wn5c"
+			caption=""
+			source=""
+			altText="EDDIT 2023 Spotlight: Business High Point Shop of Washington Street"
+			maxWidth="{680}px"
+		/>
 
 		<Footnotes footnotes={footnotes} />
 

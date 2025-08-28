@@ -130,7 +130,7 @@
 		Sarah A. Smith,
 		Jeff Allen Ph.D,
 		Isabeaux Graham,
-		Julia Greenberg
+		Julia Greenberg,
 		Michelle Zhang,
 		Evelyne St-Louis
 	</p>

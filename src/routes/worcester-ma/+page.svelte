@@ -36,9 +36,33 @@
 		'Corianne Payton Scally, “Beyond NIMBY and poverty deconcentration: reframing the outcomes of affordable rental housing development,” *Housing Policy Debate* 22, no. 3 (2012): 435–461. [URL](https://www.tandfonline.com/doi/full/10.1080/10511482.2012.680477#d1e1107).',
 		'David Amborski and Diana Petramala, *Governments in Ontario Making Headway in Using Surplus Lands for Housing* (Centre for Urban Research and Land Development (CUR), 2019). [URL](https://www.ohba.ca/cur-report-surplus-and-underutilized-government-lands-key-to-home-ownership/).'
 	];
-
+	let title = "Investing in affordable housing to support inclusive downtowns"
+	let subTitle = "A case study of Worcester, Massachusetts"
 
 </script>
+
+
+<svelte:head>
+
+	<title>{title}  | School of Cities</title>
+
+	<meta name="description" content={subTitle} />
+	<meta name="author" content="School of Cities, University of Toronto">
+
+	<meta property="og:title" content={title} />
+	<meta property="og:description" content={subTitle} />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
+	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" />
+	<meta property="og:locale" content="en_CA">
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={title} />
+	<meta name="twitter:description" content={subTitle} />
+	<meta name="twitter:site" content="https://schoolofcities.github.io/eddit/" />
+	<meta name="twitter:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" /> 
+
+</svelte:head>
 
 <Password/>
 
@@ -55,8 +79,8 @@
 	<div class="text">
 
 		<AuthorDate
-			writing={"<a href='' target='_blank'>Sarah A. Smith</a> & <a href='' target='_blank'>Kathryn Exon Smith</a>"}
-			graphics={"<a href='' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='' target='_blank'>Jeff Allen</a>"}
+			writing={"<a href='https://www.linkedin.com/in/sarah-a-smith-79089b2a0/' target='_blank'>Sarah A. Smith</a> & <a href='https://www.linkedin.com/in/kathrynexonsmith/' target='_blank'>Kathryn Exon Smith</a>"}
+			graphics={"<a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>, <a href='' target='_blank'>Julia Greenberg</a>, & <a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>"}
 			date={"August 2025"}
 		/>
 
