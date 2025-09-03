@@ -92,6 +92,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			Local main streets are vital community hubs and contribute to the culture and economy of entire cities. Walkable, mixed-use areas with a rich mix of businesses and cultural institutions enable vibrant gathering spaces that encourage shopping, socializing, and civic engagement. These environments not only yield economic benefits, but also strengthen community bonds and trust through increased social interaction and local participation.<Footnote id={addFootnote(fns[0])} /> The historic Washington Street neighbourhood in High Point, North Carolina has been a <strong>Black Main Street</strong> since the 1860s, known for its dense concentration of Black-owned businesses and role as a cultural hub for the African American community.<Footnote id={addFootnote(fns[1])} /> However, like many main streets, Washington Street has experienced a decline over the last few decades, and now needs strategic interventions to bring it back to life.
 		</p>

@@ -91,6 +91,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			As climate change causes summer temperatures to rise, many cities are looking to trees to provide health benefits and counteract the effects of urban heat events. Yet often the tree canopy is uneven, a legacy of inequitable development patterns and zoning. To ensure that the health and climate benefits of trees can be enjoyed by all residents, cities must be intentional in how they plan, plant, and care for their urban forests.
 		</p>

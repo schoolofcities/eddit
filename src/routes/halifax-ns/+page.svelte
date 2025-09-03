@@ -96,6 +96,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			Halifax, Nova Scotia has a fast-growing downtown population, but lacks the housing, infrastructure, and services to support this growth over the long term. For many years, the municipal and regional government has invested in growing specific sectors of the economy, without focusing on the downtown as a unique site of culture and economic growth. The <a href="https://downtownhalifax.ca/" target="_blank">Downtown Halifax Business Commission</a> (DHBC) is looking to change this with their <a href="https://downtownhalifax.ca/vision2030" target="_blank">Downtown Halifax Vision 2030 plan</a> (Vision 2030), which calls for increased investment to make the downtown a place where Haligonians of all kinds can live, work, and play. This investment could also build momentum for a stronger and more connected community overall.
 		</p>

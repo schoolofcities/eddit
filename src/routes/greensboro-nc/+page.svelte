@@ -98,6 +98,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			The availability of fresh, healthy, and affordable food is linked with reduced levels of obesity and diabetes, higher educational attainment, and longer life expectancy.<Footnote id={addFootnote(fns[0])} /> Yet access to healthy food can vary considerably within cities, leaving some neighbourhoods with limited options. Private-sector retailers are generally reluctant to open brick-and-mortar grocery stores in areas with lower incomes, reinforcing geographic and socioeconomic inequities. However, there are non-traditional opportunities for cities and local organizations to bring more healthy food options to communities that need them.
 		</p>

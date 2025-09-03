@@ -97,6 +97,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			The Regional Municipality of Wood Buffalo has the reputation of being “the most affordable place to live in Canada.”<Footnote id={addFootnote(fns[0])} /> Located in northern Alberta and centred on the city of Fort McMurray, the region is at the heart of Canada’s oil and gas industry. It is rich in natural resources, with an abundance of high-paying jobs and one of the highest median family incomes in the country at C$208,000.<Footnote id={addFootnote(fns[1])} />
 		</p>

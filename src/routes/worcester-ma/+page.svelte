@@ -84,6 +84,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			The United States is facing a growing housing crisis. Rising rents, stagnant wages, and a shortage of affordable units have made it increasingly difficult for people to secure safe and stable housing. At the same time, many existing affordable housing developments — most built decades ago — are aging and in need of reinvestment to continue serving those who need them most. As cities reimagine the future of their downtowns post-COVID, they must consider preserving and supporting existing affordable housing communities along with broader investments in neighbourhoods, to ensure that their residents have safe, healthy places to live and thrive.
 		</p>

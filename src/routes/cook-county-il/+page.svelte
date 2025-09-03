@@ -80,6 +80,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			Climate change affects not only the environment and infrastructure, but also the well-being of individuals. Its impacts cross municipal, regional, and national boundaries, demanding coordinated, cross-jurisdictional action to collaborate and advance climate solutions equitably. In the western suburbs of Chicago, 14 municipalities came together within Cook County to create the Cross Community Climate Collaborative (C4) with the goal of working together on climate action initiatives. One of their signature projects is a campaign that encourages sustainable landscaping practices by supporting the transition to electric equipment like lawn mowers and leaf blowers. The objective is to improve air quality through the reduction of greenhouse gas (GHG) emissions, while also minimizing the adverse health impacts caused by gas-powered technology. 
 		</p>

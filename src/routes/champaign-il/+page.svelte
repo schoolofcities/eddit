@@ -88,6 +88,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			Gun violence in the United States is a persistent and deeply entrenched public health crisis, with particularly severe impacts on young people and communities of colour. The U.S. firearm homicide rate is staggeringly high compared to other high-income nations, and Americans make up the vast majority of global gun deaths.<Footnote id={addFootnote(fns[0])} /> In response to this crisis, cities are rethinking what it means to prevent gun violence by focusing not just on law enforcement, but on the physical and social conditions that allow violent crimes to persist.
 		</p>

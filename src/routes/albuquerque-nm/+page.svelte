@@ -90,6 +90,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			Dormant and underused infrastructure represents both a challenge and an opportunity for cities. Vacant lots, aging transit corridors, and decommissioned industrial sites can be redeveloped to create vibrant and popular spaces that reflect and serve local communities. However, economic changes brought about by infrastructure redevelopment projects can lead to gentrification, which has prompted demands for more anti-displacement protections for nearby residents.
 		</p>

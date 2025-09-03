@@ -99,6 +99,12 @@
 			date={"September 2025"}
 		/>
 
+		<div class="caption-container">
+			<p style="margin-top:-21px; margin-bottom: 42px;">
+				<span class="caption-source"><a href="./" target="_blank">Click here to view additional EDDIT case studies</a>.</span>
+			</p>
+		</div>
+
 		<p>
 			Public transportation is an essential ingredient for building equitable and connected cities. It provides reliable and affordable access to work, education, health care, family, and community life. However, rising rates of car use and remote work during the pandemic caused many transit systems to experience a drop in ridership, which led to decreased operating revenues and difficulty keeping service levels constant. Five years on, ridership has improved but not fully rebounded to pre-pandemic levels, and many cities are facing difficult decisions about how to plan for future investments.<Footnote id={addFootnote(fns[0])} /> Yet many people still rely on transit, and a lack of transit access has disproportionate effects on those with lower or fixed incomes, as well as those who do not drive or own a vehicle.
 		</p>

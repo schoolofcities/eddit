@@ -27,12 +27,12 @@
 			<br>
 		{/if}
 		{#if graphics}
-			
 			Graphics: {@html graphics}
 			<br>
 		{/if}
 
 		<span id="date">~ {date}</span>
+		
 	</p>
 
 </div>
@@ -64,5 +64,8 @@
 		font-size: 13px;
 		font-weight: normal;
 	}
+
+
+	
 
 </style>

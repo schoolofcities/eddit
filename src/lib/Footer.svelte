@@ -21,7 +21,7 @@
 			<br>
 			<br>
 			<br>
-			<strong>Case studies:</strong>
+			<strong><a href="./">Case studies:</a></strong>
 		</p>
 
 		<p class="footer-link">
