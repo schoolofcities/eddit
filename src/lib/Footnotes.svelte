@@ -36,7 +36,7 @@
                         window.scrollTo({ top: y, behavior: 'auto' });
                     }
                 }}>
-                    ⮝
+                   <b>↑</b>
                 </a>
 
         </div>
