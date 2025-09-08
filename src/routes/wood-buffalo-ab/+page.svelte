@@ -321,7 +321,7 @@
 		</p>
 		<br>
 
-		<h2>Hear from the Regional Municipality of Wood Buffalo team</h2>
+		<h3>Hear from the Regional Municipality of Wood Buffalo team</h3>
 
 		<VideoSingle
 			videoURL="https://www.youtube.com/embed/YYCzcY2BcAY?si=iBKUkAonEEiF4gFS"
