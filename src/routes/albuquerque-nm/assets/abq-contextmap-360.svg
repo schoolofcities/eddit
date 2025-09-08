@@ -61,14 +61,13 @@
     <text class="cls-5" transform="translate(18.38 162.96)"><tspan x="0" y="0">ARIZONA</tspan></text>
     <text class="cls-5" transform="translate(41.6 49.95)"><tspan x="0" y="0">UTAH</tspan></text>
     <text class="cls-5" transform="translate(225.36 43.41)"><tspan x="0" y="0">COLORADO</tspan></text>
-    <text class="cls-5" transform="translate(118.91 326.56)"><tspan x="0" y="0">MEXICO</tspan></text>
     <text class="cls-5" transform="translate(298.11 235.32)"><tspan x="0" y="0">TEXAS</tspan></text>
     <text class="cls-2" transform="translate(144.84 177.08)"><tspan x="0" y="0">NEW MEXICO</tspan></text>
     <text class="cls-6" transform="translate(192.39 127.68)"><tspan x="0" y="0">Santa Fe</tspan></text>
     <circle class="cls-8" cx="187.8" cy="123.68" r="2.33"/>
-  </g>
-  <g>
-    <rect class="cls-11" x="49.45" y="310.95" width="290.55" height="29.05" rx="14.52" ry="14.52"/>
-    <text class="cls-7" transform="translate(63.56 330.3)"><tspan class="cls-10" x="0" y="0">City of Albuquerque Population (2020): </tspan><tspan class="cls-4" x="219.46" y="0">564,559</tspan></text>
+    <g>
+      <rect class="cls-11" x="49.45" y="310.95" width="290.55" height="29.05" rx="14.52" ry="14.52"/>
+      <text class="cls-7" transform="translate(63.56 330.3)"><tspan class="cls-10" x="0" y="0">City of Albuquerque Population (2020): </tspan><tspan class="cls-4" x="219.46" y="0">564,559</tspan></text>
+    </g>
   </g>
 </svg>

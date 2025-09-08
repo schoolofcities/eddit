@@ -45,7 +45,7 @@
   </defs>
   <g id="Layer_1" data-name="Layer 1">
     <g>
-      <text class="cls-8" transform="translate(20 380)"><tspan x="0" y="0">Data Source: TCB Site Data (2022)?, CDC Places (2022)</tspan></text>
+      <text class="cls-8" transform="translate(20 380)"><tspan x="0" y="0">Data Source: TCB Site Data (2022), CDC Places (2022)</tspan></text>
       <line class="cls-9" x1="20.41" y1="367.54" x2="339.95" y2="367.54"/>
     </g>
   </g>
