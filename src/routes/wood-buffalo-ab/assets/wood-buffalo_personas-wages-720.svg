@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 370">
   <defs>
     <style>
       .cls-1 {
@@ -73,42 +73,42 @@
       }
     </style>
   </defs>
-  <rect class="cls-6" x="428.69" y="77.53" width="171.83" height="15"/>
-  <rect class="cls-7" x="399.13" y="117.61" width="59.64" height="15"/>
-  <rect class="cls-7" x="382.31" y="158.01" width="37.44" height="15"/>
-  <rect class="cls-7" x="355.82" y="197.35" width="51.16" height="15"/>
-  <rect class="cls-7" x="336.04" y="237.53" width="14.85" height="15"/>
-  <rect class="cls-7" x="325.33" y="277.53" width="8.78" height="15"/>
-  <text class="cls-8" transform="translate(333.06 72.84)"><tspan x="0" y="0">Avg. starting wage</tspan></text>
-  <text class="cls-8" transform="translate(601.18 72.84)"><tspan x="0" y="0">Avg. top wage</tspan></text>
-  <text class="cls-8" transform="translate(469.83 40.71)"><tspan x="0" y="0">Avg. overall wage</tspan></text>
-  <text class="cls-11" transform="translate(20 24.18)"><tspan x="0" y="0">Wage disparity across professions</tspan></text>
-  <text class="cls-10" transform="translate(69.18 90.03)"><tspan x="0" y="0">Oil and Gas Well Driller</tspan></text>
-  <text class="cls-10" transform="translate(447.82 75.69)"><tspan x="0" y="0">$44.56</tspan></text>
-  <text class="cls-10" transform="translate(408.55 115.77)"><tspan x="0" y="0">$36.60</tspan></text>
-  <text class="cls-10" transform="translate(374.81 156.17)"><tspan x="0" y="0">$29.76</tspan></text>
-  <text class="cls-10" transform="translate(357.44 195.51)"><tspan x="0" y="0">$26.24</tspan></text>
-  <text class="cls-10" transform="translate(321.01 235.69)"><tspan x="0" y="0">$19.00</tspan></text>
-  <text class="cls-10" transform="translate(305.44 275.69)"><tspan x="0" y="0">$15.70</tspan></text>
-  <text class="cls-10" transform="translate(71.48 210.03)"><tspan x="0" y="0">Construction Labourer</tspan></text>
-  <text class="cls-10" transform="translate(80.23 170.03)"><tspan x="0" y="0">Social Service Worker</tspan></text>
-  <text class="cls-10" transform="translate(143.23 130.03)"><tspan x="0" y="0">Truck Driver</tspan></text>
-  <text class="cls-10" transform="translate(54.25 250.03)"><tspan x="0" y="0">Early Childhood Educator</tspan></text>
-  <text class="cls-10" transform="translate(147.55 290.03)"><tspan x="0" y="0">Food Server</tspan></text>
-  <line class="cls-1" x1="250.07" y1="59.97" x2="250.07" y2="309.97"/>
-  <line class="cls-2" x1="469.83" y1="42.65" x2="469.83" y2="60.65"/>
-  <line class="cls-2" x1="600.51" y1="76.37" x2="600.51" y2="83.69"/>
-  <line class="cls-2" x1="428.69" y1="76.37" x2="428.69" y2="83.69"/>
+  <rect class="cls-6" x="428.69" y="87.64" width="171.83" height="15"/>
+  <rect class="cls-7" x="399.13" y="127.72" width="59.64" height="15"/>
+  <rect class="cls-7" x="382.31" y="168.12" width="37.44" height="15"/>
+  <rect class="cls-7" x="355.82" y="207.46" width="51.16" height="15"/>
+  <rect class="cls-7" x="336.04" y="247.64" width="14.85" height="15"/>
+  <rect class="cls-7" x="325.33" y="287.64" width="8.78" height="15"/>
+  <text class="cls-8" transform="translate(333.06 82.95)"><tspan x="0" y="0">Avg. starting wage</tspan></text>
+  <text class="cls-8" transform="translate(601.18 82.95)"><tspan x="0" y="0">Avg. top wage</tspan></text>
+  <text class="cls-8" transform="translate(469.83 50.82)"><tspan x="0" y="0">Avg. overall wage</tspan></text>
+  <text class="cls-11" transform="translate(20 24.18)"><tspan x="0" y="0">Wage disparity across professions in the Wood Buffalo–Cold Lake </tspan><tspan x="0" y="24">Region</tspan></text>
+  <text class="cls-10" transform="translate(69.18 100.14)"><tspan x="0" y="0">Oil and Gas Well Driller</tspan></text>
+  <text class="cls-10" transform="translate(447.82 85.8)"><tspan x="0" y="0">$44.56</tspan></text>
+  <text class="cls-10" transform="translate(408.55 125.88)"><tspan x="0" y="0">$36.60</tspan></text>
+  <text class="cls-10" transform="translate(374.81 166.28)"><tspan x="0" y="0">$29.76</tspan></text>
+  <text class="cls-10" transform="translate(357.44 205.62)"><tspan x="0" y="0">$26.24</tspan></text>
+  <text class="cls-10" transform="translate(321.01 245.8)"><tspan x="0" y="0">$19.00</tspan></text>
+  <text class="cls-10" transform="translate(305.44 285.8)"><tspan x="0" y="0">$15.70</tspan></text>
+  <text class="cls-10" transform="translate(71.48 220.14)"><tspan x="0" y="0">Construction Labourer</tspan></text>
+  <text class="cls-10" transform="translate(80.23 180.14)"><tspan x="0" y="0">Social Service Worker</tspan></text>
+  <text class="cls-10" transform="translate(143.23 140.14)"><tspan x="0" y="0">Truck Driver</tspan></text>
+  <text class="cls-10" transform="translate(54.25 260.14)"><tspan x="0" y="0">Early Childhood Educator</tspan></text>
+  <text class="cls-10" transform="translate(147.55 300.14)"><tspan x="0" y="0">Food Server</tspan></text>
+  <line class="cls-1" x1="250.07" y1="70.08" x2="250.07" y2="320.08"/>
+  <line class="cls-2" x1="469.83" y1="52.76" x2="469.83" y2="70.76"/>
+  <line class="cls-2" x1="600.51" y1="86.48" x2="600.51" y2="93.8"/>
+  <line class="cls-2" x1="428.69" y1="86.48" x2="428.69" y2="93.8"/>
   <g>
-    <text class="cls-9" transform="translate(20 350)"><tspan x="0" y="0">Sources: Alberta Wage &amp; Salary Survey (2023)</tspan></text>
-    <line class="cls-5" x1="20.41" y1="337.54" x2="690" y2="337.54"/>
+    <text class="cls-9" transform="translate(20 360.11)"><tspan x="0" y="0">Sources: Alberta Wage &amp; Salary Survey (2023)</tspan></text>
+    <line class="cls-5" x1="20.41" y1="347.65" x2="690" y2="347.65"/>
   </g>
   <g>
-    <circle class="cls-3" cx="469.83" cy="85.03" r="4.75"/>
-    <circle class="cls-4" cx="396.82" cy="165.51" r="4.75"/>
-    <circle class="cls-4" cx="379.45" cy="204.85" r="4.75"/>
-    <circle class="cls-4" cx="343.02" cy="245.03" r="4.75"/>
-    <circle class="cls-4" cx="327.45" cy="285.03" r="4.75"/>
-    <circle class="cls-4" cx="430.56" cy="125.11" r="4.75"/>
+    <circle class="cls-3" cx="469.83" cy="95.14" r="4.75"/>
+    <circle class="cls-4" cx="396.82" cy="175.62" r="4.75"/>
+    <circle class="cls-4" cx="379.45" cy="214.96" r="4.75"/>
+    <circle class="cls-4" cx="343.02" cy="255.14" r="4.75"/>
+    <circle class="cls-4" cx="327.45" cy="295.14" r="4.75"/>
+    <circle class="cls-4" cx="430.56" cy="135.22" r="4.75"/>
   </g>
 </svg>

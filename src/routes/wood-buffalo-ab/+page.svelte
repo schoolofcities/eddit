@@ -174,7 +174,7 @@
 			While housing prices may drop during downturns, reduced incomes and fewer job opportunities offset any gains in affordability. Conversely, during boom periods, surging demand can drive up housing costs, pricing out many residents. Demand for skilled labour also increases the price of services such as home repair or construction.<Footnote id={addFootnote(fns[9])} /> Without stable economic foundations or diversified employment options, affordability remains uncertain and uneven across economic cycles.
 		</p>
 		<p>
-			Compounding the effects of this volatility are geographic factors, as many resource-driven economies are in remote locations, which can drive up the cost of transporting building materials and labour. Climate change also plays a role, with remote communities particularly at risk. Wood Buffalo has experienced this first-hand: a devastating fire tore through the region in 2016, damaging or destroying thousands of homes in Fort McMurray and further constraining supply.<Footnote id={addFootnote(fns[10])} /> Flooding downtown in 2020 forced thousands more to evacuate and caused considerable damage to homes and businesses.<Footnote id={addFootnote(fns[11])} />
+			Compounding the effects of this volatility are geographic factors, as many resource-driven economies are in remote locations, which can drive up the cost of transporting building materials and labour. Climate change also plays a role, with remote communities particularly at risk. Wood Buffalo has experienced this first-hand: a devastating fire tore through the region in 2016, damaging or destroying thousands of homes in Fort McMurray and further constraining supply.<Footnote id={addFootnote(fns[10])} /> Flooding downtown in 2020 forced thousands more to evacuate and caused considerable damage to homes and businesses.<Footnote id={addFootnote(fns[11])} /> Wildfires in 2023 and 2024 threatened the region again, with one prompting the evacuation by air and water of the entire community of Fort Chipewyan.
 		</p>
 		<h2>Wage gaps and affordability: the people being left behind</h2>
 		<p>
@@ -321,15 +321,15 @@
 		</p>
 		<br>
 
-		<!-- <h2>Hear from the Regional Municipality of Wood Buffalo team</h2>
+		<h3>Hear from the Regional Municipality of Wood Buffalo team</h3>
 
 		<VideoSingle
-			videoURL=""
+			videoURL="https://www.youtube.com/embed/YYCzcY2BcAY?si=iBKUkAonEEiF4gFS"
 			caption=""
 			source=""
 			altText="EDDIT 2023 Spotlight: Regional Municipality of Wood Buffalo"
 			maxWidth="{680}px"
-		/> -->
+		/>
 
 		<Footnotes footnotes={footnotes} />
 

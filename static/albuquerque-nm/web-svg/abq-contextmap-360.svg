@@ -53,18 +53,6 @@
       </text>
     </g>
     <g class="cls-12" style="clip-path: url(#clippath);">
-      <text class="cls-5" transform="translate(118.91 326.56)" style="font-family: OpenSansBold; font-size: 12px; fill: #cfd9d8; font-style: normal;">
-        <text class="cls-5" transform="translate(118.91 326.56)" style="font-family: OpenSansBold; font-size: 12px; fill: #cfd9d8; font-style: normal;"/>
-      </text>
-    </g>
-    <g class="cls-12" style="clip-path: url(#clippath);">
-      <text class="cls-5" transform="translate(118.91 326.56)" style="font-family: OpenSansBold; font-size: 12px; fill: #cfd9d8; font-style: normal;">
-        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
-          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">MEXICO</tspan>
-        </tspan>
-      </text>
-    </g>
-    <g class="cls-12" style="clip-path: url(#clippath);">
       <text class="cls-5" transform="translate(298.11 235.32)" style="font-family: OpenSansBold; font-size: 12px; fill: #cfd9d8; font-style: normal;">
         <text class="cls-5" transform="translate(298.11 235.32)" style="font-family: OpenSansBold; font-size: 12px; fill: #cfd9d8; font-style: normal;"/>
       </text>
@@ -100,24 +88,30 @@
         </tspan>
       </text>
     </g>
-    <g>
-      <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;">
-        <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;"/>
-      </text>
+    <g class="cls-12" style="clip-path: url(#clippath);">
+      <g>
+        <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;">
+          <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;"/>
+        </text>
+      </g>
     </g>
-    <g>
-      <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;">
-        <tspan class="cls-10" x="0" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
-          <tspan class="cls-10" x="0" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">City of Albuquerque Population (2020): </tspan>
-        </tspan>
-      </text>
+    <g class="cls-12" style="clip-path: url(#clippath);">
+      <g>
+        <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;">
+          <tspan class="cls-10" x="0" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+            <tspan class="cls-10" x="0" y="0" style="font-family: OpenSans; font-weight: normal; font-style: normal;">City of Albuquerque Population (2020): </tspan>
+          </tspan>
+        </text>
+      </g>
     </g>
-    <g>
-      <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;">
-        <tspan class="cls-4" x="219.46" y="0" style="font-family: OpenSansBold; font-style: normal;">
-          <tspan class="cls-4" x="219.46" y="0" style="font-family: OpenSansBold; font-style: normal;">564,559</tspan>
-        </tspan>
-      </text>
+    <g class="cls-12" style="clip-path: url(#clippath);">
+      <g>
+        <text class="cls-7" transform="translate(63.56 330.3)" style="font-size: 12px; fill: #0d534d; font-weight: normal; font-style: normal;">
+          <tspan class="cls-4" x="219.46" y="0" style="font-family: OpenSansBold; font-style: normal;">
+            <tspan class="cls-4" x="219.46" y="0" style="font-family: OpenSansBold; font-style: normal;">564,559</tspan>
+          </tspan>
+        </text>
+      </g>
     </g>
   </g>
 </svg>
