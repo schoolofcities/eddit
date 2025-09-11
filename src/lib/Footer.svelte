@@ -3,6 +3,8 @@
 	import "../assets/global-styles.css"
 	import uniLogos from "../assets/university-logos.svg"
 	import edditLogo from "../assets/eddit-logo.svg"
+	import berkLogo from "../assets/berkeley-logo.svg"
+	import uoftLogo from "../assets/uoft-logo.svg"
 
 </script>
 
@@ -11,7 +13,10 @@
 
 	<div class="footer-content">
 
-		<img src={edditLogo} alt="EDDIT Logo" class="logo-eddit"/>
+		<!-- <img src={edditLogo} alt="EDDIT Logo" class="logo-eddit"/> -->
+		<a href="https://www.equitabledev.org/" target="_blank" class="logo-link">
+			<img src={edditLogo} alt="EDDIT Logo" class="logo-eddit" />
+		</a>
 
 		<p style="max-width: 720px; margin: 0 auto;  text-align: left;">
 			<br><br>
@@ -60,7 +65,15 @@
 			<br><br><br>
 		</p>
 
-		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-unis"/>
+		<!-- <img src={uniLogos} alt="UofT and UCB Logos" class="logo-unis"/> -->
+		<div class="logo-uni-container">
+		  <a href="https://www.berkeley.edu/" target="_blank" class="logo-link">
+		    <img src={berkLogo} alt="UC Berkeley Logo" class="logo-uni-left" />
+		  </a>
+		  <a href="https://schoolofcities.utoronto.ca/" target="_blank" class="logo-link">
+		    <img src={uoftLogo} alt="University of Toronto Logo" class="logo-uni-right" />
+		  </a>
+		</div>
 
 	</div>
 
@@ -137,18 +150,48 @@ i {
 	text-decoration: none;
 }
 
-.logo-unis {
+/*.logo-unis {
 	width: 320px;
 	height: auto;
 	display: block;
 	margin: 0 auto;
-}
+}*/
 
 .logo-eddit {
 	width: 220px;
 	height: auto;
-	display: block;
+/*	display: block;*/
 	margin: 0 auto;
+}
+
+.logo-uni-container {
+	width: 320px;
+	height: auto;
+	display: inline-flex;
+	margin: 0 auto;
+}
+
+.logo-uni-left {
+	max-width: 100.608px;
+	width: 100%;
+	height: auto;
+}
+
+.logo-uni-right{
+	max-width: 219.392px;
+	width: 100%;
+	height: auto;
+}
+
+.logo-link {
+/*	display: flex;*/
+	justify-content: center;
+	align-items: center;
+	width: fit-content;
+}
+
+.logo-link:hover {
+	opacity: 0.8;
 }
 
 </style>
