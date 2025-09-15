@@ -1,6 +1,9 @@
 <script>
 	import "../assets/global-styles.css"
-	import uniLogos from "../assets/university-logos.svg"
+
+	// import uniLogos from "../assets/university-logos.svg"
+	import berkLogo from "../assets/berkeley-logo.svg"
+	import uoftLogo from "../assets/uoft-logo.svg"
 	import edditLogo from "../assets/eddit-logo.svg"
 
 	export let title = '';
@@ -15,7 +18,15 @@
 <div class="container">
 
 	<div class="left" style="background-color: {backgroundColour};">
-		<img src={uniLogos} alt="UofT and UCB Logos" class="logo-top" />
+		<div class="logo-top-container">
+		  <a href="https://www.berkeley.edu/" target="_blank" class="logo-link">
+		    <img src={berkLogo} alt="UC Berkeley Logo" class="logo-top-left" />
+		  </a>
+		  <a href="https://schoolofcities.utoronto.ca/" target="_blank" class="logo-link">
+		    <img src={uoftLogo} alt="University of Toronto Logo" class="logo-top-right" />
+		  </a>
+		</div>
+				
 		<div class="title-text-container">
 			<h1>{title}</h1>
 			<h2>{subtitle}</h2>
@@ -56,25 +67,40 @@
 		position: relative;
 	}
 
-	.logo-top {
-		width: 275px;
-		height: auto;
+	.logo-top-container {
 		position: absolute;
 		top: 8px;
+		left: 50%;
+		transform: translateX(-50%);
+		justify-content: center;
+		align-items: center;
+		width: 275px;
+		height: auto;
+		display: inline-flex;
+	}
+
+	.logo-top-left {
+		max-width: 86.46px;
+		width: 100%;
+		height: 50px;
+	}
+
+	.logo-top-right{
+		max-width: 188.54px;
+		width: 100%;
+		height: 50px;
 	}
 
 	.logo-bottom {
 		width: 200px;
 		height: auto;
 		position: absolute;
-		bottom: 12px;
-	}
-	
-	.logo-link {
-		position: absolute;
-		bottom: 12px;
+		bottom: 24px;
 		left: 50%;
 		transform: translateX(-50%);
+	}
+
+	.logo-link {
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -171,12 +197,6 @@
 		h2 {
 			font-size: 20px; 
 		}
-		/* .logo-top {
-			width: 225px;
-		}
-		.logo-bottom {
-			width: 150px;
-		} */
 	}
 
 	@media (max-width: 800px) {
@@ -188,7 +208,7 @@
 		h2 {
 			font-size: 16px; 
 		}
-		.logo-top {
+		.logo-top-container{
 			width: 225px;
 		}
 		.logo-bottom {
@@ -197,7 +217,8 @@
 	}
 
 	@media (max-width: 600px) {
-		.logo-top {
+
+		.logo-top-container{
 			width: 200px;
 		}
 		.logo-bottom {
