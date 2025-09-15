@@ -150,17 +150,9 @@ i {
 	text-decoration: none;
 }
 
-/*.logo-unis {
-	width: 320px;
-	height: auto;
-	display: block;
-	margin: 0 auto;
-}*/
-
 .logo-eddit {
 	width: 220px;
 	height: auto;
-/*	display: block;*/
 	margin: 0 auto;
 }
 

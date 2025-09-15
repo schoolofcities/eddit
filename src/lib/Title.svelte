@@ -1,6 +1,6 @@
 <script>
 	import "../assets/global-styles.css"
-	
+
 	// import uniLogos from "../assets/university-logos.svg"
 	import berkLogo from "../assets/berkeley-logo.svg"
 	import uoftLogo from "../assets/uoft-logo.svg"
@@ -90,13 +90,6 @@
 		width: 100%;
 		height: 50px;
 	}
-
-	/*.logo-top {
-		width: 275px;
-		height: auto;
-		position: absolute;
-		top: 8px;
-	}*/
 
 	.logo-bottom {
 		width: 200px;
@@ -204,12 +197,6 @@
 		h2 {
 			font-size: 20px; 
 		}
-		/* .logo-top {
-			width: 225px;
-		}
-		.logo-bottom {
-			width: 150px;
-		} */
 	}
 
 	@media (max-width: 800px) {
@@ -221,9 +208,6 @@
 		h2 {
 			font-size: 16px; 
 		}
-		/*.logo-top {
-			width: 225px;
-		}*/
 		.logo-top-container{
 			width: 225px;
 		}
@@ -233,9 +217,7 @@
 	}
 
 	@media (max-width: 600px) {
-		/*.logo-top {
-			width: 200px;
-		}*/
+
 		.logo-top-container{
 			width: 200px;
 		}
