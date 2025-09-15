@@ -1,6 +1,7 @@
 <script>
 	import "../assets/global-styles.css"
-	import uniLogos from "../assets/university-logos.svg"
+	
+	// import uniLogos from "../assets/university-logos.svg"
 	import berkLogo from "../assets/berkeley-logo.svg"
 	import uoftLogo from "../assets/uoft-logo.svg"
 	import edditLogo from "../assets/eddit-logo.svg"
@@ -81,13 +82,13 @@
 	.logo-top-left {
 		max-width: 86.46px;
 		width: 100%;
-		height: auto;
+		height: 50px;
 	}
 
 	.logo-top-right{
 		max-width: 188.54px;
 		width: 100%;
-		height: auto;
+		height: 50px;
 	}
 
 	/*.logo-top {

@@ -174,13 +174,13 @@ i {
 .logo-uni-left {
 	max-width: 100.608px;
 	width: 100%;
-	height: auto;
+	height: 50px;
 }
 
 .logo-uni-right{
 	max-width: 219.392px;
 	width: 100%;
-	height: auto;
+	height: 50px;
 }
 
 .logo-link {
