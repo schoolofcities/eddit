@@ -120,7 +120,7 @@
 	<div class="text">
 
 		<p>
-			Maintaining a site like Plumley Village requires ongoing investment. Without sustained support, essential community services such as food pantries and youth programs could be cut. TCB is seeking support from municipal leaders for more investments in these amenities and services to support Plumley Village and its residents. In a moment of broader neighbourhood growth and revitalization, the organization is also looking to be more involved in Worcester’s downtown planning process as Plumley Village is a central residential area in the neighbourhood.
+			Maintaining a site like Plumley Village requires ongoing investment. Without sustained support, essential community services such as food pantries and youth programs could be cut. TCB is seeking support from municipal leaders for more investments in these amenities and services. In a moment of broader neighbourhood growth and revitalization, the organization is also looking to be more involved in Worcester’s downtown planning process as it operates multiple residential sites in the neighbourhood.
 		</p>
 		<p>
 			This case study highlights the narrative that emerged from the collaborative work between the <a href="https://schoolofcities.github.io/eddit/" target="_blank">EDDIT data storytelling team</a> and TCB, and argues that cities should invest in maintaining and improving existing affordable housing developments, while also enhancing the surrounding environment. By integrating affordable housing into broader neighbourhood planning processes, cities can enhance the connectivity and vibrancy of their communities.
