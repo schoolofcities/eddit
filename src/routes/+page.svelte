@@ -126,7 +126,7 @@
 		<i>School of Cities, University of Toronto</i>
 		<br>
 		Karen Chapple Ph.D,
-		Kathryn Exon Smith,
+		Kathryn J. Exon Smith,
 		Sarah A. Smith,
 		Jeff Allen Ph.D,
 		Isabeaux Graham,
@@ -142,7 +142,7 @@
 		Karen Chapple Ph.D.,
 		Evelyne St-Louis,
 		Michelle Zhang,
-		Kathryn Exon Smith,
+		Kathryn J. Exon Smith,
 		Jeff Allen Ph.D.,
 		Julia Greenberg
 		Sara O’Connor Ph.D.,
