@@ -1,5 +1,6 @@
 <script>
 
+	import { base } from "$app/paths";
 	import "../assets/global-styles.css"
 	import uniLogos from "../assets/university-logos.svg"
 	import edditLogo from "../assets/eddit-logo.svg"
@@ -26,38 +27,38 @@
 			<br>
 			<br>
 			<br>
-			<strong><a href="./">Case studies:</a></strong>
+			<strong><a href="{base}/">Case studies:</a></strong>
 		</p>
 
 		<p class="footer-link">
-			→ <a href="./albuquerque-nm">From tracks to trail: Planning for equitable (re)development <i>- Albuquerque, NM</i></a>
+			→ <a href="{base}/2024/albuquerque-nm">From tracks to trail: Planning for equitable (re)development <i>- Albuquerque, NM</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./bridgeport-ct">Increasing tree cover for equity and climate resilience <i>- Bridgeport, CT</i></a>
+			→ <a href="{base}/2024/bridgeport-ct">Increasing tree cover for equity and climate resilience <i>- Bridgeport, CT</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./champaign-il">Building safe communities: Infrastructure investments for gun violence prevention <i> - Champaign, IL</i></a>
+			→ <a href="{base}/2024/champaign-il">Building safe communities: Infrastructure investments for gun violence prevention <i> - Champaign, IL</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./cook-county-il">Cross-community Approaches to Climate Action: Transitioning to sustainable landscape practices <i>- Cook County, IL</i></a>
+			→ <a href="{base}/2024/cook-county-il">Cross-community Approaches to Climate Action: Transitioning to sustainable landscape practices <i>- Cook County, IL</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./eau-claire-wi">Connecting the Dots: Showcasing the Benefits of Public Transportation <i> - Eau Claire, WI</i></a>
+			→ <a href="{base}/2024/eau-claire-wi">Connecting the Dots: Showcasing the Benefits of Public Transportation <i> - Eau Claire, WI</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./greensboro-nc">Increasing the availability of healthy food <i>- Greensboro, NC</i></a>
+			→ <a href="{base}/2024/greensboro-nc">Increasing the availability of healthy food <i>- Greensboro, NC</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./halifax-ns">Becoming “Canada’s Favourite Downtown”: Encouraging investments in the core <i>- Halifax, NS</i></a>
+			→ <a href="{base}/2024/halifax-ns">Becoming “Canada’s Favourite Downtown”: Encouraging investments in the core <i>- Halifax, NS</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./high-point-nc">Revitalizing historic main streets through entrepreneurship <i>- High Point, NC</i></a>
+			→ <a href="{base}/2024/high-point-nc">Revitalizing historic main streets through entrepreneurship <i>- High Point, NC</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./wood-buffalo-ab">Seeking a new definition of affordability in a resource economy <i>- Wood Buffalo, AB</i></a>
+			→ <a href="{base}/2024/wood-buffalo-ab">Seeking a new definition of affordability in a resource economy <i>- Wood Buffalo, AB</i></a>
 		</p>
 		<p class="footer-link">
-			→ <a href="./worcester-ma">Investing in affordable housing to support inclusive downtowns <i>- Worcester, MA</i></a>
+			→ <a href="{base}/2024/worcester-ma">Investing in affordable housing to support inclusive downtowns <i>- Worcester, MA</i></a>
 		</p>
 		
 		<p style="max-width: 720px; margin: 0 auto;  text-align: left;">

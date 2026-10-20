@@ -35,7 +35,7 @@
 	<meta property="og:title" content={title} />
 	<meta property="og:description" content={subTitle} />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://schoolofcities.github.io/design-components/" />
+	<meta property="og:url" content="https://schoolofcities.github.io/eddit/" />
 	<meta property="og:image" content="https://raw.githubusercontent.com/schoolofcities/eddit/main/static/web-card.png" />
 	<meta property="og:locale" content="en_CA">
 
