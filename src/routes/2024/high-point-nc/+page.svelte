@@ -2,14 +2,14 @@
 
 	import "../../../assets/global-styles.css"
 
-	import Password from "$lib/Password.svelte";
-	import Title from '$lib/Title.svelte';
-	import AuthorDate from "$lib/AuthorDate.svelte";
-	import Footer from "$lib/Footer.svelte";
-	import GraphicSingle from "$lib/GraphicSingle.svelte";
-	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
-	import ImageSingle from "$lib/ImageSingle.svelte";
-	import VideoSingle from "$lib/VideoSingle.svelte";
+	import Password from "#lib/Password.svelte";
+	import Title from '#lib/Title.svelte';
+	import AuthorDate from "#lib/AuthorDate.svelte";
+	import Footer from "#lib/Footer.svelte";
+	import GraphicSingle from "#lib/GraphicSingle.svelte";
+	import GraphicMultiples from "#lib/GraphicMultiples.svelte";
+	import ImageSingle from "#lib/ImageSingle.svelte";
+	import VideoSingle from "#lib/VideoSingle.svelte";
 
 	import titleImage from "./assets/high-point-title.jpg";
 	import kilbyImage from "./assets/Kilby_hotel.png";
@@ -19,9 +19,9 @@
 
 	import { CompareImage } from "svelte-compare-image";
 
-	import Footnote from '$lib/Footnote.svelte';
-    import Footnotes from '$lib/Footnotes.svelte';
-    import { createFootnoteStore } from '$lib/footnoteUtils';
+	import Footnote from '#lib/Footnote.svelte';
+    import Footnotes from '#lib/Footnotes.svelte';
+    import { createFootnoteStore } from '#lib/footnoteUtils.js';
 
 	const footnoteStore = createFootnoteStore();
     const { footnotes, addFootnote } = footnoteStore;

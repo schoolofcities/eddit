@@ -2,15 +2,15 @@
 
 	import "../assets/global-styles.css"
 
-	import Password from "$lib/Password.svelte";
-	import Title from '$lib/Title.svelte';
-	import AuthorDate from "$lib/AuthorDate.svelte";
-	import Footer from "$lib/Footer.svelte";
-	import GraphicSingle from "$lib/GraphicSingle.svelte";
-	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
-	import ImageSingle from "$lib/ImageSingle.svelte";
+	import Password from "#lib/Password.svelte";
+	import Title from '#lib/Title.svelte';
+	import AuthorDate from "#lib/AuthorDate.svelte";
+	import Footer from "#lib/Footer.svelte";
+	import GraphicSingle from "#lib/GraphicSingle.svelte";
+	import GraphicMultiples from "#lib/GraphicMultiples.svelte";
+	import ImageSingle from "#lib/ImageSingle.svelte";
 
-	import LandingCards from "$lib/LandingCards.svelte";
+	import LandingCards from "#lib/LandingCards.svelte";
 
 	import titleImage from "../assets/landing/collage.png"
 	import map720 from "../../static/landing/landing-map-720.svg?raw"

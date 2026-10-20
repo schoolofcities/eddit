@@ -1,5 +1,5 @@
 import { error } from '@sveltejs/kit';
-import { base } from '$app/paths';
+import { resolve } from '$app/paths';
 
 // Every case study that used to live at the site root before moving under /2024/.
 // Each one is prerendered as a static redirect page (the site is hosted statically,
@@ -28,5 +28,5 @@ export function load({ params }) {
 	if (!LEGACY_SLUGS.includes(params.slug)) {
 		error(404, 'Not found');
 	}
-	return { target: `${base}/2024/${params.slug}` };
+	return { target: resolve(/** @type {any} */ (`/2024/${params.slug}`)) };
 }

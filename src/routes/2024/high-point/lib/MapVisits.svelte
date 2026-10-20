@@ -1,6 +1,7 @@
 <script>
 	import { onMount } from "svelte";
-	import maplibregl from "maplibre-gl";
+	import * as maplibregl from "maplibre-gl";
+	import workerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?worker&url";
 	import * as pmtiles from "pmtiles";
 
 	import BaseLayer from "../data/high-point-green.json";
@@ -26,6 +27,7 @@
 	
 
 	onMount(async () => {
+		maplibregl.setWorkerUrl(workerUrl);
 		let protocol = new pmtiles.Protocol();
 		maplibregl.addProtocol("pmtiles", protocol.tile);
 

@@ -2,21 +2,21 @@
 
 	import "../../../assets/global-styles.css"
 
-	import Password from "$lib/Password.svelte";
-	import Title from '$lib/Title.svelte';
-	import AuthorDate from "$lib/AuthorDate.svelte";
-	import Footer from "$lib/Footer.svelte";
-	import GraphicSingle from "$lib/GraphicSingle.svelte";
-	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
-	import ImageSingle from "$lib/ImageSingle.svelte";
+	import Password from "#lib/Password.svelte";
+	import Title from '#lib/Title.svelte';
+	import AuthorDate from "#lib/AuthorDate.svelte";
+	import Footer from "#lib/Footer.svelte";
+	import GraphicSingle from "#lib/GraphicSingle.svelte";
+	import GraphicMultiples from "#lib/GraphicMultiples.svelte";
+	import ImageSingle from "#lib/ImageSingle.svelte";
 
 	import titleImage from "./assets/greensboro-title.jpg";
 	import groceryImage from "./assets/image-grocery.jpg";
 	import carrotImage from "./assets/image-carrots.jpg";
 
-	import Footnote from '$lib/Footnote.svelte';
-    import Footnotes from '$lib/Footnotes.svelte';
-    import { createFootnoteStore } from '$lib/footnoteUtils';
+	import Footnote from '#lib/Footnote.svelte';
+    import Footnotes from '#lib/Footnotes.svelte';
+    import { createFootnoteStore } from '#lib/footnoteUtils.js';
 
 	const footnoteStore = createFootnoteStore();
     const { footnotes, addFootnote } = footnoteStore;

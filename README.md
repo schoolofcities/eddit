@@ -1,6 +1,6 @@
 ## EDDIT
 
-Clone repo locally and install needed packages
+Requires Node.js 22.17+ (see `.nvmrc`). Clone repo locally and install needed packages
 ```
 git clone https://github.com/schoolofcities/eddit
 cd eddit
