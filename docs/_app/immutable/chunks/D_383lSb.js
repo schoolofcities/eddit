@@ -1,0 +1,1 @@
+import{A as e,G as t,k as n,w as r}from"./BtHy0Bry.js";function i(i,a){var o=e(),s=t(o);r(s,()=>a.children),n(i,o)}export{i as t};

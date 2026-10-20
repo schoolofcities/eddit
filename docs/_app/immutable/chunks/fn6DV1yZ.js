@@ -1,1 +1,0 @@
-import{D as e,O as t,S as n,U as r}from"./nWQziroc.js";function i(i,a){var o=t(),s=r(o);n(s,()=>a.children),e(i,o)}export{i as t};
