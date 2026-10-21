@@ -24,11 +24,14 @@
 
 
     const fns = [
-		'"Yes to RTM," [URL](https://www.regionaltransitmeasure.com/)',
+		'"BART is facing a financial deficit," *Bay Area Regional Transit* [URL](https://www.bart.gov/about/financials/crisis)',
+		'"The SFMTAs Financial Crisis," *SFMTA*, [URL](https://www.sfmta.com/project-updates/sfmtas-financial-crisis)',
+		'"GOVERNOR NEWSOM AND STATE LEADERS CHAMPION EAST BAY RIDERS WITH SB 63 APPROVAL," *AC Transit*, October 14, 2025, [URL](https://www.actransit.org/press-release/governor-newsom-state-leaders-champion-east-bay-riders-approving-sb-63)',
+		'"Caltrain Budget Deficit," *Caltrain*, [URL](https://www.caltrain.com/caltrain-budget-deficit)',
 		'"Accessibility (transport)," *Wikipedia*, [URL](https://en.wikipedia.org/wiki/Accessibility_(transport))',
 		'U.S. Census Bureau, *Tenure by Vehicles Available*, (American Community Survey 5-Year Estimates, Table B25044) (2024), Retrieved Oct 5, 2026, [URL](https://data.census.gov/table/ACSDT5Y2024.B25044?q=B25044&g=050XX00US06001$1500000)',
-		'Bay Area Rapid Transit, "Ridership Reports - September 2026 Ridership OD," [URL](https://www.bart.gov/about/reports/ridership)',
-		'Caltrain, "Annual Ridership Reports - Fiscal Year 2026 Annual Ridership Report," [URL](https://www.caltrain.com/about-caltrain/statistics-reports/ridership/annual-reports).'
+		'"Ridership Reports - September 2026 Ridership OD," *Bay Area Rapid Transit*, [URL](https://www.bart.gov/about/reports/ridership)',
+		'"Annual Ridership Reports - Fiscal Year 2026 Annual Ridership Report," *Caltrain*, [URL](https://www.caltrain.com/about-caltrain/statistics-reports/ridership/annual-reports).'
    	];
 
 	let title = "HOW TRANSIT CUTS COULD COST THE BAY AREA"
@@ -86,10 +89,10 @@
 		</div>
 
 		<p>
-			Based on 2026 data, the average Bay Area resident can reach more than 247,000 jobs within 60 minutes by transit. That may soon change. Because of a major funding deficit at the start of 2027, Bay Area transit agencies may be forced to cut service.. Proposed cuts include BART reducing service by 70% and closing 15 stations, MUNI cutting service by at least 30% and cancelling 20 bus routes, AC Transit reducing service by 16%, and Caltrain running hourly and eliminating weekend service.<Footnote id={addFootnote(fns[0])} />
+			Based on 2026 data, the average Bay Area resident can reach more than 247,000 jobs within 60 minutes by transit. That may soon change. Because of a major funding deficit at the start of 2027, Bay Area transit agencies may be forced to cut service. Proposed cuts include BART reducing service by 70% and closing 15 stations,<Footnote id={addFootnote(fns[0])} /> reducing MUNI frequencies up to 50% and cancelling routes including cable cars,<Footnote id={addFootnote(fns[1])} /> AC Transit reducing service up to 37%,<Footnote id={addFootnote(fns[2])} /> and Caltrain running hourly and eliminating weekend service.<Footnote id={addFootnote(fns[3])} />
 		</p>
 		<p>
-			We analyzed how cuts like these could shrink the number of jobs people can reach by public transit, and the impacts vary significantly by county.  For this analysis, we are defining the Bay Area as the five counties of Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara. We focus on job access because it captures both the transit network (where routes run and how often) and land use (where jobs and destinations are located), so it shows how well transit connects people to the places they need to go. Jobs are spread across a region much like other everyday destinations, which makes job access a good proxy for access to schools, healthcare, groceries, and more.<Footnote id={addFootnote(fns[1])} />
+			We analyzed how cuts like these could shrink the number of jobs people can reach by public transit, and the impacts vary significantly by county.  For this analysis, we are defining the Bay Area as the five counties of Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara. We focus on job access because it captures both the transit network (where routes run and how often) and land use (where jobs and destinations are located), so it shows how well transit connects people to the places they need to go. Jobs are spread across a region much like other everyday destinations, which makes job access a good proxy for access to schools, healthcare, groceries, and more.<Footnote id={addFootnote(fns[4])} />
 		</p>
 		<p>
 			Across the Bay Area, job access loss generally grows more slowly than the cut itself. Cutting 40% of routes does not usually cost 40% of jobs, because many trips have alternative routes. For example, at a 40% cut, Santa Clara has a mean 37% reduction in job access while San Francisco sees 13% in reductions. San Francisco has a denser network that allows for some redundancy, but once cuts exceed 60%, its losses climb steeply. Contra Costa also sits far below the proportional loss line, at 20% for a 40% cut, but it has very little transit access to lose in the first place. San Mateo varies the most between cut route iterations, which suggests the county depends on a few key transit routes. In four of the five counties, households without a car could lose access to more jobs than households with at least one vehicle, and in Alameda and Contra Costa, lower-income households would carry a disproportionate share of the loss.
@@ -131,7 +134,7 @@
 			At a 40% transit cut, zero-vehicle households lose accessibility to more jobs  than other households in four out of the five counties. In Alameda and Contra Costa, they lose access to 1.6 and 1.7 times as many jobs as households with a vehicle, respectively. These households tend to live where transit access is strongest today. However, they are also households with the fewest alternatives for getting to work when service shrinks.
 		</p>
 		<p>
-			San Francisco is the exception. With a much higher share of zero-vehicle households overall (30%), it is households with a vehicle that face the larger job losses. This is likely because San Francisco’s car ownership rates are higher on the outskirts of the city, where fewer routes run. <Footnote id={addFootnote(fns[2])} />
+			San Francisco is the exception. With a much higher share of zero-vehicle households overall (30%), it is households with a vehicle that face the larger job losses. This is likely because San Francisco’s car ownership rates are higher on the outskirts of the city, where fewer routes run. <Footnote id={addFootnote(fns[5])} />
 		</p>
 		<p>
 			How badly a cut hurts depends less on its size than on how much backup a network has. Santa Clara has little to fall back on, while San Francisco and Contra Costa absorb moderate cuts better. In San Mateo, protecting a few key routes could matter more than the overall size of the cut.
@@ -196,7 +199,7 @@
 
 	<div class = "text">
 		<p>
-			Sitting on the Alameda and Contra Costa border, the Caldecott Tunnel is a major bottle neck as commuters flow into Alameda in the morning and out in the afternoon. Over the last four months, the average Tuesday drive east on SR-24 from the I580 interchange in Oakland to southern Walnut Creek, about 12.5 miles, took 31 minutes at 5 PM, compared with 11 minutes in free flow. BART’s Yellow Line follows the same route in 19 minutes, and on an average weekday in September 2026, more than 12K riders took it west along the SR-24 corridor.<Footnote id={addFootnote(fns[3])} /> For Contra Costa commuters, the road is not an easy substitute if BART service is cut. 
+			Sitting on the Alameda and Contra Costa border, the Caldecott Tunnel is a major bottle neck as commuters flow into Alameda in the morning and out in the afternoon. Over the last four months, the average Tuesday drive east on SR-24 from the I580 interchange in Oakland to southern Walnut Creek, about 12.5 miles, took 31 minutes at 5 PM, compared with 11 minutes in free flow. BART’s Yellow Line follows the same route in 19 minutes, and on an average weekday in September 2026, more than 12K riders took it west along the SR-24 corridor.<Footnote id={addFootnote(fns[6])} /> For Contra Costa commuters, the road is not an easy substitute if BART service is cut. 
 		</p>
 
 		<h3>
@@ -243,7 +246,7 @@
 			San Mateo’s job accessibility loss is highly dependent on which routes are cut. At a 40% cut, the county loses an average of 36% of its job accessibility, second highest in the region, but across the 35 random cut scenarios (see APPROACH AND LIMITATIONS below), the loss ranged from 23.4% to 47.9%, the widest spread of any county.  That points to a handful of routes carrying the county, so which routes are cut could matter more than how many.
 		</p>
 		<p>
-			San Mateo, at the baseline, already has limited accessibility. Nearly a quarter of residents can reach fewer than 10K jobs. However, the county has the highest share of workers commuting to another Bay Area county at 51%, with 22% going to San Francisco and 19% to Santa Clara. The key arteries for commuting are US-101, I-280, and Caltrain. In Fiscal Year 2026 (July 2025 to June 2026), Caltrain averaged an estimated 14,458 midweek trips per day starting at San Mateo County stations.<Footnote id={addFootnote(fns[4])} /> Our model removes whole routes, while Caltrain’s proposal reduces how often service runs, so it only can approximate that cut, but the implications of reduced transit for this county are clear. 
+			San Mateo, at the baseline, already has limited accessibility. Nearly a quarter of residents can reach fewer than 10K jobs. However, the county has the highest share of workers commuting to another Bay Area county at 51%, with 22% going to San Francisco and 19% to Santa Clara. The key arteries for commuting are US-101, I-280, and Caltrain. In Fiscal Year 2026 (July 2025 to June 2026), Caltrain averaged an estimated 14,458 midweek trips per day starting at San Mateo County stations.<Footnote id={addFootnote(fns[7])} /> Our model removes whole routes, while Caltrain’s proposal reduces how often service runs, so it only can approximate that cut, but the implications of reduced transit for this county are clear. 
 		</p>
 
 		<h3>
