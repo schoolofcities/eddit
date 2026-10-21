@@ -6,61 +6,61 @@
         image: "./landing/card-images/abq-title.jpg",
         title: "From tracks to trail: Planning for equitable (re)development",
         subtitle: "Albuquerque, New Mexico",
-        url: "/eddit/albuquerque-nm"
+        url: "/eddit/2024/albuquerque-nm"
     },
     {
         image: "./landing/card-images/bridgeport-title.jpg",
         title: "Increasing tree cover for equity and climate resilience",
         subtitle: "Bridgeport, Connecticut",
-        url: "/eddit/bridgeport-ct"
+        url: "/eddit/2024/bridgeport-ct"
     },
     {
         image: "./landing/card-images/champaign-title.jpg",
         title: "Building safe communities: Infrastructure investments for gun violence prevention",
         subtitle: "Champaign, Illinois",
-        url: "/eddit/champaign-il"
+        url: "/eddit/2024/champaign-il"
     },
     {
         image: "./landing/card-images/cook-county-title.jpg",
         title: "Cross-community Approaches to Climate Action: Transitioning to sustainable landscape practices",
         subtitle: "Cook County, Illinois",
-        url: "/eddit/cook-county-il"
+        url: "/eddit/2024/cook-county-il"
     },
     {
         image: "./landing/card-images/eau-claire-title.jpg",
         title: "Connecting the Dots: Showcasing the Benefits of Public Transportation",
         subtitle: "Eau Claire, Wisconsin",
-        url: "/eddit/eau-claire-wi"
+        url: "/eddit/2024/eau-claire-wi"
     },
     {
         image: "./landing/card-images/greensboro-title.jpg",
         title: "Increasing the availability of healthy food",
         subtitle: "Greensboro, North Carolina",
-        url: "/eddit/greensboro-nc"
+        url: "/eddit/2024/greensboro-nc"
     },
     {
         image: "./landing/card-images/halifax-title.jpg",
         title: "Becoming “Canada’s Favourite Downtown”: Encouraging investments in the core",
         subtitle: "Halifax, Nova Scotia",
-        url: "/eddit/halifax-ns"
+        url: "/eddit/2024/halifax-ns"
     },
     {
         image: "./landing/card-images/high-point-title.jpg",
         title: "Revitalizing historic main streets through entrepreneurship",
         subtitle: "High Point, North Carolina",
-        url: "/eddit/high-point-nc"
+        url: "/eddit/2024/high-point-nc"
     },
     {
         image: "./landing/card-images/wood-buffalo-title.jpg",
         title: "Seeking a new definition of affordability in a resource economy",
         subtitle: "Wood Buffalo, Alberta",
-        url: "/eddit/wood-buffalo-ab"
+        url: "/eddit/2024/wood-buffalo-ab"
     },
     {
         image: "./landing/card-images/worcester-title.jpg",
         title: "Investing in affordable housing to support inclusive downtowns",
         subtitle: "Worcester, Massachusetts",
-        url: "/eddit/worcester-ma"
+        url: "/eddit/2024/worcester-ma"
     }
 ];
 
