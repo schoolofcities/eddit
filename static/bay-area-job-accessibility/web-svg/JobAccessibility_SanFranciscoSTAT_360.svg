@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_3" data-name="Layer 3" width="360" height="430" viewBox="0 0 360 430">
+  <g id="background">
+    <image x="0.0" y="0.0" width="360.0" height="430.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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IBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABAIaAAACAQ0AAIGABgCAQEADAEAgoAEAIBDQAAAQCGgAAAgENAAABPsQ0OvWAwAAODcXvv32IaDvbD0AAIBzc+Hb7+IH9Lre3noCAADnRkC/bMvyb1tPAADg3Dy99YB7ufgBva7/vPUEAADOxzrzL1tvuJcLH9DLsvzD1hsAADgfBzNf33rDvVz4gL579+5fbb0BAIDzsa7rl7fecC8XPqBv3br1bzPzxNY7AAB4+K5evfq3W2+4lwsf0DMzsyyf2HoCAAAP3RPXr19/cusR97IXAf3clSt/ODN3t94BAMDDs8z82dYb7sdeBPT3Xbv27zPz51vvAADg4VmW5Y+33nA/9iKgZ2ZmXd+39QQAAB6aL+52u69uPeJ+7E1A37hx44sz8xdb7wAA4MFbl+X9W2+4X8vWA4qTk5MfWWe+PDOv2noLAAAPzBNHu90blmU523rI/dibF+iZmaOjo28sM3+w9Q4AAB6cZea39iWeZ/YsoGdm7ty587sz87WtdwAA8EB8/ujo6DNbjyj26oTjRU/fufPowdnZF8YpBwDAPjtZz84evXnz5r9uPaTYuxfomZlbh4f/tC7Lb2y9AwCAl25dlnfvWzzP7GlAz8zc3O0+PMvyga13AADwEqzrh27udp/cesZLsZcnHC9a1/XK8enpp5aZt2+9BQCA+/a5o93uHcuyPLf1kJdirwN6ZmZd10eOT08/scy8Y+stAAB8d+vM393Y7X5mWZb/2nrLS7W3JxwvWpbl2Ru73TtnWf5k6y0AAHxXn933eJ65BAE983xEHx0evmuW5b0zs269BwCA77CuHzra7X5p3+N55hKccHynk5OTn19nPjIzP7D1FgAA5mRdlnfv6wcG/y+X4gX62x0dHX32ysHBG2fms1tvAQB4hfv8enb26GWK55lL+AL97U5OTt62zvzezLx+6y0AAK8gX11mfnvfvmHwfl3qgJ6ZWdf16unp6eMz8+vrzJu23gMAcIl9cV2W9984PPzTZVnOth7zsFz6gP52T5+e/tSyrr+8zLxtZn5w6z0AAJfAE8vMZ5Zl+dhut/vq1mPOwysqoF+0ruvB6enpW9Z1fcu6LG9aZn50nv/Q4c2ZubXxPACAi+Z4nbmzPP/z6wcz31jX9ctXr179m+vXr//H1uPO2/8CWxFqgYLAXocAAAAASUVORK5CYII="/>
+  </g>
+  <g id="foreground">
+    <text transform="translate(138.0418 80.0002)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text transform="translate(138.0418 80.0002)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text transform="translate(138.0418 80.0002)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">BASELINE JOBS</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(138.0418 80.0002)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="-29.7129" y="14.4004" style="font-weight: normal; font-style: normal;">
+        <tspan x="-29.7129" y="14.4004" style="font-weight: normal; font-style: normal;">ACCESSIBLE PER WORKER</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(141.9447 180.0001)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text transform="translate(141.9447 180.0001)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text transform="translate(141.9447 180.0001)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">JOBS LOST AT</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(141.9447 180.0001)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="-15.2227" y="14.4004" style="font-weight: normal; font-style: normal;">
+        <tspan x="-15.2227" y="14.4004" style="font-weight: normal; font-style: normal;">40% TRANSIT CUTS</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(142.4925 280)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text transform="translate(142.4925 280)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text transform="translate(142.4925 280)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">LOSS VERSUS</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(142.4925 280)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="-19.1367" y="14.4004" style="font-weight: normal; font-style: normal;">
+        <tspan x="-19.1367" y="14.4004" style="font-weight: normal; font-style: normal;">REGIONAL AVERAGE</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(111.7454 380)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <text transform="translate(111.7454 380)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;"/>
+    </text>
+    <text transform="translate(111.7454 380)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">RESIDENTS WORKING IN</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(111.7454 380)" fill="#231f20" font-size="12" style="font-family: OpenSans; font-weight: normal; font-style: normal;">
+      <tspan x="13.3301" y="14.4004" style="font-weight: normal; font-style: normal;">
+        <tspan x="13.3301" y="14.4004" style="font-weight: normal; font-style: normal;">OTHER 4 COUNTIES</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(137.1695 60.0002)" fill="#469f8a" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(137.1695 60.0002)" fill="#469f8a" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(137.1695 60.0002)" fill="#469f8a" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">828K</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(143.1988 160.0001)" fill="#cc513d" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(143.1988 160.0001)" fill="#cc513d" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(143.1988 160.0001)" fill="#cc513d" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">13%</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(131.984 259.9999)" fill="#243662" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(131.984 259.9999)" fill="#243662" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(131.984 259.9999)" fill="#243662" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.44X</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(143.1988 360.0001)" fill="#652976" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(143.1988 360.0001)" fill="#652976" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(143.1988 360.0001)" fill="#652976" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">31%</tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>

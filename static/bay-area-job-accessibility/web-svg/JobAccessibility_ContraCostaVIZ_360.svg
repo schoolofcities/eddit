@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_5" data-name="Layer 5" width="360" height="470" viewBox="0 0 360 470">
+  <g id="background">
+    <image x="0.0" y="0.0" width="360.0" height="470.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,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"/>
+  </g>
+  <g id="foreground">
+    <text transform="translate(83.5188 379.9995)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <text transform="translate(83.5188 379.9995)" fill="#231f20" style="font-weight: normal; font-style: normal;"/>
+    </text>
+    <text transform="translate(83.5188 379.9995)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+        <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;"/>
+      </tspan>
+    </text>
+    <text transform="translate(83.5188 379.9995)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">SR24</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(83.5188 379.9995)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;"/>
+      </tspan>
+    </text>
+    <text transform="translate(83.5188 379.9995)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan x="-14.3535" y="14.4004" style="font-weight: normal; font-style: normal;">
+          <tspan x="-14.3535" y="14.4004" style="font-weight: normal; font-style: normal;">Westbound</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <g>
+      <text transform="translate(19.9998 347.0967)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <text transform="translate(19.9998 347.0967)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9998 347.0967)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0 min</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 313.6782)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <text transform="translate(19.9993 313.6782)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 313.6782)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">5 min</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 280.2587)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <text transform="translate(19.9993 280.2587)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 280.2587)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">10 min</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 246.8391)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <text transform="translate(19.9993 246.8391)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 246.8391)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">15 min</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9998 213.4197)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <text transform="translate(19.9998 213.4197)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9998 213.4197)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">20 min</tspan>
+        </tspan>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 180.0002)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <text transform="translate(19.9993 180.0002)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;"/>
+      </text>
+    </g>
+    <g>
+      <text transform="translate(19.9993 180.0002)" fill="#808285" font-size="10" style="font-family: OpenSans-Medium; font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">25 min travel time</tspan>
+        </tspan>
+      </text>
+    </g>
+    <text transform="translate(173.5188 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <text transform="translate(173.5188 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;"/>
+    </text>
+    <text transform="translate(173.5188 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+        <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;"/>
+      </tspan>
+    </text>
+    <text transform="translate(173.5188 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">SR24</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(173.5188 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;"/>
+      </tspan>
+    </text>
+    <text transform="translate(173.5188 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan x="-12.5957" y="14.4004" style="font-weight: normal; font-style: normal;">
+          <tspan x="-12.5957" y="14.4004" style="font-weight: normal; font-style: normal;">Eastbound</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;"/>
+    </text>
+    <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+        <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;"/>
+      </tspan>
+    </text>
+    <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+          <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">BART</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;"/>
+      </tspan>
+    </text>
+    <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan x="-18.498" y="14.4004" style="font-weight: normal; font-style: normal;">
+          <tspan x="-18.498" y="14.4004" style="font-weight: normal; font-style: normal;">Walnut Creek</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;"/>
+      </tspan>
+    </text>
+    <text transform="translate(251.792 380.0005)" fill="#231f20" style="font-weight: normal; font-style: normal;">
+      <tspan font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+        <tspan x="-14.3936" y="28.7998" style="font-weight: normal; font-style: normal;">
+          <tspan x="-14.3936" y="28.7998" style="font-weight: normal; font-style: normal;">- MacArthur</tspan>
+        </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(19.9998 440.0001)" fill="#808285" font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+      <text transform="translate(19.9998 440.0001)" fill="#808285" font-size="12" style="font-family: OpenSansItalic; font-weight: normal;"/>
+    </text>
+    <text transform="translate(19.9998 440.0001)" fill="#808285" font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">DATA SOURCES: California Department of Transportation </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(19.9998 440.0001)" fill="#808285" font-size="12" style="font-family: OpenSansItalic; font-weight: normal;">
+      <tspan x="0" y="14.4004" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="14.4004" style="font-weight: normal; font-style: normal;">(2026), Bay Area Rapid Transit (2025)</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(50.0002 123.3721)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(50.0002 123.3721)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(50.0002 123.3721)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">8 AM</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(140.0002 123.3724)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(140.0002 123.3724)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(140.0002 123.3724)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">5 PM</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(230.0005 123.3718)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(230.0005 123.3718)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(230.0005 123.3718)" fill="#231f20" font-size="12" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Bart Travel Time</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(20 39.9997)" fill="#231f20" font-size="24" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(20 39.9997)" fill="#231f20" font-size="24" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(20 39.9997)" fill="#231f20" font-size="24" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">CALDECOTT TUNNEL</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(20 39.9997)" fill="#231f20" font-size="24" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="28.7998" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="28.7998" style="font-weight: normal; font-style: normal;">CORRIDOR (SR24) </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(20 39.9997)" fill="#231f20" font-size="24" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="57.5996" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="57.5996" style="font-weight: normal; font-style: normal;">TRAVEL TIMES</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(301.9486 274.4367)" fill="#fff" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="2" style="font-family: OpenSansItalic; font-weight: normal;">
+      <text transform="translate(301.9486 274.4367)" fill="#fff" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="2" style="font-family: OpenSansItalic; font-weight: normal;"/>
+    </text>
+    <text transform="translate(301.9486 274.4367)" fill="#fff" font-size="10" stroke="#fff" stroke-miterlimit="10" stroke-width="2" style="font-family: OpenSansItalic; font-weight: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">free flow</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(301.9486 274.4367)" fill="#9e2666" font-size="10" style="font-family: OpenSansItalic; font-weight: normal;">
+      <text transform="translate(301.9486 274.4367)" fill="#9e2666" font-size="10" style="font-family: OpenSansItalic; font-weight: normal;"/>
+    </text>
+    <text transform="translate(301.9486 274.4367)" fill="#9e2666" font-size="10" style="font-family: OpenSansItalic; font-weight: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">free flow</tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>
