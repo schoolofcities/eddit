@@ -1,22 +1,22 @@
 <script>
 
-	import "../../assets/global-styles.css"
+	import "../../../assets/global-styles.css"
 
-	import Password from "$lib/Password.svelte";
-	import Title from '$lib/Title.svelte';
-	import AuthorDate from "$lib/AuthorDate.svelte";
-	import Footer from "$lib/Footer.svelte";
-	import GraphicSingle from "$lib/GraphicSingle.svelte";
-	import GraphicMultiples from "$lib/GraphicMultiples.svelte";
-	import ImageSingle from "$lib/ImageSingle.svelte";
-	import VideoSingle from "$lib/VideoSingle.svelte";
+	import Password from "#lib/Password.svelte";
+	import Title from '#lib/Title.svelte';
+	import AuthorDate from "#lib/AuthorDate.svelte";
+	import Footer from "#lib/Footer.svelte";
+	import GraphicSingle from "#lib/GraphicSingle.svelte";
+	import GraphicMultiples from "#lib/GraphicMultiples.svelte";
+	import ImageSingle from "#lib/ImageSingle.svelte";
+	import VideoSingle from "#lib/VideoSingle.svelte";
 	import Map from "./components/Map.svelte";
 
 	import titleImage from "./assets/IMG_7259.jpeg";
 
-	import Footnote from '$lib/Footnote.svelte';
-    import Footnotes from '$lib/Footnotes.svelte';
-    import { createFootnoteStore } from '$lib/footnoteUtils';
+	import Footnote from '#lib/Footnote.svelte';
+    import Footnotes from '#lib/Footnotes.svelte';
+    import { createFootnoteStore } from '#lib/footnoteUtils';
 
 	const footnoteStore = createFootnoteStore();
     const { footnotes, addFootnote } = footnoteStore;
@@ -122,8 +122,8 @@
 
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_noveh360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_noveh.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_noveh360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_noveh.svg"}
 	/>
 
 	<div class = "text">
@@ -144,8 +144,8 @@
 	</div>
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaSTAT_360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaSTATS.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaSTAT_360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaSTATS.svg"}
 	/>
 
 	<div class = "text">
@@ -156,8 +156,8 @@
 	</div>
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaViz_360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaViz_720.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaViz_360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_AlamedaViz_720.svg"}
 	/>
 
 	<div class = "text">
@@ -175,8 +175,8 @@
 	</div>
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaSTAT_360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaSTATS.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaSTAT_360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaSTATS.svg"}
 	/>
 
 	<div class = "text">
@@ -190,8 +190,8 @@
 	</div>
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaVIZ_360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaVIZ_720.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaVIZ_360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_ContraCostaVIZ_720.svg"}
 	/>
 
 	<div class = "text">
@@ -206,8 +206,8 @@
 	</div>
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_SanFranciscoSTAT_360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_SanFranciscoSTATS.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_SanFranciscoSTAT_360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_SanFranciscoSTATS.svg"}
 	/>
 
 	<div class = "text">
@@ -232,8 +232,8 @@
 
 	<GraphicMultiples
 		svgPaths={[
-			"./bay-area-job-accessibility/web-svg/JobAccessibility_SanMateoSTAT_360.svg",
-			"./bay-area-job-accessibility/web-svg/JobAccessibility_SanMateoVIZ_360.svg"
+			"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_SanMateoSTAT_360.svg",
+			"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_SanMateoVIZ_360.svg"
 		]}
 	/>
 
@@ -253,8 +253,8 @@
 	</div>
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_SantaClaraSTAT_360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_SantaClaraSTATS.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_SantaClaraSTAT_360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_SantaClaraSTATS.svg"}
 	/>
 
 	<div class = "text">
@@ -290,8 +290,8 @@
 	</div>
 
 	<GraphicSingle
-		svg360={"./bay-area-job-accessibility/web-svg/JobAccessibility_dose360.svg"}
-		svg720={"./bay-area-job-accessibility/web-svg/JobAccessibility_dose.svg"}
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_dose360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/JobAccessibility_dose.svg"}
 	/>
 
 	<div class="text">

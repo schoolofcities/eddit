@@ -1,7 +1,7 @@
 <script>
     import { onMount } from 'svelte';
     import 'maplibre-gl/dist/maplibre-gl.css';
-    import maplibregl, { createBaseMapStyle } from "$lib/maplibre.js";
+    import maplibregl, { createBaseMapStyle } from "#lib/maplibre.js";
 
     import BlockGroups from '../assets/block groups.geo.json';
     import Routes from '../assets/transit_routes.json';

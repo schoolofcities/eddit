@@ -16,5 +16,8 @@ export default defineConfig({
 				relative: false
 			}
 		})
-	]
+	],
+	optimizeDeps: {
+	    exclude: ['maplibre-gl']
+	  }
 });
