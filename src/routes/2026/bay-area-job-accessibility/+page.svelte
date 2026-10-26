@@ -89,10 +89,10 @@
 		</div>
 
 		<p>
-			Based on 2026 data, the average Bay Area resident can reach more than 247,000 jobs within 60 minutes by transit. That may soon change. Because of a major funding deficit at the start of 2027, Bay Area transit agencies may be forced to cut service. Proposed cuts include BART reducing service by 70% and closing 15 stations,<Footnote id={addFootnote(fns[0])} /> reducing MUNI frequencies up to 50% and cancelling routes including cable cars,<Footnote id={addFootnote(fns[1])} /> AC Transit reducing service up to 37%,<Footnote id={addFootnote(fns[2])} /> and Caltrain running hourly and eliminating weekend service.<Footnote id={addFootnote(fns[3])} />
+			Based on 2026 data, the average Bay Area resident can reach more than 247,000 jobs within 60 minutes by transit. That may soon change. Because of a major funding deficit at the start of 2027, Bay Area transit agencies may be forced to cut service. Proposed cuts include BART reducing service by 70% and closing 15 stations,<Footnote id={addFootnote(fns[0])} /> reducing MUNI frequencies up to 50% and cancelling routes including cable cars,<Footnote id={addFootnote(fns[1])} /> AC Transit reducing service up to 37%,<Footnote id={addFootnote(fns[2])} /> and Caltrain reducing service to one train per hour and eliminating weekend service.<Footnote id={addFootnote(fns[3])} />
 		</p>
 		<p>
-			We analyzed how cuts like these could shrink the number of jobs people can reach by public transit, and the impacts vary significantly by county.  For this analysis, we are defining the Bay Area as the five counties of Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara. We focus on job access because it captures both the transit network (where routes run and how often) and land use (where jobs and destinations are located), so it shows how well transit connects people to the places they need to go. Jobs are spread across a region much like other everyday destinations, which makes job access a good proxy for access to schools, healthcare, groceries, and more.<Footnote id={addFootnote(fns[4])} />
+			We analyzed how these service cuts could shrink the number of jobs people can reach by public transit, and the impacts vary significantly by county.  For this analysis, we are defining the Bay Area as the five counties of Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara. We focus on job access because it captures both the transit network (where routes run and how often) and land use (where jobs and destinations are located), so it shows how well transit connects people to the places they need to go. Jobs are spread across a region much like other everyday destinations, which makes job access a good proxy for access to schools, healthcare, groceries, and more.<Footnote id={addFootnote(fns[4])} />
 		</p>
 		<p>
 			Across the Bay Area, job access loss generally grows more slowly than the cut itself. Cutting 40% of routes does not usually cost 40% of jobs, because many trips have alternative routes. For example, at a 40% cut, Santa Clara has a mean 37% reduction in job access while San Francisco sees 13% in reductions. San Francisco has a denser network that allows for some redundancy, but once cuts exceed 60%, its losses climb steeply. Contra Costa also sits far below the proportional loss line, at 20% for a 40% cut, but it has very little transit access to lose in the first place. San Mateo varies the most between cut route iterations, which suggests the county depends on a few key transit routes. In four of the five counties, households without a car could lose access to more jobs than households with at least one vehicle, and in Alameda and Contra Costa, lower-income households would carry a disproportionate share of the loss.
@@ -169,7 +169,7 @@
 			Alameda county is also a major cross-county commuting county. More than half of its residents (55%) work outside the county, including 42.6% who work in one of the four other Bay Area counties. Outside the county, Santa Clara (122K workers) and San Francisco (190K) are the biggest destinations, while the largest group of in-commuters come from Contra Costa. 
 		</p>
 		<p>
-			The key corridors into San Francisco and Santa Clara are I-80 West, I-880 South, and I680 South, with BART transit lines following the first two. Those roads already see major bottlenecks during rush hour. Looking at every Tuesday since June, where data is available, the drive west on I-80 from Richmond to the Bay Bridge has averaged 38 minutes at 8 AM, more than double the 16 minutes it takes in free flow. Some days it has reached over 50 minutes. On I-880 South from San Lorenzo to Fremont, the 8 AM trip has averaged 19 minutes, nearly triple the 7 minute commute at free flow, and over the last two months a typical Tuesday has taken about 25 minutes. If public transportation service shrinks, those able to switch to roads will only add to these commute times.
+			The key corridors into San Francisco and Santa Clara are I-80 West, I-880 South, and I-680 South, with BART transit lines following the first two. Those roads already see major bottlenecks during rush hour. Looking at every Tuesday since June, where data is available, the drive west on I-80 from Richmond to half way across the Bay Bridge (about 14 miles) has averaged 38 minutes at 8 AM, more than double the 16 minutes it takes outside of rush hour (free flow). Some days it has reached over 50 minutes. On I-880 South from San Lorenzo to northern Fremont (just over 8 miles), the 8 AM trip has averaged 19 minutes, nearly triple the 7 minute commute at free flow, and over the last two months a typical Tuesday has taken about 25 minutes. If public transportation service shrinks, those able to switch to roads will only add to these commute times.
 		</p>
 
 		<h3>
@@ -188,7 +188,7 @@
 			Contra Costa loses a smaller share of its job accessibility than most of the counties, but that is partly because it has so little transit access to lose. It has by far the fewest baseline accessible jobs of the five counties. Only 7.6% of residents can reach more than 150K jobs, compared with 99.5% of San Francisco residents. 
 		</p>
 		<p>
-			Sixty-four percent of residents work outside the county, the highest rate in the region, and 45% work in one of the other four counties, including 21% who work in Alameda, almost 110K workers.
+			Sixty-four percent of residents work outside the county, the highest rate in the region, including 21% who work in Alameda, almost 110K workers.
 		</p>
 	</div>
 
@@ -199,7 +199,7 @@
 
 	<div class = "text">
 		<p>
-			Sitting on the Alameda and Contra Costa border, the Caldecott Tunnel is a major bottle neck as commuters flow into Alameda in the morning and out in the afternoon. Over the last four months, the average Tuesday drive east on SR-24 from the I580 interchange in Oakland to southern Walnut Creek, about 12.5 miles, took 31 minutes at 5 PM, compared with 11 minutes in free flow. BART’s Yellow Line follows the same route in 19 minutes, and on an average weekday in September 2026, more than 12K riders took it west along the SR-24 corridor.<Footnote id={addFootnote(fns[6])} /> For Contra Costa commuters, the road is not an easy substitute if BART service is cut. 
+			Sitting on the Alameda and Contra Costa border, the Caldecott Tunnel is a major bottle neck as commuters flow into Alameda in the morning and out in the afternoon. Over the last four months, the average Tuesday drive east on SR-24 from the I-580 interchange in Oakland to southern Walnut Creek (about 12.5 miles) took 31 minutes at 5 PM, compared with an 11 minute travel time outside of rush hour (free flow). BART’s Yellow Line follows the same route in 19 minutes, and on an average weekday in September 2026, more than 12K riders took it west along the SR-24 corridor.<Footnote id={addFootnote(fns[6])} /> For Contra Costa commuters, the road is not an easy substitute if BART service is cut. 
 		</p>
 
 		<h3>
@@ -225,7 +225,7 @@
 			About 58% of residents work in San Francisco, but more than 303K workers commute in from the other four counties, more than half of the Bay Area residents who hold jobs there. While the county itself seems resilient to transit cuts, other counties with residents that commute in could lose a larger share of access to San Francisco and thus the city could still lose workers. 
 		</p>
 		<p>
-			The type of jobs are also impacted disproportionately in San Francisco. Professional, scientific, and tech services, the largest industry by jobs reachable in San Francisco (155K on average), loses 8.7%, one of the lowest rates across the industries. Health care, the second largest industry (119K on average) has a job accessibility loss rate of 15.1%, almost 18K jobs, the second highest rate among industries. Essential workers often keep schedules outside the weekday morning window we modeled in this analysis. Therefore, the losses they face could be larger than shown, and service is thinnest at the hours they Health Care workers may need it. 
+			The types of jobs are also impacted disproportionately in San Francisco. Professional, scientific, and tech services is the largest industry by jobs reachable in San Francisco (155K on average). Bay Area residents lose access to only 8.7% of those jobs, one of the lowest rates across industries. In contrast, health care, the second largest industry by reachability in the county (119K on average) has a job accessibility loss rate of 15.1%, almost 18K jobs, the second highest rate among industries. Essential workers often keep schedules outside the weekday morning window we modeled in this analysis. Therefore, the losses they face could be larger than shown, and service is thinnest at the hours Health Care workers may need it. 
 		</p>
 
 		<h3>
@@ -263,13 +263,13 @@
 	<div class = "text">
 
 		<p>
-			Santa Clara has the most workers of any Bay Area county (952K resident workers), and has the highest percentage of job accessibility lost at 40% transit cuts at 37%, or nearly 54K jobs lost per worker. Its transit network has the least to fall back on if cuts happen, with the losses running almost one for one with the cut (proportional loss). 
+			Santa Clara has the most workers of any Bay Area county (952K resident workers), and with 40% transit cuts has the highest percentage of job accessibility lost at 37%, or nearly 54K jobs lost per worker. The county's transit network has the least to fall back on if cuts happen, with the losses running almost one for one with the cut (proportional loss). 
 		</p>
 		<p>
-			Unlike Alameda and Contra Costa, lower, middle, and high-income households lose job accessibility in proportion to their share of the county, and no industry has a disproportionate loss at a 40% cut, so the effects spread more evenly across the county. 
+			Unlike Alameda and Contra Costa Counties, lower, middle, and high-income households lose job accessibility in proportion to their share of the county. Additionally, no industry has a disproportionate loss at a 40% cut, so the effects spread more evenly across the county. 
 		</p>
 		<p>
-			Santa Clara county also has the largest percent of resident workers that work in the county at nearly 68% with nearly 264K commuting into the county, second only to the 303K who commute into San Francisco. 
+			Santa Clara county also has the largest percent of resident workers that work in the county at nearly 68% with nearly 264K commuting into the county, second only to the 303K Bay Area workers who commute into San Francisco. 
 		</p>
 
 		<h2>
@@ -309,7 +309,7 @@
 			Results reflect one weekday morning window and a 60-minute threshold. Routes are removed completely and at random, rather than by ridership or frequency, so the results show network resilience, not predicted outcomes. Additionally, BART specifically has proposed removing stops rather than entire routes, which was not factored into this analysis. 
 		</p>
 		<p>
-			Another limitation with this analysis is that we looked at transit travel times on a Tuesday from 6am to 9am. This looks at when most people are likely to be using public transportation for going to 9 to 5 jobs. However, it ignores essential workers who may be working outside of the timeframe. They are likely to face even more limited transit options. 
+			Another limitation with this analysis is that we looked at transit travel times on a Tuesday from 6am to 9am. This looks at when most people are likely to be using public transportation for commuting to 9 to 5 jobs. However, it ignores essential workers who may be working outside of the timeframe. They are likely to face even more limited transit options. 
 		</p>
 
 	</div>
