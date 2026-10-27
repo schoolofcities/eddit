@@ -95,7 +95,7 @@
 			We analyzed how these service cuts could shrink the number of jobs people can reach by public transit, and the impacts vary significantly by county.  For this analysis, we are defining the Bay Area as the five counties of Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara. We focus on job access because it captures both the transit network (where routes run and how often) and land use (where jobs and destinations are located), so it shows how well transit connects people to the places they need to go. Jobs are spread across a region much like other everyday destinations, which makes job access a good proxy for access to schools, healthcare, groceries, and more.<Footnote id={addFootnote(fns[4])} />
 		</p>
 		<p>
-			Across the Bay Area, job access loss generally grows more slowly than the cut itself. Cutting 40% of routes does not usually cost 40% of jobs, because many trips have alternative routes. For example, at a 40% cut, Santa Clara has a mean 37% reduction in job access while San Francisco sees 13% in reductions. San Francisco has a denser network that allows for some redundancy, but once cuts exceed 60%, its losses climb steeply. Contra Costa also sits far below the proportional loss line, at 20% for a 40% cut, but it has very little transit access to lose in the first place. San Mateo varies the most between cut route iterations, which suggests the county depends on a few key transit routes. In four of the five counties, households without a car could lose access to more jobs than households with at least one vehicle, and in Alameda and Contra Costa, lower-income households would carry a disproportionate share of the loss.
+			Across the Bay Area, job accessibility loss generally grows more slowly than the service cut itself. Cutting 40% of routes does not usually cost 40% of jobs, because many trips have alternative routes. For example, at a 40% cut, Santa Clara has a mean 37% reduction in job access while San Francisco sees 13% in reductions. San Francisco has a denser network that allows for some redundancy, but once cuts exceed 60%, its losses climb steeply. Contra Costa also sits far below the proportional loss line, at 20% for a 40% cut, but it has very little transit access to lose in the first place. San Mateo varies the most between cut route iterations, which suggests the county depends on a few key transit routes. In four of the five counties, households without a car could lose access to more jobs than households with at least one vehicle, and in Alameda and Contra Costa, lower-income households would carry a disproportionate share of the loss.
 		</p>
 
 	</div>
@@ -216,7 +216,7 @@
 	<div class = "text">
 
 		<p>
-			San Francisco has by far the densest transit network of the five Bay Area counties. Ninety-nine percent of workers live in block groups that reach more than 400K jobs, 828K on average, 3.3x the regional average. At a 40% transit cut, it loses 13% of that access, the lowest share in the region. 
+			San Francisco has by far the densest transit network of the five Bay Area counties. Ninety-nine percent of workers live in block groups that reach more than 400K jobs, 3.3x the regional average. At a 40% transit cut, it loses 13% of that access, the lowest share in the region. 
 		</p>
 		<p>
 			San Francisco also breaks the pattern seen in Alameda and Contra Costa. Lower, middle, and high-income households all bear about the same share of the loss as their share of households, and zero-vehicle households lose fewer jobs than households with a car. 
@@ -225,7 +225,7 @@
 			About 58% of residents work in San Francisco, but more than 303K workers commute in from the other four counties, more than half of the Bay Area residents who hold jobs there. While the county itself seems resilient to transit cuts, other counties with residents that commute in could lose a larger share of access to San Francisco and thus the city could still lose workers. 
 		</p>
 		<p>
-			The types of jobs are also impacted disproportionately in San Francisco. Professional, scientific, and tech services is the largest industry by jobs reachable in San Francisco (155K on average). Bay Area residents lose access to only 8.7% of those jobs, one of the lowest rates across industries. In contrast, health care, the second largest industry by reachability in the county (119K on average) has a job accessibility loss rate of 15.1%, almost 18K jobs, the second highest rate among industries. Essential workers often keep schedules outside the weekday morning window we modeled in this analysis. Therefore, the losses they face could be larger than shown, and service is thinnest at the hours Health Care workers may need it. 
+			The types of jobs are also impacted disproportionately in San Francisco. Professional, scientific, and tech services is the largest industry by jobs reachable in San Francisco (155K on average). Bay Area residents lose access to only 8.7% of those jobs, one of the lowest rates across industries. In contrast, health care, the second largest industry by reachability in the county (119K on average) has a job accessibility loss rate of 15.1%, almost 18K jobs, the second highest rate among industries. Essential workers often keep schedules outside the weekday morning window we analyzed. Therefore, the losses they face could be larger than shown, and service is thinnest at the hours Health Care workers may need it. 
 		</p>
 
 		<h3>
@@ -246,7 +246,7 @@
 			San Mateo’s job accessibility loss is highly dependent on which routes are cut. At a 40% cut, the county loses an average of 36% of its job accessibility, second highest in the region, but across the 35 random cut scenarios (see APPROACH AND LIMITATIONS below), the loss ranged from 23.4% to 47.9%, the widest spread of any county.  That points to a handful of routes carrying the county, so which routes are cut could matter more than how many.
 		</p>
 		<p>
-			San Mateo, at the baseline, already has limited accessibility. Nearly a quarter of residents can reach fewer than 10K jobs. However, the county has the highest share of workers commuting to another Bay Area county at 51%, with 22% going to San Francisco and 19% to Santa Clara. The key arteries for commuting are US-101, I-280, and Caltrain. In Fiscal Year 2026 (July 2025 to June 2026), Caltrain averaged an estimated 14,458 midweek trips per day starting at San Mateo County stations.<Footnote id={addFootnote(fns[7])} /> Our model removes whole routes, while Caltrain’s proposal reduces how often service runs, so it only can approximate that cut, but the implications of reduced transit for this county are clear. 
+			San Mateo, at the baseline, already has limited accessibility. Nearly a quarter of residents can reach fewer than 10K jobs. However, the county has the highest share of workers commuting to another Bay Area county at 51%, with 22% going to San Francisco and 19% to Santa Clara. The key arteries for commuting are US-101, I-280, and Caltrain. In Fiscal Year 2026 (July 2025 to June 2026), Caltrain averaged an estimated 14,458 midweek trips per day starting at San Mateo County stations.<Footnote id={addFootnote(fns[7])} /> Our model (see APPROACH & LIMITATIONS) removes whole routes, while Caltrain’s proposal reduces how often service runs, so it only can approximate that cut, but the implications of reduced transit for this county are clear. 
 		</p>
 
 		<h3>
@@ -284,10 +284,7 @@
 		<h2>APPROACH & LIMITATIONS</h2>
 
 		<p>
-			We randomly removed transit routes across Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara counties, then measured how many jobs each neighborhood could still reach within an hour. Because the agency proposals range from 16% to 70%, we focus on a 40% cut, roughly the middle of that range, and show the full 10% to 100% range in the charts.
-		</p>
-		<p>
-			Random removal is not a forecast of which routes will be cut, since agencies will likely weigh ridership. It works as a test of how impactful each county’s network is for the commuter and how robust each county’s network is to providing service despite cutting service. Our model also removes whole routes, while some proposals, like Caltrain’s, reduce how often service runs, so it only approximates those cuts.
+			We randomly removed transit routes across Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara counties, then measured how many jobs each neighborhood could still reach within an hour. Because the transit agency proposals range from 16% to 70%, we focus on a 40% cut, roughly the middle of that range, and show the full 10% to 100% range in the following charts.
 		</p>
 
 	</div>
@@ -306,10 +303,10 @@
 			For each network, a travel time matrix is constructed measuring the travel time of each block group to every other block group. Using job counts by block group from Longitudinal Employer-Household Dynamics (LEHD) data, we then counted how many jobs each block group could reach within 60 minutes and compared that with the present-day baseline. Zero-vehicle household data come from the American Community Survey (2024).
 		</p>
 		<p>
-			Results reflect one weekday morning window and a 60-minute threshold. Routes are removed completely and at random, rather than by ridership or frequency, so the results show network resilience, not predicted outcomes. Additionally, BART specifically has proposed removing stops rather than entire routes, which was not factored into this analysis. 
+			Random removal is not a forecast of which routes will be cut, since agencies will likely weigh ridership. It works as a test of how impactful each county’s network is for the commuter and how robust each county’s network is to providing service despite cutting service. Our model also removes whole routes, while some proposals, like Caltrain’s, reduce how often service runs, so it only approximates those cuts.
 		</p>
 		<p>
-			Another limitation with this analysis is that we looked at transit travel times on a Tuesday from 6am to 9am. This looks at when most people are likely to be using public transportation for commuting to 9 to 5 jobs. However, it ignores essential workers who may be working outside of the timeframe. They are likely to face even more limited transit options. 
+			Additionally, because we looked at rush hour mornings, when most people are likely to be using public transportation for commuting to 9 to 5 jobs, this ignores essential workers who may be working outside of the timeframe. They are likely to face even more limited transit options.
 		</p>
 
 	</div>
