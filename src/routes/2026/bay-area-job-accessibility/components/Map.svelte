@@ -56,7 +56,7 @@
     ];
 
     const noDataColour = '#d9d9d9';
-    const layerOpacity = 0.97; // html map is fully opaque (1); lower it to let the basemap show through
+    const layerOpacity = 0.85; // html map is fully opaque (1); lower it to let the basemap show through
     const hoverColour = '#000';
 
     let currentView = views[0];
@@ -150,9 +150,17 @@
             minZoom: 7.5,
             bearing: 0,
             scrollZoom: true,
-            maxBounds: maxBounds
+            maxBounds: maxBounds,
+            attributionControl: false
         });
         map.addControl(new maplibregl.NavigationControl(), 'top-left');
+        map.addControl(new maplibregl.AttributionControl({ compact: true }), 'bottom-right');
+        // MapLibre opens the compact attribution by default; start it collapsed
+        map.once('idle', () => {
+            const attrib = map.getContainer().querySelector('.maplibregl-ctrl-attrib');
+            attrib?.classList.remove('maplibregl-compact-show');
+            attrib?.removeAttribute('open');
+        });
         map.addControl(new maplibregl.ScaleControl(), 'bottom-left');
         map.scrollZoom.disable();
 
@@ -166,7 +174,33 @@
         });
 
         map.on('load', async function () {
-            
+
+            // Open elevation tiles (AWS Terrain Tiles), shaded by MapLibre
+            map.addSource('Terrain', {
+                type: 'raster-dem',
+                tiles: [
+                    'https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png'
+                ],
+                encoding: 'terrarium',
+                tileSize: 256,
+                maxzoom: 15,
+                attribution: '<a href="https://github.com/tilezen/joerd/blob/master/docs/attribution.md" target="_blank">Terrain Tiles</a> (USGS, Mapzen)'
+            });
+
+            // Below the water layers so the bay and ocean stay flat
+            map.addLayer({
+                id: 'Hillshade',
+                type: 'hillshade',
+                source: 'Terrain',
+                paint: {
+                    'hillshade-exaggeration': 0.3,
+                    'hillshade-illumination-direction': 315,
+                    'hillshade-shadow-color': '#6b665e',
+                    'hillshade-highlight-color': '#ffffff',
+                    'hillshade-accent-color': '#8f8a82'
+                }
+            }, 'water');
+
             map.addSource('BlockGroups', {
                 type: 'geojson',
                 data: BlockGroups
