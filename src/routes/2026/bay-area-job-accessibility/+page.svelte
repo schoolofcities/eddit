@@ -149,6 +149,20 @@
 			How badly a cut hurts depends less on its size than on how much backup a network has. Santa Clara has little to fall back on, while San Francisco and Contra Costa absorb moderate cuts better. In San Mateo, protecting a few key routes could matter more than the overall size of the cut.
 		</p>
 
+		<br>
+
+	</div>
+
+	<GraphicSingle
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_BART360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_BART720.svg"}
+		svg1080={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_BART1080.svg"}
+	/>
+
+	<div class = "text">
+
+		<br>
+
 		<h3>
 			Alameda County
 		</h3>
@@ -181,6 +195,20 @@
 			The key corridors into San Francisco and Santa Clara are I-80 West, I-880 South, I-580 West, and I-680 South, with BART transit lines following the first two. Those roads already see major bottlenecks during rush hour. Looking at every Tuesday since June, where data is available, the drive west on I-80 from Richmond to half way across the Bay Bridge (about 14 miles) has averaged 38 minutes at 8 AM, more than double the 16 minutes it takes outside of rush hour (free flow). Some days it has reached over 50 minutes. On I-880 South from San Lorenzo to northern Fremont (just over 8 miles), the 8 AM trip has averaged 19 minutes, nearly triple the 7 minute commute at free flow, and over the last two months a typical Tuesday has taken about 25 minutes. If public transportation service shrinks, those able to switch to roads will only add to these commute times.
 		</p>
 
+		<br>
+
+	</div>
+
+	<GraphicSingle
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_AC360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_AC720.svg"}
+		svg1080={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_AC1080.svg"}
+	/>
+
+	<div class = "text">
+
+		<br>
+
 		<h3>
 			Contra Costa County
 		</h3>
@@ -210,6 +238,20 @@
 		<p>
 			Sitting on the Alameda and Contra Costa border, the Caldecott Tunnel is a major bottle neck as commuters flow into Alameda in the morning and out in the afternoon. Over the last four months, the average Tuesday drive east on SR-24 from the I-580 interchange in Oakland to southern Walnut Creek (about 12.5 miles) took 31 minutes at 5 PM, compared with an 11 minute travel time outside of rush hour (free flow). BART’s Yellow Line follows the same route in 19 minutes, and on an average weekday in September 2026, more than 12K riders took it west along the SR-24 corridor.<Footnote id={addFootnote(fns[6])} /> For Contra Costa commuters, the road is not an easy substitute if BART service is cut. 
 		</p>
+
+			<br>
+
+	</div>
+
+	<GraphicSingle
+		svg360={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_MUNI360.svg"}
+		svg720={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_MUNi720.svg"}
+		svg1080={"/eddit/bay-area-job-accessibility/web-svg/Pagebreaks_MUNI1080.svg"}
+	/>
+
+	<div class = "text">
+
+		<br>
 
 		<h3>
 			San Francisco County
