@@ -34,7 +34,7 @@
 		'"Annual Ridership Reports - Fiscal Year 2026 Annual Ridership Report," *Caltrain*, [URL](https://www.caltrain.com/about-caltrain/statistics-reports/ridership/annual-reports).'
    	];
 
-	let title = "HOW TRANSIT CUTS COULD COST THE BAY AREA"
+	let title = "How transit cuts could cost the Bay Area"
 	let subTitle = "A case study of the San Francisco Bay Area"
 
 </script>
@@ -63,7 +63,7 @@
 </svelte:head>
 
 
-<!-- <Password/> -->
+<Password/>
 
 <Title
 	title={title}
@@ -78,7 +78,7 @@
 	<div class="text">
 
 		<AuthorDate
-			authors={"<a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a> & <a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>"}
+			authors={"<a href='http://linkedin.com/in/isabeaux-graham/' target='_blank'>Isabeaux Graham</a>, <a href='https://www.linkedin.com/in/michellez-yy' target='_blank'>Michelle Zhang</a> &<a href='https://jamaps.github.io/' target='_blank'>Jeff Allen</a>"}
 			date={"October 2026"}
 		/>
 
@@ -103,7 +103,7 @@
 
 	<div class="text">
 
-		<h2>WHERE THE JOB ACCESSIBILITY LOSSES LAND</h2>
+		<h2>Where the job accessibility losses land</h2>
 
 		<p>
 			The following maps show the same story geographically. Job accessibility is concentrated in San Francisco, the East Bay corridor, the Peninsula, and San Jose. At a 40% cut, the heaviest losses fall along the Peninsula and South Bay corridors while San Francisco shows some of the lightest.
@@ -115,7 +115,7 @@
 
 	<div class = "text">	
 		<h2>
-			WHO IS AFFECTED
+			Who is affected
 		</h2>
 		
 		<p>
@@ -141,7 +141,7 @@
 		</p>
 
 		<h3>
-			ALAMEDA COUNTY
+			Alameda County
 		</h3>
 
 	</div>
@@ -173,7 +173,7 @@
 		</p>
 
 		<h3>
-			CONTRA COSTA COUNTY
+			Contra Costa County
 		</h3>
 	</div>
 
@@ -203,7 +203,7 @@
 		</p>
 
 		<h3>
-			SAN FRANCISCO COUNTY
+			San Francisco County
 		</h3>
 
 	</div>
@@ -229,7 +229,7 @@
 		</p>
 
 		<h3>
-			SAN MATEO COUNTY
+			San Mateo County
 		</h3>
 	</div>
 
@@ -243,14 +243,14 @@
 	<div class = "text">
 
 		<p>
-			San Mateo’s job accessibility loss is highly dependent on which routes are cut. At a 40% cut, the county loses an average of 36% of its job accessibility, second highest in the region, but across the 35 random cut scenarios (see APPROACH AND LIMITATIONS below), the loss ranged from 23.4% to 47.9%, the widest spread of any county.  That points to a handful of routes carrying the county, so which routes are cut could matter more than how many.
+			San Mateo’s job accessibility loss is highly dependent on which routes are cut. At a 40% cut, the county loses an average of 36% of its job accessibility, second highest in the region, but across the 35 random cut scenarios (see Approach & limitations below), the loss ranged from 23.4% to 47.9%, the widest spread of any county.  That points to a handful of routes carrying the county, so which routes are cut could matter more than how many.
 		</p>
 		<p>
-			San Mateo, at the baseline, already has limited accessibility. Nearly a quarter of residents can reach fewer than 10K jobs. However, the county has the highest share of workers commuting to another Bay Area county at 51%, with 22% going to San Francisco and 19% to Santa Clara. The key arteries for commuting are US-101, I-280, and Caltrain. In Fiscal Year 2026 (July 2025 to June 2026), Caltrain averaged an estimated 14,458 midweek trips per day starting at San Mateo County stations.<Footnote id={addFootnote(fns[7])} /> Our model (see APPROACH & LIMITATIONS) removes whole routes, while Caltrain’s proposal reduces how often service runs, so it only can approximate that cut, but the implications of reduced transit for this county are clear. 
+			San Mateo, at the baseline, already has limited accessibility. Nearly a quarter of residents can reach fewer than 10K jobs. However, the county has the highest share of workers commuting to another Bay Area county at 51%, with 22% going to San Francisco and 19% to Santa Clara. The key arteries for commuting are US-101, I-280, and Caltrain. In Fiscal Year 2026 (July 2025 to June 2026), Caltrain averaged an estimated 14,458 midweek trips per day starting at San Mateo County stations.<Footnote id={addFootnote(fns[7])} /> Our model (see Approach & limitations below) removes whole routes, while Caltrain’s proposal reduces how often service runs, so it only can approximate that cut, but the implications of reduced transit for this county are clear. 
 		</p>
 
 		<h3>
-			SANTA CLARA COUNTY
+			Santa Clara County
 		</h3>
 
 	</div>
@@ -273,7 +273,7 @@
 		</p>
 
 		<h2>
-			WHAT THIS MEANS
+			What this means
 		</h2>
 
 		<p>
@@ -281,7 +281,7 @@
 		</p>
 
 
-		<h2>APPROACH & LIMITATIONS</h2>
+		<h2>Approach & limitations</h2>
 
 		<p>
 			We randomly removed transit routes across Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara counties, then measured how many jobs each neighborhood could still reach within an hour. Because the transit agency proposals range from 16% to 70%, we focus on a 40% cut, roughly the middle of that range, and show the full 10% to 100% range in the following charts.
