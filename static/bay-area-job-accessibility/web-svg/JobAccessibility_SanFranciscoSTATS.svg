@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_3" data-name="Layer 3" width="720" height="100" viewBox="0 0 720 100">
+  <g id="background">
+    <image x="0.0" y="0.0" width="720.0" height="100.0" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAADICAYAAAAeP0ZYAAAABmJLR0QA/wD/AP+gvaeTAAAKQ0lEQVR4nO3cv4ulZxnH4fuZObOGszPvyc6SYgkLafzRiIZAOn8sAUHBwkKEuEgKG1lEwUZRSJMgFoGgbAiksTA2pgkmjcUq2iao2GhMIbtmLeIknnlnR9c9cx4bp9DmzGzmzvO+O9f1F3zrDzd3iXtQrXW97/tHlxGXIuKREvGRiLgQEZsRsdF2HQAAAABwiv0rIuYRcb1G/L7U+ptSyqtd1+20HpahtB5wknb29y9uLBZXlhGXS8SDrfcAAAAAABzBQY34eS3lh+e2tn7ZesxJuicCdN/3D9Ran6oRT0TEmdZ7AAAAAADuRom4drC29q1zm5u/a73lJIw+QM/n88ejlB9FxHbrLQAAAAAAJ2ARtT7ddd3TpZQ7rce8F6MN0LXWjXnfP1civtp6CwAAAADASSsRv4qIL3Zd9/fWW+7WKAP0zZs3p2c3N1+KiM+23gIAAAAAkOjNg8Xise3t7euth9yN0QXoWuvGbt+/HOIzAAAAAHA6/GUxmXzy/HR6o/WQ41prPeC45n3/XIjPAAAAAMDp8dD6YvHqzs5O13rIcY0qQM/n8y/7+QwAAAAAnDYl4qPrGxs/br3juEbzgqPv+weWtf4xIrZbbwEAAAAAaKGW8rX7t7aeb73jqEZzAV1rfSrEZwAAAADgFCu1/uDWrVsXWu84qlEE6J39/Ys14onWOwAAAAAAGusWBwffbz3iqEYRoDcWiysRcab1DgAAAACAAbg8n88/2HrEUQw+QNda15cRl1vvAAAAAAAYiPWI+EbrEUcx+ADd9/2jJeLB1jsAAAAAAAajlMdrrfe1nrHK4AP0MuJS6w0AAAAAAANzbnd3d/DtdPABOiIeaT0AAAAAAGBw1tY+03rCKoMP0CXiw603AAAAAAAMTa314dYbVhl8gI6IC60HAAAAAAAMTYn4UOsNq4whQG+2HgAAAAAAMEDbrQesMoYAfab1AAAAAACAAfpA6wGrjCFAAwAAAAAwQgI0AAAAAAApBGgAAAAAAFII0AAAAAAApBCgAQAAAABIIUADAAAAAJBCgAYAAAAAIIUADQAAAABACgEaAAAAAIAUAjQAAAAAACkEaAAAAAAAUgjQAAAAAACkEKABAAAAAEghQAMAAAAAkEKABgAAAAAghQANAAAAAEAKARoAAAAAgBQCNAAAAAAAKQRoAAAAAABSCNAAAAAAAKQQoAEAAAAASCFAAwAAAACQQoAGAAAAACCFAA0AAAAAQAoBGgAAAACAFAI0AAAAAAApBGgAAAAAAFII0AAAAAAApBCgAQAAAABIIUADAAAAAJBCgAYAAAAAIIUADQAAAABACgEaAAAAAIAUAjQAAAAAACkEaAAAAAAAUgjQAAAAAACkEKABAAAAAEghQAMAAAAAkEKABgAAAAAghQANAAAAAEAKARoAAAAAgBQCNAAAAAAAKQRoAAAAAABSCNAAAAAAAKQQoAEAAAAASCFAAwAAAACQQoAGAAAAACCFAA0AAAAAQAoBGgAAAACAFAI0AAAAAAApBGgAAAAAAFII0AAAAAAApBCgAQAAAABIIUADAAAAAJBCgAYAAAAAIIUADQAAAABACgEaAAAAAIAUAjQAAAAAACkEaAAAAAAAUgjQAAAAAACkEKABAAAAAEghQAMAAAAAkEKABgAAAAAghQANAAAAAEAKARoAAAAAgBQCNAAAAAAAKQRoAAAAAABSCNAAAAAAAKQQoAEAAAAASCFAAwAAAACQQoAGAAAAACCFAA0AAAAAQAoBGgAAAACAFAI0AAAAAAApBGgAAAAAAFII0AAAAAAApBCgAQAAAABIIUADAAAAAJBCgAYAAAAAIIUADQAAAABACgEaAAAAAIAUAjQAAAAAACkEaAAAAAAAUgjQAAAAAACkEKABAAAAAEghQAMAAAAAkEKABgAAAAAghQANAAAAAEAKARoAAAAAgBQCNAAAAAAAKQRoAAAAAABSCNAAAAAAAKQQoAEAAAAASCFAAwAAAACQQoAGAAAAACCFAA0AAAAAQAoBGgAAAACAFAI0AAAAAAApBGgAAAAAAFII0AAAAAAApBCgAQAAAABIIUADAAAAAJBCgAYAAAAAIIUADQAAAABACgEaAAAAAIAUAjQAAAAAACkEaAAAAAAAUgjQAAAAAACkEKABAAAAAEghQAMAAAAAkEKABgAAAAAghQANAAAAAEAKARoAAAAAgBQCNAAAAAAAKQRoAAAAAABSCNAAAAAAAKQQoAEAAAAASCFAAwAAAACQQoAGAAAAACCFAA0AAAAAQAoBGgAAAACAFAI0AAAAAAApBGgAAAAAAFII0AAAAAAApBCgAQAAAABIIUADAAAAAJBCgAYAAAAAIIUADQAAAABACgEaAAAAAIAUAjQAAAAAACkEaAAAAAAAUgjQAAAAAACkEKABAAAAAEghQAMAAAAAkEKABgAAAAAghQANAAAAAEAKARoAAAAAgBQCNAAAAAAAKQRoAAAAAABSCNAAAAAAAKQQoAEAAAAASCFAAwAAAACQQoAGAAAAACCFAA0AAAAAQAoBGgAAAACAFAI0AAAAAAApBGgAAAAAAFII0AAAAAAApBCgAQAAAABIIUADAAAAAJBCgAYAAAAAIIUADQAAAABACgEaAAAAAIAUAjQAAAAAACkEaAAAAAAAUgjQAAAAAACkEKABAAAAAEghQAMAAAAAkEKABgAAAAAgxRgC9O3WAwAAAAAABmjw7XQMAfofrQcAAAAAAAxQ33rAKmMI0G+0HgAAAAAAMDQ14m+tN6wy/ABdym9bTwAAAAAAGJq1iD+13rDK8AP0cvmL1hMAAAAAAIZmGfFa6w2rDD5Ad113LfyBBgAAAAD4H6XWa603rDL4AF1K+WfU+tPWOwAAAAAABqOU613Xvd56xiqDD9D/9WxEHLQeAQAAAAAwBKXWF0spy9Y7VhlFgJ7NZn+OiBdb7wAAAAAAGIDbk8nkausRRzGKAB0RMVlf/05E7LbeAQAAAADQVCkvTKfTt1rPOIrRBOizZ8/erKV8u/UOAAAAAICG3o7l8snWI45qNAE6ImK2ufl8RLzcegcAAAAAQAu1lCuz2eyd1juOalQBupRSF3fufKVG/KH1FgAAAACA91WtV+/f2vpZ6xnHUVoPuBs7+/sXJ4vFryPiodZbAAAAAADeB690W1tfKKUsWg85jlFdQB86P53eOFgsPhURb7beAgAAAACQ7JVbe3tfGlt8jhjpBfSh3d3d8xHxUo34dOstAAAAAAAnrtarXdd9c4zxOWLkAToiotY62d3b+27U+r2ImLTeAwAAAABwAt6upVwZ28/n/zf6AH3o3b29j60dHDwTpTzWegsAAAAAwF26HaW8EMvlk7PZ7J3WY96reyZAH3q37y+VWr9eIj4fLqIBAAAAgDGo9UYp5SeTyeTqdDp9q/Wck3LPBehD8/l8OyI+V0r5RI34eERcjIhzEXFf22UAAAAAwCn274jYKxF/jYg3lhGvlVqvdV33eill2XrcSfsPTmkR1LGgPSsAAAAASUVORK5CYII="/>
+  </g>
+  <g id="foreground">
+    <text transform="translate(67.8821 50)" fill="#469f8a" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(67.8821 50)" fill="#469f8a" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(67.8821 50)" fill="#469f8a" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">828K</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(240.9573 50)" fill="#cc513d" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(240.9573 50)" fill="#cc513d" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(240.9573 50)" fill="#cc513d" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">13%</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(396.7883 50)" fill="#243662" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(396.7883 50)" fill="#243662" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(396.7883 50)" fill="#243662" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">0.44X</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(575.0491 50)" fill="#652976" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(575.0491 50)" fill="#652976" font-size="36" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(575.0491 50)" fill="#652976" font-size="36" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">31%</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(64.9584 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(64.9584 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(64.9584 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Baseline jobs</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(64.9584 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="-30.1465" y="16.7998" style="font-weight: normal; font-style: normal;">
+        <tspan x="-30.1465" y="16.7998" style="font-weight: normal; font-style: normal;">accessible per worker</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(237.1083 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(237.1083 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(237.1083 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Jobs lost at </tspan>
+      </tspan>
+    </text>
+    <text transform="translate(237.1083 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="-16.0957" y="16.7998" style="font-weight: normal; font-style: normal;">
+        <tspan x="-16.0957" y="16.7998" style="font-weight: normal; font-style: normal;">40% transit cuts</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(404.1237 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(404.1237 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(404.1237 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Loss versus</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(404.1237 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="-18.4434" y="16.7998" style="font-weight: normal; font-style: normal;">
+        <tspan x="-18.4434" y="16.7998" style="font-weight: normal; font-style: normal;">regional average</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(537.7458 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <text transform="translate(537.7458 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;"/>
+    </text>
+    <text transform="translate(537.7458 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">
+        <tspan x="0" y="0" style="font-weight: normal; font-style: normal;">Residents working in</tspan>
+      </tspan>
+    </text>
+    <text transform="translate(537.7458 70)" fill="#231f20" font-size="14" style="font-family: OpenSansBold; font-style: normal;">
+      <tspan x="16.1162" y="16.7998" style="font-weight: normal; font-style: normal;">
+        <tspan x="16.1162" y="16.7998" style="font-weight: normal; font-style: normal;">other 4 counties</tspan>
+      </tspan>
+    </text>
+  </g>
+</svg>
