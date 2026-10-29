@@ -11,6 +11,7 @@
 	import ImageSingle from "#lib/ImageSingle.svelte";
 	import VideoSingle from "#lib/VideoSingle.svelte";
 	import Map from "./components/Map.svelte";
+	import GraphicGif from "#lib/GraphicGif.svelte";
 
 	import titleImage from "./assets/IMG_7259.jpeg";
 
@@ -63,7 +64,7 @@
 </svelte:head>
 
 
-<Password/>
+<!-- <Password/> -->
 
 <Title
 	title={title}
@@ -91,6 +92,14 @@
 		<p>
 			Based on 2026 data, the average Bay Area resident can reach more than 247,000 jobs within 60 minutes by transit. That may soon change. Because of a major funding deficit at the start of 2027, Bay Area transit agencies may be forced to cut service. Proposed cuts include BART reducing service by 70% and closing 15 stations,<Footnote id={addFootnote(fns[0])} /> reducing MUNI frequencies up to 50% and cancelling routes including cable cars,<Footnote id={addFootnote(fns[1])} /> AC Transit reducing service up to 37%,<Footnote id={addFootnote(fns[2])} /> and Caltrain reducing service to one train per hour and eliminating weekend service.<Footnote id={addFootnote(fns[3])} />
 		</p>
+	</div>
+
+	<GraphicGif
+		gif360={"/eddit/bay-area-job-accessibility/web-svg/CutGifs_360.gif"}
+		gif720={"/eddit/bay-area-job-accessibility/web-svg/CutGifs_720.gif"}
+	/>
+
+	<div class = text>
 		<p>
 			We analyzed how these service cuts could shrink the number of jobs people can reach by public transit, and the impacts vary significantly by county.  For this analysis, we are defining the Bay Area as the five counties of Alameda, Contra Costa, San Francisco, San Mateo, and Santa Clara. We focus on job access because it captures both the transit network (where routes run and how often) and land use (where jobs and destinations are located), so it shows how well transit connects people to the places they need to go. Jobs are spread across a region much like other everyday destinations, which makes job access a good proxy for access to schools, healthcare, groceries, and more.<Footnote id={addFootnote(fns[4])} />
 		</p>

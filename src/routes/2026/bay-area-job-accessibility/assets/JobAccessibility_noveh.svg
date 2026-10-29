@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 900">
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="950" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 720 950">
   <defs>
     <clipPath id="clippath">
       <rect x="-363.2021" y="-642.5084" width="230.4671" height="230.4671" fill="none"/>
@@ -65,15 +65,15 @@
     <rect x="448.75" y="480" width="22.5" height="67.7595" fill="#469f8a"/>
   </g>
   <g id="Layer_3" data-name="Layer 3">
-    <text transform="translate(157.9225 200.9775)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">ALAMEDA</tspan></text>
-    <text transform="translate(269.9782 150)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">10%</tspan></text>
-    <text transform="translate(267.9821 309.9998)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">5.2%</tspan></text>
-    <text transform="translate(269.9782 470.0005)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">30%</tspan></text>
-    <text transform="translate(199.7493 118.1853)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">ZERO-VEHICLE HOUSEHOLDS</tspan></text>
+    <text transform="translate(160.7379 200.9775)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Alameda</tspan></text>
+    <text transform="translate(269.9783 150)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">10%</tspan></text>
+    <text transform="translate(267.9822 309.9998)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">5.2%</tspan></text>
+    <text transform="translate(269.9783 470.0005)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">30%</tspan></text>
+    <text transform="translate(211.7493 118.1853)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Zero-vehicle households</tspan></text>
     <text transform="translate(20.0005 69.9998)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Zero-vehicle households = households with no vehicle available. Other households = households with at least one vehicle. </tspan><tspan x="0" y="14.3999">Each average weights block groups by their number of zero-vehicle or other households.</tspan></text>
-    <text transform="translate(449.3509 118.1853)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">JOBS LOST PER WORKER</tspan></text>
-    <text transform="translate(141.0618 360.9771)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">CONTRA COSTA</tspan></text>
-    <text transform="translate(139.3244 520.9775)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SAN FRANCISCO</tspan></text>
+    <text transform="translate(460.0793 118.1853)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Jobs lost per worker</tspan></text>
+    <text transform="translate(148.4475 360.9771)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Contra Costa</tspan></text>
+    <text transform="translate(146.4757 520.9775)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">San Francisco</tspan></text>
     <g>
       <rect x="246.7886" y="227.5" width="7.5" height="7.5" fill="#469f8a" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
       <rect x="254.2886" y="227.5" width="7.5" height="7.5" fill="#469f8a" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
@@ -278,8 +278,8 @@
       <rect x="306.7886" y="479.9998" width="7.5" height="7.5" fill="#e6e7e8" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
       <rect x="314.2886" y="479.9998" width="7.5" height="7.5" fill="#e6e7e8" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
     </g>
-    <text transform="translate(267.9821 640.2137)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">5.8%</tspan></text>
-    <text transform="translate(151.9015 688.6189)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SAN MATEO</tspan></text>
+    <text transform="translate(267.9822 640.2139)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">5.8%</tspan></text>
+    <text transform="translate(155.6134 688.6189)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">San Mateo</tspan></text>
     <g>
       <rect x="246.7886" y="715.1415" width="7.5" height="7.5" fill="#469f8a" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
       <rect x="254.2886" y="715.1415" width="7.5" height="7.5" fill="#469f8a" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
@@ -382,8 +382,8 @@
       <rect x="306.7886" y="647.6415" width="7.5" height="7.5" fill="#e6e7e8" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
       <rect x="314.2886" y="647.6415" width="7.5" height="7.5" fill="#e6e7e8" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
     </g>
-    <text transform="translate(267.9821 800.2137)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">6.0%</tspan></text>
-    <text transform="translate(146.2414 848.619)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SANTA CLARA</tspan></text>
+    <text transform="translate(267.9822 800.2139)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">6.0%</tspan></text>
+    <text transform="translate(152.9034 848.6191)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Santa Clara</tspan></text>
     <g>
       <rect x="246.7886" y="875.1415" width="7.5" height="7.5" fill="#469f8a" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
       <rect x="254.2886" y="875.1415" width="7.5" height="7.5" fill="#469f8a" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
@@ -588,16 +588,17 @@
       <rect x="306.7886" y="319.9997" width="7.5" height="7.5" fill="#e6e7e8" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
       <rect x="314.2886" y="319.9997" width="7.5" height="7.5" fill="#e6e7e8" stroke="#fff" stroke-miterlimit="1" stroke-width=".75"/>
     </g>
+    <text transform="translate(19.9995 930.0005)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Data Sources: American Community Survey (2024), Longitudinal Employer-Household Dynamics (2023), GTFS</tspan></text>
   </g>
   <g id="Layer_5" data-name="Layer 5">
     <text transform="translate(500 170)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0" fill="#231f20">At a 40% transit cut, </tspan><tspan x="124.1719" y="0" fill="#469f8a">zero-vehicle</tspan><tspan x="0" y="14.4004" fill="#469f8a">households in Alameda </tspan><tspan x="142.5996" y="14.4004" fill="#231f20">lose </tspan><tspan fill="#231f20"><tspan x="0" y="28.7998">access to 1.6x more jobs than </tspan></tspan><tspan fill="#6d6e71"><tspan x="0" y="43.2002" xml:space="preserve">households  in the county with</tspan></tspan><tspan fill="#6d6e71"><tspan x="0" y="57.5996">a vehicle.</tspan></tspan></text>
-    <text transform="translate(480 282.9696)" fill="#469f8a" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic"><tspan x="0" y="0">zero-vehicle households</tspan></text>
+    <text transform="translate(480 282.9697)" fill="#469f8a" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic"><tspan x="0" y="0">zero-vehicle households</tspan></text>
     <text transform="translate(353.335 250)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic"><tspan x="0" y="0">other households</tspan></text>
     <text transform="translate(500 330)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan fill="#231f20"><tspan x="0" y="0">At a 40% transit cut,</tspan></tspan><tspan fill="#469f8a"><tspan x="0" y="14.4004">1.7x more cut jobs </tspan></tspan></text>
-    <text transform="translate(500 660.0001)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan fill="#231f20"><tspan x="0" y="0">At a 40% transit cut,</tspan></tspan><tspan fill="#469f8a"><tspan x="0" y="14.4004">1.5x more cut jobs </tspan></tspan></text>
+    <text transform="translate(500 660)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan fill="#231f20"><tspan x="0" y="0">At a 40% transit cut,</tspan></tspan><tspan fill="#469f8a"><tspan x="0" y="14.4004">1.5x more cut jobs </tspan></tspan></text>
     <text transform="translate(500 820.0002)" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan fill="#231f20"><tspan x="0" y="0">At a 40% transit cut,</tspan></tspan><tspan fill="#469f8a"><tspan x="0" y="14.4004">1.3x more cut jobs </tspan></tspan></text>
-    <text transform="translate(500 490.0001)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">San Francisco is the only </tspan><tspan x="0" y="14.4004">county where more jobs </tspan><tspan x="0" y="28.7998">are lost to block groups </tspan><tspan x="0" y="43.2002">with more vehicle households</tspan></text>
-    <text transform="translate(407.3467 470.0001)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">94K</tspan></text>
+    <text transform="translate(500 490)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">San Francisco is the only </tspan><tspan x="0" y="14.4004">county where more jobs </tspan><tspan x="0" y="28.7998">are lost to block groups </tspan><tspan x="0" y="43.2002">with more vehicle households</tspan></text>
+    <text transform="translate(407.3467 470)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">94K</tspan></text>
     <text transform="translate(407.751 640.0002)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">63K</tspan></text>
     <text transform="translate(447.3467 640.0002)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">91K</tspan></text>
     <text transform="translate(407.3467 800.0002)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">56K</tspan></text>
@@ -605,9 +606,9 @@
     <text transform="translate(407.3467 310)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">16K</tspan></text>
     <text transform="translate(443.3438 150)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">145K</tspan></text>
     <text transform="translate(407.3467 150)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">88K</tspan></text>
-    <text transform="translate(447.3467 470.0001)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">80K</tspan></text>
+    <text transform="translate(447.3467 470)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">80K</tspan></text>
     <text transform="translate(447.3467 310)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">27K</tspan></text>
-    <text transform="translate(20 40)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">ZERO-VEHICLE HOUSEHOLDS LOSE ACCESS TO MORE JOBS </tspan></text>
+    <text transform="translate(20 40)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">Zero-vehicle households lose access to more jobs </tspan></text>
     <line x1="20" y1="290" x2="690" y2="290" fill="none" stroke="#e6e7e8" stroke-miterlimit="10"/>
     <line x1="20" y1="450" x2="690" y2="450" fill="none" stroke="#e6e7e8" stroke-miterlimit="10"/>
     <line x1="20" y1="610" x2="690" y2="610" fill="none" stroke="#e6e7e8" stroke-miterlimit="10"/>

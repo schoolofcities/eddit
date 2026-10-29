@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="700" viewBox="0 0 720 700">
   <g id="Layer_3" data-name="Layer 3">
-    <text transform="translate(19.9995 679.9995)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">DATA SOURCES: Longitudinal Employer-Household Dynamics (2023), GTFS</tspan></text>
+    <text transform="translate(19.9995 679.9995)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Data sources: Longitudinal Employer-Household Dynamics (2023), GTFS</tspan></text>
   </g>
   <g id="Layer_5" data-name="Layer 5">
     <g>
@@ -24,45 +24,45 @@
         <path id="m5b6894a87c-5" data-name="m5b6894a87c" d="M255.3719,134.7385H64.6281" fill="none" stroke="#d1d3d4" stroke-linejoin="round" stroke-width=".25"/>
       </g>
     </g>
-    <text transform="translate(350.7327 120)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">ALAMEDA</tspan></text>
-    <text transform="translate(108.3464 120)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">ENTIRE BAY AREA</tspan></text>
-    <text transform="translate(45.8306 335.2617)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">0%</tspan></text>
-    <text transform="translate(40.1128 295.394)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">20%</tspan></text>
-    <text transform="translate(40.1128 256.5449)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">40%</tspan></text>
-    <text transform="translate(40.1128 217.697)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">60%</tspan></text>
-    <text transform="translate(40.1128 178.8484)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">80%</tspan></text>
-    <text transform="translate(34.395 140)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">100%</tspan></text>
-    <text transform="translate(30 284.0234) rotate(-90)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">PERCENT ACCESS LOSS</tspan></text>
-    <text transform="translate(45.8306 606.1357)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">0%</tspan></text>
-    <text transform="translate(97.8147 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">20%</tspan></text>
-    <text transform="translate(65.8446 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">0%</tspan></text>
-    <text transform="translate(132.6429 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">40%</tspan></text>
-    <text transform="translate(167.4713 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">60%</tspan></text>
-    <text transform="translate(202.2996 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">80%</tspan></text>
-    <text transform="translate(234.2684 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">100%</tspan></text>
-    <text transform="translate(317.8142 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">20%</tspan></text>
-    <text transform="translate(285.8441 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">0%</tspan></text>
-    <text transform="translate(352.6425 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">40%</tspan></text>
-    <text transform="translate(387.4708 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">60%</tspan></text>
-    <text transform="translate(422.2991 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">80%</tspan></text>
-    <text transform="translate(454.2679 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">100%</tspan></text>
-    <text transform="translate(537.8137 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">20%</tspan></text>
-    <text transform="translate(505.8436 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">0%</tspan></text>
-    <text transform="translate(572.642 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">40%</tspan></text>
-    <text transform="translate(607.4703 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">60%</tspan></text>
-    <text transform="translate(642.2986 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">80%</tspan></text>
-    <text transform="translate(674.2675 620)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">100%</tspan></text>
-    <text transform="translate(40.1128 566.2681)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">20%</tspan></text>
-    <text transform="translate(40.1128 527.4189)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">40%</tspan></text>
-    <text transform="translate(40.1128 488.571)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">60%</tspan></text>
-    <text transform="translate(40.1128 449.7224)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">80%</tspan></text>
-    <text transform="translate(34.395 410.874)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">100%</tspan></text>
-    <text transform="translate(30 554.8965) rotate(-90)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">PERCENT ACCESS LOSS</tspan></text>
-    <text transform="translate(319.3557 640.0005)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="10" font-weight="500"><tspan x="0" y="0">PERCENT OF ROUTES CUT</tspan></text>
-    <text transform="translate(553.8726 119.9998)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">CONTRA COSTA</tspan></text>
-    <text transform="translate(112.1345 390.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SAN FRANCISCO</tspan></text>
-    <text transform="translate(344.7115 390.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SAN MATEO</tspan></text>
-    <text transform="translate(559.0522 390.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SANTA CLARA</tspan></text>
+    <text transform="translate(344.7307 120)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16" font-weight="700"><tspan x="0" y="0">Alameda</tspan></text>
+    <text transform="translate(98.363 120)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16" font-weight="700"><tspan x="0" y="0">Entire Bay Area</tspan></text>
+    <text transform="translate(43.2192 335.2617)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">0%</tspan></text>
+    <text transform="translate(36.3579 295.394)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">20%</tspan></text>
+    <text transform="translate(36.3579 256.5449)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(36.3579 217.697)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(36.3579 178.8484)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(29.4966 140)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">100%</tspan></text>
+    <text transform="translate(30 292.5586) rotate(-90)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="14"><tspan x="0" y="0">Percent access loss</tspan></text>
+    <text transform="translate(43.2192 606.1357)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">0%</tspan></text>
+    <text transform="translate(95.9368 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">20%</tspan></text>
+    <text transform="translate(64.5389 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">0%</tspan></text>
+    <text transform="translate(130.765 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(165.5934 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(200.4216 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(231.8192 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">100%</tspan></text>
+    <text transform="translate(315.9363 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">20%</tspan></text>
+    <text transform="translate(284.5385 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">0%</tspan></text>
+    <text transform="translate(350.7645 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(385.5929 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(420.4211 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(451.8187 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">100%</tspan></text>
+    <text transform="translate(535.9358 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">20%</tspan></text>
+    <text transform="translate(504.538 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">0%</tspan></text>
+    <text transform="translate(570.764 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(605.5924 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(640.4207 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(671.8182 620)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">100%</tspan></text>
+    <text transform="translate(36.3579 566.2681)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">20%</tspan></text>
+    <text transform="translate(36.3579 527.4189)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">40%</tspan></text>
+    <text transform="translate(36.3579 488.571)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">60%</tspan></text>
+    <text transform="translate(36.3579 449.7224)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="12"><tspan x="0" y="0">80%</tspan></text>
+    <text transform="translate(24.4126 410.874)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="14"><tspan x="0" y="0">100%</tspan></text>
+    <text transform="translate(30 563.4316) rotate(-90)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="14"><tspan x="0" y="0">Percent access loss</tspan></text>
+    <text transform="translate(311.637 640.0005)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="14"><tspan x="0" y="0">Percent of routes cut</tspan></text>
+    <text transform="translate(548.3442 119.9998)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16" font-weight="700"><tspan x="0" y="0">Contra Costa</tspan></text>
+    <text transform="translate(105.7146 390.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16" font-weight="700"><tspan x="0" y="0">San Francisco</tspan></text>
+    <text transform="translate(337.8981 390.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16" font-weight="700"><tspan x="0" y="0">San Mateo</tspan></text>
+    <text transform="translate(554.2856 390.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="16" font-weight="700"><tspan x="0" y="0">Santa Clara</tspan></text>
     <g>
       <path id="mce5eeb8b78-12" data-name="mce5eeb8b78" d="M292.9293,129.9999v200" fill="none" stroke="#d1d3d4" stroke-linejoin="round" stroke-width=".25"/>
       <path id="mce5eeb8b78-13" data-name="mce5eeb8b78" d="M310.3435,129.9999v200" fill="none" stroke="#d1d3d4" stroke-linejoin="round" stroke-width=".25"/>
@@ -171,7 +171,7 @@
       <path d="M72.9293,328.9805l174.1413-194.242" fill="#8b8a8a" stroke="#231f20" stroke-linejoin="round" stroke-width=".25"/>
       <path d="M292.9293,328.9805l174.1414-194.242" fill="#8b8a8a" stroke="#231f20" stroke-linejoin="round" stroke-width=".25"/>
     </g>
-    <text transform="translate(20 40)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">HOW JOB ACCESS IS LOST WITH RANDOM TRANSIT CUTS</tspan></text>
+    <text transform="translate(20 40)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">How job access is lost with random transit cuts</tspan></text>
   </g>
   <g id="Layer_7" data-name="Layer 7">
     <g>
@@ -2181,14 +2181,14 @@
       <path id="mcfe17f81b5-1896" data-name="mcfe17f81b5" d="M687.0707,437.8286c.4593,0,.8999-.1825,1.2247-.5073.3248-.3248.5073-.7654.5073-1.2247s-.1825-.8999-.5073-1.2247c-.3248-.3248-.7654-.5073-1.2247-.5073s-.8999.1825-1.2247.5073c-.3248.3248-.5073.7654-.5073,1.2247s.1825.8999.5073,1.2247c.3248.3248.7654.5073,1.2247.5073Z" fill="rgba(36, 54, 98, .28)"/>
     </g>
     <text transform="translate(255.539 125.1565)" fill="#58595b" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic"><tspan x="0" y="0">proportional loss</tspan></text>
-    <text transform="translate(483.3368 511.9135)" fill="#fff" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" stroke="#fff" stroke-miterlimit="10" stroke-width="2"><tspan x="0" y="0">job loss &gt; transit cut</tspan></text>
-    <text transform="translate(612.4023 546.073)" fill="#fff" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic" stroke="#fff" stroke-miterlimit="10" stroke-width="2"><tspan x="0" y="0">transit cut &gt; job loss</tspan></text>
+    <text transform="translate(495.7082 460.9755)" fill="#fff" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic" stroke="#fff" stroke-miterlimit="10" stroke-width="2"><tspan x="0" y="0">job loss &gt; transit cut</tspan></text>
+    <text transform="translate(587.8183 576.6738)" fill="#fff" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic" stroke="#fff" stroke-miterlimit="10" stroke-width="2"><tspan x="0" y="0">transit cut &gt; job loss</tspan></text>
     <g>
       <path d="M254.2214,122.9177s-6.4265-.365-7.0947,8.3198" fill="none" stroke="#58595b" stroke-miterlimit="10" stroke-width=".5"/>
       <path d="M247.0708,132.75c-.2317-.7209-.6414-1.6211-1.0925-2.1877l1.1685.4827,1.2068-.3767c-.5.5244-.9883,1.3843-1.2827,2.0818Z" fill="#58595b"/>
     </g>
     <text transform="translate(20.0005 69.9998)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Each dot is a random removal of transit routes to measure the accessibility of block groups to jobs across the Bay Area. </tspan><tspan x="0" y="14.3999" xml:space="preserve">35 random iterations run for each cut percentage.  </tspan></text>
-    <text transform="translate(483.3368 511.9135)" fill="#9e2666" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic"><tspan x="0" y="0">job loss &gt; transit cut</tspan></text>
-    <text transform="translate(612.4023 546.073)" fill="#243662" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="9" font-style="italic"><tspan x="0" y="0">transit cut &gt; job loss</tspan></text>
+    <text transform="translate(495.7082 460.9755)" fill="#9e2666" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">job loss &gt; transit cut</tspan></text>
+    <text transform="translate(587.8183 576.6738)" fill="#243662" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">transit cut &gt; job loss</tspan></text>
   </g>
 </svg>

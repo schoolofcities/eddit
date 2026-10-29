@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="270" viewBox="0 0 720 270">
   <g id="Layer_3" data-name="Layer 3">
-    <text transform="translate(228.1568 150)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="0" y="0">Lower Income</tspan></text>
-    <text transform="translate(404.0887 150)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="0" y="0">Middle Income</tspan></text>
-    <text transform="translate(573.982 150)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="0" y="0">High Income</tspan></text>
-    <text transform="translate(67.3301 175.5496)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SHARE OF JOB</tspan><tspan x="-34.7051" y="14.4004">ACCESSIBILITY LOSS</tspan></text>
-    <text transform="translate(92.0332 110.552)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SHARE OF </tspan><tspan x="-24.1699" y="14.4004">HOUSEHOLDS</tspan></text>
+    <text transform="translate(221.8043 150)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="14" font-style="italic" font-weight="600"><tspan x="0" y="0">Lower Income</tspan></text>
+    <text transform="translate(397.3875 150)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="14" font-style="italic" font-weight="600"><tspan x="0" y="0">Middle Income</tspan></text>
+    <text transform="translate(568.3091 150)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="14" font-style="italic" font-weight="600"><tspan x="0" y="0">High Income</tspan></text>
+    <text transform="translate(66.8408 173.1497)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">Share of job</tspan><tspan x="-32.3682" y="16.8003">accessibility loss</tspan></text>
+    <text transform="translate(92.2773 108.1521)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">Share of </tspan><tspan x="-22.5381" y="16.8003">households</tspan></text>
     <text transform="translate(19.9982 230.0005)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Low = households with less than $75K annual income; Middle = $75K and $150K; High = $150K and above.</tspan></text>
-    <text transform="translate(19.9982 250.0005)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">DATA SOURCE: American Community Survey (2024), GTFS</tspan></text>
+    <text transform="translate(19.9982 250.0005)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Data sources: American Community Survey (2024), GTFS</tspan></text>
   </g>
   <g id="Layer_5" data-name="Layer 5">
-    <text transform="translate(20 40.0002)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">ALAMEDA LOWER INCOME HOUSEHOLDS LOSE JOB</tspan><tspan x="0" y="28.7998">ACCESSIBILITY DISPROPORTIONATELY</tspan></text>
+    <text transform="translate(20 40.0002)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">Alameda lower income households lose job accessibility </tspan><tspan x="0" y="28.7998">disproportionately</tspan></text>
     <rect x="160.0028" y="164.9694" width="212.5429" height="25" rx="2.5" ry="2.5" fill="#cc513d" stroke="#fff" stroke-miterlimit="10" stroke-width="1.6484"/>
     <rect x="372.5487" y="164.9694" width="143.4934" height="25" rx="2.5" ry="2.5" fill="#469f8a" stroke="#fff" stroke-miterlimit="10" stroke-width="1.099"/>
     <rect x="516.0452" y="164.9694" width="183.9521" height="25" rx="2.5" ry="2.5" fill="#387d9f" stroke="#fff" stroke-miterlimit="10" stroke-width="1.6484"/>
     <rect x="160.0037" y="99.9944" width="165.0714" height="25" rx="2.5" ry="2.5" fill="#cc513d" opacity=".5" stroke="#fff" stroke-miterlimit="10" stroke-width="1.6484"/>
     <rect x="325.0781" y="99.9918" width="137.5595" height="25" rx="2.5" ry="2.5" fill="#469f8a" opacity=".5" stroke="#fff" stroke-miterlimit="10" stroke-width="1.099"/>
     <rect x="462.6407" y="99.9885" width="237.3576" height="25" rx="2.5" ry="2.5" fill="#387d9f" opacity=".5" stroke="#fff" stroke-miterlimit="10" stroke-width="1.6484"/>
-    <text transform="translate(225.1308 116.8608)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">30.6%</tspan></text>
-    <text transform="translate(382.5918 116.8608)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">25.5%</tspan></text>
-    <text transform="translate(540.0527 116.8608)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">44.0%</tspan></text>
-    <text transform="translate(248.866 181.8362)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">39.4%</tspan></text>
-    <text transform="translate(426.8872 181.8362)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">26.6%</tspan></text>
-    <text transform="translate(590.613 181.8362)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">34.0%</tspan></text>
+    <text transform="translate(222.2295 116.8608)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">30.6%</tspan></text>
+    <text transform="translate(379.6904 116.8608)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">25.5%</tspan></text>
+    <text transform="translate(537.1513 116.8608)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">44.0%</tspan></text>
+    <text transform="translate(245.9646 181.8362)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">39.4%</tspan></text>
+    <text transform="translate(423.9858 181.8362)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">26.6%</tspan></text>
+    <text transform="translate(587.7116 181.8362)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">34.0%</tspan></text>
   </g>
 </svg>

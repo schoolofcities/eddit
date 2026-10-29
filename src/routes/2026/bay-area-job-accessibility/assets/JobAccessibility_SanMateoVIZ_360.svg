@@ -13,17 +13,17 @@
     <path d="M95.4924,224.817c17.4083-39.3059,61.6704-52.5947,99.4232-33.5452,0-.0003-4.3177,7.5527-4.3177,7.5527-12.5117-7.5636-27.7128-11.2801-42.3511-10.112-22.4569,1.97-42.2743,16.258-52.7544,36.1045h0Z" fill="#652976"/>
     <path d="M95.4924,224.817c17.7854,21.4218,41.4803,37.6856,67.8962,46.1016,15.3276,4.9499,31.6752,7.2644,47.6416,6.8179,0,0-.8315,18.5415-.8315,18.5415-46.534-4.8339-90.2427-31.6121-114.7063-71.4609h0Z" fill="#652976"/>
     <circle cx="95.4925" cy="224.817" r="5.5701" fill="#652976" stroke="#a7a9ac" stroke-miterlimit="10" stroke-width="2.7301"/>
-    <text transform="translate(87.1676 167.2457) rotate(-66.9913)" fill="#e6e7e8" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="29.6104" font-weight="700" stroke="#e6e7e8" stroke-miterlimit="1" stroke-width="2.2777"><tspan x="0" y="0">22%</tspan></text>
-    <text transform="translate(199.1228 295.1777) rotate(2.0362)" fill="#e6e7e8" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24.088" font-weight="700" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="3.011"><tspan x="0" y="0">19%</tspan></text>
-    <text transform="translate(188.1074 197.8835) rotate(26.9537)" fill="#e6e7e8" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="13.7282" font-weight="700" stroke="#e6e7e8" stroke-miterlimit="1" stroke-width="2"><tspan x="0" y="0">8.7%</tspan></text>
+    <text transform="translate(87.2343 167.2629) rotate(-66.9914)" fill="#e6e7e8" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="29.6104" font-weight="700" stroke="#e6e7e8" stroke-miterlimit="1" stroke-width="2.2777"><tspan x="0" y="0">22%</tspan></text>
+    <text transform="translate(199.1455 295.1853) rotate(2.0361)" fill="#e6e7e8" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24.0881" font-weight="700" stroke="#e6e7e8" stroke-miterlimit="10" stroke-width="3.011"><tspan x="0" y="0">19%</tspan></text>
+    <text transform="translate(188.0718 197.8543) rotate(26.9538)" fill="#e6e7e8" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="13.7282" font-weight="700" stroke="#e6e7e8" stroke-miterlimit="1" stroke-width="2"><tspan x="0" y="0">8.7%</tspan></text>
     <text transform="translate(184.3613 123.4025)" fill="#e6e7e8" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700" stroke="#e6e7e8" stroke-miterlimit="1" stroke-width="2"><tspan x="0" y="0">2.1%</tspan></text>
-    <text transform="translate(199.1228 295.1777) rotate(2.0362)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24.088" font-weight="700"><tspan x="0" y="0">19%</tspan></text>
-    <text transform="translate(188.1074 197.8835) rotate(26.9537)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="13.7282" font-weight="700"><tspan x="0" y="0">8.7%</tspan></text>
+    <text transform="translate(199.1455 295.1853) rotate(2.0361)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24.0881" font-weight="700"><tspan x="0" y="0">19%</tspan></text>
+    <text transform="translate(188.0718 197.8543) rotate(26.9538)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="13.7282" font-weight="700"><tspan x="0" y="0">8.7%</tspan></text>
     <text transform="translate(184.3613 123.4025)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">2.1%</tspan></text>
-    <text transform="translate(87.1676 167.2457) rotate(-66.9913)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="29.6104" font-weight="700"><tspan x="0" y="0">22%</tspan></text>
-    <text transform="translate(20 400.0005)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">DATA SOURCES: Longitudinal Employer-Household Dynamics</tspan><tspan x="0" y="14.3999" xml:space="preserve"> (2023), GTFS</tspan></text>
+    <text transform="translate(87.2343 167.2629) rotate(-66.9914)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="29.6104" font-weight="700"><tspan x="0" y="0">22%</tspan></text>
+    <text transform="translate(20 400.0005)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Data Sources: Longitudinal Employer-Household Dynamics</tspan><tspan x="0" y="14.3999" xml:space="preserve"> (2023), GTFS</tspan></text>
   </g>
   <g id="Layer_5" data-name="Layer 5">
-    <text transform="translate(20 40)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">COMMUTERS FROM</tspan><tspan x="0" y="28.7998">SAN MATEO</tspan></text>
+    <text transform="translate(20 40)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">Commuters from </tspan><tspan x="0" y="28.7998">San Mateo</tspan></text>
   </g>
 </svg>

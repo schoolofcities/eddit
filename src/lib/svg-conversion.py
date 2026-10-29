@@ -3,7 +3,6 @@ import base64
 from lxml import etree
 import cairosvg
 
-
 FONT_MAP = {
 	# Base fonts
 	"Open Sans": "OpenSans",
@@ -415,7 +414,7 @@ from pathlib import Path
 
 def main():
 	city = "bay-area-job-accessibility"
-	input_dir = "../routes" + city + "/assets"  
+	input_dir = "../routes/2026/" + city + "/assets"  
 	output_dir = "../../static/"  + city + "/web-svg"
 	# input_dir = "../assets/landing/map"
 	# output_dir = "../../static/landing"
