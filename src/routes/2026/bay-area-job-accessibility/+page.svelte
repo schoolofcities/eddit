@@ -13,7 +13,7 @@
 	import Map from "./components/Map.svelte";
 	import GraphicGif from "#lib/GraphicGif.svelte";
 
-	import titleImage from "./assets/IMG_8135.jpg";
+	import titleImage from "./assets/IMG_8136.jpg";
 
 	import Footnote from '#lib/Footnote.svelte';
     import Footnotes from '#lib/Footnotes.svelte';
