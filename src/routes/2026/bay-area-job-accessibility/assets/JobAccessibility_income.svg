@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="410" viewBox="0 0 720 410">
+  <g id="Layer_3" data-name="Layer 3">
+    <rect x="45.8172" y="55.6501" width="320.738" height="20" rx="2.3546" ry="2.3546" fill="#9e2666" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    <text transform="translate(68.2327 369.9998)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">ALAMEDA</tspan></text>
+    <text transform="translate(53.0081 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Low</tspan></text>
+    <text transform="translate(81.1116 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Middle</tspan></text>
+    <text transform="translate(121.7698 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">High</tspan></text>
+    <text transform="translate(187.3475 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Low</tspan></text>
+    <text transform="translate(215.451 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Middle</tspan></text>
+    <text transform="translate(256.1092 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">High</tspan></text>
+    <text transform="translate(327.347 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Low</tspan></text>
+    <text transform="translate(355.4505 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Middle</tspan></text>
+    <text transform="translate(396.1087 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">High</tspan></text>
+    <text transform="translate(467.3475 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Low</tspan></text>
+    <text transform="translate(495.451 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Middle</tspan></text>
+    <text transform="translate(536.1092 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">High</tspan></text>
+    <text transform="translate(607.3475 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Low</tspan></text>
+    <text transform="translate(635.451 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">Middle</tspan></text>
+    <text transform="translate(676.1092 344.9998)" fill="#939598" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">High</tspan></text>
+    <text transform="translate(186.372 370.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">CONTRA COSTA</tspan></text>
+    <text transform="translate(324.6346 370.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SAN FRANCISCO</tspan></text>
+    <text transform="translate(477.2117 370)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SAN MATEO</tspan></text>
+    <text transform="translate(611.5515 370.0002)" fill="#414042" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">SANTA CLARA</tspan></text>
+    <text transform="translate(20.0005 69.9998)" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0" fill="#808285">Each </tspan><tspan x="28.4531" y="0" fill="#f1f2f2">household income group’s share of the job accessibility loss,</tspan><tspan x="345.3633" y="0" xml:space="preserve" fill="#808285"> compared with its share of county households.</tspan></text>
+    <text transform="translate(19.9999 400.0003)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic"><tspan x="0" y="0">Low = households with less than $75K annual income; Middle = households between $75K and $150K income; High = households with +$150K income.</tspan></text>
+    <line x1="465.4375" y1="72.3996" x2="615.4378" y2="72.3996" fill="none" stroke="#387d9f" stroke-miterlimit="10" stroke-width="1.5"/>
+    <text transform="translate(75.0004 102.9475)" fill="#9e2666" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">share of job accessibility loss </tspan><tspan x="0" y="14.4004">exceeds share of households</tspan></text>
+    <text transform="translate(555.182 120.0003)" fill="#9e2666" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic" opacity=".6"><tspan x="0" y="0">less job accessibility</tspan><tspan x="28.7227" y="14.4004">loss relative to</tspan><tspan x="49.4531" y="28.7998">household</tspan><tspan x="33.5391" y="43.2002">income share</tspan></text>
+    <g>
+      <path d="M71.0873,113.0676s-22.2208,2.5186-16.1118,34.5696" fill="none" stroke="#9e2666" stroke-miterlimit="10"/>
+      <path d="M55.601,150.593c-.78-1.2981-1.9887-2.8638-3.1261-3.7612l2.4958.4065,2.1777-1.2844c-.7341,1.249-1.2924,3.1465-1.5475,4.6392Z" fill="#9e2666"/>
+    </g>
+    <g opacity=".6">
+      <g>
+        <line x1="596.3051" y1="140.1604" x2="568.0176" y2="140.1604" fill="none" stroke="#9e2666" stroke-miterlimit="10"/>
+        <path d="M565,140.1604c1.4199-.5269,3.1816-1.4258,4.2737-2.3779l-.8601,2.3779.8601,2.3774c-1.092-.9521-2.8538-1.8511-4.2737-2.3774Z" fill="#9e2666"/>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <g>
+      <line x1="10" y1="330" x2="710" y2="330" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="10" y1="285.3333" x2="710" y2="285.3333" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="10" y1="240.6666" x2="710" y2="240.6666" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="10" y1="196" x2="710" y2="196" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="10" y1="151.3333" x2="710" y2="151.3333" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+      <line x1="10" y1="106.6666" x2="710" y2="106.6666" fill="none" stroke="#d1d3d4" stroke-miterlimit="10" stroke-width=".25"/>
+    </g>
+    <g>
+      <path d="M52.1755,154.0133h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v173.8111h-25v-173.8111c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M187.1755,161.6066h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v166.2178h-25v-166.2178c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M327.1755,190.64h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v137.1845h-25v-137.1845c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M467.1755,202.7h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v125.1245h-25v-125.1245c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M87.1755,211.1866h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v116.6378h-25v-116.6378c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".8" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M222.1755,205.38h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v122.4445h-25v-122.4445c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".8" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M362.1755,233.0733h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v94.7511h-25v-94.7511c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".8" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M502.1755,209.4h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v118.4245h-25v-118.4245c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".8" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M122.1755,177.6866h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v150.1378h-25v-150.1378c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".6" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M257.1755,176.3466h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v151.4778h-25v-151.4778c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".6" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M397.1755,119.62h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v208.2045h-25V121.7955c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".6" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M537.1755,131.2333h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v196.5911h-25v-196.5911c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".6" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M607.1755,221.0133h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v106.8111h-25v-106.8111c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M642.1755,224.5866h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v103.2378h-25v-103.2378c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".8" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path d="M677.1755,97.7333h20.6489c1.2015,0,2.1755.974,2.1755,2.1755v230.0911h-25V99.9088c0-1.2015.974-2.1755,2.1755-2.1755Z" fill="#9e2666" opacity=".6" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <polyline points="150 133.4666 115 133.4666 115 216.1 80 216.1 80 193.32 45 193.32" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <polyline points="180 198.2333 215 198.2333 215 206.2733 250 206.2733 250 138.8266 285 138.8266" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <polyline points="320 192.8733 355 192.8733 355 233.52 390 233.52 390 116.94 425 116.94" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <polyline points="460 221.9066 495 221.9066 495 225.0333 530 225.0333 530 96.3933 565 96.3933" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <polyline points="150 133.4666 115 133.4666 115 216.1 80 216.1 80 193.32 45 193.32" fill="none" stroke="#387d9f" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="180 198.2333 215 198.2333 215 206.2733 250 206.2733 250 138.8266 285 138.8266" fill="none" stroke="#387d9f" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="320 192.8733 355 192.8733 355 233.52 390 233.52 390 116.94 425 116.94" fill="none" stroke="#387d9f" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="460 221.9066 495 221.9066 495 225.0333 530 225.0333 530 96.3933 565 96.3933" fill="none" stroke="#387d9f" stroke-miterlimit="10" stroke-width="1.5"/>
+    <polyline points="600 226.3733 635 226.3733 635 227.7133 670 227.7133 670 89.2466 705 89.2466" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+    <polyline points="600 226.3733 635 226.3733 635 227.7133 670 227.7133 670 89.2466 705 89.2466" fill="none" stroke="#387d9f" stroke-miterlimit="10" stroke-width="1.5"/>
+    <text transform="translate(20 40)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">LOW INCOME HOUSEHOLDS LOSE DISPROPORTIONATELY</tspan></text>
+    <g>
+      <path d="M217.5709,120.2278s14.7694,14.4487-3.3953,38.99" fill="none" stroke="#9e2666" stroke-miterlimit="10"/>
+      <path d="M212.3274,161.6067c.4215-1.4548.7474-3.4055.6321-4.8499l1.3993,2.1064,2.4225.7234c-1.415.311-3.1859,1.1921-4.4539,2.02Z" fill="#9e2666"/>
+    </g>
+  </g>
+  <g id="Isolation_Mode" data-name="Isolation Mode">
+    <line x1="10" y1="330" x2="710" y2="330" fill="none" stroke="#d1d3d4" stroke-miterlimit="10"/>
+    <text transform="translate(19.9995 101.6663)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="12" font-weight="500"><tspan x="0" y="0">50%</tspan></text>
+    <text transform="translate(19.9995 146.3336)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="12" font-weight="500"><tspan x="0" y="0">40</tspan></text>
+    <text transform="translate(19.9995 190.9996)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="12" font-weight="500"><tspan x="0" y="0">30</tspan></text>
+    <text transform="translate(19.9995 235.6663)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="12" font-weight="500"><tspan x="0" y="0">20</tspan></text>
+    <text transform="translate(19.9995 280.3329)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="12" font-weight="500"><tspan x="0" y="0">10</tspan></text>
+    <text transform="translate(19.9995 324.9996)" fill="#939598" font-family="OpenSans-Medium, &apos;Open Sans&apos;" font-size="12" font-weight="500"><tspan x="0" y="0">0</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_5" data-name="Layer 5" xmlns="http://www.w3.org/2000/svg" width="360" height="450" viewBox="0 0 360 450">
+  <text transform="translate(81.2668 359.9995)" fill="#231f20"><tspan font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">SR-24</tspan></tspan><tspan font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="-12.1016" y="14.4004">Westbound</tspan></tspan></text>
+  <g>
+    <text transform="translate(19.9998 327.0967)" fill="#414042" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">0 min</tspan></text>
+    <text transform="translate(19.9993 293.6782)" fill="#414042" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">5 min</tspan></text>
+    <text transform="translate(19.9993 260.2587)" fill="#414042" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">10 min</tspan></text>
+    <text transform="translate(19.9993 226.8391)" fill="#414042" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">15 min</tspan></text>
+    <text transform="translate(19.9998 193.4197)" fill="#414042" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">20 min</tspan></text>
+    <text transform="translate(19.9993 160.0002)" fill="#414042" font-family="OpenSans, &apos;Open Sans&apos;" font-size="10"><tspan x="0" y="0">25 min travel time</tspan></text>
+  </g>
+  <text transform="translate(171.2668 360.0005)" fill="#231f20"><tspan font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">SR-24</tspan></tspan><tspan font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="-10.3438" y="14.4004">Eastbound</tspan></tspan></text>
+  <text transform="translate(251.792 360.0005)" fill="#231f20"><tspan font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">BART</tspan></tspan><tspan font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="-18.498" y="14.4004">Walnut Creek</tspan></tspan><tspan font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="-14.3936" y="28.7998">- MacArthur</tspan></tspan></text>
+  <text transform="translate(19.9998 420.0001)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Data Sources: California Department of Transportation </tspan><tspan x="0" y="14.4004">(2026), Bay Area Rapid Transit (2025)</tspan></text>
+  <g>
+    <line x1="20.0005" y1="162.9028" x2="20.1729" y2="162.9028" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="21.5488" y1="162.9028" x2="339.1396" y2="162.9028" fill="none" stroke="#414042" stroke-dasharray=".3441 1.3763" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="339.8276" y1="162.9028" x2="340" y2="162.9028" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+  </g>
+  <g>
+    <line x1="20.0005" y1="196.3223" x2="20.1729" y2="196.3223" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="21.5488" y1="196.3223" x2="339.1396" y2="196.3223" fill="none" stroke="#414042" stroke-dasharray=".3441 1.3763" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="339.8276" y1="196.3223" x2="340" y2="196.3223" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+  </g>
+  <g>
+    <line x1="20.0005" y1="229.7417" x2="20.1729" y2="229.7417" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="21.5488" y1="229.7417" x2="339.1396" y2="229.7417" fill="none" stroke="#414042" stroke-dasharray=".3441 1.3763" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="339.8276" y1="229.7417" x2="340" y2="229.7417" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+  </g>
+  <g>
+    <line x1="20.0005" y1="263.1611" x2="20.1729" y2="263.1611" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="21.5488" y1="263.1611" x2="339.1396" y2="263.1611" fill="none" stroke="#414042" stroke-dasharray=".3441 1.3763" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="339.8276" y1="263.1611" x2="340" y2="263.1611" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+  </g>
+  <g>
+    <line x1="20.0005" y1="296.5806" x2="20.1729" y2="296.5806" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="21.5488" y1="296.5806" x2="339.1396" y2="296.5806" fill="none" stroke="#414042" stroke-dasharray=".3441 1.3763" stroke-miterlimit="10" stroke-width=".3444"/>
+    <line x1="339.8276" y1="296.5806" x2="340" y2="296.5806" fill="none" stroke="#414042" stroke-miterlimit="10" stroke-width=".3444"/>
+  </g>
+  <text transform="translate(50.0002 103.3721)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">8 AM</tspan></text>
+  <rect x="20" y="90" width="20" height="20" fill="#add8a4" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+  <text transform="translate(140.0002 103.3724)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">5 PM</tspan></text>
+  <rect x="110" y="90" width="20" height="20" fill="#faae61" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+  <text transform="translate(230.0005 103.3718)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Bart Travel Time</tspan></text>
+  <rect x="200" y="90" width="20" height="20" fill="#00a4e3" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+  <text transform="translate(20 39.9997)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">Caldecott Tunnel Corridor </tspan><tspan x="0" y="28.7998">(SR-24) Travel Times</tspan></text>
+  <path d="M198.9528,122.7994h17.0943c2.1816,0,3.9528,1.7712,3.9528,3.9528v203.2478h-25V126.7522c0-2.1816,1.7712-3.9528,3.9528-3.9528Z" fill="#faae61" stroke="#f1f2f2" stroke-miterlimit="10" stroke-width=".7906"/>
+  <path d="M163.9528,249.7933h17.0943c2.1816,0,3.9528,1.7712,3.9528,3.9528v76.2538h-25v-76.2538c0-2.1816,1.7712-3.9528,3.9528-3.9528Z" fill="#add8a4" stroke="#f1f2f2" stroke-miterlimit="10" stroke-width=".7906"/>
+  <path d="M261.6814,203.0061h17.0943c2.1816,0,3.9528,1.7712,3.9528,3.9528v123.0411h-25v-123.0411c0-2.1816,1.7712-3.9528,3.9528-3.9528Z" fill="#00a4e3"/>
+  <path d="M73.9528,219.7158h17.0943c2.1816,0,3.9528,1.7712,3.9528,3.9528v106.3314h-25v-106.3314c0-2.1816,1.7712-3.9528,3.9528-3.9528Z" fill="#add8a4" stroke="#f1f2f2" stroke-miterlimit="10" stroke-width=".7906"/>
+  <path d="M108.9528,239.7675h17.0943c2.1816,0,3.9528,1.7712,3.9528,3.9528v86.2797h-25v-86.2797c0-2.1816,1.7712-3.9528,3.9528-3.9528Z" fill="#faae61" stroke="#f1f2f2" stroke-miterlimit="10" stroke-width=".7906"/>
+  <g>
+    <path d="M270.3951,213.6098c.1978.1535.373.3378.5458.5273.3565.3911.6211.8425.8069,1.3373.1965.5231.2783,1.0635.2939,1.6207.032,1.1415-.3273,2.2543-1.1487,3.0668-.1683.1665-.3384.3341-.5272.4665-.4824.3384-1.0046.6008-1.5712.7925-.7558.2556-1.5386.4029-2.338.4341-.4819.0188-.947-.0118-1.4216-.0734-.7783-.1009-1.5684-.3358-2.2659-.7339l-.006.6279-3.5992-.0081v-13.0953l3.7123.0017.0007,4.5244c.2369-.1447.4502-.2752.6958-.3735.775-.3103,1.6414-.3845,2.4703-.4021,1.5499-.0328,3.118.3294,4.3521,1.287ZM268.8958,217.109c0-1.4497-1.1757-2.6249-2.626-2.6249s-2.626,1.1752-2.626,2.6249,1.1757,2.6249,2.626,2.6249,2.626-1.1752,2.626-2.6249Z" fill="#262224"/>
+    <g>
+      <path d="M274.8521,222.0448h-.4987c.0011-.0105-.0126-.0138-.0261-.0138-.1327-.0005-.2552.0044-.387-.0057-.5038-.0387-.9911-.1202-1.4782-.2582-.3863-.1095-.7451-.2547-1.1007-.438-.3698-.1906-.6897-.4311-.9957-.7007.1887-.1324.3589-.3001.5272-.4665.8214-.8125,1.1807-1.9252,1.1487-3.0668-.0156-.5571-.0974-1.0976-.2939-1.6207-.1858-.4948-.4504-.9462-.8069-1.3373-.1728-.1896-.348-.3738-.5458-.5273,1.1863-.9687,2.9385-1.2975,4.4429-1.2476.9207.0306,1.8223.2,2.6415.6595l.0071-.5527,3.7679.0005.0002,9.2782-3.7685.0008-.0035-.5126c-.7445.3636-1.4955.7002-2.3205.7774-.0647.0061-.1259.0051-.1878.014l-.1221.0175ZM277.417,217.1089c0-1.4465-1.1731-2.6191-2.6201-2.6191s-2.6201,1.1726-2.6201,2.6191,1.1731,2.6191,2.6201,2.6191,2.6201-1.1726,2.6201-2.6191Z" fill="#fff"/>
+      <path d="M266.9491,209.7063c.3045.0644.4969.1979.5077.5229.008.2406-.1319.4414-.36.5215-.1441.0506-.2952.0621-.4525.0626l-1.0119.0029-.0004-2.146h1.0111c.2861,0,.6452.0885.7323.3959.0495.1748.0096.3603-.116.4815-.0869.0839-.2017.1127-.3103.1587ZM266.809,209.3069c.0051-.1418-.0879-.2452-.2226-.2463l-.3766-.0031.0004.473c.1403.0028.2704.0043.4037-.0051.1171-.0083.1907-.0956.1951-.2185ZM266.8481,210.1684c-.0035-.335-.4195-.2425-.6359-.2534l.0003.5054c.2207-.016.6392.0886.6356-.252Z" fill="#262224"/>
+      <path d="M276.5291,210.4181c.02.137.0427.26.0784.3966l-.6429.0003c-.0415-.1862-.0573-.3681-.0792-.5555-.0087-.0744-.0224-.145-.0566-.2116-.0915-.1002-.3515-.0655-.4877-.0692l-.0017.836-.5966.0012-.0006-2.1495,1.066.002c.1139.0002.2184.0029.3283.0229.3407.0535.4588.406.3884.7038-.0582.2463-.2961.3089-.5034.3561.2544.0471.3717.037.4494.3131l.0585.354ZM275.962,209.3757c.0118-.0815-.0036-.1521-.0479-.2129-.0996-.1367-.4056-.0913-.5742-.0954l.0023.521c.2461-.0189.5765.0858.6197-.2126Z" fill="#262224"/>
+      <path d="M271.5147,210.3857l-.8573-.0009-.1498.4309-.5916-.0022.8456-2.1423.7259-.0017.8467,2.1442-.6693.002-.1502-.4299ZM271.3773,209.9847l-.2805-.9052-.2996.9071.5802-.0019Z" fill="#262224"/>
+      <polygon points="280.6251 210.8115 280.0257 210.8164 280.0247 209.096 279.3721 209.0932 279.3723 208.6703 281.2928 208.6699 281.2931 209.094 280.6265 209.0951 280.6251 210.8115" fill="#262224"/>
+    </g>
+  </g>
+  <line x1="64.208" y1="256.4772" x2="340" y2="256.4772" fill="none" stroke="#9e2666" stroke-miterlimit="10" stroke-width=".6368"/>
+  <line x1="20.0004" y1="330" x2="340" y2="330" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width=".6887"/>
+  <text transform="translate(301.9486 254.4367)" fill="#fff" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic" stroke="#fff" stroke-miterlimit="10" stroke-width="2"><tspan x="0" y="0">free flow</tspan></text>
+  <text transform="translate(301.9486 254.4367)" fill="#9e2666" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="10" font-style="italic"><tspan x="0" y="0">free flow</tspan></text>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_3" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" width="360" height="430" viewBox="0 0 360 430">
+  <rect x="20" width="320" height="430" rx="14.2251" ry="14.2251" fill="#f1f2f2"/>
+  <text transform="translate(137.1698 60.0002)" fill="#469f8a" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">174K</tspan></text>
+  <text transform="translate(143.1991 160.0001)" fill="#cc513d" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">36%</tspan></text>
+  <text transform="translate(131.9843 259.9999)" fill="#243662" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">1.24X</tspan></text>
+  <text transform="translate(143.1991 360)" fill="#652976" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="36" font-weight="700"><tspan x="0" y="0">51%</tspan></text>
+  <text transform="translate(56.5272 80.0002)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">Baseline jobs accessible per worker</tspan></text>
+  <text transform="translate(83.3627 180.0001)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">Jobs lost at 40% transit cuts</tspan></text>
+  <text transform="translate(79.8929 280)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">Loss versus regional average</tspan></text>
+  <text transform="translate(48.3627 379.9999)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="14" font-weight="700"><tspan x="0" y="0">Residents working in other 4 counties</tspan></text>
+</svg>

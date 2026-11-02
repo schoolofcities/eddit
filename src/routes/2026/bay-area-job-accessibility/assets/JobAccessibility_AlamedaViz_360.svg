@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="370" viewBox="0 0 360 370">
+  <g id="Layer_3" data-name="Layer 3">
+    <text transform="translate(44.8598 215.0762)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="0" y="0">Lower Income</tspan></text>
+    <text transform="translate(148.2647 215.0762)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="0" y="0">Middle Income</tspan></text>
+    <text transform="translate(251.4547 215.0762)" fill="#939598" font-family="OpenSans-SemiboldItalic, &apos;Open Sans&apos;" font-size="12" font-style="italic" font-weight="600"><tspan x="0" y="0">High Income</tspan></text>
+    <text transform="translate(20.0003 160)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Share of households</tspan></text>
+    <text transform="translate(20 269.9504)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">Share of job accessibility loss</tspan></text>
+    <text transform="translate(20.0002 315.0764)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Low = households with less than $75K annual income; </tspan><tspan x="0" y="14.3999">Middle = $75K and $150K; High = $150K and above.</tspan></text>
+    <text transform="translate(20.0002 355.0764)" fill="#808285" font-family="OpenSans-Italic, &apos;Open Sans&apos;" font-size="12" font-style="italic"><tspan x="0" y="0">Data sources: American Community Survey (2024), GTFS</tspan></text>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <path d="M145.9514,232.4999l.002,20c.0001,1.3807-.663,2.5001-1.4812,2.5001l-122.9884.0123c-.8182,0-1.4816-1.1191-1.4817-2.4999l-.002-20c-.0001-1.3807.663-2.5001,1.4812-2.5001l122.9884-.0123c.8182,0,1.4816,1.1191,1.4817,2.4999Z" fill="#cc513d" stroke="#fff" stroke-miterlimit="10" stroke-width="1.269"/>
+    <path d="M229.998,232.4999l.002,20c.0001,1.3807-.663,2.5001-1.4812,2.5001l-82.0702.0082c-.8182,0-1.4816-1.1191-1.4817-2.4999l-.002-20c-.0001-1.3807.663-2.5001,1.4812-2.5001l82.0702-.0082c.8182,0,1.4816,1.1191,1.4817,2.4999Z" fill="#469f8a" stroke="#fff" stroke-miterlimit="10" stroke-width=".846"/>
+    <path d="M339.9992,232.4998l.002,20c.0001,1.3807-.6691,2.5001-1.4947,2.5001l-107.0094.0107c-.8256,0-1.4951-1.1191-1.4952-2.4999l-.002-20c-.0001-1.3807.6691-2.5001,1.4947-2.5001l107.0094-.0107c.8256,0,1.4951,1.1191,1.4952,2.4999Z" fill="#387d9f" stroke="#fff" stroke-miterlimit="10" stroke-width="1.2747"/>
+    <path d="M117.8201,167.4802l.002,20c.0001,1.3807-.663,2.5001-1.4812,2.5001l-94.8571.0095c-.8182,0-1.4816-1.1191-1.4817-2.4999l-.002-20c-.0001-1.3807.663-2.5001,1.4812-2.5001l94.8571-.0095c.8182,0,1.4816,1.1191,1.4817,2.4999Z" fill="#cc513d" opacity=".5" stroke="#fff" stroke-miterlimit="10" stroke-width="1.269"/>
+    <path d="M199.3386,167.4846l.002,20c.0001,1.3807-.663,2.5001-1.4812,2.5001l-78.5538.0078c-.8182,0-1.4816-1.1191-1.4817-2.4999l-.002-20c-.0001-1.3807.663-2.5001,1.4812-2.5001l78.5538-.0078c.8182,0,1.4816,1.1191,1.4817,2.4999Z" fill="#469f8a" opacity=".5" stroke="#fff" stroke-miterlimit="10" stroke-width=".846"/>
+    <path d="M339.9993,167.4861l.002,20c.0001,1.3807-.663,2.5001-1.4813,2.5001l-137.6958.0138c-.8182,0-1.4816-1.1191-1.4818-2.4999l-.002-20c-.0001-1.3807.663-2.5001,1.4813-2.5001l137.6958-.0138c.8182,0,1.4816,1.1191,1.4818,2.4999Z" fill="#387d9f" opacity=".5" stroke="#fff" stroke-miterlimit="10" stroke-width="1.269"/>
+    <text transform="translate(51.5028 180.2778)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">30.6%</tspan></text>
+    <text transform="translate(141.173 180.2778)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">25.5%</tspan></text>
+    <text transform="translate(252.2613 180.2778)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">44.0%</tspan></text>
+    <text transform="translate(65.5695 245.0767)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">39.4%</tspan></text>
+    <text transform="translate(171.0642 245.0767)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">26.6%</tspan></text>
+    <text transform="translate(268.0862 245.0767)" fill="#f1f2f2" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="12" font-weight="700"><tspan x="0" y="0">34.0%</tspan></text>
+    <text transform="translate(20 40.0002)" fill="#231f20" font-family="OpenSans-Bold, &apos;Open Sans&apos;" font-size="24" font-weight="700"><tspan x="0" y="0">Alameda lower income </tspan><tspan x="0" y="28.7998">households lose job </tspan><tspan x="0" y="57.5996">accessibility </tspan><tspan x="0" y="86.4004">disproportionately</tspan></text>
+  </g>
+</svg>
