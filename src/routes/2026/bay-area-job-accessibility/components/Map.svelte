@@ -18,10 +18,6 @@
         mapHeight = 600;
     }
 
-    // ---------------------------------------------------------------
-    // Views (buttons, legend titles, breaks, colours) -- from map.html
-    // `column` is the property name in the combined block-group data below
-    // ---------------------------------------------------------------
     const views = [
         {
             id: 'b',
@@ -56,7 +52,7 @@
     ];
 
     const noDataColour = '#d9d9d9';
-    const layerOpacity = 0.85; // html map is fully opaque (1); lower it to let the basemap show through
+    const layerOpacity = 0.85;
     const hoverColour = '#000';
 
     let currentView = views[0];
@@ -65,7 +61,6 @@
     let map;
     let mapReady = false;
 
-    // Bounds from map.html (the five-county Bay Area extent), with a little padding
     const maxBounds = [
         [-123.35, 36.65], // SW coords
         [-120.85, 38.35]  // NE coords
@@ -401,9 +396,9 @@
     .toggles button {
         width: 100%;
         text-align: left;
-        font-family: "Open Sans", Arial, Helvetica, sans-serif;
+        font-family: "Open Sans";
         letter-spacing: 0.04em;
-        text-transform: uppercase;
+        /*text-transform: uppercase;*/
         cursor: pointer;
         border-radius: 4px;
     }
@@ -497,8 +492,8 @@
     .legend {
         width: 100%;
         margin-bottom: 14px;
-        font-family: "Open Sans", Arial, Helvetica, sans-serif;
-        text-transform: uppercase;
+        font-family: "Open Sans";
+        /*text-transform: uppercase;*/
         letter-spacing: 0.02em;
         color: #000;
     }
@@ -543,9 +538,9 @@
         border: 1.5px solid #000;
         border-radius: 0;
         padding: 8px 10px;
-        font-family: "Open Sans", Arial, Helvetica, sans-serif;
+        font-family: "Open Sans";
         font-size: 11px;
-        text-transform: uppercase;
+        /*text-transform: uppercase;*/
         letter-spacing: 0.02em;
         box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
         pointer-events: none;
