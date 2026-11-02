@@ -13,7 +13,7 @@
 	import Map from "./components/Map.svelte";
 	import GraphicGif from "#lib/GraphicGif.svelte";
 
-	import titleImage from "./assets/IMG_7259.jpeg";
+	import titleImage from "./assets/IMG_8135.jpg";
 
 	import Footnote from '#lib/Footnote.svelte';
     import Footnotes from '#lib/Footnotes.svelte';
@@ -70,8 +70,8 @@
 	title={title}
 	subtitle={subTitle}
 	image={titleImage}
-	imageCaption={"MUNI stop in San Francisco."}
-	imageSource={"Photo by Isabeaux Graham, October 2026."}
+	imageCaption={"San Francisco Bay Area."}
+	imageSource={"October 2026."}
 />
 
 <main>
