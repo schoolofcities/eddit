@@ -1,10 +1,10 @@
 <script>
 	// Figure 1: share of each ward's residents' activity inside vs outside their home ward
 	import { wards as rawWards, citywide, meta } from "../assets/ward_reach.json";
-	import Figure from "./Figure.svelte";
-	import Legend from "./Legend.svelte";
-	import Tip from "./Tip.svelte";
-	import { INK, GRID, WITHIN, OUTSIDE, regionOf, pct, tick, tipPos } from "./theme.js";
+	import Figure from "../../lib/Figure.svelte";
+	import Legend from "../../lib/Legend.svelte";
+	import Tip from "../../lib/Tip.svelte";
+	import { INK, GRID, WITHIN, OUTSIDE, regionOf, pct, tick, tipPos } from "../../lib/theme.js";
 
 	let width = 720;
 	let tip = null;

@@ -6,13 +6,16 @@
 	export let caption = "";
 	export let source = "";
 	export let width = 720;
+	export let tight = false; // less space around the figure, for panels that sit directly under their own text
 </script>
 
-<figure class="fig" bind:clientWidth={width}>
-	<div class="head">
-		<h3>{title}</h3>
-		{#if subtitle}<p>{@html subtitle}</p>{/if}
-	</div>
+<figure class="fig" class:tight bind:clientWidth={width}>
+	{#if title || subtitle}
+		<div class="head">
+			{#if title}<h3>{title}</h3>{/if}
+			{#if subtitle}<p>{@html subtitle}</p>{/if}
+		</div>
+	{/if}
 
 	<div class="body">
 		<slot />
@@ -34,6 +37,11 @@
 		margin: 40px auto;
 		padding: 0 20px;
 		box-sizing: border-box;
+	}
+
+	.fig.tight {
+		margin-top: 20px;
+		margin-bottom: 28px;
 	}
 
 	.head h3 {

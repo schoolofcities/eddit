@@ -2,10 +2,10 @@
 	// Figure 4: where residents of each Scarborough ward do their activity, by destination area
 	import { wards as rawWards, meta } from "../assets/scarborough_network.json";
 	import { scarborough } from "../assets/distance.json";
-	import Figure from "./Figure.svelte";
-	import Legend from "./Legend.svelte";
-	import Tip from "./Tip.svelte";
-	import { INK, WITHIN, regionOf, pct, tick, tipPos, wrapLabel } from "./theme.js";
+	import Figure from "../../lib/Figure.svelte";
+	import Legend from "../../lib/Legend.svelte";
+	import Tip from "../../lib/Tip.svelte";
+	import { INK, WITHIN, regionOf, pct, tick, tipPos, wrapLabel } from "../../lib/theme.js";
 
 	let width = 720;
 	let tip = null;

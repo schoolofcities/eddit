@@ -3,9 +3,9 @@
 	// plus the largest flows that leave Scarborough
 	import { wards as scarbWards, flows, venues, meta } from "../assets/scarborough_network.json";
 	import { wards as mapWards } from "../assets/ward_map.json";
-	import Figure from "./Figure.svelte";
-	import Tip from "./Tip.svelte";
-	import { regionOf, tint, tipPos } from "./theme.js";
+	import Figure from "../../lib/Figure.svelte";
+	import Tip from "../../lib/Tip.svelte";
+	import { regionOf, tint, tipPos } from "../../lib/theme.js";
 
 	let width = 720;
 	let tip = null;
@@ -244,9 +244,6 @@
 	.dest {
 		fill: var(--brandGray70);
 		font-style: italic;
-	}
-	.venue {
-		fill: var(--brandGray80);
 	}
 	.legend {
 		display: flex;

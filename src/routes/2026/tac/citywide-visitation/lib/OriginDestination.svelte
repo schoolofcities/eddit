@@ -1,10 +1,10 @@
 <script>
 	// Figure 2: dumbbell of "residents' activity outside the ward" vs "venue activity from outside the ward"
 	import { wards as rawWards, meta } from "../assets/ward_reach.json";
-	import Figure from "./Figure.svelte";
-	import Legend from "./Legend.svelte";
-	import Tip from "./Tip.svelte";
-	import { INK, GRID, OUTSIDE, VISITORS, regionOf, pct, tick, tipPos } from "./theme.js";
+	import Figure from "../../lib/Figure.svelte";
+	import Legend from "../../lib/Legend.svelte";
+	import Tip from "../../lib/Tip.svelte";
+	import { INK, GRID, OUTSIDE, VISITORS, regionOf, pct, tick, tipPos } from "../../lib/theme.js";
 
 	let width = 720;
 	let tip = null;

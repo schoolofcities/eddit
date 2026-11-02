@@ -1,8 +1,8 @@
 <script>
 	// Figure 3: typical home-to-venue distance for four kinds of activity (median dot, middle-50% band)
 	import { citywide, meta } from "../assets/distance.json";
-	import Figure from "./Figure.svelte";
-	import { GRID, OUTSIDE, wrapLabel } from "./theme.js";
+	import Figure from "../../lib/Figure.svelte";
+	import { GRID, OUTSIDE, wrapLabel } from "../../lib/theme.js";
 
 	let width = 720;
 

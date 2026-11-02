@@ -6,7 +6,7 @@
 	import Title from "#lib/Title.svelte";
 	import Footer from "#lib/Footer.svelte";
 
-	import DraftNote from "./lib/DraftNote.svelte";
+	import DraftNote from "../lib/DraftNote.svelte";
 	import WardSplit from "./lib/WardSplit.svelte";
 	import OriginDestination from "./lib/OriginDestination.svelte";
 	import DistanceRange from "./lib/DistanceRange.svelte";
