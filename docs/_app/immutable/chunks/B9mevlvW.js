@@ -1,0 +1,1 @@
+import{A as e,T as t,j as n,q as r}from"./cSno60Ww.js";function i(i,a){var o=n(),s=r(o);t(s,()=>a.children),e(i,o)}export{i as t};
